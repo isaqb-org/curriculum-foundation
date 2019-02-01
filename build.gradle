@@ -1,0 +1,29 @@
+plugins {
+  id "org.asciidoctor.convert" version "1.5.9.2"
+}
+
+
+ext {
+    currentDate = new Date().format("d. MMM yyyy")
+}
+
+asciidoctor {
+   sourceDir = file("./docs/")
+   sources {
+      include "foundation-curriculum-DE.adoc"
+   }
+  outputDir = file("build")
+
+  println "outputDir = " + outputDir
+  println "sourceDir = " + sourceDir
+
+  attributes = [
+            doctype: 'book',
+            icons: 'font',
+            sectlink : true,
+            sectanchors : true,
+            'source-highlighter': 'coderay',
+            'currentDate'       : "$currentDate"
+
+   ]
+}

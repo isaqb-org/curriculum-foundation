@@ -1,0 +1,18 @@
+:sectnumlevels: 1
+
+include::00-titelseite.adoc[]
+
+<<<
+:sectnums!:
+include::01-copyright.adoc[]
+
+<<<
+:toc:
+
+<<<
+:sectnums!:
+include::02-einleitung.adoc[]
+
+<<<
+:sectnums:
+include::03-grundbegriffe.adoc[]
