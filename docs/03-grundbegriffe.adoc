@@ -81,11 +81,19 @@ Systeme können im Rahmen von Projekten entwickelt werden, aber auch im Rahmen v
 ==== LZ 1-9: Zuständigkeit von Softwarearchitekten in organisatorischen Kontext einordnen (R3)
 
 Softwarearchitekten kennen weitere Architekturdomänen, beispielsweise:
-•	Der Fokus von Softwarearchitekten im Sinne des iSAQB und des CPSA-F:
-•	Softwarearchitektur: Struktur einzelner Softwaresysteme.
-•	Die folgenden Architekturebenen sich nicht inhaltlicher Fokus vom CPSA-F:
-•	Unternehmens-IT-Architektur (Enterprise IT Architecture): Struktur von Anwendungs-landschaften.
-•	Geschäfts- bzw. Prozessarchitektur (Business and process architecture): Struktur von u.a. Geschäftsprozessen.
-•	Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
-•	Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-•	Hardwarearchitektur (für hardwarenahe Systeme)
+
+*	Softwarearchitektur: Struktur und Konzepte einzelner Softwaresysteme (Fokus des iSAQB CPSA-F).
+*	Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften.
+*	Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen.
+*	Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
+*	Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
+*	Hardwarearchitektur (für hardwarenahe Systeme)
+
+==== LZ 1-10: Typen von IT-Systemen unterscheiden (R3)
+
+Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweise
+*	Informationssysteme
+*	Decision-Support, Data-Warehouse oder Business-Intelligence Systeme
+*	Mobile Systeme
+*	Batchprozesse oder -systeme
+*	hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwurf).
