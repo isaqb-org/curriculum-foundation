@@ -1,0 +1,12 @@
+
+==== LZ 1-5: Rolle von Softwarearchitekten in Beziehung zu anderen Stakeholdern setzen (R1)
+Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern kontextspezifisch ausgestalten, insbesondere zu:
+
+*	Anforderungsanalyse (Systemanalyse, Anforderungsmanagement, Fachbereich)
+*	Implementierung
+*	Projektleitung und -management
+*	Produktmanagement, Product-Owner
+*	Qualitätssicherung
+*	IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
+*	Hardwareentwicklung
+*	Unternehmens- oder Enterprisearchitektur, Architekturboard

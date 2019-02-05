@@ -1,0 +1,5 @@
+==== LZ 1-2: Ziele von Softwarearchitektur verstehen und herausstellen (R1)
+
+*	Das Ziel von Softwarearchitektur ist die Erreichung der Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit als Differenzierung im Gegensatz zur Implementierung der Funktionalität
+*	Softwarearchitektur unterstützt die Erstellung und Wartung von Software, insbesondere die Implementierung
+*	Softwarearchitektur unterstützt das Verständnis über das System, bezogen auf sämtlichen relevanten Stakeholder

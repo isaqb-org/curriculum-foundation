@@ -1,0 +1,15 @@
+
+== Entwurf und Entwicklung von Softwarearchitekturen
+
+|===
+| Dauer: 300 Min. | Übungszeit: 90 Min.
+|===
+
+
+=== Wesentliche Begriffe
+
+Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven-Design
+
+=== Lernziele
+
+include::./LZ-2-01.adoc[]

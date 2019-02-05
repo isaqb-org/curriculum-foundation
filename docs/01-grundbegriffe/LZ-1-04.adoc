@@ -1,0 +1,15 @@
+
+==== LZ 1-4: Aufgaben und Verantwortung von Softwarearchitekten verstehen (R1)
+Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung. Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
+
+Aufgaben und Verantwortung von Softwarearchitekten:
+
+*	Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern. Hierzu zählen neben den funktionalen Anforderungen (Required Features) insbesondere die geforderten Qualitätsmerkmale (_Required Constraints_)
+*	Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
+*	Querschnittskonzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen
+*	Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und querschnittlichen Konzepten kommunizieren und dokumentieren
+*	Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen
+*	Softwarearchitektur bewerten, insbesondere hinsichtlich Risiken bezüglich der geforderten Qualitätsmerkmale
+*	Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
+
+Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen

@@ -1,6 +1,17 @@
+= Curriculum für CPSA Certified Professional for Software Architecture®  - *Foundation Level* -
+:doctype: book
+:document-version: 5.0 von Mai 2019
+:toc-title: Inhaltsverzeichnis
+:experimental:
+:reproducible:
+:icons: font
+:toc:
 :sectnumlevels: 1
 
-include::00-titelseite.adoc[]
+ifdef::backend-pdf[]
+:title-logo-image: image:images/isaqb-logo.jpg[pdfwidth=4.25in,align=center]
+endif::[]
+
 
 <<<
 :sectnums!:
@@ -15,4 +26,7 @@ include::02-einleitung.adoc[]
 
 <<<
 :sectnums:
-include::03-grundbegriffe.adoc[]
+include::01-grundbegriffe/03-grundbegriffe.adoc[]
+
+<<<
+include::02-entwurf/entwurf.adoc[]

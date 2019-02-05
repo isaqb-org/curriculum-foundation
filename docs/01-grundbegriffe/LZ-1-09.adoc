@@ -1,0 +1,10 @@
+==== LZ 1-9: Zuständigkeit von Softwarearchitekten in organisatorischen Kontext einordnen (R3)
+
+Softwarearchitekten kennen weitere Architekturdomänen, beispielsweise:
+
+*	Softwarearchitektur: Struktur und Konzepte einzelner Softwaresysteme (Fokus des iSAQB CPSA-F).
+*	Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften.
+*	Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen.
+*	Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
+*	Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
+*	Hardwarearchitektur (für hardwarenahe Systeme)

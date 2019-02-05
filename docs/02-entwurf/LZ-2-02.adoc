@@ -1,0 +1,20 @@
+
+
+==== LZ 2-2: Architekturen entwerfen (R1)
+
+Softwarearchitekten können:
+
+*	Architekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen dokumentieren;
+*	Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen;
+*	Blackbox- und Whitebox-Begriff erklären und zielgerichtet anwenden;
+*	schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen;
+*	Architektursichten entwerfen, insbesondere Verteilungs-, Baustein- und Laufzeitsicht, sowie Konsequenzen dieser Entscheidungen auf den zugehörigen Quellcode beschreiben;
+*	Abbildung der Architektur auf den Quellcode festlegen und die damit verbundenen Kon-sequenzen bewerten;
+*	fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen.
+*	entsprechende Risiken identifizieren
+
+Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
+
+*	den starken Einfluss von Qualitätsanforderungen– wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizienz;
+*	Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen, beispielsweise für Änderbarkeit, Zuverlässigkeit oder Effizienz;
+*	mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.

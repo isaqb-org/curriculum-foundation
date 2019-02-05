@@ -1,9 +1,12 @@
 
 == Einleitung
 
-=== 0.1	Was vermittelt eine Foundation-Level-Schulung?
+=== Was vermittelt eine Foundation-Level-Schulung?
 Lizenzierte Schulungen zum _Certified Professional for Software Architecture – Foundation Level_ (CPSA-F) vermitteln grundlegende Kenntnisse und Fertigkeiten für den Entwurf einer angemessenen Softwarearchitektur für kleine und mittlere IT-Systeme.
-Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung um relevante Vorgehensweisen, Methoden und Prinzipien für die Softwarear-chitekturentwicklung.Durch das Gelernte können sie auf Grundlage angemessen detaillierter An-forderungen und Randbedingungen eine adäquate Softwarearchitektur entwerfen, kommunizie-ren, bewerten und weiterentwickeln. Schulungen zum CPSA-F vermitteln Grundlagenwissen unab-hängig von spezifischen Entwurfsmethoden, Vorgehensmodellen, Programmiersprachen oder Werkzeugen. Dadurch können die Teilnehmenden ihre erworbene Fertigkeiten auf ein breites Spektrum von Einsatzfällen anwenden.
+Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung um relevante Vorgehensweisen, Methoden und Prinzipien für die Entwicklung von Softwarearchitekturen.
+Durch das Gelernte können sie auf Grundlage angemessen detaillierter Anforderungen und Randbedingungen eine adäquate Softwarearchitektur entwerfen, kommunizieren, analysieren, bewerten und weiterentwickeln.
+Schulungen zum CPSA-F vermitteln Grundlagenwissen unabhängig von spezifischen Entwurfsmethoden, Vorgehensmodellen, Programmiersprachen oder Werkzeugen.
+Dadurch können die Teilnehmenden ihre erworbene Fertigkeiten auf ein breites Spektrum von Einsatzfällen anwenden.
 
 Im Mittelpunkt steht der Erwerb folgender Fähigkeiten:
 

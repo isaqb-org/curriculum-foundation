@@ -5,8 +5,5 @@
 == - Curriculum für Foundation Level -
 
 
-image::isaqb-logo.png[]
-
-
 
 Version 5.0 (May 2019)

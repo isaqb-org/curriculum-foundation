@@ -1,0 +1,32 @@
+
+== Grundbegriffe
+
+|===
+| Dauer: 120 Min. | Übungszeit: keine
+|===
+
+
+=== Wesentliche Begriffe
+Softwarearchitektur, Architekturdomänen, Struktur, Bausteine/Komponenten, Schnittstellen, Beziehungen, Querschnittskonzepte, Nutzen von Softwarearchitektur, Softwarearchitekten und deren Verantwortlichkeiten, Rolle, Aufgaben und benötigte Fähigkeiten, Stakeholder und deren Anliegen, funktionale Anforderungen, Qualitätsanforderungen, Randbedingungen, Einflussfaktoren, Typen von IT-Systemen (eingebettete Systeme, Echtzeitsysteme, Informationssysteme etc.)
+
+=== Lernziele
+
+include::./LZ-1-01.adoc[]
+
+include::./LZ-1-02.adoc[]
+
+include::./LZ-1-03.adoc[]
+
+include::./LZ-1-04.adoc[]
+
+include::./LZ-1-05.adoc[]
+
+include::./LZ-1-06.adoc[]
+
+include::./LZ-1-07.adoc[]
+
+include::./LZ-1-08.adoc[]
+
+include::./LZ-1-09.adoc[]
+
+include::./LZ-1-10.adoc[]
