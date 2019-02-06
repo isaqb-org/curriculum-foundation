@@ -9,4 +9,4 @@ Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systement
 *	Qualitätssicherung
 *	IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
 *	Hardwareentwicklung
-*	Unternehmens- oder Enterprisearchitektur, Architekturboard
+*	Unternehmensarchitektur, Architekturboard
