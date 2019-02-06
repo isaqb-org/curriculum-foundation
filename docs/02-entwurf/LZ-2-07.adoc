@@ -1,0 +1,10 @@
+==== LZ 2-7: Abhängigkeiten von Bausteinen planen (R1-R3)
+
+* Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen (R1);
+* Sie können unterschiedliche Arten der Kopplung (strukturell, zeitlich, über Datentypen, über Hardware etc.) gezielt einsetzen (R1) und die Konsequenzen solcher Abhängigkeiten einschätzen (R1);
+* Sie kennen unterschiedliche Arten der Abhängigkeiten von Bausteinen (Schachtelung, Benutzung/Delegation, Vererbung).
+* Softwarearchitekten kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
+** sprachunabhängige Muster wie Broker, Plugin, Adapter, Facade (R1)
+** Erzeugungsmuster/Dependency-Injection (R1)
+** Messaging, Events, Commands (R2)
+** Stability-Patterns wie Bulkhead, Timeout, Circuit-Breaker (R3)

@@ -1,0 +1,4 @@
+==== LZ 3-7: Schnittstellen beschreiben (R1)
+
+* Softwarearchitekten können Schnittstellen beschreiben und spezifizieren
+* sie können interne und externe Schnittstellen differenzieren

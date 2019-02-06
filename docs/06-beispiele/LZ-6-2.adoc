@@ -1,0 +1,2 @@
+==== LZ 6-2: Technische Umsetzung einer Lösung nachvollziehen (R3)
+Softwarearchitekten können für mindestens ein Beispiel die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.

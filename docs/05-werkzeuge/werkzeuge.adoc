@@ -1,0 +1,22 @@
+==	Werkzeuge für Softwarearchitektur
+
+|===
+| Dauer: 45 Min. | Übungszeit: Keine.
+|===
+
+ifdef::withComments[]
+[NOTE]
+====
+FLWG, Januar 2019: Dieses Kapitel entfernen wir ab Version 5.0.
+Diskussionen zu Werkzeugen sind optional immer noch möglich.
+====
+endif::withComments[]
+
+=== Wichtige Begriffe
+
+Werkzeuge und deren Kategorien, Modellierungswerkzeuge, Werkzeuge zur statischen und dynamischen Analyse, Generierungswerkzeuge, Anforderungsmanagement-Werkzeuge, Build-Systeme/-Werkzeuge, Konfigurationsmanagement
+
+=== Lernziele
+
+include::./LZ-5-01.adoc[]
+include::./LZ-5-02.adoc[]

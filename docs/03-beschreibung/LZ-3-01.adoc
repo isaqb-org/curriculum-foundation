@@ -1,0 +1,8 @@
+==== LZ 3-1: Qualitätsmerkmale technischer Dokumentation erläutern und berücksichtigen (R1)
+
+Softwarearchitekten kennen die wesentlichen Qualitätsmerkmale technischer Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:
+
+* Verständlichkeit, Korrektheit, Effizienz, Angemessenheit, Wartbarkeit
+* Orientierung von Form, Inhalt und Detailgrad an Zielgruppe der Dokumentation
+
+Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Lesern beurteilt werden kann.

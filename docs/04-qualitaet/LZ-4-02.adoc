@@ -1,0 +1,7 @@
+==== LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen formulieren (R1)
+
+Softwarearchitekten können:
+
+* spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen konkret formulieren und beispielsweise in Form von Szenarien und Qualitätsbäumen darstellen;
+* Szenarien und Qualitätsbäume erklären und anwenden;
+* beispielhafte Qualitätsanforderungen an Software formulieren.

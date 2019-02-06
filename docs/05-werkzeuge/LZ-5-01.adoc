@@ -1,0 +1,11 @@
+==== LZ 5-1: Wichtige Werkzeugkategorien benennen und erläutern (R1)
+Softwarearchitekten können die wichtigsten Kategorien von Werkzeugen sowie deren Nutzen für die Arbeit von Softwarearchitekten benennen und erläutern, beispielsweise Werkzeuge zu:
+
+* Erfassung, Modellierung und Management von Anforderungen
+* Entwicklung, Debugging, Versionierung und Konfiguration von Quellcode
+* statische und dynamische Analyse von Quellcode und laufenden Systemen
+* Analyse von Architekturen
+* Modellierung, Dokumentation und Kommunikation von Architekturen
+* Build- und Deployment
+* verteiltem Arbeiten in Teams
+* Planung und Dokumentation von Architektur- und Entwicklungstätigkeiten

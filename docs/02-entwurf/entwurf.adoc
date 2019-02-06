@@ -8,8 +8,28 @@
 
 === Wesentliche Begriffe
 
-Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven-Design
+Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven Design
 
 === Lernziele
 
 include::./LZ-2-01.adoc[]
+
+include::./LZ-2-02.adoc[]
+
+include::./LZ-2-03.adoc[]
+
+include::./LZ-2-04.adoc[]
+
+include::./LZ-2-05.adoc[]
+
+include::./LZ-2-06.adoc[]
+
+include::./LZ-2-07.adoc[]
+
+include::./LZ-2-08.adoc[]
+
+include::./LZ-2-09.adoc[]
+
+=== Referenzen
+
+Referenzen für Kapitel 2 des Lehrplans: [Bass 2012], [Fowler 2003], [Gharbi+2014], [Martin2003], POSA-Serie, insbesondere [Buschmann+1996] und [Buschmann+2007], [Starke 2015]

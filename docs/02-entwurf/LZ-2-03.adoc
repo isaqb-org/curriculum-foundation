@@ -1,0 +1,9 @@
+==== LZ 2-3: Einflussfaktoren auf Softwarearchitektur erheben und berücksichtigen können (R1)
+
+Softwarearchitekten können Einflussfaktoren (Randbedingungen) als Einschränkungen der Entwurfsfreiheit erarbeiten und berücksichtigen
+
+Sie erkennen und berücksichtigen:
+
+* den Einfluss von Qualitätsanforderungen auf Architekturen
+* den Einfluss technischer Entscheidungen und Konzepte auf Architekturen
+* den (möglichen) Einfluss organisatorischer und juristischer Faktoren auf Architekturentscheidungen (R2)

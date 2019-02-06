@@ -1,0 +1,28 @@
+==	Beschreibung und Kommunikation von Softwarearchitekturen
+
+|===
+| Dauer: 150 Min. | Übungszeit: 90 Min.
+|===
+
+===	Wichtige Begriffe
+
+Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschreibung, ziel gruppen- oder stakeholdergerecht, Meta-Strukturen und Templates zur Beschreibung und Kom munikation, Kontextabgrenzung, Bausteine, Bausteinsicht, Laufzeitsicht, Verteilungssicht, Knoten, Kanal, Verteilungsartefakte, Mapping von Bausteinen auf Verteilungsartefakte, Beschreibung von Schnittstellen und Entwurfsentscheidungen, Werkzeuge zur Dokumentation
+
+
+===	Lernziele
+
+include::./LZ-3-01.adoc[]
+include::./LZ-3-02.adoc[]
+include::./LZ-3-03.adoc[]
+include::./LZ-3-04.adoc[]
+include::./LZ-3-05.adoc[]
+include::./LZ-3-06.adoc[]
+include::./LZ-3-07.adoc[]
+include::./LZ-3-08.adoc[]
+include::./LZ-3-08.adoc[]
+include::./LZ-3-09.adoc[]
+include::./LZ-3-10.adoc[]
+
+=== Referenzen
+
+* [Clements+2002], [Gharbi+2014], [Starke2015], [Zörner2015]

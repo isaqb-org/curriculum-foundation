@@ -1,0 +1,2 @@
+==== LZ 6-1: Bezug von Anforderungen zu Lösung erfassen (R3)
+Softwarearchitekten haben an mindestens einem Beispiel den Bezug von Anforderungen und Architekturzielen zu Lösungsentscheidungen erkannt und nachvollzogen.

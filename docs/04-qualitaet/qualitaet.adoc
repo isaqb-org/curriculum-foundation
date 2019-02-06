@@ -1,0 +1,21 @@
+==	Softwarearchitektur und Qualität
+
+|===
+| Dauer: 60 Min. | Übungszeit: 60 Min.
+|===
+
+=== Wichtige Begriffe
+
+Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, ATAM, Szenarien, Qualitätsbaum, Kompromisse/Wechselwirkungen von Qualitätseigenschaften, qualitative Architekturbewertung, Metriken und quantitative Bewertung
+
+=== Lernziele
+
+include::./LZ-4-01.adoc[]
+include::./LZ-4-02.adoc[]
+include::./LZ-4-03.adoc[]
+include::./LZ-4-04.adoc[]
+include::./LZ-4-05.adoc[]
+
+=== Referenzen
+
+* [Bass 2003],[Clements+2002], [Gharbi+2014], [Martin2003], [Starke2015]

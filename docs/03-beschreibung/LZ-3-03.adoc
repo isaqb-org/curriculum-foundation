@@ -1,0 +1,10 @@
+==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläu-tern und anwenden (R2)
+
+Softwarearchitekten kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
+
+* Klassen-, Paket-, Komponenten- und Kompositionsstrukturdiagramme
+* Verteilungsdiagramme
+* Sequenz- und Aktivitätsdiagramme
+* Zustandsdiagramme
+
+Softwarearchitekten kennen Alternativen zu UML-Diagrammen. Insbesondere für die Laufzeitsicht eignen sich z. B. Flussdiagramme, nummerierte Listen, BPMN

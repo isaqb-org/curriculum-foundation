@@ -1,0 +1,9 @@
+==== LZ 2-8: Bausteine/Strukturelemente von Softwarearchitekturen entwerfen (R1)
+
+Softwarearchitekten
+
+* können wünschenswerte Eigenschaften (Kapselung, Information Hiding, Geheimnisprinzip) von Bausteinen und Strukturelementen zielgerichtet anwenden;
+* können Blackbox- und Whitebox-Beschreibung von Bausteinen zielgerichtet verwenden;
+* kennen UML-Notationen für Bausteine und deren Zusammensetzung (R2);
+** Pakete als semantisch schwache Form der Aggregation von Bausteinen,
+** Klassen (in OO-Sprachen) und Komponenten mit fest definierten Schnittstellen als semantisch präzisere Variante.

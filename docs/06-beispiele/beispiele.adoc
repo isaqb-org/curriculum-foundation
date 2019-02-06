@@ -1,0 +1,11 @@
+== Beispiele für Softwarearchitekturen
+
+|===
+| Dauer: 60 Min. | Übungszeit: Keine.
+|===
+
+Dieser Abschnitt ist nicht prüfungsrelevant.
+
+=== Lernziele
+
+include::./LZ-6-01.adoc[]

@@ -1,0 +1,23 @@
+==== LZ 2 5: Wichtige Architekturmuster und Architekturstile beschreiben, erklären und angemessen anwenden (R1-R3)
+
+Softwarearchitekten kennen diverse Architekturmuster und Architekturstile und können diese bedarfsgerecht einsetzen:
+
+* Muster für datenfluss- bzw. datenzentrierte Architekturstile (R1)
+** Pipes und Filter (R1)
+** Blackboard (R2)
+* Muster für hierarchische Architekturstile (R1)
+** Schichten, Layer
+** Master-Slave
+** Virtual Machine
+* Hybride (Heterogene) Architekturstile (R1)
+* sprachunabhängige Entwurfsmuster, etwa: Adapter, Wrapper, Gateway, Facade, Registry, Broker, Factory (R1)
+* Muster für interaktionsorientierte Systeme (R2), beispielsweise: Model-View-Controller, Model-View-ViewModel, Model-View-Presenter, Presentation-Abstraction-Control
+* Muster für verteilte Systeme und deren Integration (R3)
+** Messaging (Publish-Subscribe, Hub-and-Spoke)
+** ereignisbasierte Systeme (und Event Sourcing)
+** Client/Server (R1)
+** Remote Procedure Call (R2)
+** datei- oder datenbankbasierte Integration
+** Microservices/Self-Contained Systems
+
+* Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)

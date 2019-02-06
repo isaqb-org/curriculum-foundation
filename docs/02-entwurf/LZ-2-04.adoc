@@ -1,0 +1,4 @@
+==== LZ 2-4: Übergreifende Konzepte entwerfen und umsetzen (R1)
+
+* Softwarearchitekten können übergreifende technische/querschnittliche Konzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit.
+* Sie können mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.

@@ -1,20 +1,28 @@
-
-
 ==== LZ 2-2: Architekturen entwerfen (R1)
 
 Softwarearchitekten können:
 
-*	Architekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen dokumentieren;
-*	Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen;
-*	Blackbox- und Whitebox-Begriff erklären und zielgerichtet anwenden;
-*	schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen;
-*	Architektursichten entwerfen, insbesondere Verteilungs-, Baustein- und Laufzeitsicht, sowie Konsequenzen dieser Entscheidungen auf den zugehörigen Quellcode beschreiben;
-*	Abbildung der Architektur auf den Quellcode festlegen und die damit verbundenen Kon-sequenzen bewerten;
-*	fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen.
-*	entsprechende Risiken identifizieren
+* Architekturen auf Basis bekannter funktionaler und Qualitätsanforderungen (nichtfunktionaler Anforderungen) für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen dokumentieren;
+* gegenseitige Abhängigkeiten von Entwurfsentscheidungen erkennen und begründen;
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen Bausteinen festlegen;
+* Blackbox- und Whitebox-Begriff erklären und zielgerichtet anwenden;
+* schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen;
+* Architektursichten entwerfen, insbesondere Verteilungs-, Baustein- und Laufzeitsicht, sowie Konsequenzen dieser Entscheidungen auf den zugehörigen Quellcode beschreiben;
+* Abbildung der Architektur auf den Quellcode festlegen und die damit verbundenen Kon-sequenzen bewerten;
+* fachliche und technische Bestandteile in Architekturen trennen und diese Trennung be-gründen.
+ 
+Softwarearchitekten können fachliche Strukturen im Kleinen entwerfen und begründen, insbesondere können sie:
 
+* fachliche Bausteine (Aggregate, Entitäten, Services, Wertobjekte) identifizieren, begründen und dokumentieren;
+* eine „Ubiquitous Language“ mit den Stakeholdern entwickeln, abstimmen, verfeinern und im Verlauf der Entwicklung anpassen;
+* die Interaktion fachlicher und technischer Bestandteile von Systemen entwerfen und erläutern.
 Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
+* den starken Einfluss von Qualitätsanforderungen (nichtfunktionaler Anforderungen) – wie beispielsweise Änderbarkeit, Robustheit, Effizienz;
+* Lösungsmöglichkeiten und „Design Tactics“ für wesentliche Qualitätsanforderungen, beispielsweise für Änderbarkeit, Robustheit oder Effizienz;
+* mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
 
-*	den starken Einfluss von Qualitätsanforderungen– wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizienz;
-*	Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen, beispielsweise für Änderbarkeit, Zuverlässigkeit oder Effizienz;
-*	mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
+Softwarearchitekten können fachliche Strukturen im Großen (Bounded Contexts) entwerfen und begründen (R3):
+
+* Core Domain, Supporting Domain, Generic Domain, Subdomain
+* Zusammenwirken fachlicher Bestandteile im Großen (Context Mapping), beispielsweise:
+** Open-Host-Service, Published-Language, Anticorruption-Layer, Separate Ways

@@ -1,0 +1,3 @@
+==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R2)
+
+Softwarearchitekten können Architekturentscheidungen systematisch herleiten, begründen und dokumentieren

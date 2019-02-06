@@ -1,0 +1,11 @@
+==== LZ 4-3: Softwarearchitekturen qualitativ bewerten (R2)
+Softwarearchitekten:
+
+* kennen methodische Vorgehen zur Analyse und Bewertung von Softwarearchitekturen und können diese für kleinere Beispiele anwenden;
+* kennen das Vorgehen bei qualitativer Bewertung von Softwarearchitekturen nach ATAM;
+* wissen, dass zur qualitativen Bewertung von Architekturen folgende Informationsquellen helfen können:
+** Anforderungen, insbesondere in Form von Qualitätsbäumen und -szenarien
+** Architekturdokumentation
+** Architektur- und Entwurfsmodelle
+** Quellcode
+** Metriken
