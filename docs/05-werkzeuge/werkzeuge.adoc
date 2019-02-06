@@ -18,5 +18,6 @@ Werkzeuge und deren Kategorien, Modellierungswerkzeuge, Werkzeuge zur statischen
 
 === Lernziele
 
-include::./LZ-5-01.adoc[]
-include::./LZ-5-02.adoc[]
+include::./LZ-5-1.adoc[]
+
+include::./LZ-5-2.adoc[]

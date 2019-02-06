@@ -10,11 +10,15 @@ Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, ATAM, Szenarien, Qualit�
 
 === Lernziele
 
-include::./LZ-4-01.adoc[]
-include::./LZ-4-02.adoc[]
-include::./LZ-4-03.adoc[]
-include::./LZ-4-04.adoc[]
-include::./LZ-4-05.adoc[]
+include::./LZ-4-1.adoc[]
+
+include::./LZ-4-2.adoc[]
+
+include::./LZ-4-3.adoc[]
+
+include::./LZ-4-4.adoc[]
+
+include::./LZ-4-5.adoc[]
 
 === Referenzen
 

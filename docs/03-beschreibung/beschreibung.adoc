@@ -12,15 +12,25 @@ Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschr
 ===	Lernziele
 
 include::./LZ-3-01.adoc[]
+
 include::./LZ-3-02.adoc[]
+
 include::./LZ-3-03.adoc[]
+
 include::./LZ-3-04.adoc[]
+
 include::./LZ-3-05.adoc[]
+
 include::./LZ-3-06.adoc[]
+
 include::./LZ-3-07.adoc[]
+
 include::./LZ-3-08.adoc[]
+
 include::./LZ-3-08.adoc[]
+
 include::./LZ-3-09.adoc[]
+
 include::./LZ-3-10.adoc[]
 
 === Referenzen
