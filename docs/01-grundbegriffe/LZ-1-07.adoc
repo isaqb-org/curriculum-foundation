@@ -1,6 +1,15 @@
 
-==== LZ 1-7: Architektur- und Projektziele differenzieren (R1)
-Systeme können im Rahmen von Projekten entwickelt werden, aber auch im Rahmen von Scrum-Sprints, Iterationen, Releases oder andere Vorgehensweisen. Der Begriff „Projekt“ im Titel des Lernzieles bezieht sich auf jede dieser möglichen Formen der Arbeitsorganisation.
+==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)
 
-*	Softwarearchitekten können auf Basis bestehender Anforderungen Architekturziele identifizieren und präzisieren;
-* 	sie können (langfristige) Architekturziele sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären.
+Softwarearchitekten können:
+
+* auf Basis bestehender Anforderungen Architekturziele identifizieren und präzisieren;
+* langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS/CL: Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
+RR: Removed redundancies, especially with LG 2-3
+====
+endif::withComments[]
