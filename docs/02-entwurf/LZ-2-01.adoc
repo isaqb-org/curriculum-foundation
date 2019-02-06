@@ -1,11 +1,10 @@
-==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und befolgen können (R1)
+==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)
 Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
-*	modell- und sichtenbasierte Architekturentwicklung
-*	Domain-Driven-Design
+*	Sichtenbasierte Architekturentwicklung
+*	Domain-Driven Design
+* Modellgetriebene Architektur
 *	iterativer und inkrementeller Entwurf
-*	Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
-*	Rückmeldungen zu Entwurfsentscheidungen auf Basis von Quellcode sowie qualitativer Betrachtung
+**	Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
+**	Rückmeldungen zu Entwurfsentscheidungen auf Basis von Quellcode sowie qualitativer Betrachtung
 *	Top-down- und Bottom-Up-Vorgehen beim Entwurf
-
-Softwarearchitekten können Einflussfaktoren und Randbedingungen als Beschränkungen beim Architekturentwurf berücksichtigen
