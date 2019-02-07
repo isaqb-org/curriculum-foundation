@@ -3,12 +3,12 @@ Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwe
 
 * Abstraktion
 * Modularisierung (siehe auch LZ 2-8), unter Berücksichtigung von:
-* Geheimnisprinzip (Information Hiding) und Kapselung
-* Trennung von Verantwortlichkeiten (Separation of Concerns)
-* Hoher Kohäsion
-* Single-Responsibility-Prinzip
-* Offen-Geschlossen-Prinzip (Open-/Closed-Principle)
-* möglichst loser, aber funktional ausreichender Kopplung der Bausteine (siehe auch LZ 2-7)
+** Geheimnisprinzip (Information Hiding) und Kapselung
+** Trennung von Verantwortlichkeiten (Separation of Concerns)
+** Hoher Kohäsion
+** Single-Responsibility-Prinzip
+** Offen-Geschlossen-Prinzip (Open-/Closed-Principle)
+* möglichst lose, aber funktional ausreichende Kopplung der Bausteine (siehe auch LZ 2-7)
 * Umkehrung von Abhängigkeiten durch Schnittstellen (Dependency Inversion)
 * Dependency Injection zur Externalisierung von Abhängigkeiten
 * konzeptioneller Integrität zur Erreichung der Gleichförmigkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme (R2)
