@@ -4,6 +4,15 @@ Softwarearchitekten können Einflussfaktoren (Randbedingungen) als Einschränkun
 
 Sie erkennen und berücksichtigen:
 
-* den Einfluss von Qualitätsanforderungen auf Architekturen
-* den Einfluss technischer Entscheidungen und Konzepte auf Architekturen
-* den (möglichen) Einfluss organisatorischer und juristischer Faktoren auf Architekturentscheidungen (R2)
+* den Einfluss von Qualitätsanforderungen
+* den Einfluss technischer Entscheidungen und Konzepte
+* den (möglichen) Einfluss organisatorischer und juristischer Faktoren (R2)
+* den Einfluss verschiedener Stakeholder
+
+
+ifdef::withComments[]
+[NOTE]
+====
+RR: Stakeholder sind neu. Ich finde dies wichtig zu berücksichtigen, ist ein oft nicht dokumentierter Einflussfaktor
+====
+endif::withComments[]
