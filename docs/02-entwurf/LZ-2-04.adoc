@@ -1,4 +1,16 @@
-==== LZ 2-4: Übergreifende Konzepte entwerfen und umsetzen (R1)
+==== LZ 2-4: Querschnittskonzepte entwerfen und umsetzen (R1)
 
-* Softwarearchitekten können übergreifende technische/querschnittliche Konzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit.
-* Sie können mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
+Softwarearchitekten können:
+
+* die Bedeutung von Querschnittskonzepten erklären;
+* Querschnittliche Konzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit;
+* mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
+
+Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS/CL: leicht umformuliert
+====
+endif::withComments[]
