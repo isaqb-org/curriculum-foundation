@@ -1,23 +1,27 @@
 ==== LZ 2 5: Wichtige Architekturmuster und Architekturstile beschreiben, erklären und angemessen anwenden (R1-R3)
 
-Softwarearchitekten kennen diverse Architekturmuster und Architekturstile und können diese bedarfsgerecht einsetzen:
+Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
 
-* Muster für datenfluss- bzw. datenzentrierte Architekturstile (R1)
-** Pipes und Filter (R1)
-** Blackboard (R2)
-* Muster für hierarchische Architekturstile (R1)
-** Schichten, Layer
-** Master-Slave
-** Virtual Machine
-* Hybride (Heterogene) Architekturstile (R1)
-* sprachunabhängige Entwurfsmuster, etwa: Adapter, Wrapper, Gateway, Facade, Registry, Broker, Factory (R1)
-* Muster für interaktionsorientierte Systeme (R2), beispielsweise: Model-View-Controller, Model-View-ViewModel, Model-View-Presenter, Presentation-Abstraction-Control
-* Muster für verteilte Systeme und deren Integration (R3)
-** Messaging (Publish-Subscribe, Hub-and-Spoke)
-** ereignisbasierte Systeme (und Event Sourcing)
-** Client/Server (R1)
-** Remote Procedure Call (R2)
-** datei- oder datenbankbasierte Integration
-** Microservices/Self-Contained Systems
+* Schichten, Layer (R1)
+* Pipes und Filter (R1)
+* Client/Server (R1)
+* Blackboard (R2)
+* Model-View-Controller und Varianten (R2)
+* Broker (R2)
+* Remote Procedure Call (R2)
+* Messaging (R2), z.B. mit Events und Commands
+* Adapter und Facade (R1)
+* Proxy (R1)
+* Plugin (R1)
 
-* Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)
+
+Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)
+
+ifdef::withComments[]
+[NOTE]
+====
+GS/CL: deutlich verkleinert, Begriff "Stile" entfernt
+RR: I’ve seen people differentiate between architecture styles and patterns. I don’t think the difference is important enough to differentiate. I do make a difference between architecture patterns and design patterns, but it’s not always clear if a pattern is an architecture pattern, a design pattern, or both.
+I suggest using “architecture-level design patterns” or simply “architecture and design patterns”. – or simply “architecture pattern” / “Architekturmuster”
+====
+endif::withComments[]
