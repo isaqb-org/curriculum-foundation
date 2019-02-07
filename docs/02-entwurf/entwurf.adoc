@@ -28,8 +28,7 @@ include::./LZ-2-07.adoc[]
 
 include::./LZ-2-08.adoc[]
 
-include::./LZ-2-09.adoc[]
 
 === Referenzen
 
-Referenzen für Kapitel 2 des Lehrplans: [Bass 2012], [Fowler 2003], [Gharbi+2014], [Martin2003], POSA-Serie, insbesondere [Buschmann+1996] und [Buschmann+2007], [Starke 2015]
+Referenzen für Kapitel 2 des Lehrplans: [Bass 2012], [Fowler 2003], [Gharbi+2014], [Martin2003], POSA-Serie, insbesondere [Buschmann+1996] und [Buschmann+2007], [Starke 2017], [Lilienthal 2017]

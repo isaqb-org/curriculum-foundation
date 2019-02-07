@@ -10,6 +10,7 @@ ifdef::withComments[]
 [NOTE]
 ====
 GS/CL: sprachlich leicht umformuliert
+
 RR: Keine klare Abgrenzung zwischen Nutzen und Zielen, deswegen vereinfacht.
 ====
 endif::withComments[]
