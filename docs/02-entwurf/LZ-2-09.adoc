@@ -10,4 +10,9 @@ Softwarearchitekten kennen
 ** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 
-Softwarearchitekten können Schnittstellen beschreiben und dokumentieren.
+ifdef::withComments[]
+[NOTE]
+====
+GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
+====
+endif::withComments[]
