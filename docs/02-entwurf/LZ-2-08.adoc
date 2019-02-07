@@ -7,3 +7,11 @@ Softwarearchitekten
 * kennen UML-Notationen für Bausteine und deren Zusammensetzung (R2);
 ** Pakete als semantisch schwache Form der Aggregation von Bausteinen,
 ** Klassen (in OO-Sprachen) und Komponenten mit fest definierten Schnittstellen als semantisch präzisere Variante.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS/CL: UML ist aber eine Notation und gehört in Kapitel 3 (wenn überhaupt). Daher unser Vorschlag: Dieses LZ komplett streichen, ist mit LZ-2-2 bereits komplett abgedeckt.
+RR: Die Punkte bzgl. Entwurfsmustern (LG 2-6) und Black-Box/White-Box (LG 2-2) sind redundant, aber sie sind der Hauptteil dieses Abschnitts. Deswegen schlage ich vor, den ganzen Abschnitt auf UML zu reduzieren.
+====
+endif::withComments[]
