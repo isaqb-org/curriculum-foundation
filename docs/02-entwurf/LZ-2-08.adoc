@@ -1,17 +1,19 @@
-==== LZ 2-8: Bausteine/Strukturelemente von Softwarearchitekturen entwerfen (R1)
+==== LZ 2-8: Schnittstellen entwerfen und festlegen (R1)
+Softwarearchitekten kennen
 
-Softwarearchitekten
-
-* können wünschenswerte Eigenschaften (Kapselung, Information Hiding, Geheimnisprinzip) von Bausteinen und Strukturelementen zielgerichtet anwenden;
-* können Blackbox- und Whitebox-Beschreibung von Bausteinen zielgerichtet verwenden;
-* kennen UML-Notationen für Bausteine und deren Zusammensetzung (R2);
-** Pakete als semantisch schwache Form der Aggregation von Bausteinen,
-** Klassen (in OO-Sprachen) und Komponenten mit fest definierten Schnittstellen als semantisch präzisere Variante.
+* die Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
+* wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf einsetzen:
+** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
+** schwer zu missbrauchen
+** funktional vollständig aus Sicht der Nutzer oder nutzender Bausteine
+* unterschiedliche Betrachtungsweisen von Schnittstellen (R3):
+** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
+** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 
 ifdef::withComments[]
 [NOTE]
 ====
-GS/CL: UML ist aber eine Notation und gehört in Kapitel 3 (wenn überhaupt). Daher unser Vorschlag: Dieses LZ komplett streichen, ist mit LZ-2-2 bereits komplett abgedeckt.
-RR: Die Punkte bzgl. Entwurfsmustern (LG 2-6) und Black-Box/White-Box (LG 2-2) sind redundant, aber sie sind der Hauptteil dieses Abschnitts. Deswegen schlage ich vor, den ganzen Abschnitt auf UML zu reduzieren.
+GS/CL: in 2-8 umbenannt, und das bisherige 2-8 entfernt.
+GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
 ====
 endif::withComments[]
