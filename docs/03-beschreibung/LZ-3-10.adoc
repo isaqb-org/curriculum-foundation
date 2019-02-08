@@ -1,9 +1,21 @@
 ==== LZ 3-10: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
-* Softwarearchitekten kennen die Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise: 
+Softwarearchitekten kennen:
+
+* Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
 ** ISO/IEEE-42010 (vormals 1471)
-** TOGAF, RM/ODP
 ** arc42
+** C4
+** RM/ODP
 ** FMC
-* sie kennen Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
-* sie kennen mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
+
+* Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
+* mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: C4 aufgenommen (von Simon Brown)
+GS/RR: TOGAF entfernt
+====
+endif::withComments[]
