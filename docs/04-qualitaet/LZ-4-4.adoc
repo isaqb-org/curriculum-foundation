@@ -6,7 +6,14 @@ Sie wissen, dass:
 
 * quantitative Bewertung helfen kann, kritische Teile innerhalb von Systemen zu identifizieren;
 * zur Bewertung von Architekturen weitere Informationen hilfreich sein können, etwa:
-** Quellcode und diesbezügliche Metriken wie Lines-of-Code, zyklomatische Komplexität, ein- und ausgehende Abhängigkeiten
+** Quellcode und diesbezügliche Metriken wie Lines-of-Code, (zyklomatische) Komplexität, ein- und ausgehende Abhängigkeiten
 ** bekannte Fehler in Quellcode, insbesondere Fehlercluster
 ** Testfälle und Testergebnisse
 ** Anforderungs- und Lösungsmodelle
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: nur wording angepasst
+====
+endif::withComments[]
