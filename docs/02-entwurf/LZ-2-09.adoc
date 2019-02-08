@@ -1,0 +1,20 @@
+==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1)
+Softwarearchitekten kennen
+
+* die Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
+* wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf einsetzen:
+** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
+** schwer zu missbrauchen
+** funktional vollständig aus Sicht der Nutzer oder nutzender Bausteine
+* unterschiedliche Betrachtungsweisen von Schnittstellen (R3):
+** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
+** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: wieder zu 2-9 gemacht
+GS/CL: in 2-8 umbenannt, und das bisherige 2-8 entfernt.
+GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
+====
+endif::withComments[]
