@@ -6,7 +6,7 @@
 
 ===	Wichtige Begriffe
 
-Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschreibung, ziel gruppen- oder stakeholdergerecht, Meta-Strukturen und Templates zur Beschreibung und Kom munikation, Kontextabgrenzung, Bausteine, Bausteinsicht, Laufzeitsicht, Verteilungssicht, Knoten, Kanal, Verteilungsartefakte, Mapping von Bausteinen auf Verteilungsartefakte, Beschreibung von Schnittstellen und Entwurfsentscheidungen, Werkzeuge zur Dokumentation
+Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschreibung, zielgruppen- oder stakeholdergerecht, Meta-Strukturen und Templates zur Beschreibung und Kommunikation, Kontextabgrenzung, Bausteine, Bausteinsicht, Laufzeitsicht, Verteilungssicht, Knoten, Kanal, Verteilungsartefakte, Mapping von Bausteinen auf Verteilungsartefakte, Beschreibung von Schnittstellen und Entwurfsentscheidungen, UML, Werkzeuge zur Dokumentation
 
 
 ===	Lernziele
@@ -35,4 +35,4 @@ include::./LZ-3-10.adoc[]
 
 === Referenzen
 
-* [Clements+2002], [Gharbi+2014], [Starke2015], [Zörner2015]
+* [Bass+2003], [Clements+2002], [Gharbi+2014], [Starke 2017], [Zörner2015]
