@@ -2,6 +2,7 @@
 :doctype: book
 :document-version: 5.0-DRAFT 2019
 :toc-title: Inhaltsverzeichnis
+:chapter-label:
 :experimental:
 :reproducible:
 :icons: font
@@ -16,14 +17,14 @@ endif::[]
 
 <<<
 :sectnums!:
-include::01-copyright.adoc[]
+include::preamble/01-copyright.adoc[]
 
 <<<
 :toc:
 
 <<<
 :sectnums!:
-include::02-einleitung.adoc[]
+include::preamble/02-einleitung.adoc[]
 
 <<<
 :sectnums:

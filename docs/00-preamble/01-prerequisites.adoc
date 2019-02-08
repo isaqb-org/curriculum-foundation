@@ -1,0 +1,57 @@
+
+// tag::DE[]
+=== Voraussetzungen
+Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
+
+* mehr als 18 Monate praktische Erfahrung in Softwareentwicklung, erworben durch Programmierung unterschiedlicher Systeme außerhalb der Ausbildung
+* Kenntnisse und praktische Erfahrung in mindestens einer höheren Programmiersprache, insbesondere:
+** Konzepte der Parameterübergabe (_Call-by-Value, Call-by-Reference_)
+** Grundlagen von Typsystemen (statische und dynamische Typisierung, parametrisierba-re/generische Datentypen)
+** Konzepte der Modularisierung (Pakete, Namensräume)
+* Grundlegende Kenntnisse von:
+** Modellierung und Abstraktion
+** Algorithmen und Datenstrukturen
+** UML (Klassen-, Paket-, Komponenten- und Sequenzdiagramme) und deren Bezug zum Quellcode
+
+* praktische Erfahrung in technischer Dokumentation, insbesondere in der Dokumentation von Quellcode, Systementwürfen oder technischen Konzepten
+
+Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
+** Kenntnisse der Objektorientierung (OO)
+** praktische Erfahrung in mindestens einer objektorientierten Programmiersprache
+** praktische Erfahrung in der Konzeption und Implementierung verteilt ablaufender Anwendungen, wie etwa Client/Server-Systeme oder Web-Anwendungen
+
+Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben genannten Voraussetzungen durch entsprechende Fragen prüfen.
+
+// end::DE[]
+
+// tag::EN[]
+==== Prerequisites
+Participants should have the following prior knowledge and/or experience:
+
+* More than 18 months of practical experience with software development, gained through programming a variety of projects or systems outside of formal education
+* Knowledge of and practical experience with at least one higher programming language, especially:
+** Concepts of parameter-passing (_call-by-value, call-by-reference_)
+** Basics of type systems (static vs. dynamic typing, parameterized and generic data types)
+** Concepts of modularization (packages, namespaces, etc.)
+* Basic knowledge of:
+** modelling and abstraction
+** algorithms and data structures
+** UML (class, package, component and sequence diagrams) and their relation to source code
+
+* Practical experience with technical documentation, especially documenting source code, system design or technical concepts
+
+Furthermore, the following will be useful for understanding several concepts:
+
+* Knowledge of object-orientation (OO)
+* Practical experience in at least one object-oriented programming language
+* Practical experience with designing and implementing distributed applications, such as client-server systems or web applications
+
+The iSAQB e. V. may check the aforementioned requirements in certification examinations by appropriate questions.
+// end::EN[]
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: we should add some more prerequisites, like push/pull, stack/heap, basic knowledge of a few typical crosscutting technical concepts, like persistence (databases, storage mechanisms), graphical UI (e.g. desktop or web UI)
+====
+endif::withComments[]
