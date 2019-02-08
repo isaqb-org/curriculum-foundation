@@ -1,4 +1,11 @@
 ==== LZ 3-9: Dokumentation als schriftliche Kommunikation nutzen (R2)
 
-* Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf und Implementierung von Systemen;
-* Softwarearchitekten können Sprache und Ausdrucksmittel technischer Dokumentation an den Fähigkeiten und Zielen der Leser ausrichten bzw. aus technischer Dokumentation entsprechende zielgruppenorientierte Artefakte erstellen.
+Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen.
+
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: Redundanz zu LZ 3-2 entfernt, _Weiterentwicklung_ und Synonyme aufgenommen.
+====
+endif::withComments[]
