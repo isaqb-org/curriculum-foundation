@@ -1,4 +1,0 @@
-==== LZ 5-2: Werkzeuge bedarfsgerecht auswählen (R2)
-
-* Softwarearchitekten haben verstanden, dass ihre Arbeitsumgebung und ihre Arbeitsmittel von den jeweiligen Randbedingungen und Einflussfaktoren abhängen;
-* sie können bedarfsgerecht Kriterien zur Auswahl von Werkzeugen aufstellen.
