@@ -1,4 +1,4 @@
-==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläu-tern und anwenden (R2)
+==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2)
 
 Softwarearchitekten kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
 
