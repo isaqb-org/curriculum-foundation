@@ -5,4 +5,11 @@ Softwarearchitekten kennen die wesentlichen Qualitätsmerkmale technischer Dokum
 * Verständlichkeit, Korrektheit, Effizienz, Angemessenheit, Wartbarkeit
 * Orientierung von Form, Inhalt und Detailgrad an Zielgruppe der Dokumentation
 
-Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Lesern beurteilt werden kann.
+Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielgruppen beurteilt werden kann.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: _Leser_ durch _Zielgruppe_ ersetzt
+====
+endif::withComments[]
