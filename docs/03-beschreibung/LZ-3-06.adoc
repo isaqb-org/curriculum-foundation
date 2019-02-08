@@ -1,5 +1,10 @@
-==== LZ 3-6: Querschnittliche Architekturkonzepte dokumentieren und kommunizieren (R1)
-* Softwarearchitekten können typische Konzepte (Prinzipien, Aspekte) adäquat dokumentieren, z. B. Persistenz, Ablaufsteuerung, GUI, Verteilung/Integration;
+==== LZ 3-6: Querschnittliche Konzepte dokumentieren und kommunizieren (R1)
 
-* sie können die Bedeutung solch übergreifender, technischer Konzepte erklären;
-* sie wissen, dass solche querschnittlichen Konzepte systemübergreifend wiederverwendbar sein können.
+Softwarearchitekten können typische querschnittliche Konzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung;
+
+ifdef::withComments[]
+[NOTE]
+====
+GS+RR: Redundanz zu Kapitel 2 entfernt, Protokollierung aufgenomen.
+====
+endif::withComments[]
