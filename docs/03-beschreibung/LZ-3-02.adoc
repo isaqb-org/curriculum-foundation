@@ -1,7 +1,15 @@
 
 ==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1)
 
-* Softwarearchitekten können Architekturen stakeholdergerecht dokumentieren und kommunizieren;
-* sie können unterschiedliche Leserkreise adressieren, z. B. Management, Entwickler, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder;
-* sie sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
-* sie kennen den Nutzen von Template-/schablonenbasierter Dokumentation.
+Softwarearchitekten:
+
+* können Architekturen stakeholdergerecht dokumentieren und kommunizieren, dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder;
+* sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
+* kennen den Nutzen von Template-basierter Dokumentation.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: Layout, sprachlich vereinfacht, _Schablone_ entfernt
+====
+endif::withComments[]
