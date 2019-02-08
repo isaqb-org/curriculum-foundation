@@ -9,4 +9,5 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 === Lernziele
 
 include::./LZ-6-1.adoc[]
+
 include::./LZ-6-2.adoc[]

@@ -39,4 +39,4 @@ include::03-beschreibung/beschreibung.adoc[]
 include::04-qualitaet/qualitaet.adoc[]
 
 <<<
-include::05-werkzeuge/werkzeuge.adoc[]
+include::05-beispiele/beispiele.adoc[]
