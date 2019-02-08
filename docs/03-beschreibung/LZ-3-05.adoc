@@ -1,2 +1,13 @@
 ==== LZ 3-5: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
-Softwarearchitekten können fachlichen und technischen Kontext differenzieren.
+Softwarearchitekten können
+
+* Kontext von Systemen z.B. in Form von Kontextdiagramm mit Erläuterungen darstellen;
+* externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen;
+* fachlichen und technischen Kontext differenzieren.
+
+ifdef::withComments[]
+[NOTE]
+====
+GS: Schnittstellen + Kontextdiagramm zugefügt - LZ war sonst so "leer"
+====
+endif::withComments[]
