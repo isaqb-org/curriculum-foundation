@@ -18,8 +18,6 @@ include::./LZ-4-3.adoc[]
 
 include::./LZ-4-4.adoc[]
 
-include::./LZ-4-5.adoc[]
-
 === Referenzen
 
 * [Bass 2003],[Clements+2002], [Gharbi+2014], [Martin2003], [Starke2015]
