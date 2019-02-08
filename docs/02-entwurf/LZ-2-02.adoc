@@ -10,7 +10,7 @@ Softwarearchitekten können:
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht;
 * Abbildung der Architektur auf den Quellcode festlegen und die damit verbundenen Konsequenzen bewerten;
 * fachliche und technische Bestandteile in Architekturen trennen und diese Trennung be-gründen;
-* Risiken von Entwurfsentsheidungen identifizieren.
+* Risiken von Entwurfsentscheidungen identifizieren.
  
 Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
 
