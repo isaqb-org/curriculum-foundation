@@ -10,11 +10,11 @@ Softwarearchitekten kennen
 ** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: wieder zu 2-9 gemacht
 GS/CL: in 2-8 umbenannt, und das bisherige 2-8 entfernt.
 GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
 ====
-endif::withComments[]
+endif::withRemarks[]

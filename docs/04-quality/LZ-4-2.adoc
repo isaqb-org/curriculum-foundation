@@ -6,11 +6,11 @@ Softwarearchitekten können:
 * Szenarien und Qualitätsbäume erklären und anwenden;
 
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: Formulierung angepasst
 
 RR: We don’t (shouldn’t) define (formulieren) quality requirements. This is the customer’s job. We shouldn’t define how fast, secure, etc. a system should be.
 ====
-endif::withComments[]
+endif::withRemarks[]

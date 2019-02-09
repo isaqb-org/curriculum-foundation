@@ -6,11 +6,11 @@ Softwarearchitekten können:
 * auf Basis bestehender Anforderungen Architekturziele identifizieren und präzisieren;
 * langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS/CL: Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
 
 RR: Removed redundancies, especially with LG 2-3
 ====
-endif::withComments[]
+endif::withRemarks[]

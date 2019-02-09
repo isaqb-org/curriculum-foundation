@@ -1,0 +1,29 @@
+// tag::DE[]
+==== LZ 1-2: Ziele von Softwarearchitektur verstehen und herausstellen (R1)
+
+Wesentliche Ziele von Softwarearchitektur sind:
+
+* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen, im Gegensatz zur reinen Implementierung der Funktionalität
+* Erstellung und Wartung von Software, insbesondere die Implementierung zu unterstützen
+* Verständnis über das System zu unterstützen, bezogen auf sämtlichen relevanten Stakeholder.
+// end::DE[]
+
+// tag::EN[]
+==== LG 1-2: Understand and identify the benefits of software architecture (R1)
+
+Essential goals of software architecture are:
+
+* the achievement of quality requirements such as reliability, maintainability, changeability, security etc. as opposed to the implementation of pure functionality;
+*	supporting the creation and maintenance of software, particularly its implementation;
+*	supporting the understanding of the system, related to all relevant stakeholders.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+GS/CL: sprachlich leicht umformuliert
+
+RR: Keine klare Abgrenzung zwischen Nutzen und Zielen, deswegen vereinfacht.
+====
+// end::REMARK[]

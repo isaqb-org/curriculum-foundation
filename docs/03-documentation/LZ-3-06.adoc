@@ -2,9 +2,9 @@
 
 Softwarearchitekten können typische querschnittliche Konzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung;
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS+RR: Redundanz zu Kapitel 2 entfernt, Protokollierung aufgenomen.
 ====
-endif::withComments[]
+endif::withRemarks[]

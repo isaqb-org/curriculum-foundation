@@ -1,20 +1,20 @@
+// tag::DE[]
+=== Struktur, Dauer, Didaktik und weitere Details lizenzierter Schulungen
 
-=== Was vermittelt eine Foundation-Level-Schulung?
-Lizenzierte Schulungen zum _Certified Professional for Software Architecture – Foundation Level_ (CPSA-F) vermitteln grundlegende Kenntnisse und Fertigkeiten für den Entwurf einer angemessenen Softwarearchitektur für kleine und mittlere IT-Systeme.
-Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung um relevante Vorgehensweisen, Methoden und Prinzipien für die Entwicklung von Softwarearchitekturen.
-Durch das Gelernte können sie auf Grundlage angemessen detaillierter Anforderungen und Randbedingungen eine adäquate Softwarearchitektur entwerfen, kommunizieren, analysieren, bewerten und weiterentwickeln.
-Schulungen zum CPSA-F vermitteln Grundlagenwissen unabhängig von spezifischen Entwurfsmethoden, Vorgehensmodellen, Programmiersprachen oder Werkzeugen.
-Dadurch können die Teilnehmenden ihre erworbene Fertigkeiten auf ein breites Spektrum von Einsatzfällen anwenden.
+Die in den nachfolgenden Kapitels des Lehrplans genannten Zeiten sind Empfehlungen.
+Die Dauer einer Schulung sollte mindestens 3 Tage betragen, kann aber durchaus länger sein.
+Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übungen kann der jeweilige Schulungsanbieter individuell festlegen.
+// end::DE[]
 
-Im Mittelpunkt steht der Erwerb folgender Fähigkeiten:
+// tag::EN[]
+=== Structure, duration and teaching methods
 
-* mit anderen Beteiligten aus den Bereichen Anforderungsmanagement, Projektmanagement, Entwicklung und Test wesentliche Architekturentscheidungen abzustimmen;
-* die wesentlichen Schritte beim Entwurf von Softwarearchitekturen zu verstehen sowie für kleine und mittlere Systeme selbständig durchzuführen;
-* Softwarearchitekturen auf Basis von Sichten, Architekturmustern und technischen Konzepten zu dokumentieren und zu kommunizieren.
+Study times given in the following sections of the curriculum are recommendations.
+The duration of a training course should be at least three days, but may as well be longer.
+Providers may vary in their approach to duration, teaching methods, the type and structure of exercises as well as the detailed course outline.
+The types (domains and technologies) of examples and exercises can be determined individually by the training provider.
+// end::EN[]
 
-Darüber hinaus behandeln CPSA-F-Schulungen:
-
-*	den Begriff und die Bedeutung von Softwarearchitektur,
-*	die Aufgaben und Verantwortung von Softwarearchitekten,
-*	die Rolle von Softwarearchitekten in Entwicklungsvorhaben,
-*	State-of-the-Art-Methoden und -Praktiken zur Entwicklung von Softwarearchitekturen.
+// tag::REMARK[]
+// end::REMARK[]

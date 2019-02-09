@@ -1,9 +1,0 @@
-[discrete]
-= CPSA Certified Professional for Software Architecture®
-
-[discrete]
-== - Curriculum für Foundation Level -
-
-
-
-Version 5.0 (May 2019)

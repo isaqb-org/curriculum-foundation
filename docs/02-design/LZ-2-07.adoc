@@ -9,9 +9,9 @@ Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen u
 ** Grundlegende Entwurfsprinzipien, siehe Lernziel 2-6
 
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS/CL: sprachlich leicht umformuliert, einige Muster entfernt, jetzt komplett R1.
 ====
-endif::withComments[]
+endif::withRemarks[]

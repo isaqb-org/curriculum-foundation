@@ -1,14 +1,14 @@
-= Curriculum für CPSA Certified Professional for Software Architecture®  - *Foundation Level* -
+= Curriculum für CPSA Certified Professional for Software Architecture® : - *Foundation Level* -
 :doctype: book
+
+// handle numerous attributes. Successful inclusion of this file
+// is ABSOLUTELY NECESSARY!!
+include::config/setup.adoc[]
+
 :document-version: 5.0-DRAFT 2019
-:toc-title: Inhaltsverzeichnis
-:chapter-label:
-:experimental:
-:reproducible:
-:icons: font
-:toc:
-:sectnumlevels: 1
-:withComments:
+
+// define terms for toc, learning_goals
+include::config/i18n-definitions.adoc[{language}]
 
 ifdef::backend-pdf[]
 :title-logo-image: image:isaqb-logo.jpg[pdfwidth=4.25in,align=center]
@@ -17,27 +17,27 @@ endif::[]
 
 <<<
 :sectnums!:
-include::preamble/01-copyright.adoc[]
+include::00-preamble/copyright.adoc[{include_configuration}]
 
 <<<
 :toc:
 
 <<<
 :sectnums!:
-include::preamble/02-einleitung.adoc[]
+include::00-preamble/00-introduction.adoc[]
 
 <<<
 :sectnums:
-include::01-grundbegriffe/03-grundbegriffe.adoc[]
+include::01-basics/00-basic-concepts.adoc[]
 
 <<<
-include::02-entwurf/entwurf.adoc[]
+include::02-design/00-design.adoc[]
 
 <<<
-include::03-beschreibung/beschreibung.adoc[]
+include::03-documentation/beschreibung.adoc[]
 
 <<<
-include::04-qualitaet/qualitaet.adoc[]
+include::04-quality/qualitaet.adoc[]
 
 <<<
 include::05-beispiele/beispiele.adoc[]

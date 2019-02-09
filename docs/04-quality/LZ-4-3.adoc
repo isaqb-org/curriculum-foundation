@@ -10,7 +10,7 @@ Softwarearchitekten:
 ** Quellcode
 ** Metriken
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: += _analysieren_ im Titel, ATAM auf R3
@@ -19,4 +19,4 @@ FLWG: ATAM nur noch exemplarisch
 
 RR: Vorgehen ist mir weniger wichtig als die Ziele und Ergebnisse von ATAM
 ====
-endif::withComments[]
+endif::withRemarks[]

@@ -1,0 +1,37 @@
+// tag::DE[]
+=== Abgrenzung
+Dieser Lehrplan reflektiert den aus heutiger Sicht des iSAQB e.V. notwendigen und sinnvollen Inhalt zur Erreichung der Lernziele des CPSA-F. Er stellt keine vollständige Beschreibung des Wissensgebiets „Softwarearchitektur“ dar.
+
+Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
+
+* konkrete Implementierungstechnologien, -frameworks oder -bibliotheken
+* Programmierung oder Programmiersprachen
+* Spezifische Vorgehensmodelle
+* Grundlagen oder Notationen der Modellierung (wie etwa UML)
+* Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizie-rungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
+* Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., http://istqb.org, International Software Testing Qualification Board)
+* Projekt- oder Produktmanagement
+* konkrete Werkzeuge
+
+Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwen-digen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
+
+// end::DE[]
+
+// tag::EN[]
+=== What is *not* covered by the curriculum
+This curriculum reflects the contents currently considered by the iSAQB members to be necessary and useful for achieving the learning goals of CPSA-F. It is not a comprehensive description of the entire domain of 'software architecture'.
+
+The following topics or concepts are not part of CPSA-F:
+
+* Concrete implementation technologies, frameworks or libraries
+* Programming or programming languages
+* Modelling notations (such as UML) or fundamentals of modelling itself
+* System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., http://ireb.org, International Requirements Engineering Board)
+* Software testing (please refer to the education and certification program by ISTQB e.V., http://istqb.org, International Software Testing Board)
+* Project or product management
+* Introduction to specific software tools
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

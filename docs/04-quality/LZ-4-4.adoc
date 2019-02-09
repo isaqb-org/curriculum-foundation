@@ -11,9 +11,9 @@ Sie wissen, dass:
 ** Testfälle und Testergebnisse
 ** Anforderungs- und Lösungsmodelle
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: nur wording angepasst
 ====
-endif::withComments[]
+endif::withRemarks[]

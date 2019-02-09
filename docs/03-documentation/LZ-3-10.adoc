@@ -12,10 +12,10 @@ Softwarearchitekten kennen:
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: C4 aufgenommen (von Simon Brown)
 GS/RR: TOGAF entfernt
 ====
-endif::withComments[]
+endif::withRemarks[]

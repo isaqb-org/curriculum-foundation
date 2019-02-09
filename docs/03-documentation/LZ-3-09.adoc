@@ -3,9 +3,9 @@
 Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen.
 
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: Redundanz zu LZ 3-2 entfernt, _Weiterentwicklung_ und Synonyme aufgenommen.
 ====
-endif::withComments[]
+endif::withRemarks[]

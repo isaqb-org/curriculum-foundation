@@ -19,11 +19,11 @@ Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsents
 * Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktinen sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
 * mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS/CL: DDD-Konstrukte entfernt
 
 RR: Removed text relating to decisions. This is covered in LG 3-8
 ====
-endif::withComments[]
+endif::withRemarks[]

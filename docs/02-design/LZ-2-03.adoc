@@ -10,9 +10,9 @@ Sie erkennen und berücksichtigen:
 * den Einfluss verschiedener Stakeholder
 
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 RR: Stakeholder sind neu. Ich finde dies wichtig zu berücksichtigen, ist ein oft nicht dokumentierter Einflussfaktor
 ====
-endif::withComments[]
+endif::withRemarks[]

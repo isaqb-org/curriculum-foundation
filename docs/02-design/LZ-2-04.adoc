@@ -8,9 +8,9 @@ Softwarearchitekten können:
 
 Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS/CL: leicht umformuliert
 ====
-endif::withComments[]
+endif::withRemarks[]

@@ -7,9 +7,9 @@ Softwarearchitekten kennen die wesentlichen Qualitätsmerkmale technischer Dokum
 
 Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielgruppen beurteilt werden kann.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: _Leser_ durch _Zielgruppe_ ersetzt
 ====
-endif::withComments[]
+endif::withRemarks[]

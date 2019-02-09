@@ -11,9 +11,9 @@ Softwarearchitekten können
 ** Laufzeitflexibilität versus Wartbarkeit
 
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: Beispiele klarer formuliert
 ====
-endif::withComments[]
+endif::withRemarks[]

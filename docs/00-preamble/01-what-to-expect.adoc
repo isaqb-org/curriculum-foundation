@@ -1,4 +1,4 @@
-
+// tag::DE[]
 === Was vermittelt eine Foundation-Level-Schulung?
 Lizenzierte Schulungen zum _Certified Professional for Software Architecture – Foundation Level_ (CPSA-F) vermitteln grundlegende Kenntnisse und Fertigkeiten für den Entwurf einer angemessenen Softwarearchitektur für kleine und mittlere IT-Systeme.
 Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung um relevante Vorgehensweisen, Methoden und Prinzipien für die Entwicklung von Softwarearchitekturen.
@@ -18,3 +18,33 @@ Darüber hinaus behandeln CPSA-F-Schulungen:
 *	die Aufgaben und Verantwortung von Softwarearchitekten,
 *	die Rolle von Softwarearchitekten in Entwicklungsvorhaben,
 *	State-of-the-Art-Methoden und -Praktiken zur Entwicklung von Softwarearchitekturen.
+
+// end::DE[]
+
+// tag::EN[]
+=== What does a Foundation Level training convey?
+Licensed Certified Professional for Software Architecture – Foundation Level (CPSA-F) trainings will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
+Based upon their individual practical experience and existing skills participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
+CPSA-F trainings teach methods and principles for design, documentation and evaluation of software architectures, independent of specific development processes.
+
+Focus is education and training of the following skills:
+
+*	Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
+*	understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
+*	document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
+
+In addition, such trainings cover:
+
+* the term software architecture and its meaning,
+* the tasks and responsibilities of software architects,
+* the roles of software architects within development projects,
+* state-of-the-art methods and techniques for developing software architectures
+
+// end::EN[]
+
+// tag::REMARK[]
+[WARNING]
+====
+TODO: englische Übersetzung prüfen!
+====
+// end::REMARK[]

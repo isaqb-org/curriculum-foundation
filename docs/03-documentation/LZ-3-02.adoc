@@ -7,9 +7,9 @@ Softwarearchitekten:
 * sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
 * kennen den Nutzen von Template-basierter Dokumentation.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: Layout, sprachlich vereinfacht, _Schablone_ entfernt
 ====
-endif::withComments[]
+endif::withRemarks[]

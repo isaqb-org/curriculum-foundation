@@ -5,9 +5,9 @@ Softwarearchitekten können
 * externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen;
 * fachlichen und technischen Kontext differenzieren.
 
-ifdef::withComments[]
+ifdef::withRemarks[]
 [NOTE]
 ====
 GS: Schnittstellen + Kontextdiagramm zugefügt - LZ war sonst so "leer"
 ====
-endif::withComments[]
+endif::withRemarks[]

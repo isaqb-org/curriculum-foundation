@@ -1,2 +1,6 @@
+// tag::DE[]
+
 ==== LZ 5-1: Bezug von Anforderungen zu Lösung erfassen (R3)
 Softwarearchitekten haben an mindestens einem Beispiel den Bezug von Anforderungen und Randbedingungen zu Lösungsentscheidungen erkannt und nachvollzogen.
+
+// end::DE[]

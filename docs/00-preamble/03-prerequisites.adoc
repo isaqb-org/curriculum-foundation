@@ -49,9 +49,9 @@ Furthermore, the following will be useful for understanding several concepts:
 The iSAQB e. V. may check the aforementioned requirements in certification examinations by appropriate questions.
 // end::EN[]
 
-ifdef::withComments[]
-[NOTE]
+// tag::REMARK[]
+[WARNING]
 ====
 GS: we should add some more prerequisites, like push/pull, stack/heap, basic knowledge of a few typical crosscutting technical concepts, like persistence (databases, storage mechanisms), graphical UI (e.g. desktop or web UI)
 ====
-endif::withComments[]
+// end::REMARK[]
