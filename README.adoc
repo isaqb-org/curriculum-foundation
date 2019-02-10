@@ -56,10 +56,13 @@ Work on this curriculum started way back in 2007/2008 - and numerous people cont
 [[copyrighted]]
 == Licensing and Copyright
 
+[IMPORTANT]
+====
 THIS IS COPYRIGHTED WORK.
 
 © (Copyright), https://isaqb.org[International Software Architecture Qualification Board e. V.]
 (iSAQB® e. V.) 2009-2019
+====
 
 The curriculum may only be used subject to the following conditions:
 
