@@ -10,7 +10,7 @@ ext {
 asciidoctor {
    sourceDir = file("./docs/")
    sources {
-      include "foundation-curriculum-DE.adoc"
+      include "foundation-curriculum.adoc"
    }
   outputDir = file("build")
 
