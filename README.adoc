@@ -1,4 +1,6 @@
-= *DRAFT* https://isaqb.org[iSAQB] Foundation Level Curriculum
+= https://isaqb.org[iSAQB] Foundation Level Curriculum
+
+*DRAFT* version!!
 
 Licensed trainings for _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems. 
 
@@ -19,8 +21,10 @@ TODO: add issue templates for bugs, comments, proposals
 
 == Maintainers
 
+image::FLWG-logo.png[width=200,float="left"]
 The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG), consisting of maximum 10 people.
-The FLWG is responsible for maintaining the CPSA-F Curriculum. Major version updates are discussed with the members association prior to publication.
+The FLWG is responsible for maintaining the CPSA-F Curriculum. Major version updates are reviewed and discussed with board and the members association prior to publication.
+
 
 The current (2019) FLWG members are:
 
