@@ -1,6 +1,7 @@
-==== LZ 2-8: Qualitätsziele mit passenden Ansätzen und Techniken erreichen (R2)
+==== LZ 2-8: Qualitätsziele mit passenden Ansätzen und Techniken erreichen (R1)
 
 Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsziele von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden, beispielsweise für:
+
 * Effizienz/Performance
 * Wartbarkeit, Änderbarkeit, Erweiterbarkeit, Flexibilität
 * sie können entsprechende Risiken identifizieren
@@ -10,6 +11,6 @@ ifdef::withRemarks[]
 ====
 GS: Proposal: upgrade to R1
 
-GS: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 des Lehrplanes gehört (und habe es zum neuen LZ 2-8 gemacht)
+GS: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 (statt bisher 5) des Lehrplanes gehört, und habe es zum neuen LZ 2-8 gemacht
 ====
 endif::withRemarks[]
