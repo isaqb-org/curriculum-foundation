@@ -69,10 +69,13 @@ Wolfgang Fahl, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, 
 [[copyrighted]]
 == Licensing and Copyright
 
+[IMPORTANT]
+====
 THIS IS COPYRIGHTED WORK.
 
 © (Copyright), https://isaqb.org[International Software Architecture Qualification Board e. V.]
 (iSAQB® e. V.) 2009-2019
+====
 
 The curriculum may only be used subject to the following conditions:
 
