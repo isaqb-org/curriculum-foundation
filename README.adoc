@@ -16,6 +16,7 @@ TODO: add issue templates for bugs, comments, proposals
 * build with gradle. That will produce html output only. Should be used for personal development or review work only.
 * build with adoc2pdf (which is contained in a distinct repository under the isaqb-org organization)
 
+
 == Maintainers
 
 The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG), consisting of maximum 10 people.
@@ -23,34 +24,46 @@ The FLWG is responsible for maintaining the CPSA-F Curriculum. Major version upd
 
 The current (2019) FLWG members are:
 
-* Dr. Gernot Starke (FLWG chair)
-* Phillip Ghadir (FLWG co-chair)
-* Dr. Carola Lilienthal
 * Mahbouba Gharbi
-* Alexander Lorz
-* Peter Götz
-* Mischa Soujon
+* Dr. Carola Lilienthal
 * Dr. Ulrich Becker
-* Roger Rhoades
+* Phillip Ghadir (FLWG co-chair)
+* Peter Götz
 * Dr. Peter Hruschka
+* Alexander Lorz
+* Roger Rhoades
+* Mischa Soujon
+* Dr. Gernot Starke (FLWG chair)
 
 
 
-== Requirements
+== What does "Foundation Level" cover?
 
-TODO: describe our requirements
+As stated above, _Foundation Level_ covers small to medium-sized software systems.
 
-* adressing (nearly) all types of software systems (e.g. embedded-, real-time-, information-, decision-support, business-intelligence- and similar systems)
-* relying on defined prerequisites (not covering everything)
-* not trying to write a textbook on software architecture
-* ...
+Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements. 
+CPSA-F trainings teach methods and principles for design, communication, documentation and evaluation of software architectures, independent of specific development processes.
 
-== History
+Focus is education and training of the following skills:
 
-TODO: add version history from 2008
+* Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
+* understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
+* document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
+
+In addition, such trainings cover
+
+* the tasks and responsibilities of software architect
+* the term software architecture and its meaning
+* the roles of software architects within development
+* state-of-the-art methods and techniques for developing software architectures
+
 
 == Contributors
 Work on this curriculum started way back in 2007/2008 - and numerous people contributed - either by proposing, crafting and writing content or by commenting, reviewing and otherwise helping to improve.
+
+(alphabetical order, current FLWG members excluded)
+
+Wolfgang Fahl, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, Bettina Tacke, Holger Tiemeyer
 
 
 [[copyrighted]]
