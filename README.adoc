@@ -15,8 +15,10 @@ TODO: add issue templates for bugs, comments, proposals
 
 == How to build the documents
 
-* build with gradle. That will produce html output only. Should be used for personal development or review work only.
-* build with adoc2pdf (which is contained in a distinct repository under the isaqb-org organization)
+* (local) build with gradle. That will produce pdf and html output. Should be used for personal development or review work only. 
+* build with adoc2pdf, based upon Docker (which is contained in a distinct repository[] under the isaqb-org organization).
+
+TODO: migrate adoc2pdf repository from Gitlab to Github
 
 
 == Maintainers
