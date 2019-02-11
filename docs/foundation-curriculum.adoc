@@ -40,4 +40,4 @@ include::03-documentation/00-documentation.adoc[]
 include::04-quality/00-quality.adoc[]
 
 <<<
-include::05-examaples/00-examples.adoc[]
+include::05-examples/00-examples.adoc[]

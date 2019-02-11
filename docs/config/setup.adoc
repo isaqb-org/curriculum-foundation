@@ -20,3 +20,16 @@ endif::withRemarks[]
 // followed by ";REMARK".
 // additional markers might be configured here!
 :include_configuration: tags={language}{remarks}
+
+
+
+ifdef::debug_adoc[]
+[NOTE]
+====
+Document generation configuration:
+
+* Language(s): {language}
+* Document version: {document-version}
+* Include-configuration: {include_configuration}
+====
+endif::debug_adoc[]

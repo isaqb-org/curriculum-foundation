@@ -29,11 +29,18 @@ asciidoctor {
   println "outputDir = " + outputDir
   println "sourceDir = " + sourceDir
 
-  attributes \
-      'doctype'       : 'book',
-      'icons'         : 'font',
-      'currentDate'   : "$currentDate",
-      'pdf-stylesdir' : '../style/themes',
-      'pdf-style'     : 'isaqb'
-   
+  attributes = [
+      doctype       : 'book',
+      icons         : 'font',
+      currentDate   : '$currentDate',
+
+      debug_adoc         : true,
+      'document-version' : "5.0 DRAFT ($currentDate)",
+      'withRemarks'      : true,
+      'language'         : 'EN',
+      'pdf-stylesdir'    : '../style/themes',
+      'pdf-style'        : 'isaqb'
+  ]
 }
+
+defaultTasks 'asciidoctor'
