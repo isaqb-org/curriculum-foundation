@@ -12,9 +12,19 @@
 ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
+
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
+
+ifeval::[{language} == "all"]
+:language: "DE;EN"
+
+[NOTE]
+====
+Several languages have been configured, but the language-specific headings (like "Table of Contents" will be displayed in a single language only (currently set to EN))
+====
+endif::[]
 
 // ":include_configuration:" always consists of the language, eventually
 // followed by ";REMARK".
@@ -22,11 +32,11 @@ endif::withRemarks[]
 :include_configuration: tags={language}{remarks}
 
 
-
+// you might want to output some internal information...
 ifdef::debug_adoc[]
 [NOTE]
 ====
-Document generation configuration:
+Current configuration:
 
 * Language(s): {language}
 * Document version: {document-version}
