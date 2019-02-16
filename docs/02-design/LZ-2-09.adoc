@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1)
 Softwarearchitekten kennen
 
@@ -10,11 +12,16 @@ Softwarearchitekten kennen
 ** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+
 [NOTE]
 ====
-GS: wieder zu 2-9 gemacht
-GS/CL: in 2-8 umbenannt, und das bisherige 2-8 entfernt.
 GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
 ====
-endif::withRemarks[]
+// end::REMARK[]

@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 1-9: Zuständigkeit von Softwarearchitekten in organisatorischen Kontext einordnen (R3)
 
 Softwarearchitekten kennen weitere Architekturdomänen, beispielsweise:
@@ -11,3 +13,12 @@ Die folgenden Architekturdomänen sich nicht inhaltlicher Fokus vom CPSA-F:
 *	Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
 *	Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
 *	Hardwarearchitektur (für hardwarenahe Systeme)
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

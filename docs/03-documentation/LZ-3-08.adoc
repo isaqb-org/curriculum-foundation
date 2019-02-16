@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R2)
 
 Softwarearchitekten können:
@@ -5,9 +6,16 @@ Softwarearchitekten können:
 * Architekturentscheidungen systematisch herleiten, begründen, kommunizieren und dokumentieren;
 * gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren.
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: wording: += kommunizieren, begründen
 ====
 endif::withRemarks[]
+// end::REMARK[]

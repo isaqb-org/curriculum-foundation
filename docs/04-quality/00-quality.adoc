@@ -1,22 +1,20 @@
-==	Softwarearchitektur und Qualität
+// header file for curriculum section 4:
+// Quality
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
 
-|===
-| Dauer: 60 Min. | Übungszeit: 60 Min.
-|===
+include::./01-quality-duration-terms.adoc[{include_configuration}]
 
-=== Wichtige Begriffe
+=== {learning_goals}
 
-Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, ATAM, Szenarien, Qualitätsbaum, Kompromisse/Wechselwirkungen von Qualitätseigenschaften, qualitative Architekturbewertung, Metriken und quantitative Bewertung
 
-=== Lernziele
+include::./LZ-4-1.adoc[{include_configuration}]
 
-include::./LZ-4-1.adoc[]
+include::./LZ-4-2.adoc[{include_configuration}]
 
-include::./LZ-4-2.adoc[]
+include::./LZ-4-3.adoc[{include_configuration}]
 
-include::./LZ-4-3.adoc[]
-
-include::./LZ-4-4.adoc[]
+include::./LZ-4-4.adoc[{include_configuration}]
 
 === Referenzen
 

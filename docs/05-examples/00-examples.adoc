@@ -1,13 +1,12 @@
-== Beispiele für Softwarearchitekturen
+// header file for curriculum section 5:
+// Examples
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
 
-|===
-| Dauer: 60 Min. | Übungszeit: Keine.
-|===
+include::./01-examples-duration-terms.adoc[{include_configuration}]
 
-Dieser Abschnitt ist nicht prüfungsrelevant.
+=== {learning_goals}
 
-=== Lernziele
+include::./LZ-5-1.adoc[{include_configuration}]
 
-include::./LZ-5-1.adoc[]
-
-include::./LZ-5-2.adoc[]
+include::./LZ-5-2.adoc[{include_configuration}]

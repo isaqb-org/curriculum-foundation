@@ -1,4 +1,4 @@
-
+// tag::DE[]
 ==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1)
 
 Softwarearchitekten:
@@ -7,9 +7,15 @@ Softwarearchitekten:
 * sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
 * kennen den Nutzen von Template-basierter Dokumentation.
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: Layout, sprachlich vereinfacht, _Schablone_ entfernt
 ====
-endif::withRemarks[]
+// end::REMARK[]

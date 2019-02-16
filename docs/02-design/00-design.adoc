@@ -1,34 +1,31 @@
+// header file for curriculum section 2: Design
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
 
-== Entwurf und Entwicklung von Softwarearchitekturen
+include::./01-design-duration-terms.adoc[{include_configuration}]
 
-|===
-| Dauer: 300 Min. | Übungszeit: 90 Min.
-|===
+=== {learning_goals}
 
-
-=== Wesentliche Begriffe
-
-Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven Design
 
 === Lernziele
 
-include::./LZ-2-01.adoc[]
+include::./LZ-2-01.adoc[{include_configuration}]
 
-include::./LZ-2-02.adoc[]
+include::./LZ-2-02.adoc[{include_configuration}]
 
-include::./LZ-2-03.adoc[]
+include::./LZ-2-03.adoc[{include_configuration}]
 
-include::./LZ-2-04.adoc[]
+include::./LZ-2-04.adoc[{include_configuration}]
 
-include::./LZ-2-05.adoc[]
+include::./LZ-2-05.adoc[{include_configuration}]
 
-include::./LZ-2-06.adoc[]
+include::./LZ-2-06.adoc[{include_configuration}]
 
-include::./LZ-2-07.adoc[]
+include::./LZ-2-07.adoc[{include_configuration}]
 
-include::./LZ-2-08.adoc[]
+include::./LZ-2-08.adoc[{include_configuration}]
 
-include::./LZ-2-09.adoc[]
+include::./LZ-2-09.adoc[{include_configuration}]
 
 === Referenzen
 

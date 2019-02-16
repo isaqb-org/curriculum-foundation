@@ -1,3 +1,4 @@
+// tag::DE[]
 
 ==== LZ 1-10: Typen von IT-Systemen unterscheiden (R3)
 
@@ -8,3 +9,13 @@ Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweis
 *	Mobile Systeme
 *	Batchprozesse oder -systeme
 *	hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwurf).
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

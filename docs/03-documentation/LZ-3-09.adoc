@@ -1,11 +1,17 @@
+// tag::DE[]
 ==== LZ 3-9: Dokumentation als schriftliche Kommunikation nutzen (R2)
 
 Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen.
 
+// end::DE[]
 
-ifdef::withRemarks[]
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: Redundanz zu LZ 3-2 entfernt, _Weiterentwicklung_ und Synonyme aufgenommen.
 ====
-endif::withRemarks[]
+// end::REMARK[]

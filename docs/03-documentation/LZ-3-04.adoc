@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 3-4: Architektursichten erläutern und anwenden (R1)
 Softwarearchitekten können folgende Architektursichten anwenden:
 
@@ -5,3 +6,13 @@ Softwarearchitekten können folgende Architektursichten anwenden:
 * Baustein- oder Komponentensicht (Aufbau des Systems aus Softwarebausteinen)
 * Laufzeitsicht (dynamische Sicht, Zusammenwirken der Softwarebausteine zur Laufzeit, Zustandsmodelle)
 * Verteilungs-/Deploymentsicht (Hardware und technische Infrastruktur sowie Abbildung von Softwarebausteinen auf diese Infrastruktur)
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

@@ -19,8 +19,8 @@ ext {
 }
 
 asciidoctor {
-   backends 'pdf'
-   sourceDir = file("./docs/")
+  backends 'pdf', 'html5'
+  sourceDir = file("./docs/")
    sources {
       include "foundation-curriculum.adoc"
    }
@@ -33,13 +33,20 @@ asciidoctor {
       doctype       : 'book',
       icons         : 'font',
       currentDate   : '$currentDate',
-
       debug_adoc         : true,
-      'document-version' : "5.0 DRAFT ($currentDate)",
-      'withRemarks'      : true,
-      'language'         : 'EN',
-      'pdf-stylesdir'    : '../style/themes',
-      'pdf-style'        : 'isaqb'
+     'document-version' : "5.0 DRAFT ($currentDate)",
+
+     // if you want to render the comments/remarks?
+     //    then uncomment the following line;
+     //    else comment the following line
+     'withRemarks'      : true,
+
+     // what language(s) do you want to render? DE, EN?
+     'language'         : "DE",  // options are "DE", "EN" or "DE;EN"
+
+     // where are the (custom) pdf style definitions and fonts located
+     'pdf-stylesdir'    : '../style/themes',
+     'pdf-style'        : 'isaqb'
   ]
 }
 

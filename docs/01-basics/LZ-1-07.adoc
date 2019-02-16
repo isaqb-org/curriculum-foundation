@@ -1,3 +1,4 @@
+// tag::DE[]
 
 ==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)
 
@@ -6,11 +7,17 @@ Softwarearchitekten können:
 * auf Basis bestehender Anforderungen Architekturziele identifizieren und präzisieren;
 * langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären.
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS/CL: Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
 
 RR: Removed redundancies, especially with LG 2-3
 ====
-endif::withRemarks[]
+// end::REMARK[]

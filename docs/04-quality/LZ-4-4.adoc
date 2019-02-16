@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2)
 
 Softwarearchitekten kennen Ansätze zur quantitativen Bewertung (Messung) von Software.
@@ -11,9 +12,15 @@ Sie wissen, dass:
 ** Testfälle und Testergebnisse
 ** Anforderungs- und Lösungsmodelle
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: nur wording angepasst
 ====
-endif::withRemarks[]
+// end::REMARK[]

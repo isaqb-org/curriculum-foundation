@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2 5: Wichtige Architekturmuster und Architekturstile beschreiben, erklären und angemessen anwenden (R1-R3)
 
 Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
@@ -17,12 +19,20 @@ Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsge
 
 Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+
 [NOTE]
 ====
 GS/CL: deutlich verkleinert, Begriff "Stile" entfernt
 
 RR: I’ve seen people differentiate between architecture styles and patterns. I don’t think the difference is important enough to differentiate. I do make a difference between architecture patterns and design patterns, but it’s not always clear if a pattern is an architecture pattern, a design pattern, or both.
+
 I suggest using “architecture-level design patterns” or simply “architecture and design patterns”. – or simply “architecture pattern” / “Architekturmuster”
 ====
-endif::withRemarks[]
+// end::REMARK[]

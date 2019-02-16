@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 3-5: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
 Softwarearchitekten können
 
@@ -5,9 +6,15 @@ Softwarearchitekten können
 * externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen;
 * fachlichen und technischen Kontext differenzieren.
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: Schnittstellen + Kontextdiagramm zugefügt - LZ war sonst so "leer"
 ====
-endif::withRemarks[]
+// end::REMARK[]

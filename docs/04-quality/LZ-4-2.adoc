@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen klären (R1)
 
 Softwarearchitekten können:
@@ -5,12 +6,17 @@ Softwarearchitekten können:
 * spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und konkret formulieren, beispielsweise in Form von Szenarien und Qualitätsbäumen;
 * Szenarien und Qualitätsbäume erklären und anwenden;
 
+// end::DE[]
 
-ifdef::withRemarks[]
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: Formulierung angepasst
 
 RR: We don’t (shouldn’t) define (formulieren) quality requirements. This is the customer’s job. We shouldn’t define how fast, secure, etc. a system should be.
 ====
-endif::withRemarks[]
+// end::REMARK[]

@@ -8,6 +8,8 @@ include::config/setup.adoc[]
 :document-version: 5.0-DRAFT 2019
 
 // define terms for toc, learning_goals
+// will have strange results if multiple languages
+// have been configured (e.g. "DE;EN")
 include::config/i18n-definitions.adoc[{language}]
 
 ifdef::backend-pdf[]

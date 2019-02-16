@@ -6,13 +6,6 @@
 
 // the following attributes should be set by the build-process
 
-// if the attribute ":withRemarks:" is set, we amend every content-include
-// by ";REMARK", so that the sections tagged "REMARK" are always included.
-:withRemarks!:
-ifdef::withRemarks[]
-:remarks: ;REMARK
-endif::withRemarks[]
-
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
@@ -25,6 +18,13 @@ ifeval::[{language} == "all"]
 Several languages have been configured, but the language-specific headings (like "Table of Contents" will be displayed in a single language only (currently set to EN))
 ====
 endif::[]
+
+
+// if the attribute ":withRemarks:" is set, we amend every content-include
+// by ";REMARK", so that the sections tagged "REMARK" are always included.
+ifdef::withRemarks[]
+:remarks: ;REMARK
+endif::withRemarks[]
 
 // ":include_configuration:" always consists of the language, eventually
 // followed by ";REMARK".
@@ -40,6 +40,7 @@ Current configuration:
 
 * Language(s): {language}
 * Document version: {document-version}
+* with remarks: {withRemarks}
 * Include-configuration: {include_configuration}
 ====
 endif::debug_adoc[]

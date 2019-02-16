@@ -1,37 +1,34 @@
-==	Beschreibung und Kommunikation von Softwarearchitekturen
+// header file for curriculum section 3:
+// Documentation and Communication
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
 
-|===
-| Dauer: 150 Min. | Übungszeit: 90 Min.
-|===
+include::./01-documentation-duration-terms.adoc[{include_configuration}]
 
-===	Wichtige Begriffe
-
-Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschreibung, zielgruppen- oder stakeholdergerecht, Meta-Strukturen und Templates zur Beschreibung und Kommunikation, Kontextabgrenzung, Bausteine, Bausteinsicht, Laufzeitsicht, Verteilungssicht, Knoten, Kanal, Verteilungsartefakte, Mapping von Bausteinen auf Verteilungsartefakte, Beschreibung von Schnittstellen und Entwurfsentscheidungen, UML, Werkzeuge zur Dokumentation
+=== {learning_goals}
 
 
-===	Lernziele
+include::./LZ-3-01.adoc[{include_configuration}]
 
-include::./LZ-3-01.adoc[]
+include::./LZ-3-02.adoc[{include_configuration}]
 
-include::./LZ-3-02.adoc[]
+include::./LZ-3-03.adoc[{include_configuration}]
 
-include::./LZ-3-03.adoc[]
+include::./LZ-3-04.adoc[{include_configuration}]
 
-include::./LZ-3-04.adoc[]
+include::./LZ-3-05.adoc[{include_configuration}]
 
-include::./LZ-3-05.adoc[]
+include::./LZ-3-06.adoc[{include_configuration}]
 
-include::./LZ-3-06.adoc[]
+include::./LZ-3-07.adoc[{include_configuration}]
 
-include::./LZ-3-07.adoc[]
+include::./LZ-3-08.adoc[{include_configuration}]
 
-include::./LZ-3-08.adoc[]
+include::./LZ-3-08.adoc[{include_configuration}]
 
-include::./LZ-3-08.adoc[]
+include::./LZ-3-09.adoc[{include_configuration}]
 
-include::./LZ-3-09.adoc[]
-
-include::./LZ-3-10.adoc[]
+include::./LZ-3-10.adoc[{include_configuration}]
 
 === Referenzen
 

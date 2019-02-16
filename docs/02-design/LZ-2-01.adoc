@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)
 Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
@@ -8,3 +10,12 @@ Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwickl
 **	Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
 **	Rückmeldungen zu Entwurfsentscheidungen auf Basis von Quellcode sowie qualitativer Betrachtung
 *	Top-down- und Bottom-Up-Vorgehen beim Entwurf
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

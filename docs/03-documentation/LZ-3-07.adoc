@@ -1,11 +1,18 @@
+// tag::DE[]
 ==== LZ 3-7: Schnittstellen beschreiben (R1)
 
 Softwarearchitekten können sowohl interne als auch externe Schnittstellen beschreiben und spezifizieren
 
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS/RR: Redundanz zu Kapitel 2 behoben.
 ====
-endif::withRemarks[]
+// end::REMARK[]

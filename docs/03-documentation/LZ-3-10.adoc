@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 3-10: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
 Softwarearchitekten kennen:
@@ -12,10 +13,16 @@ Softwarearchitekten kennen:
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: C4 aufgenommen (von Simon Brown)
 GS/RR: TOGAF entfernt
 ====
-endif::withRemarks[]
+// end::REMARK[]

@@ -1,3 +1,4 @@
+// tag::DE[]
 
 ==== LZ 1-5: Rolle von Softwarearchitekten in Beziehung zu anderen Stakeholdern setzen (R1)
 Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern kontextspezifisch ausgestalten, insbesondere zu:
@@ -10,3 +11,13 @@ Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systement
 *	IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
 *	Hardwareentwicklung
 *	Unternehmensarchitektur, Architekturboard
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2-7: Abhängigkeiten von Bausteinen planen (R1)
 
 Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen:
@@ -7,6 +9,16 @@ Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen u
 * Sie kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
 ** Muster, siehe Lernziel 2-5
 ** Grundlegende Entwurfsprinzipien, siehe Lernziel 2-6
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]
 
 
 ifdef::withRemarks[]

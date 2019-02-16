@@ -1,0 +1,20 @@
+// tag::DE[]
+==	Softwarearchitektur und Qualität
+
+|===
+| Dauer: 60 Min. | Übungszeit: 60 Min.
+|===
+
+=== Wichtige Begriffe
+
+Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, ATAM, Szenarien, Qualitätsbaum, Kompromisse/Wechselwirkungen von Qualitätseigenschaften, qualitative Architekturbewertung, Metriken und quantitative Bewertung
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

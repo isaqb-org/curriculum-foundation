@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1)
 Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwenden:
 
@@ -14,3 +16,13 @@ Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwe
 * konzeptioneller Integrität zur Erreichung der Gleichförmigkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme (R2)
 
 Softwarearchitekten verstehen die Einflüsse der Entwurfsprinzipien auf Quellcode und können diese gezielt einsetzen.
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

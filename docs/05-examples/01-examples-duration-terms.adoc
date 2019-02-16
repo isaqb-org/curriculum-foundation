@@ -1,0 +1,18 @@
+// tag::DE[]
+== Beispiele für Softwarearchitekturen
+
+|===
+| Dauer: 60 Min. | Übungszeit: Keine.
+|===
+
+Dieser Abschnitt ist nicht prüfungsrelevant.
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

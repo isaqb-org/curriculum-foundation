@@ -10,18 +10,18 @@ include::./LZ-1-01.adoc[{include_configuration}]
 
 include::./LZ-1-02.adoc[{include_configuration}]
 
-include::./LZ-1-03.adoc[]
+include::./LZ-1-03.adoc[{include_configuration}]
 
-include::./LZ-1-04.adoc[]
+include::./LZ-1-04.adoc[{include_configuration}]
 
-include::./LZ-1-05.adoc[]
+include::./LZ-1-05.adoc[{include_configuration}]
 
-include::./LZ-1-06.adoc[]
+include::./LZ-1-06.adoc[{include_configuration}]
 
-include::./LZ-1-07.adoc[]
+include::./LZ-1-07.adoc[{include_configuration}]
 
-include::./LZ-1-08.adoc[]
+include::./LZ-1-08.adoc[{include_configuration}]
 
-include::./LZ-1-09.adoc[]
+include::./LZ-1-09.adoc[{include_configuration}]
 
-include::./LZ-1-10.adoc[]
+include::./LZ-1-10.adoc[{include_configuration}]

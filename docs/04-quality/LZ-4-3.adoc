@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 4-3: Softwarearchitekturen qualitativ analysieren und bewerten (R2-R3)
 Softwarearchitekten:
 
@@ -10,7 +11,13 @@ Softwarearchitekten:
 ** Quellcode
 ** Metriken
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS: += _analysieren_ im Titel, ATAM auf R3
@@ -19,4 +26,4 @@ FLWG: ATAM nur noch exemplarisch
 
 RR: Vorgehen ist mir weniger wichtig als die Ziele und Ergebnisse von ATAM
 ====
-endif::withRemarks[]
+// end::REMARK[]

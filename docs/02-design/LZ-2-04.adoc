@@ -1,3 +1,5 @@
+// tag::DE[]
+
 ==== LZ 2-4: Querschnittskonzepte entwerfen und umsetzen (R1)
 
 Softwarearchitekten können:
@@ -8,9 +10,15 @@ Softwarearchitekten können:
 
 Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
 
-ifdef::withRemarks[]
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
 [NOTE]
 ====
 GS/CL: leicht umformuliert
 ====
-endif::withRemarks[]
+// end::REMARK[]

@@ -1,3 +1,4 @@
+// tag::DE[]
 ==== LZ 1-1: Definitionen von Softwarearchitektur diskutieren (R1)
 Softwarearchitekten kennen mehrerer Definitionen von Softwarearchitektur (u. a. ISO 42010/IEEE 1471, SEI, Booch etc.) und können deren Gemeinsamkeiten benennen:
 
@@ -5,3 +6,13 @@ Softwarearchitekten kennen mehrerer Definitionen von Softwarearchitektur (u. a. 
 *	Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
 *	Strukturen, Querschnittskonzepte, Prinzipien
 *	Architekturentscheidungen mit systemweiten oder den gesamten Lebenszyklus betreffenden Konsequenzen
+
+
+// end::DE[]
+
+// tag::EN[]
+
+// end::EN[]
+
+// tag::REMARK[]
+// end::REMARK[]

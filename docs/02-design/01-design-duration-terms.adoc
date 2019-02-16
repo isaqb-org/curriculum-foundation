@@ -1,0 +1,31 @@
+// tag::DE[]
+
+== Entwurf und Entwicklung von Softwarearchitekturen
+
+|===
+| Dauer: 300 Min. | Übungszeit: 90 Min.
+|===
+
+
+=== Wesentliche Begriffe
+
+Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven Design
+
+// end::DE[]
+
+// tag::EN[]
+== Advanced Mathematics
+
+|===
+| Duration: 120 Min. | Excercises: 60 Min.
+|===
+
+
+=== Important Terms
+Tensor, Integral, Matrix, Eigenvalue, Vector, Hyperspace
+
+// end::EN[]
+
+
+// tag::REMARK[]
+// end::REMARK[]
