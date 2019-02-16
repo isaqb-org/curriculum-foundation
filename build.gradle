@@ -45,7 +45,7 @@ asciidoctor {
      'language'         : "DE",  // options are "DE", "EN" or "DE;EN"
 
      // where are the (custom) pdf style definitions and fonts located
-     'pdf-stylesdir'    : '../style/themes',
+     'pdf-stylesdir'    : '../pdf-theme/themes',
      'pdf-style'        : 'isaqb'
   ]
 }
