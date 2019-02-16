@@ -22,7 +22,6 @@ Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegri
 
 Bei Bedarf enthalten die Lernziele Verweise auf weiterführende Literatur, Standards oder andere Quellen.
 Die Abschnitte "Begriffe und Konzepte" zu Beginn jedes Kapitels zeigen Worte, die mit dem Inhalt des Kapitels in Verbindung stehen und z. T. auch in den Lernzielen verwendet werden.
-Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben genannten Voraussetzungen durch entsprechende Fragen prüfen. 
 // end::DE[]
 
 // tag::EN[]

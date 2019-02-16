@@ -1,4 +1,4 @@
-
+<<<
 // tag::DE[]
 === Voraussetzungen
 Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:

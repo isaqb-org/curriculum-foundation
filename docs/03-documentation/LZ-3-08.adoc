@@ -17,5 +17,5 @@ Softwarearchitekten können:
 ====
 GS: wording: += kommunizieren, begründen
 ====
-endif::withRemarks[]
+
 // end::REMARK[]
