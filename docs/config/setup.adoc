@@ -22,6 +22,8 @@ endif::[]
 
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
+:withRemarks!:
+:remarks: 
 ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
