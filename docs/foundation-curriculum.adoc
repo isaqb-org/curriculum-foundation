@@ -1,10 +1,9 @@
 = Curriculum für CPSA Certified Professional for Software Architecture® : - *Foundation Level* -
-:doctype: book
-
 // handle numerous attributes. Successful inclusion of this file
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
 
+// document-version should be set by the build process
 :document-version: 5.0-DRAFT 2019
 
 // define terms for toc, learning_goals
@@ -22,7 +21,8 @@ endif::[]
 include::00-preamble/copyright.adoc[{include_configuration}]
 
 <<<
-:toc:
+// put table of contents right behind copyright page    
+toc::[]
 
 <<<
 :sectnums!:

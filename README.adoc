@@ -1,4 +1,14 @@
 = https://isaqb.org[iSAQB] Foundation Level Curriculum
+:toc:
+:toc-placement!:
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 *DRAFT* version!!
 
@@ -8,6 +18,7 @@ This repository contains the *curriculum* for the upcoming version 5 of CPSA-F (
 
 This is <<copyrighted,copyrighted work>>.
 
+toc::[]
 == How to contribute or participate
 You found a bug in one of the published versions, have remarks, comments or proposals?
 

@@ -1,24 +1,9 @@
-:experimental:
-:reproducible:
+:doctype: book
 :icons: font
-:toc:
 :sectnumlevels: 1
 
-// the following attributes should be set by the build-process
-
-// ":language:" denotes the language or the target document.
-// currently only DE and EN are supported
-:language: DE
-
-ifeval::[{language} == "all"]
-:language: "DE;EN"
-
-[NOTE]
-====
-Several languages have been configured, but the language-specific headings (like "Table of Contents" will be displayed in a single language only (currently set to EN))
-====
-endif::[]
-
+// table-of-contents placement does not work in pdf, but in html
+:toc: left
 
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
@@ -27,6 +12,17 @@ endif::[]
 ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
+
+// ":language:" denotes the language or the target document.
+// currently only DE and EN are supported
+:language: DE
+
+ifeval::["{language}" == "DE;EN"]
+[NOTE]
+====
+Several languages have been configured, but the language-specific headings (like "Table of Contents" will be displayed in a single language only (currently set to EN))
+====
+endif::[]
 
 // ":include_configuration:" always consists of the language, eventually
 // followed by ";REMARK".
@@ -42,7 +38,6 @@ Current configuration:
 
 * Language(s): {language}
 * Document version: {document-version}
-* with remarks: {withRemarks}
 * Include-configuration: {include_configuration}
 ====
 endif::debug_adoc[]
