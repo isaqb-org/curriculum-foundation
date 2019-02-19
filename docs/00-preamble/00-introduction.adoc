@@ -11,4 +11,5 @@ include::03-prerequisites.adoc[{include_configuration}]
 <<<
 include::04-structure-timing-didactics.adoc[{include_configuration}]
 
+<<<
 include::05-exam-relevance-levels.adoc[{include_configuration}]

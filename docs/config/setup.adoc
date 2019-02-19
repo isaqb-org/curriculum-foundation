@@ -1,6 +1,9 @@
 :doctype: book
 :icons: font
 :sectnumlevels: 1
+:imagesdir: ./images
+:figure-caption!:
+
 
 // table-of-contents placement does not work in pdf, but in html
 :toc: left
