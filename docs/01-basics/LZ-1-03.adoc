@@ -6,15 +6,23 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 ==== LZ 1-3: Softwarearchitektur in Software-Lebenszyklus einordnen (R2)
 
-Softwarearchitektur in die gesamte Entwicklung von IT-Systemen einordnen:
+Softwarearchitekten können Ihre Aufgaben und Ergebnisse in die gesamte Entwicklung von IT-Systemen einordnen. 
+Sie können:
 
-* Zusammenhang mit Geschäfts- und Betriebsprozessen für beispielsweise Informationssysteme und Entscheidungsunterstützungssysteme (Data Warehouse, Management Information Systems) oder anderen Arten von Systemen herstellen.
+* Zusammenhänge zu Geschäfts- und Betriebsprozessen für beispielsweise Informationssysteme und Entscheidungsunterstützungssysteme (Data Warehouse, Management Information Systems) oder anderen Arten von Systemen herstellen;
 * Konsequenzen von Änderungen bei Anforderungen, Qualitätszielen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen.
 
 
 // end::DE[]
 
 // tag::EN[]
+==== LG 1-3: Understand software architecture as part of the software life cycle (R2)
+
+Software architects can understand their tasks and results into the overall lifeycle of IT systems. 
+They can:
+
+* establish relationships with business and operational processes for information systems and decision support systems (data warehouse, management information systems), for example, or other types of systems;
+* identify the consequences of changes in requirements, quality objectives, technologies or the system environment in relation to software architecture.
 
 // end::EN[]
 
@@ -23,6 +31,8 @@ Softwarearchitektur in die gesamte Entwicklung von IT-Systemen einordnen:
 [NOTE]
 ====
 RR: I’m not sure myself what these points are getting at.
+
+GS (Feb 2019): I'd prefer to replace "in die gesamte Entwicklung" by "Lifecycle" (intro sentence)
 ====
 
 // end::REMARK[]
