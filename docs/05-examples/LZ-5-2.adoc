@@ -10,6 +10,8 @@ Softwarearchitekten können für mindestens ein Beispiel die technische Umsetzun
 // end::DE[]
 
 // tag::EN[]
+==== LG 5-2: Know the rationale of a solution's technical implementation (R3)
+Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one software system.
 
 // end::EN[]
 
