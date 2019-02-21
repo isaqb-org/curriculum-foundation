@@ -9,7 +9,7 @@ buildscript {
     }
 }
 plugins {
-  id "org.asciidoctor.convert" version "1.5.9.2"
+  id "org.asciidoctor.convert" version "1.6.0"
 
 }
 
@@ -47,7 +47,7 @@ asciidoctor {
      'withFeedback'     : true,
 
      // what language(s) do you want to render? DE, EN?
-     'language'         : "DE",  // options are "DE", "EN" or "DE;EN"
+     'language'         : "DE;EN",  // options are "DE", "EN" or "DE;EN"
 
      // where are the (custom) pdf style definitions and fonts located
      'pdf-stylesdir'    : '../pdf-theme/themes',
