@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/LZ-1-06.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 
 ==== LZ 1-6: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern (R1)

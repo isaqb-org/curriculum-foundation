@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 03-documentation/LZ-3-04.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 ==== LZ 3-4: Architektursichten erläutern und anwenden (R1)
 Softwarearchitekten können folgende Architektursichten anwenden:

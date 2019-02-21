@@ -1,3 +1,7 @@
+// tag::FEEDBACK[]
+:filename: 00-preamble/04-structure-timing-didactics.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
 
 // tag::DE[]
 === Struktur, Dauer, Didaktik und weitere Details lizenzierter Schulungen

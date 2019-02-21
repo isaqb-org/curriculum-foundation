@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/LZ-1-08.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 
 ==== LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)

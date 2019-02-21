@@ -1,3 +1,7 @@
+// tag::FEEDBACK[]
+:filename: 00-preamble/copyright.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
 
 [discrete]
 

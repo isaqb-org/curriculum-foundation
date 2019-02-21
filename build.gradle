@@ -41,6 +41,11 @@ asciidoctor {
      //    else comment the following line
      'withRemarks'      : true,
 
+     // if you want to render the "improve this doc" links
+     //    then uncomment the following line;
+     //    else comment the following line
+     'withFeedback'     : true,
+
      // what language(s) do you want to render? DE, EN?
      'language'         : "DE",  // options are "DE", "EN" or "DE;EN"
 

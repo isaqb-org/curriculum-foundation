@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 02-design/LZ-2-01.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 
 ==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)

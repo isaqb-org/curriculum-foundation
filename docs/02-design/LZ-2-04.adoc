@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 02-design/LZ-2-04.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 
 ==== LZ 2-4: Querschnittskonzepte entwerfen und umsetzen (R1)

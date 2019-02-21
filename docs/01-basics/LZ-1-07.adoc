@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/LZ-1-07.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 
 ==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)

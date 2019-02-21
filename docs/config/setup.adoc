@@ -11,10 +11,18 @@
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by ";REMARK", so that the sections tagged "REMARK" are always included.
 :withRemarks!:
-:remarks: 
+:remarks:
 ifdef::withRemarks[]
 :remarks: ;REMARK
 endif::withRemarks[]
+
+// if the attribute ":withFeedback:" is set, we include buttons to give
+// feedback to specific content sections.
+:withFeedback!:
+:feedback:
+ifdef::withFeedback[]
+:feedback: ;FEEDBACK
+endif::withFeedback[]
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
@@ -30,7 +38,7 @@ endif::[]
 // ":include_configuration:" always consists of the language, eventually
 // followed by ";REMARK".
 // additional markers might be configured here!
-:include_configuration: tags={language}{remarks}
+:include_configuration: tags={language}{remarks}{feedback}
 
 
 // you might want to output some internal information...

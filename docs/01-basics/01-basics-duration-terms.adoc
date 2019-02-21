@@ -1,3 +1,8 @@
+// tag::FEEDBACK[]
+:filename: 01-basics/01-basics-duration-terms.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
 // tag::DE[]
 == Grundbegriffe
 

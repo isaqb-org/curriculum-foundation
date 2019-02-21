@@ -7,6 +7,10 @@ include::config/setup.adoc[]
 // document-version should be set by the build process
 :document-version: 5.0-DRAFT 2019
 
+// this is the base URL for the "improve this doc" links that directly link
+// to the source files in our repository
+:project-repository-docs-edit-link: https://github.com/isaqb-org/curriculum-foundation/blob/master/docs/
+
 // define terms for toc, learning_goals
 // will have strange results if multiple languages
 // have been configured (e.g. "DE;EN")
@@ -22,7 +26,7 @@ endif::[]
 include::00-preamble/copyright.adoc[{include_configuration}]
 
 <<<
-// put table of contents right behind copyright page    
+// put table of contents right behind copyright page
 toc::[]
 
 <<<
