@@ -11,13 +11,20 @@ include::../config/_feedback.adoc[]
 |===
 
 === Wichtige Begriffe
-
-Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, ATAM, Szenarien, Qualitätsbaum, Kompromisse/Wechselwirkungen von Qualitätseigenschaften, qualitative Architekturbewertung, Metriken und quantitative Bewertung
+Qualität, Qualitätsmerkmale, DIN/ISO 9126 bzw. 25010, Qualitätsszenarien, Qualitätsbaum, Kompromisse/Wechselwirkungen von Qualitätseigenschaften, qualitative Architekturbewertung, Metriken und quantitative Bewertung
 
 
 // end::DE[]
 
 // tag::EN[]
+== Software architecture and quality
+
+|===
+| Duration: 60 Min. | Exercises: 60 min.
+|===
+
+=== Terms and concepts
+Quality; quality characteristics; DIN/ISO 9126 resp. 25010; quality scenarios; quality tree; compromises (when implementing quality characteristics); evaluation of software architectures (qualitative and quantitative)
 
 // end::EN[]
 
