@@ -17,8 +17,19 @@ Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschr
 // end::DE[]
 
 // tag::EN[]
+== 3 Specification and communication of software architectures
 
+|===
+| Duration: 150 min. | Exercises: 90 min.
+|===
+
+=== Terms and concepts
+Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment units; mapping building blocks onto deployment units; description of interfaces and design decisions; UML, tools for documentation
 // end::EN[]
 
 // tag::REMARK[]
+[IMPORTANT]
+====
+GS (Feb. 2019): Why do we have ";" semicolons in EN and comma in DE?
+====
 // end::REMARK[]
