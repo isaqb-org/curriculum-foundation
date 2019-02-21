@@ -17,6 +17,15 @@ Softwarearchitektur, Architekturdomänen, Struktur, Bausteine/Komponenten, Schni
 // end::DE[]
 
 // tag::EN[]
+== Basic concepts of software architecture
+
+|===
+| Duration: 120 Min. | Exercises: keine
+|===
+
+=== Terms and concepts
+Software architecture; architecture domains, structure; building blocks/components; interfaces; relationships; cross-cutting concerns; architecture objectives; software architects and their responsibilities; tasks and required skills; stakeholders and their concerns; functional and quality requirements of systems; constraints; influencing factors; types of IT systems (embedded systems, real-time systems, information systems etc.)
+
 
 // end::EN[]
 
