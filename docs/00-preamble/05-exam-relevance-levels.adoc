@@ -35,7 +35,7 @@ Die Abschnitte "Begriffe und Konzepte" zu Beginn jedes Kapitels zeigen Worte, di
 // tag::EN[]
 === Learning goals and relevance for the examination
 The structure of the curriculum's chapters follows a set of prioritized learning goals. 
-For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R-1/R-2/R-3 classification, see table).
+For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R1/R2/R3 classification, see the table below).
 Every learning goal describes the contents to be taught including their key terms and concepts.
 
 Regarding relevance for the examination, the following categories are used in this curriculum:
@@ -54,7 +54,7 @@ Regarding relevance for the examination, the following categories are used in th
 | *Contents will be part of the examination.*.
 
 | Understanding ...
-|	R2
+| R2
 | These are the contents participants are expected to understand in principle. 
 They will normally not be the primary focus of exercises in training.
 | *Contents may be part of the examination.*
