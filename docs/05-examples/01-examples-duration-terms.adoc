@@ -16,6 +16,10 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 // end::DE[]
 
 // tag::EN[]
+== Examples of Software architectures
+|===
+| Duration: 120 Min. | Exercises: none.
+|===
 
 // end::EN[]
 
