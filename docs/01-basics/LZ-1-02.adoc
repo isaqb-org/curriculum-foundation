@@ -14,13 +14,14 @@ Wesentliche Ziele von Softwarearchitektur sind:
 // end::DE[]
 
 // tag::EN[]
+
 ==== LG 1-2: Understand and identify the benefits of software architecture (R1)
 
 Essential goals of software architecture are:
 
-* the achievement of quality requirements such as reliability, maintainability, changeability, security etc. as opposed to the implementation of pure functionality;
-*	supporting the creation and maintenance of software, particularly its implementation;
-*	supporting the understanding of the system, related to all relevant stakeholders.
+* the achievement of quality requirements such as reliability, maintainability, changeability, security etc. in contrast to the implementation of pure functionality;
+* supporting the creation and maintenance of software, particularly its implementation;
+* supporting the understanding of the system, related to all relevant stakeholders.
 
 // end::EN[]
 
