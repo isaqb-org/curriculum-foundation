@@ -11,6 +11,8 @@ Softwarearchitekten haben an mindestens einem Beispiel den Bezug von Anforderung
 // end::DE[]
 
 // tag::EN[]
+==== LG 5-1: Know the relation between requirements, constraints, and solutions (R3)
+Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.
 
 // end::EN[]
 
