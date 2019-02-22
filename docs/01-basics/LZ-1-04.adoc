@@ -6,29 +6,43 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 
 ==== LZ 1-4: Aufgaben und Verantwortung von Softwarearchitekten verstehen (R1)
-Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung. Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
+Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung. 
+Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
 
 Aufgaben und Verantwortung von Softwarearchitekten:
 
-*	Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern. Hierzu zählen neben den funktionalen Anforderungen (Required Features) insbesondere die geforderten Qualitätsmerkmale (_Required Constraints_)
-*	Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
-*	Querschnittskonzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen
-*	Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und querschnittlichen Konzepten kommunizieren und dokumentieren
-*	Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen
-*	Softwarearchitektur bewerten, insbesondere hinsichtlich Risiken bezüglich der geforderten Qualitätsmerkmale
-*	Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
+* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern. 
+Hierzu zählen neben den funktionalen Anforderungen (Required Features) insbesondere die geforderten Qualitätsmerkmale (_Required Constraints_)
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
+* Querschnittskonzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen
+* Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und querschnittlichen Konzepten kommunizieren und dokumentieren
+* Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen
+* Softwarearchitektur bewerten, insbesondere hinsichtlich Risiken bezüglich der geforderten Qualitätsmerkmale
+* Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
 
 Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen
-
-
 
 // end::DE[]
 
 // tag::EN[]
-[IMPORTANT]
-====
-Translation missing!
-====
+
+==== LG 1-4: Understand software architects' tasks and responsibilities (R1)
+Software architects are responsible for achieving the required or necessary quality and functionality of a solution. 
+Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities for project management and/or other roles.
+
+Tasks and responsibilities of software architects:
+
+* Clarify and question requirements as well as constraints and refine them if required. 
+Together with functional requirements (required features), this includes the required quality characteristics (required constraints).
+* Decide how to decompose the system into building blocks, while determining dependen-cies and interfaces between the building blocks. 
+* Determine and decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)
+* Communicate and document software architecture based on views, architectural patterns and technical concepts
+* Accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture
+* Evaluate software architecture, especially with respect to risks involving the quality requirements
+* Identify and highlight the consequences of architectural decisions and discuss these with other stakeholders
+
+They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
+
 
 // end::EN[]
 
