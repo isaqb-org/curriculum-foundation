@@ -5,22 +5,23 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 
-==== LZ 1-6: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern (R1)
+==== LZ 1-6: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R1)
 
-*	Softwarearchitekten können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit);
-*	Softwarearchitekten müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden. Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
-
+* Softwarearchitekten können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit);
+* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden. 
+Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 1-6: Being able to explain the correlation between development approaches and software architecture (R1)
+
+* Software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability)
+* Due to inherent uncertainty, software architects often have to work and decide iteratively. To do so, they must systematically seek feedback from other stakeholders.
 
 // end::EN[]
+
 
 // tag::REMARK[]
 // end::REMARK[]
