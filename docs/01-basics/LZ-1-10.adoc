@@ -9,21 +9,25 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweise:
 
-*	Informationssysteme
-*	Decision-Support, Data-Warehouse oder Business-Intelligence Systeme
-*	Mobile Systeme
-*	Batchprozesse oder -systeme
-*	hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwurf).
-
+* Informationssysteme
+* Decision-Support, Data-Warehouse oder Business-Intelligence Systeme
+* Mobile Systeme
+* Batchprozesse oder -systeme
+* hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwurf).
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 1-10: differentiate types of IT systems (R3)
+
+Software architects know different types of IT systems, for example:
+
+* Information systems
+* Decision support, data warehouse or business intelligence systems
+* Mobile systems
+* Batch processes or systems
+* hardware-related systems; here they understand the necessity of hardware/software code design (temporal and content-related dependencies of hardware and software design).
 
 // end::EN[]
 
