@@ -9,30 +9,34 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können Einflussfaktoren (Randbedingungen) als Einschränkungen der Entwurfsfreiheit erarbeiten und berücksichtigen
 
-Sie erkennen und berücksichtigen:
+Sie erkennen und berücksichtigen den:
 
-* den Einfluss von Qualitätsanforderungen
-* den Einfluss technischer Entscheidungen und Konzepte
-* den (möglichen) Einfluss organisatorischer und juristischer Faktoren (R2)
-* den Einfluss verschiedener Stakeholder
+* Einfluss von Qualitätsanforderungen
+* Einfluss technischer Entscheidungen und Konzepte
+* (möglichen) Einfluss organisatorischer und juristischer Faktoren (R2)
+* Einfluss verschiedener Stakeholder
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 2-3: Identify and consider factors influencing software architecture (R1)
+
+Software architects are able to gather and consider constraints and influencing factors that restrict the freedom in design decisions
+
+They should recognize and consider the:
+* impact of quality requirements 
+* impact of technical decisions and concepts
+* (potential) impact of organizational, legal, and other constraints (R2)
+* impact of stakeholder concerns (R2)
 
 // end::EN[]
 
-// tag::REMARK[]
 
+// tag::REMARK[]
 
 [NOTE]
 ====
-RR: Stakeholder sind neu. Ich finde dies wichtig zu berücksichtigen, ist ein oft nicht dokumentierter Einflussfaktor
-====
+RR: Stakeholder sind neu.
 
 // end::REMARK[]
