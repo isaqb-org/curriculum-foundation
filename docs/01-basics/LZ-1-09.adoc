@@ -9,24 +9,33 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten kennen weitere Architekturdomänen, beispielsweise:
 
-*	Softwarearchitektur: Struktur und Konzepte einzelner Softwaresysteme (Fokus des iSAQB CPSA-F).
+* Softwarearchitektur: Struktur und Konzepte einzelner Softwaresysteme (Fokus des iSAQB CPSA-F).
 
 Die folgenden Architekturdomänen sich nicht inhaltlicher Fokus vom CPSA-F:
 
-*	Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften.
-*	Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen.
-*	Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
-*	Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-*	Hardwarearchitektur (für hardwarenahe Systeme)
+* Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften.
+* Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen.
+* Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
+* Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
+* Hardwarearchitektur (für hardwarenahe Systeme)
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 1-9: Responsibilities of software architects within the greater architectural context (R3)
+
+Software architects know other architectural domains, for example:
+
+* Software architecture: structure and concepts of individual software systems (focus of iSAQB CPSA-F).
+
+The following domains of architecture are not the content focus of CPSA-F:
+
+* Corporate IT architecture (_Enterprise IT Architecture_): Structure of application landscapes.
+* Business and Process Architecture: Structure of, among other things, business processes.
+* Information architecture: cross-system structure and use of information and data.
+* Infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
+* Hardware architecture (for hardware-related systems)
 
 // end::EN[]
 
