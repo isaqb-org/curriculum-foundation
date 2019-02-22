@@ -16,17 +16,18 @@ Softwarearchitekten können:
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 1-7: Differentiate between architecture and project objectives (R1)
 
+Software architects can:
+
+* identify and specify architectural goals based on existing requirements;
+* explain long-term quality requirements and their differentiation from (short-term) project goals.
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
-GS/CL: Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
+GS/CL (Jan 2019): Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
 
 RR: Removed redundancies, especially with LG 2-3
 ====
