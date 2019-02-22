@@ -20,6 +20,11 @@ Sie erkennen und berücksichtigen:
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

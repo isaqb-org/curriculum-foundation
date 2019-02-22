@@ -12,6 +12,11 @@ Softwarearchitekten können typische querschnittliche Konzepte (auch genannt _Pr
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

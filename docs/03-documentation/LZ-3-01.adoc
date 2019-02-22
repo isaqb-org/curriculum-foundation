@@ -17,6 +17,11 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

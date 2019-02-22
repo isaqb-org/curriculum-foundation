@@ -20,6 +20,11 @@ Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweis
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

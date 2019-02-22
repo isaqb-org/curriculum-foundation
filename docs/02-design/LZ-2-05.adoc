@@ -28,6 +28,11 @@ Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispiels
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

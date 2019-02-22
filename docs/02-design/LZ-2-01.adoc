@@ -20,6 +20,11 @@ Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwickl
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

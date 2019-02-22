@@ -30,6 +30,11 @@ Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsents
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

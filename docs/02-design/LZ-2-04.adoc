@@ -19,6 +19,11 @@ Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

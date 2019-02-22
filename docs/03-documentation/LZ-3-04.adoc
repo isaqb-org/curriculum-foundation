@@ -17,6 +17,11 @@ Softwarearchitekten können folgende Architektursichten anwenden:
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

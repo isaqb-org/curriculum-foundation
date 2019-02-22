@@ -27,6 +27,11 @@ Softwarearchitekten verstehen die Einflüsse der Entwurfsprinzipien auf Quellcod
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

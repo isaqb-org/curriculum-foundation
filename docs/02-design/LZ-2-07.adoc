@@ -20,6 +20,11 @@ Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen u
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

@@ -22,6 +22,11 @@ Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systement
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

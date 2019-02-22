@@ -13,6 +13,11 @@ Softwarearchitekten können sowohl interne als auch externe Schnittstellen besch
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

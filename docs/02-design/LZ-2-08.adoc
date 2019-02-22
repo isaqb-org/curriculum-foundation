@@ -17,6 +17,11 @@ Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Mö
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

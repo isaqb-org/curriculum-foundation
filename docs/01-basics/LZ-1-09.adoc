@@ -23,6 +23,11 @@ Die folgenden Architekturdomänen sich nicht inhaltlicher Fokus vom CPSA-F:
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]

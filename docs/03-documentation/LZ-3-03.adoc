@@ -19,6 +19,11 @@ Softwarearchitekten kennen Alternativen zu UML-Diagrammen. Insbesondere für die
 
 // tag::EN[]
 
+[IMPORTANT]
+====
+Translation missing!
+====
+
 // end::EN[]
 
 // tag::REMARK[]
