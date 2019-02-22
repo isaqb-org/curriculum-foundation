@@ -19,16 +19,21 @@ Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 2-4: Decide and design cross-cutting concepts (R1)
+
+Software architects are able to: 
+
+* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency; 
+* recognize and assess potential interdependencies between these decisions;
+* explain the significance of such cross-cutting concerns.
+
+Software architects know that such cross-cutting concepts may be re-used throughout the system.
 
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
-GS/CL: leicht umformuliert
+GS/CL: leicht umformuliert. Modified EN translation of "Konzept" to "concept" instead of "concern".
 ====
 // end::REMARK[]
