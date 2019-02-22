@@ -7,18 +7,19 @@ include::../config/_feedback.adoc[]
 
 ==== LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)
 
-*	Softwarearchitekten können Annahmen oder Voraussetzungen explizit darstellen und vermeiden implizite Annahmen;
-*	sie wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken.
+* Softwarearchitekten können Annahmen oder Voraussetzungen explizit darstellen und vermeiden implizite Annahmen;
+* sie wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken.
 
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 1-8: Distinguish explicit statements and implicit assumptions (R1)
+
+* Software architects should explicitly present assumptions or prerequisites and avoid implicit assumptions.
+* They know that implicit assumptions can lead to potential misunderstandings between stakeholders.
+
 
 // end::EN[]
 
