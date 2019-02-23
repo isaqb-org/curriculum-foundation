@@ -27,11 +27,24 @@ Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispiels
 // end::DE[]
 
 // tag::EN[]
+==== LZ 2 5: Describe, explain and appropriately apply important architectural patterns and styles (R1-R3)
 
-[IMPORTANT]
-====
-Translation missing!
-====
+Software architects know various architectural patterns and can use them as required:
+
+* Layers, layers (R1)
+* Pipes and filters (R1)
+* Client/Server (R1)
+* Blackboard (R2)
+* Model View Controller and Variants (R2)
+* Broker (R2)
+* Remote Procedure Call (R2)
+* Messaging (R2), e.g. with events and commands
+* Adapter and Facade (R1)
+* Proxy (R1)
+* Plugin (R1)
+
+
+Software architects know essential sources for architectural patterns, such as POSA literature and PoEAA (for information systems) (R3).
 
 // end::EN[]
 
@@ -39,7 +52,7 @@ Translation missing!
 
 [NOTE]
 ====
-GS/CL: deutlich verkleinert, Begriff "Stile" entfernt
+GS/CL: significantly shortenend, removed "styles" -> followed RRs' suggestion below.
 
 RR: I’ve seen people differentiate between architecture styles and patterns. I don’t think the difference is important enough to differentiate. I do make a difference between architecture patterns and design patterns, but it’s not always clear if a pattern is an architecture pattern, a design pattern, or both.
 
