@@ -38,5 +38,5 @@ They should recognize and consider the:
 [NOTE]
 ====
 RR: Stakeholder sind neu.
-
+====
 // end::REMARK[]

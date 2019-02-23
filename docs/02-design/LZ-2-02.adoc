@@ -33,6 +33,7 @@ Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsents
 ==== LG 2-2: Design software architectures (R1)
 
 Software architects are able to: 
+
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical;
 * make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks;
 * recognize and justify interdependencies and consequences of design decisions;
