@@ -5,6 +5,7 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 
+[[LZ-2-6]]
 ==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1)
 Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwenden:
 
@@ -26,6 +27,7 @@ Softwarearchitekten verstehen die Einflüsse der Entwurfsprinzipien auf Quellcod
 
 // tag::EN[]
 
+[[LG-2-6]]
 ==== LG 2-6: Explain and use design principles (R1)
 Software architects are able to explain and apply the following design principles:
 

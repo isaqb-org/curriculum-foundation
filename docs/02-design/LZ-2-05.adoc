@@ -4,8 +4,8 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
-==== LZ 2 5: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1-R3)
+[[LG-2-5]]
+==== LZ 2-5: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1-R3)
 
 Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
 
@@ -27,6 +27,7 @@ Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispiels
 // end::DE[]
 
 // tag::EN[]
+[[LG-2-5]]
 ==== LG 2-5: Describe, explain and appropriately apply important architectural patterns (R1-R3)
 
 Software architects know various architectural patterns and can use them as required:
