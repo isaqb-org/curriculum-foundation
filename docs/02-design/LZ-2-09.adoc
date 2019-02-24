@@ -5,8 +5,9 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 
+[[LZ-2-9]]
 ==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1)
-Softwarearchitekten kennen
+Softwarearchitekten kennen:
 
 * die Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
 * wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf einsetzen:
@@ -16,15 +17,25 @@ Softwarearchitekten kennen
 * unterschiedliche Betrachtungsweisen von Schnittstellen (R3):
 ** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
+* Sie kennen die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
 
 // end::DE[]
 
 // tag::EN[]
+[[LG-2-9]]
+==== LG 2-9: Design and define interfaces (R1)
+Software architects know:
 
-[IMPORTANT]
-====
-Translation missing!
-====
+* about the importance of interfaces. They are able to design or determine interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
+
+* desired characteristics of interfaces:
+** easy to learn, easy to use, easy to expand
+** hard to misuse
+** functionally complete from the perspective of users or building blocks using them
+* Software architects know different ways of looking at interfaces: (R3)
+** Resource-oriented approach (see Representational State Transfer)
+** Service-oriented approach (see WS-*/SOAP-based web services.
+* the necessity to treatinternal and external interfaces differently
 
 // end::EN[]
 
@@ -32,6 +43,8 @@ Translation missing!
 
 [NOTE]
 ====
-GS/CL: Nachsatz entfernt, der gehört in Kapitel 3
+GS (Feb 2019): Added the differentiation between external and internal interfaces.
+
+GS/CL (Jan 2019): Nachsatz zu Dokumentation entfernt, der gehört in Kapitel 3
 ====
 // end::REMARK[]
