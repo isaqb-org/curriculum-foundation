@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-1]]
 ==== LZ 3-1: Qualitätsmerkmale technischer Dokumentation erläutern und berücksichtigen (R1)
 
 Softwarearchitekten kennen die wesentlichen Qualitätsmerkmale technischer Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:
@@ -16,11 +17,15 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Explain and consider the quality of technical documentation (R1)
+Software architects know the quality requirements of technical documentation and can consider and fulfil those when documenting systems:
 
-[IMPORTANT]
-====
-Translation missing!
-====
+* Understandability, correctness, efficiency, appropriateness, maintainability
+* *Form, content and level of detail of documentation chosen in accordance with targeted stakeholders
+
+They know that their target audiences alone can assess the understandability of technical documentation.
+
 
 // end::EN[]
 
