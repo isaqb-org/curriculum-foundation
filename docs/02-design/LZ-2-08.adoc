@@ -20,11 +20,14 @@ Sie können entsprechende Risiken identifizieren.
 // tag::EN[]
 
 [[LG-2-8]]
-==== LG 2-8: Achieve Quality requirements with appropriate 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 2-8: Achieve quality requirements with appropriate approaches and techniques (R1)
+
+Software architects can explain and apply tactics, appropriate practices and technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems), e.g. for:
+
+* efficiency/performance
+* maintainability, changeability, extensibility, flexibility
+
+They can identify corresponding risks.
 
 // end::EN[]
 
@@ -34,6 +37,6 @@ Translation missing!
 ====
 GS: Proposal: upgrade to R1
 
-GS: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 (statt bisher 5) des Lehrplanes gehört, und habe es zum neuen LZ 2-8 gemacht
+GS: Feb 2019: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 (statt bisher 5) des Lehrplanes gehört, und habe es zum neuen LZ 2-8 gemacht
 ====
 // end::REMARK[]
