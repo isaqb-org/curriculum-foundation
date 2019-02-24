@@ -6,7 +6,7 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 === Lernziele und Prüfungsrelevanz
 Die Kapitel des Lehrplans sind anhand von priorisierten Lernzielen gegliedert.
-Die Prüfungsrelevanz dieser Lernziele beziehungsweise deren Unterpunkte ist beim jeweiligen Lernziel ausdrücklich ge-kennzeichnet (durch Angabe der Kennzeichen R-1, R-2 oder R-3, siehe Tabelle).
+Die Prüfungsrelevanz dieser Lernziele beziehungsweise deren Unterpunkte ist beim jeweiligen Lernziel ausdrücklich gekennzeichnet (durch Angabe der Kennzeichen R1, R2 oder R3, siehe nachstehende Tabelle).
 
 Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte. Bezüglich der Prüfungsrelevanz verwendet der Lehrplan folgende Kategorien:
 
@@ -35,7 +35,7 @@ Die Abschnitte "Begriffe und Konzepte" zu Beginn jedes Kapitels zeigen Worte, di
 // tag::EN[]
 === Learning goals and relevance for the examination
 The structure of the curriculum's chapters follows a set of prioritized learning goals. 
-For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R1/R2/R3 classification, see the table below).
+For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R1, R2, R3 classification, see the table below).
 Every learning goal describes the contents to be taught including their key terms and concepts.
 
 Regarding relevance for the examination, the following categories are used in this curriculum:
