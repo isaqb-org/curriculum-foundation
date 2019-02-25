@@ -18,6 +18,8 @@ ext {
     currentDate = new Date().format("d. MMM yyyy")
 }
 
+version = "5.0 DRAFT ($currentDate)"
+
 asciidoctor {
   backends 'pdf', 'html5'
   sourceDir = file("./docs/")
@@ -34,7 +36,7 @@ asciidoctor {
       icons         : 'font',
       currentDate   : '$currentDate',
       debug_adoc         : true,
-     'document-version' : "5.0 DRAFT ($currentDate)",
+     'document-version' : this.version,
 
      // if you want to render the comments/remarks?
      //    then uncomment the following line;
