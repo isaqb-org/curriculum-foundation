@@ -25,6 +25,7 @@ asciidoctor {
   sourceDir = file("./docs/")
    sources {
       include "foundation-curriculum.adoc"
+      include "index.adoc"
    }
   outputDir = file("build")
 

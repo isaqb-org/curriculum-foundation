@@ -1,0 +1,7 @@
+= Curriculum für CPSA Certified Professional for Software Architecture® : - *Foundation Level* -
+
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
+
+You can find the curriculum for the foundation level at <<foundation-curriculum.adoc#>>
+
+The terminology used in the iSAQB curricula can be found at https://leanpub.com/isaqbglossary/read
