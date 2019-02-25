@@ -5,35 +5,50 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 
-==== LZ 2-2: Architekturen entwerfen (R1)
+==== LZ 2-2: Softwarearchitekturen entwerfen (R1)
 
 Softwarearchitekten können:
 
-* Architekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen dokumentieren;
-* gegenseitige Abhängigkeiten und Wechselwirkungen von Entwurfsentscheidungen erkennen und begründen;
+* Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren;
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen;
-* Blackbox- und Whitebox-Begriff erklären und zielgerichtet anwenden;
+* gegenseitige Abhängigkeiten und Wechselwirkungen von Entwurfsentscheidungen erkennen und begründen;
+* Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden;
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen;
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht;
-* Abbildung der Architektur auf den Quellcode festlegen und die damit verbundenen Konsequenzen bewerten;
-* fachliche und technische Bestandteile in Architekturen trennen und diese Trennung be-gründen;
+* die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären;
+* fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen;
 * Risiken von Entwurfsentscheidungen identifizieren.
 
 
 Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
 
 * den starken Einfluss von Qualitätsanforderungen – wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizient;
-* Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktinen sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
+* Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
 * mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 2-2: Design software architectures (R1)
+
+Software architects are able to: 
+
+* design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical;
+* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks;
+* recognize and justify interdependencies and consequences of design decisions;
+* explain the terms _black box_ and _white box_ and apply them purposefully;
+* apply stepwise refinement and specify building blocks;
+* design architecture views, especially building-block view, runtime view and deployment view;
+* explain the consequences of these decisions on the corresponding source code;
+* separate technical and domain-related elements of architectures and justify these decisions;
+* identify risks related to architecture decisions.
+
+When making architecture and design decisions, software architects know and consider: 
+
+* the considerable impact of quality requirements – i.e. changeability, reliability, efficiency;
+* solution options, design tactics, appropriate practices, and technical possibilities for achieving specific quality requirements;
+* the trade-offs between such options. 
 
 // end::EN[]
 
@@ -41,7 +56,9 @@ Translation missing!
 
 [NOTE]
 ====
-GS/CL: DDD-Konstrukte entfernt
+GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
+
+GS/CL (Jan 2019): diverse detaillierte DDD-Konstrukte entfernt
 
 RR: Removed text relating to decisions. This is covered in LG 3-8
 ====

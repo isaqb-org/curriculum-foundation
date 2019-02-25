@@ -5,29 +5,42 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 
+[[LZ-2-7]]
 ==== LZ 2-7: Abhängigkeiten von Bausteinen planen (R1)
 
 Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen:
 
-* sie kennen unterschiedliche Arten der Abhängigkeiten von Bausteinen (beispielsweise strukturelle Kopplung über Benutzung/Delegation, Schachtelung, Besitz, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Datentypen oder über Hardware);
-* sie können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen;
+* Sie kennen unterschiedliche Arten der Abhängigkeiten von Bausteinen (beispielsweise strukturelle Kopplung über Benutzung/Delegation, Schachtelung, Besitz, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Datentypen oder über Hardware);
+* Sie können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen;
 * Sie kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
-** Muster, siehe Lernziel 2-5
-** Grundlegende Entwurfsprinzipien, siehe Lernziel 2-6
+** Muster (siehe <<LZ-2-5,Lernziel 2-5>>)
+** Grundlegende Entwurfsprinzipien (siehe <<LZ-2-6,Lernziel 2-6>>)
 
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+
+[[LG-2-7]]
+==== LG 2-7: Planning dependencies between building blocks (R1)
+
+Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner:
+
+* They know different types of dependencies of building blocks (e.g. structural coupling via use/delegation, nesting, ownership, generation, inheritance, temporal coupling, coupling via data types or via hardware);
+* They can use such types of coupling in a targeted manner and can assess the consequences of such dependencies;
+* They know and can apply possibilities to reduce or eliminate coupling, for example:
+** Patterns (see <<<LG-2-5, learning goal 2-5>>)
+** Basic design principles (see <<<LG-2-6, learning goal 2-6>>)
 
 // end::EN[]
 
 // tag::REMARK[]
+
+[IMPORTANT]
+====
+GS, Feb 2019: re-formated DE version, adjusted EN translation to modifications of DE version
+====
 // end::REMARK[]
 
 

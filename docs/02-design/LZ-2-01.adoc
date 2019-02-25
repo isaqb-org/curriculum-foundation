@@ -8,24 +8,35 @@ include::../config/_feedback.adoc[]
 ==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)
 Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
-*	Sichtenbasierte Architekturentwicklung
-*	Domain-Driven Design
+* Top-down- und Bottom-Up-Vorgehen beim Entwurf
+* Sichtenbasierte Architekturentwicklung
+* Domain-Driven Design
+* iterativer und inkrementeller Entwurf
+** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
+** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen
 * Modellgetriebene Architektur
-*	iterativer und inkrementeller Entwurf
-**	Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
-**	Rückmeldungen zu Entwurfsentscheidungen auf Basis von Quellcode sowie qualitativer Betrachtung
-*	Top-down- und Bottom-Up-Vorgehen beim Entwurf
 
 // end::DE[]
 
 // tag::EN[]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 2-1: Select and adhere to approaches and heuristics for architecture development (R1)
+Software architects are able to name and explain the overall concept of the following approaches of architecture development, for example:
+
+* Top-down and bottom-up approaches to design
+* View-based architecture development
+* Domain-driven design
+* Iterative and incremental design
+** Necessity of iterations, especially when decision-making is affected by uncertainties
+** Necessity of feedback on design decisions
+* Model-driven architecture
+
 
 // end::EN[]
 
 // tag::REMARK[]
+[IMPORTANT]
+====
+GS (Feb. 2019): re-ordered approaches, re-phrased _iterative and incremental_
+====
 // end::REMARK[]

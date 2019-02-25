@@ -4,22 +4,22 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
-==== LZ 2 5: Wichtige Architekturmuster und Architekturstile beschreiben, erklären und angemessen anwenden (R1-R3)
+[[LG-2-5]]
+==== LZ 2-5: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1-R3)
 
 Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
 
-* Schichten, Layer (R1)
+* Schichten (_Layer_) (R1)
 * Pipes und Filter (R1)
 * Client/Server (R1)
+* Adapter und Facade (R1)
+* Proxy (R1)
+* Plugin (R1)
 * Blackboard (R2)
 * Model-View-Controller und Varianten (R2)
 * Broker (R2)
 * Remote Procedure Call (R2)
 * Messaging (R2), z.B. mit Events und Commands
-* Adapter und Facade (R1)
-* Proxy (R1)
-* Plugin (R1)
 
 
 Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)
@@ -27,11 +27,25 @@ Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispiels
 // end::DE[]
 
 // tag::EN[]
+[[LG-2-5]]
+==== LG 2-5: Describe, explain and appropriately apply important architectural patterns (R1-R3)
 
-[IMPORTANT]
-====
-Translation missing!
-====
+Software architects know various architectural patterns and can use them as required:
+
+* Layers (R1)
+* Pipes and filters (R1)
+* Client/Server (R1)
+* Adapter and Facade (R1)
+* Proxy (R1)
+* Plugin (R1)
+* Blackboard (R2)
+* Model View Controller and Variants (R2)
+* Broker (R2)
+* Remote Procedure Call (R2)
+* Messaging (R2), e.g. with events and commands
+
+
+Software architects know essential sources for architectural patterns, such as POSA literature and PoEAA (for information systems) (R3).
 
 // end::EN[]
 
@@ -39,7 +53,9 @@ Translation missing!
 
 [NOTE]
 ====
-GS/CL: deutlich verkleinert, Begriff "Stile" entfernt
+GS (Feb 2019): re-ordered to match priorities. 
+
+GS/CL (Jan 2019): significantly shortenend, removed "styles" -> followed RRs' suggestion below.
 
 RR: I’ve seen people differentiate between architecture styles and patterns. I don’t think the difference is important enough to differentiate. I do make a difference between architecture patterns and design patterns, but it’s not always clear if a pattern is an architecture pattern, a design pattern, or both.
 
