@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-[[LG-2-5]]
+[[LZ-2-5]]
 ==== LZ 2-5: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1-R3)
 
 Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
@@ -53,7 +53,7 @@ Software architects know essential sources for architectural patterns, such as P
 
 [NOTE]
 ====
-GS (Feb 2019): re-ordered to match priorities. 
+GS (Feb 2019): re-ordered to match priorities.
 
 GS/CL (Jan 2019): significantly shortenend, removed "styles" -> followed RRs' suggestion below.
 
