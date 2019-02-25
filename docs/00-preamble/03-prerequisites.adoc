@@ -52,6 +52,7 @@ Furthermore, the following will be useful for understanding several concepts:
 * Practical experience with designing and implementing distributed applications, such as client-server systems or web applications
 
 The iSAQB e. V. may check the aforementioned requirements in certification examinations by appropriate questions.
+
 // end::EN[]
 
 // tag::REMARK[]

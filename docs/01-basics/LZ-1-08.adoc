@@ -10,7 +10,6 @@ include::../config/_feedback.adoc[]
 * Softwarearchitekten können Annahmen oder Voraussetzungen explizit darstellen und vermeiden implizite Annahmen;
 * sie wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken.
 
-
 // end::DE[]
 
 // tag::EN[]
@@ -19,7 +18,6 @@ include::../config/_feedback.adoc[]
 
 * Software architects should explicitly present assumptions or prerequisites and avoid implicit assumptions.
 * They know that implicit assumptions can lead to potential misunderstandings between stakeholders.
-
 
 // end::EN[]
 

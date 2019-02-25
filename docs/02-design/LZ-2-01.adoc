@@ -31,7 +31,6 @@ Software architects are able to name and explain the overall concept of the foll
 ** Necessity of feedback on design decisions
 * Model-driven architecture
 
-
 // end::EN[]
 
 // tag::REMARK[]
