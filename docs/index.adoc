@@ -1,7 +1,19 @@
-= Curriculum für CPSA Certified Professional for Software Architecture® : - *Foundation Level* -
+= image:isaqb-logo-150px.jpg[] CPSA Certified Professional for Software Architecture® 
+- Foundation Level Curriculum -
+
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
 
-You can find the curriculum for the foundation level at <<foundation-curriculum.adoc#>>
+You can find the Foundation Level Curriculum (short: FLC) for the foundation level at <<foundation-curriculum.adoc#>>
 
-The terminology used in the iSAQB curricula can be found at https://leanpub.com/isaqbglossary/read
+The terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
+
+
+== Production version
+
+The current productive version (aka: relevant for examinations) is version 4.1 (EN) and 4.2 (DE), both of which are currently only available via the official https://isaqb.org[iSAQB website].
+
+== Development versions 
+The Foundation Level curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on Github to improve the curriculum.
+
+They currently (as of {date}) work on {version} of the FLC.
