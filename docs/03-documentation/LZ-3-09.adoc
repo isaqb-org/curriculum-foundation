@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-9]]
 ==== LZ 3-9: Dokumentation als schriftliche Kommunikation nutzen (R2)
 
 Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen.
@@ -11,6 +12,7 @@ Softwarearchitekten nutzen Dokumentation zur Unterstützung bei Entwurf, Impleme
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-9]]
 
 [IMPORTANT]
 ====

@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-2-2]]
 ==== LZ 2-2: Softwarearchitekturen entwerfen (R1)
 
 Softwarearchitekten können:
@@ -29,10 +29,10 @@ Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsents
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-2-2]]
 ==== LG 2-2: Design software architectures (R1)
 
-Software architects are able to: 
+Software architects are able to:
 
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical;
 * make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks;
@@ -44,11 +44,11 @@ Software architects are able to:
 * separate technical and domain-related elements of architectures and justify these decisions;
 * identify risks related to architecture decisions.
 
-When making architecture and design decisions, software architects know and consider: 
+When making architecture and design decisions, software architects know and consider:
 
 * the considerable impact of quality requirements – i.e. changeability, reliability, efficiency;
 * solution options, design tactics, appropriate practices, and technical possibilities for achieving specific quality requirements;
-* the trade-offs between such options. 
+* the trade-offs between such options.
 
 // end::EN[]
 

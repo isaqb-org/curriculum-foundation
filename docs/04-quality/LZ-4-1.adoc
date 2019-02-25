@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-4-1]]
 ==== LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale diskutieren (R1)
 
 Softwarearchitekten können:
@@ -19,6 +20,7 @@ Softwarearchitekten können:
 // end::DE[]
 
 // tag::EN[]
+[[LG-4-1]]
 
 [IMPORTANT]
 ====

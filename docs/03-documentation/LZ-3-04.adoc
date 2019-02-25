@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-4]]
 ==== LZ 3-4: Architektursichten erläutern und anwenden (R1)
 Softwarearchitekten können folgende Architektursichten anwenden:
 
@@ -16,6 +17,7 @@ Softwarearchitekten können folgende Architektursichten anwenden:
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-4]]
 
 [IMPORTANT]
 ====

@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-2-3]]
 ==== LZ 2-3: Einflussfaktoren auf Softwarearchitektur erheben und berücksichtigen können (R1)
 
 Softwarearchitekten können Einflussfaktoren (Randbedingungen) als Einschränkungen der Entwurfsfreiheit erarbeiten und berücksichtigen
@@ -19,13 +19,13 @@ Sie erkennen und berücksichtigen den:
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-2-3]]
 ==== LG 2-3: Identify and consider factors influencing software architecture (R1)
 
 Software architects are able to gather and consider constraints and influencing factors that restrict the freedom in design decisions
 
 They should recognize and consider the:
-* impact of quality requirements 
+* impact of quality requirements
 * impact of technical decisions and concepts
 * (potential) impact of organizational, legal, and other constraints (R2)
 * impact of stakeholder concerns (R2)

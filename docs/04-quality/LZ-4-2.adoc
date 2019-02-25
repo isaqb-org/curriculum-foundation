@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-4-2]]
 ==== LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen klären (R1)
 
 Softwarearchitekten können:
@@ -14,6 +15,7 @@ Softwarearchitekten können:
 // end::DE[]
 
 // tag::EN[]
+[[LG-4-2]]
 
 [IMPORTANT]
 ====

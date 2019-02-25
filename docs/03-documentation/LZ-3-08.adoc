@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-8]]
 ==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R2)
 
 Softwarearchitekten können:
@@ -14,6 +15,7 @@ Softwarearchitekten können:
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-8]]
 
 [IMPORTANT]
 ====

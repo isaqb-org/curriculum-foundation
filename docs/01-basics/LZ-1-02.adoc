@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-1-2]]
 ==== LZ 1-2: Ziele von Softwarearchitektur verstehen und herausstellen (R1)
 
 Wesentliche Ziele von Softwarearchitektur sind:
@@ -14,7 +15,7 @@ Wesentliche Ziele von Softwarearchitektur sind:
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-1-2]]
 ==== LG 1-2: Understand and identify the benefits of software architecture (R1)
 
 Essential goals of software architecture are:

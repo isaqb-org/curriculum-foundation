@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-2-4]]
 ==== LZ 2-4: Querschnittskonzepte entwerfen und umsetzen (R1)
 
 Softwarearchitekten können:
@@ -18,12 +18,12 @@ Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-2-4]]
 ==== LG 2-4: Decide and design cross-cutting concepts (R1)
 
-Software architects are able to: 
+Software architects are able to:
 
-* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency; 
+* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency;
 * recognize and assess potential interdependencies between these decisions;
 * explain the significance of such cross-cutting concerns.
 

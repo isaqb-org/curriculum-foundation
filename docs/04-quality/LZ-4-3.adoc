@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-4-3]]
 ==== LZ 4-3: Softwarearchitekturen qualitativ analysieren und bewerten (R2-R3)
 Softwarearchitekten:
 
@@ -19,6 +20,7 @@ Softwarearchitekten:
 // end::DE[]
 
 // tag::EN[]
+[[LG-4-3]]
 
 [IMPORTANT]
 ====

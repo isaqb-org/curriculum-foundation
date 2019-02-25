@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-2-1]]
 ==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)
 Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
@@ -19,7 +19,7 @@ Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwickl
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-2-1]]
 ==== LG 2-1: Select and adhere to approaches and heuristics for architecture development (R1)
 Software architects are able to name and explain the overall concept of the following approaches of architecture development, for example:
 

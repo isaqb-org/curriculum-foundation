@@ -4,12 +4,14 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-5-2]]
 ==== LZ 5-2: Technische Umsetzung einer Lösung nachvollziehen (R3)
 Softwarearchitekten können für mindestens ein Beispiel die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.
 
 // end::DE[]
 
 // tag::EN[]
+[[LG-5-2]]
 ==== LG 5-2: Know the rationale of a solution's technical implementation (R3)
 Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one software system.
 

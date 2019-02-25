@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-3]]
 ==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2)
 
 Softwarearchitekten kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
@@ -18,6 +19,7 @@ Softwarearchitekten kennen Alternativen zu UML-Diagrammen. Insbesondere für die
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-3]]
 
 [IMPORTANT]
 ====

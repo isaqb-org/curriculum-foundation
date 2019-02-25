@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-1-7]]
 ==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)
 
 Softwarearchitekten können:
@@ -15,7 +15,7 @@ Softwarearchitekten können:
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-1-7]]
 ==== LG 1-7: Differentiate between architecture and project objectives (R1)
 
 Software architects can:

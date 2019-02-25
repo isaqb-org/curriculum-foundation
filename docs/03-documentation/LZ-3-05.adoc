@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-5]]
 ==== LZ 3-5: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
 Softwarearchitekten können
 
@@ -14,6 +15,7 @@ Softwarearchitekten können
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-5]]
 
 [IMPORTANT]
 ====

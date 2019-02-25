@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-1-5]]
 ==== LZ 1-5: Rolle von Softwarearchitekten in Beziehung zu anderen Stakeholdern setzen (R1)
 Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern kontextspezifisch ausgestalten, insbesondere zu:
 
@@ -20,9 +20,9 @@ Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systement
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-1-5]]
 ==== LG 1-5: Relate the role of software architects to other stakeholders (R1)
-Software architects are able to explain their role. 
+Software architects are able to explain their role.
 They should adapt their contribution to a software development in a specific context and in relation to other stakeholders, in particular to:
 
 * Requirements analysis (system analysis, requirements management, specialist field)

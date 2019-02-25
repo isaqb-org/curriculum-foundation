@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-1-10]]
 ==== LZ 1-10: Typen von IT-Systemen unterscheiden (R3)
 
 Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweise:
@@ -18,7 +18,7 @@ Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweis
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-1-10]]
 ==== LG 1-10: differentiate types of IT systems (R3)
 
 Software architects know different types of IT systems, for example:

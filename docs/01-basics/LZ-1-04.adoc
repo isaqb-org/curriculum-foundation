@@ -4,14 +4,14 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-
+[[LZ-1-4]]
 ==== LZ 1-4: Aufgaben und Verantwortung von Softwarearchitekten verstehen (R1)
-Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung. 
+Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung.
 Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
 
 Aufgaben und Verantwortung von Softwarearchitekten:
 
-* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern. 
+* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern.
 Hierzu zählen neben den funktionalen Anforderungen (Required Features) insbesondere die geforderten Qualitätsmerkmale (_Required Constraints_)
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
 * Querschnittskonzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen
@@ -25,16 +25,16 @@ Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erk
 // end::DE[]
 
 // tag::EN[]
-
+[[LG-1-4]]
 ==== LG 1-4: Understand software architects' tasks and responsibilities (R1)
-Software architects are responsible for achieving the required or necessary quality and functionality of a solution. 
+Software architects are responsible for achieving the required or necessary quality and functionality of a solution.
 Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities for project management and/or other roles.
 
 Tasks and responsibilities of software architects:
 
-* Clarify and question requirements as well as constraints and refine them if required. 
+* Clarify and question requirements as well as constraints and refine them if required.
 Together with functional requirements (required features), this includes the required quality characteristics (_required constraints_).
-* Decide how to decompose the system into building blocks, while determining dependen-cies and interfaces between the building blocks. 
+* Decide how to decompose the system into building blocks, while determining dependen-cies and interfaces between the building blocks.
 * Determine and decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)
 * Communicate and document software architecture based on views, architectural patterns, crosscutting and technical concepts
 * Accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture

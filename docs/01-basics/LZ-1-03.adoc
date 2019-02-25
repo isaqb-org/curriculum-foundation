@@ -4,9 +4,10 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-1-3]]
 ==== LZ 1-3: Softwarearchitektur in Software-Lebenszyklus einordnen (R2)
 
-Softwarearchitekten können Ihre Aufgaben und Ergebnisse in die gesamte Entwicklung von IT-Systemen einordnen. 
+Softwarearchitekten können Ihre Aufgaben und Ergebnisse in die gesamte Entwicklung von IT-Systemen einordnen.
 Sie können:
 
 * Zusammenhänge zu Geschäfts- und Betriebsprozessen für beispielsweise Informationssysteme und Entscheidungsunterstützungssysteme (Data Warehouse, Management Information Systems) oder anderen Arten von Systemen herstellen;
@@ -16,9 +17,10 @@ Sie können:
 // end::DE[]
 
 // tag::EN[]
+[[LG-1-3]]
 ==== LG 1-3: Understand software architecture as part of the software life cycle (R2)
 
-Software architects can understand their tasks and results into the overall lifeycle of IT systems. 
+Software architects can understand their tasks and results into the overall lifeycle of IT systems.
 They can:
 
 * establish relationships with business and operational processes for information systems and decision support systems (data warehouse, management information systems), for example, or other types of systems;

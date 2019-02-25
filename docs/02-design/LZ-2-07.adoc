@@ -20,8 +20,6 @@ Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen u
 // end::DE[]
 
 // tag::EN[]
-
-
 [[LG-2-7]]
 ==== LG 2-7: Planning dependencies between building blocks (R1)
 

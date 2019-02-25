@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-10]]
 ==== LZ 3-10: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
 Softwarearchitekten kennen:
@@ -21,6 +22,7 @@ Softwarearchitekten kennen:
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-10]]
 
 [IMPORTANT]
 ====

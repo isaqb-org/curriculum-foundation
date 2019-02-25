@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-7]]
 ==== LZ 3-7: Schnittstellen beschreiben (R1)
 
 Softwarearchitekten können sowohl interne als auch externe Schnittstellen beschreiben und spezifizieren
@@ -12,6 +13,7 @@ Softwarearchitekten können sowohl interne als auch externe Schnittstellen besch
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-7]]
 
 [IMPORTANT]
 ====

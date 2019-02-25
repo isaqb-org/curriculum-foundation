@@ -4,6 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
+[[LZ-3-2]]
 ==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1)
 
 Softwarearchitekten:
@@ -15,6 +16,7 @@ Softwarearchitekten:
 // end::DE[]
 
 // tag::EN[]
+[[LG-3-2]]
 
 [IMPORTANT]
 ====
