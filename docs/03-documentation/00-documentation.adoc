@@ -24,8 +24,6 @@ include::./LZ-3-07.adoc[{include_configuration}]
 
 include::./LZ-3-08.adoc[{include_configuration}]
 
-include::./LZ-3-08.adoc[{include_configuration}]
-
 include::./LZ-3-09.adoc[{include_configuration}]
 
 include::./LZ-3-10.adoc[{include_configuration}]
