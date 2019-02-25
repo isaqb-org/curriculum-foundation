@@ -5,6 +5,11 @@ script:
 - ./adoc2pdf/adoc2pdf.sh ${PWD}/docs/foundation-curriculum.adoc DE dev
 - ./adoc2pdf/adoc2pdf.sh ${PWD}/docs/foundation-curriculum.adoc EN dev
 
+before_deploy:
+- git config --local user.name "p-goetz"
+- git config --local user.email "peter.goetz@pgoetz.de"
+- git tag "LATEST"
+
 deploy:
   provider: releases
   api_key:
