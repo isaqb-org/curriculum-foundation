@@ -13,6 +13,7 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 .Empfohlene Zeitaufteilung
 image::zeitaufteilung-DE.png[]
+
 // end::DE[]
 
 // tag::EN[]
@@ -25,6 +26,7 @@ The types (domains and technologies) of examples and exercises can be determined
 
 .Recommended time distribution
 image::time-distribution-EN.png[]
+
 // end::EN[]
 
 // tag::REMARK[]

@@ -12,6 +12,7 @@ Wesentliche Ziele von Softwarearchitektur sind:
 * Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen, im Gegensatz zur reinen Implementierung der Funktionalität
 * Erstellung und Wartung von Software, insbesondere die Implementierung zu unterstützen
 * Verständnis über das System zu unterstützen, bezogen auf sämtlichen relevanten Stakeholder.
+
 // end::DE[]
 
 // tag::EN[]

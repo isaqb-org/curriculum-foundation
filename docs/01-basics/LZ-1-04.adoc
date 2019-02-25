@@ -43,7 +43,6 @@ Together with functional requirements (required features), this includes the req
 
 They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
 
-
 // end::EN[]
 
 // tag::REMARK[]

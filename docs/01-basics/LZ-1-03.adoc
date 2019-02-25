@@ -13,7 +13,6 @@ Sie können:
 * Zusammenhänge zu Geschäfts- und Betriebsprozessen für beispielsweise Informationssysteme und Entscheidungsunterstützungssysteme (Data Warehouse, Management Information Systems) oder anderen Arten von Systemen herstellen;
 * Konsequenzen von Änderungen bei Anforderungen, Qualitätszielen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen.
 
-
 // end::DE[]
 
 // tag::EN[]

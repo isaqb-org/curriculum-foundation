@@ -22,6 +22,7 @@ Software architects can:
 
 * identify and specify architectural goals based on existing requirements;
 * explain long-term quality requirements and their differentiation from (short-term) project goals.
+
 // end::EN[]
 
 // tag::REMARK[]
