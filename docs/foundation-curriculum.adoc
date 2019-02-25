@@ -10,6 +10,7 @@ include::config/setup.adoc[]
 // this is the base URL for the "improve this doc" links that directly link
 // to the source files in our repository
 :project-repository-docs-edit-link: https://github.com/isaqb-org/curriculum-foundation/blob/master/docs/
+:project-report-issue-link: https://github.com/isaqb-org/curriculum-foundation/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23page:
 
 // define terms for toc, learning_goals
 // will have strange results if multiple languages
