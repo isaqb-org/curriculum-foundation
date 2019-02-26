@@ -12,7 +12,7 @@ include::../config/_feedback.adoc[]
 
 ===	Wichtige Begriffe
 
-Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschreibung, zielgruppen- oder stakeholdergerecht, Meta-Strukturen und Templates zur Beschreibung und Kommunikation, Kontextabgrenzung, Bausteine, Bausteinsicht, Laufzeitsicht, Verteilungssicht, Knoten, Kanal, Verteilungsartefakte, Mapping von Bausteinen auf Verteilungsartefakte, Beschreibung von Schnittstellen und Entwurfsentscheidungen, UML, Werkzeuge zur Dokumentation
+Sichten, Strukturen; (technische) Konzepte; Dokumentation; Kommunikation, Beschreibung; zielgruppen- oder stakeholdergerecht; Meta-Strukturen und Templates zur Beschreibung und Kommunikation; Kontextabgrenzung; Bausteine; Bausteinsicht; Laufzeitsicht; Verteilungssicht; Knoten; Kanal; Verteilungsartefakte; Mapping von Bausteinen auf Verteilungsartefakte; Beschreibung von Schnittstellen und Entwurfsentscheidungen; UML, Werkzeuge zur Dokumentation
 
 // end::DE[]
 
@@ -24,7 +24,7 @@ Sichten, Strukturen, (technische) Konzepte, Dokumentation, Kommunikation, Beschr
 |===
 
 === Terms and concepts
-Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment units; mapping building blocks onto deployment units; description of interfaces and design decisions; UML, tools for documentation
+Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment artifacts; mapping building blocks onto deployment artifacts; description of interfaces and design decisions; UML, tools for documentation
 // end::EN[]
 
 // tag::REMARK[]
