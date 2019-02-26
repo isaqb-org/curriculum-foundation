@@ -21,6 +21,8 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 | Duration: 60 Min. | Exercises: none.
 |===
 
+This section is not relevant for for the exam.
+
 // end::EN[]
 
 // tag::REMARK[]
