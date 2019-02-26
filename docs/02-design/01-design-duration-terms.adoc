@@ -26,7 +26,7 @@ Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, t
 |===
 
 === Terms and concepts
-Design; design approach; design decision; views, technical and crosscutting concerns; architectural patterns; design principles; domain-related and technical architectures; model-based design; iterative/incremental design; domain-driven design; top-down and bottom-up approaches
+Design; design approach; design decision; views, interfaces, technical and cross-cutting concerns; stereotypes, architectural patterns; pattern languages; design principles; dependencies; coupling, cohesion; functional and technical architectures; top-down and bottom-up approaches; model-based design; iterative/incremental design; domain-driven design
 
 // end::EN[]
 
