@@ -21,7 +21,6 @@ Softwarearchitekten:
 
 // tag::EN[]
 [[LG-4-3]]
-
 ==== LZ 4-3: Qualitative Analysis and Asessment of Software Architectures (R2-R3)
 Software Architects:
 

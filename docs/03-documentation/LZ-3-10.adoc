@@ -22,7 +22,6 @@ Softwarearchitekten kennen:
 
 // tag::EN[]
 [[LG-3-10]]
-
 ==== LZ 3-10: Know additional resources and tools for documentation (R3)
 
 Software architects know:
@@ -41,7 +40,10 @@ Software architects know:
 // tag::REMARK[]
 [NOTE]
 ====
+GS: (Feb 2019): please can we remove the "checklists"?
+
 GS: C4 aufgenommen (von Simon Brown)
+
 GS/RR: TOGAF entfernt
 ====
 // end::REMARK[]

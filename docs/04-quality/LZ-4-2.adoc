@@ -16,11 +16,12 @@ Softwarearchitekten können:
 
 // tag::EN[]
 [[LG-4-2]]
+==== LG 4-2: Clarify quality requirements for software architectures (R1)
 
-[IMPORTANT]
-====
-Translation missing!
-====
+Software architects can:
+
+* clarify and formulate specific quality requirements for the software to be developed and its architectures, for example in the form of scenarios and quality trees;
+* Explain and apply scenarios and quality trees;
 
 // end::EN[]
 
