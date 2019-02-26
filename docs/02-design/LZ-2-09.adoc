@@ -14,7 +14,7 @@ Softwarearchitekten kennen:
 ** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer oder nutzender Bausteine
-* unterschiedliche Betrachtungsweisen von Schnittstellen (R3):
+* unterschiedliche Implementierungsansätze von Schnittstellen (R3):
 ** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 * Sie kennen die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
@@ -26,16 +26,15 @@ Softwarearchitekten kennen:
 ==== LG 2-9: Design and define interfaces (R1)
 Software architects know:
 
-* about the importance of interfaces. They are able to design or determine interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
-
-* desired characteristics of interfaces:
-** easy to learn, easy to use, easy to expand
+* the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
+* desired characteristics of interfaces and can use them in the design:
+** easy to learn, easy to use, easy to extend
 ** hard to misuse
 ** functionally complete from the perspective of users or building blocks using them
-* Software architects know different ways of looking at interfaces: (R3)
+* different approaches for implementing interfaces: (R3)
 ** Resource-oriented approach (see Representational State Transfer)
 ** Service-oriented approach (see WS-*/SOAP-based web services.
-* the necessity to treatinternal and external interfaces differently
+* the necessity to treat internal and external interfaces differently
 
 // end::EN[]
 
