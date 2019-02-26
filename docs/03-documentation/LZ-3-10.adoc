@@ -15,7 +15,6 @@ Softwarearchitekten kennen:
 ** C4
 ** RM/ODP
 ** FMC
-
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
@@ -24,10 +23,18 @@ Softwarearchitekten kennen:
 // tag::EN[]
 [[LG-3-10]]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LZ 3-10: Know additional resources and tools for documentation (R3)
+
+Software architects know:
+
+* basics of several published frameworks for the description of software architectures, for example:
+** ISO/IEEE-42010 (formerly 1471)
+** arc42
+** C4
+** RM/ODP
+** FMC
+* ideas and examples of checklists for the creation, documentation, and testing of software architectures
+* possible tools for creating and maintaining architectural documentation
 
 // end::EN[]
 
