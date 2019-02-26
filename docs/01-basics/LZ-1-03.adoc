@@ -19,11 +19,11 @@ Sie können:
 [[LG-1-3]]
 ==== LG 1-3: Understand software architecture as part of the software life cycle (R2)
 
-Software architects can understand their tasks and results into the overall lifeycle of IT systems.
+Software architects understand their tasks and can integrate their results into the overall lifeycle of IT systems.
 They can:
 
-* establish relationships with business and operational processes for information systems and decision support systems (data warehouse, management information systems), for example, or other types of systems;
-* identify the consequences of changes in requirements, quality objectives, technologies or the system environment in relation to software architecture.
+* establish correlations between business and operational processes and their corresponding information systems and decision support systems (data warehouse, management information systems), or other types of systems;
+* identify the consequences of changes in requirements, quality objectives, technologies, or the system environment in relation to software architecture.
 
 // end::EN[]
 
