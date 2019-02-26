@@ -6,7 +6,7 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 [[LZ-1-4]]
 ==== LZ 1-4: Aufgaben und Verantwortung von Softwarearchitekten verstehen (R1)
-Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und Funktionalität der Lösung.
+Softwarearchitekten tragen die Verantwortung für die Erreichung der geforderten oder notwendigen Qualität und die Erstellung des Architekturentwurfs der Lösung.
 Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
 
 Aufgaben und Verantwortung von Softwarearchitekten:
@@ -27,7 +27,7 @@ Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erk
 // tag::EN[]
 [[LG-1-4]]
 ==== LG 1-4: Understand software architects' tasks and responsibilities (R1)
-Software architects are responsible for achieving the required or necessary quality and functionality of a solution.
+Software architects are responsible for achieving the required or necessary quality and creating the architecture design of a solution.
 Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities for project management and/or other roles.
 
 Tasks and responsibilities of software architects:
