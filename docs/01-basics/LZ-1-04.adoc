@@ -28,18 +28,18 @@ Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erk
 [[LG-1-4]]
 ==== LG 1-4: Understand software architects' tasks and responsibilities (R1)
 Software architects are responsible for achieving the required or necessary quality and creating the architecture design of a solution.
-Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities for project management and/or other roles.
+Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities of project management and/or other roles.
 
 Tasks and responsibilities of software architects:
 
-* Clarify and question requirements as well as constraints and refine them if required.
+* Clarify and scrutinize requirements and constraints, and refine them if necessary.
 Together with functional requirements (required features), this includes the required quality characteristics (_required constraints_).
 * Decide how to decompose the system into building blocks, while determining dependen-cies and interfaces between the building blocks.
 * Determine and decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)
-* Communicate and document software architecture based on views, architectural patterns, crosscutting and technical concepts
+* Communicate and document software architecture based on views, architectural patterns, cross-cutting and technical concepts
 * Accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture
 * Analyze and evaluate software architecture, especially with respect to risks involving the quality requirements
-* Identify and highlight the consequences of architectural decisions and discuss these with other stakeholders
+* Identify, highlight, and justify the consequences of architectural decisions to other stakeholders
 
 They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
 
@@ -48,6 +48,8 @@ They should independently recognize the necessity of iterations in all tasks and
 // tag::REMARK[]
 [NOTE]
 ====
+RER, 2019-02-26: changed English translations.
+RER, 2019-02-26: changed first sentence so that the architect is responsible for the quality and architecture design rather than the quality and functionality.
 GS, Feb 2019: added "analyze" to the "evaluate" activity, both DE and EN
 
 GS, Feb 2019: TODO: Übesetzung von "gegenüber anderen Stakeholdern argumentieren" mit "discuss with..." finde ich nicht passend.
