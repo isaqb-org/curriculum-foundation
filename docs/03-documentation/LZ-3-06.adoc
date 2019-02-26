@@ -14,10 +14,8 @@ Softwarearchitekten können typische querschnittliche Konzepte (auch genannt _Pr
 // tag::EN[]
 [[LG-3-6]]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 3-6: Document and communicate cross-cutting concerns (R1)
+* Software architects are able to adequately document and communicate typical cross-cutting concerns, e. g., persistence, workflow management, UI, deployment/integration, logging);
 
 // end::EN[]
 
