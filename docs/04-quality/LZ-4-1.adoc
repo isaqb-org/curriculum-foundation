@@ -12,8 +12,8 @@ Softwarearchitekten können:
 * den Begriff der Qualität (angelehnt an DIN/ISO 25010, vormals 9126) und der Qualitätsmerkmale erklären;
 * generische Qualitätsmodelle (wie etwa DIN/ISO 25010) erklären;
 * Zusammenhänge und Wechselwirkungen von Qualitätsmerkmalen erläutern, beispielsweise:
-** Konfigurierbarkeit versus Robustheit
-** Speicherbedarf versus Laufzeit
+** Konfigurierbarkeit versus Zuverlässigkeit
+** Speicherbedarf versus Leistungseffizienz
 ** Sicherheit versus Benutzbarkeit
 ** Laufzeitflexibilität versus Wartbarkeit
 
