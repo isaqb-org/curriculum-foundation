@@ -23,10 +23,18 @@ Sie wissen, dass:
 // tag::EN[]
 [[LG-4-4]]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LZ 4-4: Quantitative evaluation of software architectures (R2)
+
+Software architects know approaches for the quantitative evaluation (measurement) of software.
+
+They know that:
+
+* quantitative evaluation can help to identify critical parts within systems;
+* further information can be helpful for the evaluation of architectures, for example:
+** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
+** known errors in source code, especially error clusters
+** Test cases and test results
+** Requirements and solution models
 
 // end::EN[]
 
