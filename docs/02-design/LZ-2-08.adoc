@@ -11,7 +11,7 @@ include::../config/_feedback.adoc[]
 Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsziele von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden, beispielsweise für:
 
 * Effizienz/Performance
-* Wartbarkeit, Änderbarkeit, Erweiterbarkeit, Flexibilität
+* Wartbarkeit, Modifizierbarkeit, Erweiterbarkeit, Adaptierbarkeit
 
 Sie können entsprechende Risiken identifizieren.
 
@@ -25,7 +25,7 @@ Sie können entsprechende Risiken identifizieren.
 Software architects can explain and apply tactics, appropriate practices and technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems), e.g. for:
 
 * efficiency/performance
-* maintainability, changeability, extensibility, flexibility
+* maintainability, modifiability, extensibility, adaptability
 
 They can identify corresponding risks.
 
