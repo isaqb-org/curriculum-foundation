@@ -14,7 +14,7 @@ include::../config/_feedback.adoc[]
 
 === Wesentliche Begriffe
 
-Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, technische und querschnittliche Konzepte, Stereotypen, Architekturmuster, Entwurfsmuster, Mustersprachen, Entwurfsprinzipien, Abhängigkeit, Kopplung, Kohäsion, fachliche und technische Architekturen, Top-down- und Bottom-Up-Vorgehen, modellbasierter Entwurf, iterativer/inkrementeller Entwurf, Domain-Driven Design
+Entwurf; Vorgehen beim Entwurf; Entwurfsentscheidung; Sichten; Schnittstellen; technische und querschnittliche Konzepte; Stereotypen; Architekturmuster; Entwurfsmuster; Mustersprachen; Entwurfsprinzipien; Abhängigkeit; Kopplung; Kohäsion; fachliche und technische Architekturen; Top-down- und Bottom-Up-Vorgehen; modellbasierter Entwurf; iterativer/inkrementeller Entwurf; Domain-Driven Design
 
 // end::DE[]
 
@@ -26,7 +26,7 @@ Entwurf, Vorgehen beim Entwurf, Entwurfsentscheidung, Sichten, Schnittstellen, t
 |===
 
 === Terms and concepts
-Design; design approach; design decision; views, interfaces, technical and cross-cutting concerns; stereotypes, architectural patterns; pattern languages; design principles; dependencies; coupling, cohesion; functional and technical architectures; top-down and bottom-up approaches; model-based design; iterative/incremental design; domain-driven design
+Design; design approach; design decision; views; interfaces; technical and cross-cutting concerns; stereotypes; architectural patterns; pattern languages; design principles; dependencies; coupling; cohesion; functional and technical architectures; top-down and bottom-up approaches; model-based design; iterative/incremental design; domain-driven design
 
 // end::EN[]
 
