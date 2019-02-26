@@ -16,7 +16,7 @@ Softwarearchitekten können:
 
 // tag::EN[]
 [[LG-1-7]]
-==== LG 1-7: Differentiate between architecture and project objectives (R1)
+==== LG 1-7: Differentiate between short- and long-term goals (R1)
 
 Software architects can:
 
@@ -26,8 +26,10 @@ Software architects can:
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
+[IMPORTANT]
 ====
+GS/RER (Feb 2019): 
+
 GS/CL (Jan 2019): Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
 
 RR: Removed redundancies, especially with LG 2-3
