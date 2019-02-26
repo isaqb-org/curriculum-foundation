@@ -22,9 +22,9 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 Software architects know the quality requirements of technical documentation and can consider and fulfil those when documenting systems:
 
 * Understandability, correctness, efficiency, appropriateness, maintainability
-* *Form, content and level of detail of documentation chosen in accordance with targeted stakeholders
+* Form, content, and level of detail tailored to the stakeholders
 
-They know that their target audiences alone can assess the understandability of technical documentation.
+They know that only the target audiences can assess the understandability of technical documentation.
 
 // end::EN[]
 
