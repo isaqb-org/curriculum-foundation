@@ -17,10 +17,11 @@ Softwarearchitekten können:
 // tag::EN[]
 [[LG-3-8]]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LG 3-8: Explain and document architectural decisions (R2)
+Software architects are able to:
+
+* systematically derive, justify, communicate, and document architectural decisions
+* Identify, communicate, and document interdependencies between design decisions
 
 // end::EN[]
 
