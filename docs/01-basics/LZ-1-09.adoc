@@ -31,7 +31,7 @@ Software architects know other architectural domains, for example:
 
 The following domains of architecture are not the content focus of CPSA-F:
 
-* Corporate IT architecture (_Enterprise IT Architecture_): Structure of application landscapes.
+* Enterprise IT architecture: Structure of application landscapes.
 * Business and Process Architecture: Structure of, among other things, business processes.
 * Information architecture: cross-system structure and use of information and data.
 * Infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
