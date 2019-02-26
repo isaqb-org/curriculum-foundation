@@ -6,7 +6,7 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 [[LZ-3-5]]
 ==== LZ 3-5: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
-Softwarearchitekten können
+Softwarearchitekten können:
 
 * Kontext von Systemen z.B. in Form von Kontextdiagramm mit Erläuterungen darstellen;
 * externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen;
@@ -17,10 +17,12 @@ Softwarearchitekten können
 // tag::EN[]
 [[LG-3-5]]
 
-[IMPORTANT]
-====
-Translation missing!
-====
+==== LZ 3-5: Explain and apply context view of systems (R1)
+Software architects can:
+
+* Depict the context of systems, e.g. in the form of context diagrams with explanations;
+* represent external interfaces of systems in the context view;
+* differentiate functional and technical context.
 
 // end::EN[]
 
