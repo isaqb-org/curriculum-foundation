@@ -28,8 +28,8 @@ Software architects understand dependencies and coupling between building blocks
 * They know different types of dependencies of building blocks (e.g. structural coupling via use/delegation, nesting, ownership, generation, inheritance, temporal coupling, coupling via data types or via hardware);
 * They can use such types of coupling in a targeted manner and can assess the consequences of such dependencies;
 * They know and can apply possibilities to reduce or eliminate coupling, for example:
-** Patterns (see <<<LG-2-5, learning goal 2-5>>)
-** Basic design principles (see <<<LG-2-6, learning goal 2-6>>)
+** Patterns (see <<LG-2-5, learning goal 2-5>>)
+** Basic design principles (see <<LG-2-6, learning goal 2-6>>)
 
 // end::EN[]
 
