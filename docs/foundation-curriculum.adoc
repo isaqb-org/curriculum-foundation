@@ -49,3 +49,6 @@ include::04-quality/00-quality.adoc[]
 
 <<<
 include::05-examples/00-examples.adoc[]
+
+<<<
+include::09-references/00-references.adoc[]

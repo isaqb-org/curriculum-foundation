@@ -1,0 +1,30 @@
+// header file for curriculum section "References"
+// (c) iSAQB e.V. (https://isaqb.org)
+// ===============================================
+
+// tag::FEEDBACK[]
+:filename: 02-design/99-design-references.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+[bibliography]
+== {references}
+
+- [[[Bass2003, Bass 2003]]] Lan Bass:
+- [[[Bass2012,Bass 2012]]] Len Bass: Software Architecture in Practice.
+- [[[Clements2002,Clements+2002]]]
+- [[[gof,Gamma+94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
+  Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
+
+- [[[Fowler2003, Fowler 2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. Addison-Wesley, 2003.
+
+- [[[Gharbi2014,Gharbi+2014]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. dpunkt Verlag, Heidelberg 2014.
+
+- [[[Martin2003,Martin 2003]]] Robert Martin
+- [[[POSA-Series]]] Pattern-Oriented Software Architecture (POSA), Prentice Hall International.
+- [[[Buschmann96,Buschmann+1996]]] Frank Buschmann et al.
+- [[[Buschmann2007,Buschmann+2007]]] Frank Buschmann et al.
+- [[[Starke2017,Starke 2017]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 8. Auflage, Carl Hanser Verlag 2017. Website: https://esabuch.de 
+- [[[Lilienthal2017,Lilienthal 2017]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 2. Auflage, dpunkt Verlag 2018.
+
+- [[[Zörner2015,Zörner 2015]]]
