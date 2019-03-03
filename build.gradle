@@ -50,7 +50,7 @@ asciidoctor {
     'withFeedback'     : true,
 
      // what language(s) do you want to render? DE, EN?
-    'language'         : "EN",  // options are "DE", "EN" or "DE;EN"
+    'language'         : "DE;EN",  // options are "DE", "EN" or "DE;EN"
 
      // do you want the uniqe ID for all learning-goals to
      // be included in output?
