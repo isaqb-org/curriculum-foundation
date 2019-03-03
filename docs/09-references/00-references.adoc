@@ -12,16 +12,16 @@ include::../config/_feedback.adoc[]
 
 - [[[Bass2012,Bass 2012]]] Len Bass: Software Architecture in Practice.
 
-- [[[gof,Gamma+94]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
+- [[[gof,Gamma+94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
   Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 
-- [[[Fowler2003]]] Martin Fowler: Patterns of Enterprise Application Architecture
+- [[[Fowler2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. Addison-Wesley, 2003.
 
-- [[[Gharbi+2014]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. dpunkt Verlag, Heidelberg 2014.
+- [[[Gharbi2014, Gharbi+2014]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. dpunkt Verlag, Heidelberg 2014.
 
 - [[[Martin2003, Martin 2003]]] 
 - [[[POSA-Series]]]
-- [[[Buschmann+1996]]]
-- [[[Buschmann+2007]]]
+- [[[Buschmann96, Buschmann+1996]]]
+- [[[Buschmann07, Buschmann+2007]]]
 - [[[Starke2017, Starke 2017]]] 
 - [[[Lilienthal2017, Lilienthal 2017]]]

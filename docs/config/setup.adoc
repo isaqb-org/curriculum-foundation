@@ -8,21 +8,25 @@
 // table-of-contents placement does not work in pdf, but in html
 :toc: left
 
-// if the attribute ":withRemarks:" is set, we amend every content-include
-// by ";REMARK", so that the sections tagged "REMARK" are always included.
-:withRemarks!:
-:remarks:
-ifdef::withRemarks[]
-:remarks: ;REMARK
-endif::withRemarks[]
-
 // if the attribute ":withFeedback:" is set, we include buttons to give
-// feedback to specific content sections.
+// feedback to specific content sections (only in html5 output)
 :withFeedback!:
 :feedback:
 ifdef::withFeedback[]
-:feedback: ;FEEDBACK
+:feedback: FEEDBACK
 endif::withFeedback[]
+
+// if the attribute ":withRemarks:" is set, we amend every content-include
+// by "REMARK", so that the sections tagged "REMARK" are always included.
+:withRemarks!:
+:remarks:
+ifdef::withRemarks[]
+:remarks: REMARK
+endif::withRemarks[]
+
+// Uniqe ID for learning goals (as proposed in https://github.com/isaqb-org/curriculum-foundation/issues/20)
+// attribute ":with-uniqe-LG-id:"
+// FIXME 
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
@@ -36,9 +40,16 @@ Several languages have been configured, but the language-specific headings (like
 endif::[]
 
 // ":include_configuration:" always consists of the language, eventually
-// followed by ";REMARK".
+// followed by ";REMARK" and preceeded by 
 // additional markers might be configured here!
-:include_configuration: tags={language}{remarks}{feedback}
+:include_configuration: tags={feedback};{language};{remarks}
+
+
+// ":bibrefs:" (bibliography entries) are single language, to avoid redundancy.
+// therefore the appropriate include statements don't contain a language,
+// but the "BIB_REFS" tag.
+:bibrefs: BIB_REFS
+
 
 
 // you might want to output some internal information...

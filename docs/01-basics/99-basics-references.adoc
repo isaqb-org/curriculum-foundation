@@ -1,0 +1,17 @@
+// tag::FEEDBACK[]
+:filename: 02-design/99-design-references.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+
+// tag::BIB_REFS[] 
+
+=== {references}
+
+<<Bass2012>>, <<Fowler2003>>, <<Gharbi+2014>>, <<gof>>, <<Martin2003>>, <<POSA-Series>>, esp. <<Buschmann+1996>> and <<Buschmann+2007>>, <<Starke2017>>, <<Lilienthal2017>>
+
+// end::BIB_REFS[] 
+
+
+// tag::REMARK[]
+// end::REMARK[]

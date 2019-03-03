@@ -1,0 +1,16 @@
+// tag::FEEDBACK[]
+:filename: 02-design/99-documentation-references.adoc
+include::../config/_feedback.adoc[]
+// end::FEEDBACK[]
+
+
+// tag::BIB_REFS[] 
+=== {references}
+
+<<Bass+2003>>, <<Clements+2002>>, <<Gharbi2014>>, <<Starke2017>>, <<Zörner2015>>
+
+// end::BIB_REFS[] 
+
+
+// tag::REMARK[]
+// end::REMARK[]

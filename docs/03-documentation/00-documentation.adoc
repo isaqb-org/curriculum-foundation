@@ -28,6 +28,4 @@ include::./LZ-3-09.adoc[{include_configuration}]
 
 include::./LZ-3-10.adoc[{include_configuration}]
 
-=== Referenzen
-
-* [Bass+2003], [Clements+2002], [Gharbi+2014], [Starke 2017], [Zörner2015]
+include::./99-documentation-references.adoc[tags={feedback};{bibrefs};{remarks}]
