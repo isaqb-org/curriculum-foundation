@@ -33,24 +33,28 @@ asciidoctor {
   println "sourceDir = " + sourceDir
 
   attributes = [
-      doctype       : 'book',
-      icons         : 'font',
-      currentDate   : '$currentDate',
-      debug_adoc         : true,
-     'document-version' : this.version,
+    doctype       : 'book',
+    icons         : 'font',
+    currentDate   : '$currentDate',
+    debug_adoc         : true,
+    'document-version' : this.version,
 
      // if you want to render the comments/remarks?
      //    then uncomment the following line;
      //    else comment the following line
-     'withRemarks'      : true,
+    'withRemarks'      : true,
 
      // if you want to render the "improve this doc" links
      //    then uncomment the following line;
      //    else comment the following line
-     'withFeedback'     : true,
+    'withFeedback'     : true,
 
      // what language(s) do you want to render? DE, EN?
-     'language'         : "DE;EN",  // options are "DE", "EN" or "DE;EN"
+    'language'         : "EN",  // options are "DE", "EN" or "DE;EN"
+
+     // do you want the uniqe ID for all learning-goals to
+     // be included in output?
+    'with-uniqe-LG-id' : false,
 
      // where are the (custom) pdf style definitions and fonts located
      'pdf-stylesdir'    : '../pdf-theme/themes',
