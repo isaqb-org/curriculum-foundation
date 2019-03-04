@@ -35,8 +35,6 @@ They can identify corresponding risks.
 
 [NOTE]
 ====
-GS: Proposal: upgrade to R1
-
 GS: Feb 2019: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 (statt bisher 5) des Lehrplanes gehört, und habe es zum neuen LZ 2-8 gemacht
 ====
 // end::REMARK[]
