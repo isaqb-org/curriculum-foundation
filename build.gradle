@@ -1,65 +1,84 @@
-buildscript {
-    repositories {
-        jcenter()
-    }
+import org.asciidoctor.gradle.AsciidoctorTask
+import javax.inject.Inject
 
-    dependencies {
-        classpath 'org.asciidoctor:asciidoctor-gradle-plugin:1.5.2.2'
-        classpath 'org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.16'
-    }
+buildscript {
+  repositories {
+    jcenter()
+  }
+
+  dependencies {
+    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.16"
+  }
 }
 plugins {
   id "org.asciidoctor.convert" version "1.6.0"
-
 }
-
 
 ext {
-    currentDate = new Date().format("d. MMM yyyy")
+  currentDate = new Date().format("d. MMM yyyy")
+  project.version = "5.0 DRAFT ($currentDate)"
+  curriculumBaseName = "foundation-curriculum"
+  addSuffixToCurriculum = { suffix ->
+    for (extension in ["html", "pdf"]) {
+      File source = new File("${buildDir}/${curriculumBaseName}.${extension}")
+      File target = new File("${buildDir}/${curriculumBaseName}${suffix}.${extension}")
+
+      source.renameTo(target)
+    }
+  }
 }
 
-version = "5.0 DRAFT ($currentDate)"
-
-asciidoctor {
-  backends 'pdf', 'html5'
-  sourceDir = file("./docs/")
-   sources {
-      include "foundation-curriculum.adoc"
+class RenderCurriculumTask extends AsciidoctorTask {
+  @Inject
+  RenderCurriculumTask(String curriculumBaseName, String currentDate, String language, boolean withRemarks) {
+    sourceDir = new File("./docs/")
+    sources {
       include "index.adoc"
-   }
-  outputDir = file("build")
-
-  println "outputDir = " + outputDir
-  println "sourceDir = " + sourceDir
-
-  attributes = [
-    doctype       : 'book',
-    icons         : 'font',
-    currentDate   : '$currentDate',
-    debug_adoc         : true,
-    'document-version' : this.version,
-
-     // if you want to render the comments/remarks?
-     //    then uncomment the following line;
-     //    else comment the following line
-    'withRemarks'      : true,
-
-     // if you want to render the "improve this doc" links
-     //    then uncomment the following line;
-     //    else comment the following line
-    'withFeedback'     : true,
-
-     // what language(s) do you want to render? DE, EN?
-    'language'         : "DE;EN",  // options are "DE", "EN" or "DE;EN"
-
-     // do you want the uniqe ID for all learning-goals to
-     // be included in output?
-    'with-uniqe-LG-id' : false,
-
-     // where are the (custom) pdf style definitions and fonts located
-     'pdf-stylesdir'    : '../pdf-theme/themes',
-     'pdf-style'        : 'isaqb'
-  ]
+      include "${curriculumBaseName}.adoc"
+    }
+    outputDir = new File("./build/")
+    separateOutputDirs = false
+    backends 'pdf', 'html5'
+    attributes = [
+      'icons'            : 'font',
+      'document-version' : "${project.version}",
+      'currentDate'      : currentDate,
+      'language'         : language,
+      'withRemarks'      : withRemarks,
+      'withFeedback'     : true,
+      'debug_adoc'       : false,
+      'pdf-stylesdir'    : '../pdf-theme/themes',
+      'pdf-style'        : 'isaqb',
+      'with-uniqe-LG-id' : false,
+    ]
+  }
 }
 
-defaultTasks 'asciidoctor'
+task buildDocs {
+	group 'Documentation'
+	description 'Grouping task for generating all languages in several formats'
+  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
+}
+
+task renderNoRemarksDE(type: RenderCurriculumTask,
+    constructorArgs: [curriculumBaseName, currentDate, "DE", false]) {
+  doLast {
+    addSuffixToCurriculum("_de")
+  }
+}
+
+task renderNoRemarksEN(type: RenderCurriculumTask,
+    constructorArgs: [curriculumBaseName, currentDate, "EN", false]) {
+  doLast {
+    addSuffixToCurriculum("_en")
+  }
+}
+
+task renderWithRemarksDE_EN(type: RenderCurriculumTask,
+    constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
+  doLast {
+    addSuffixToCurriculum("_remarks_de_en")
+  }
+}
+
+defaultTasks "buildDocs"
