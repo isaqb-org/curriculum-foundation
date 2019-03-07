@@ -6,9 +6,9 @@ include::../config/_feedback.adoc[]
 <<<
 // tag::DE[]
 === Voraussetzungen
-Teilnehmer sollten folgende Kenntnisse und/oder Erfahrung mitbringen:
+Teilnehmende sollten die im nachfolgend genannten Kenntnisse und/oder Erfahrung mitbringen. Insbesondere bilden substanzielle praktischen Erfahrungen aus der Softwareentwicklung im Team eine wichtige Voraussetzung zum Verständnis des vermittelten Lernstoffes und die erfolgreiche Zertifizierung.
 
-* mehr als 18 Monate praktische Erfahrung in Softwareentwicklung, erworben durch Programmierung unterschiedlicher Systeme außerhalb der Ausbildung
+* mehr als 18 Monate praktische Erfahrung in arbeitsteiliger Softwareentwicklung (d.h. in Teams), erworben durch Programmierung unterschiedlicher Systeme außerhalb der Ausbildung
 * Kenntnisse und praktische Erfahrung in mindestens einer höheren Programmiersprache, insbesondere:
 ** Konzepte der 
 *** Modularisierung (Pakete, Namensräume)
@@ -39,9 +39,9 @@ Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben genannten Voraussetzu
 
 // tag::EN[]
 ==== Prerequisites
-Participants should have the following prior knowledge and/or experience:
+Participants should have the following knowledge and/or experience. In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
 
-* More than 18 months of practical experience with software development, gained through programming a variety of projects or systems outside of formal education
+* More than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education
 * Knowledge of and practical experience with at least one higher programming language, especially:
 ** Concepts of 
 *** modularization (packages, namespaces, etc.)
