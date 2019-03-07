@@ -1,9 +1,11 @@
-language: minimal
+language: java
+install: true
+
+jdk:
+  - oraclejdk8
 
 script:
-- docker build -t isaqb-adoc2pdf --force-rm adoc2pdf/
-- ./adoc2pdf/adoc2pdf.sh ${PWD}/docs/foundation-curriculum.adoc DE dev
-- ./adoc2pdf/adoc2pdf.sh ${PWD}/docs/foundation-curriculum.adoc EN dev
+  - ./gradlew build --scan -s
 
 deploy:
   provider: releases
