@@ -6,6 +6,8 @@ include::../config/_feedback.adoc[]
 <<<
 // tag::DE[]
 === Voraussetzungen
+Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben hier Voraussetzungen durch entsprechende Fragen prüfen.
+
 Teilnehmende sollten die im nachfolgend genannten Kenntnisse und/oder Erfahrung mitbringen. Insbesondere bilden substanzielle praktischen Erfahrungen aus der Softwareentwicklung im Team eine wichtige Voraussetzung zum Verständnis des vermittelten Lernstoffes und die erfolgreiche Zertifizierung.
 
 * mehr als 18 Monate praktische Erfahrung in arbeitsteiliger Softwareentwicklung (d.h. in Teams), erworben durch Programmierung unterschiedlicher Systeme außerhalb der Ausbildung
@@ -33,12 +35,13 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 ** Konzeption und Implementierung verteilt ablaufender Anwendungen, wie etwa Client/Server-Systeme oder Web-Anwendungen
 ** technischer Dokumentation, insbesondere in der Dokumentation von Quellcode, Systementwürfen oder technischen Konzepten
 
-Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben genannten Voraussetzungen durch entsprechende Fragen prüfen.
-
 // end::DE[]
+
 
 // tag::EN[]
 ==== Prerequisites
+The iSAQB e. V. may check the following prerequisitesin certification examinations by appropriate questions.
+
 Participants should have the following knowledge and/or experience. In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
 
 * More than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education
@@ -66,7 +69,6 @@ Furthermore, the following will be useful for understanding several concepts:
 ** designing and implementing distributed applications, such as client-server systems or web applications
 ** technical documentation, especially documenting source code, system design or technical concepts
 
-The iSAQB e. V. may check the aforementioned requirements in certification examinations by appropriate questions.
 
 // end::EN[]
 
