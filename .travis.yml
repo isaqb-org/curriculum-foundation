@@ -14,6 +14,9 @@ deploy:
   file:
     - "build/foundation-curriculum_DE_dev.pdf"
     - "build/foundation-curriculum_EN_dev.pdf"
+    - "build/foundation-curriculum_remarks_de_en.html"
+    - "build/foundation-curriculum_remarks_de_en.pdf"
+
   skip_cleanup: true
   draft: true
   overwrite: true
