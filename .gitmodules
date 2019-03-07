@@ -2,7 +2,3 @@
 	path = pdf-theme
 	url = https://github.com/isaqb-org/pdf-theme.git
 	branch = master
-[submodule "adoc2pdf"]
-	path = adoc2pdf
-	url = https://github.com/isaqb-org/adoc2pdf.git
-	branch = master
