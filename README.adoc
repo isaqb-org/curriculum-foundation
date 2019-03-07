@@ -26,10 +26,26 @@ TODO: add issue templates for bugs, comments, proposals
 
 == How to build the documents
 
-* (local) build with gradle. That will produce pdf and html output. Should be used for personal development or review work only. 
-* build with adoc2pdf, based upon Docker (which is contained in a distinct repository[] under the isaqb-org organization).
+Prerequisite: You need a Java Runtime(tm) installed.
 
-TODO: migrate adoc2pdf repository from Gitlab to Github
+You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. 
+
+In case you want to change that, adjust the following part of `build.gradle`:
+
+[source,groovy]
+----
+task buildDocs {
+	group 'Documentation'
+	description 'Grouping task for generating all languages in several formats'
+  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
+}
+----
+
+In the "renderNoRemarksDE" certain attributes (aka variables) are defined that configure the corresponding output. 
+
+
+=== Legacy build
+There is a Docker-based build available in https://github.com/isaqb-org/adoc2pdf[its own repository], in case you cannot build with gradle.
 
 
 == Maintainers
@@ -45,7 +61,7 @@ The current (2019) FLWG members are:
 * Dr. Carola Lilienthal
 * Dr. Ulrich Becker
 * Phillip Ghadir (FLWG co-chair)
-* Peter Götz
+* Peter Götz (aka _hero of the build_!)
 * Dr. Peter Hruschka
 * Alexander Lorz
 * Roger Rhoades
