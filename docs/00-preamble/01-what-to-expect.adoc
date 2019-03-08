@@ -48,8 +48,5 @@ In addition, such trainings cover:
 // end::EN[]
 
 // tag::REMARK[]
-[WARNING]
-====
-TODO: englische Übersetzung prüfen!
-====
+
 // end::REMARK[]

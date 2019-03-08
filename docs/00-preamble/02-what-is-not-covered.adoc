@@ -29,7 +29,7 @@ This curriculum reflects the contents currently considered by the iSAQB members 
 
 The following topics or concepts are not part of CPSA-F:
 
-* Concrete implementation technologies, frameworks or libraries
+* Specific implementation technologies, frameworks or libraries
 * Programming or programming languages
 * Modelling notations (such as UML) or fundamentals of modelling itself
 * System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., http://ireb.org, International Requirements Engineering Board)

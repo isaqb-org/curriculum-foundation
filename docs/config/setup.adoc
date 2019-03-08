@@ -16,6 +16,7 @@ ifdef::withFeedback[]
 :feedback: FEEDBACK
 endif::withFeedback[]
 
+
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by "REMARK", so that the sections tagged "REMARK" are always included.
 :withRemarks!:
@@ -24,9 +25,11 @@ ifdef::withRemarks[]
 :remarks: REMARK
 endif::withRemarks[]
 
+
 // Uniqe ID for learning goals (as proposed in https://github.com/isaqb-org/curriculum-foundation/issues/20)
 // attribute ":with-uniqe-LG-id:"
 // FIXME 
+
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
@@ -63,3 +66,10 @@ Current configuration:
 * Include-configuration: {include_configuration}
 ====
 endif::debug_adoc[]
+
+
+// glossary definitions
+// iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
+// on Leanpub (https://leanpub.com/isaqbglossary/read)
+//
+:glossary_url: https://leanpub.com/isaqbglossary/read#term-
