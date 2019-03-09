@@ -10,7 +10,11 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-*DRAFT* version!!
+*DRAFT* version: image:https://travis-ci.org/isaqb-org/curriculum-foundation.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-foundation"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 Licensed trainings for _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems. 
 

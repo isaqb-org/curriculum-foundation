@@ -13,11 +13,21 @@ The terminology used in the iSAQB curricula can be found as a (freely available)
 
 The current productive version (aka: relevant for examinations) is version 4.1 (EN) and 4.2 (DE), both of which are currently only available via the official https://isaqb.org[iSAQB website].
 
-== Development versions
+
+== Development versions 
+
+=== Status
+image:https://travis-ci.org/isaqb-org/curriculum-foundation.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-foundation"]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+=== Available Versions
 The Foundation Level curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on Github to improve the curriculum.
 
-- link:foundation-curriculum_de.html[German without Comments]
-- link:foundation-curriculum_en.html[English without Comments]
-- link:foundation-curriculum_remarks_de_en.html[German/English with Comments]
+- link:foundation-curriculum_de.html[German without Comments (online, html)]
+- link:foundation-curriculum_en.html[English without Comments (online, html)]
+- link:foundation-curriculum_remarks_de_en.html[German/English with Comments (online, html)]
 - link:foundation-curriculum_de.pdf[German without Comments (PDF)]
 - link:foundation-curriculum_en.pdf[English without Comments (PDF)]
