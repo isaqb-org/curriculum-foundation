@@ -1,9 +1,15 @@
 language: java
 install: true
-
 jdk:
   - oraclejdk8
 
+before_cache:
+  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
 script:
   - ./gradlew
 
@@ -16,7 +22,3 @@ deploy:
     - "build/foundation-curriculum_EN_dev.pdf"
     - "build/foundation-curriculum_remarks_de_en.html"
     - "build/foundation-curriculum_remarks_de_en.pdf"
-
-  skip_cleanup: true
-  draft: true
-  overwrite: true
