@@ -6,7 +6,7 @@ include::../config/_feedback.adoc[]
 <<<
 // tag::DE[]
 === Voraussetzungen
-Der iSAQB e. V. kann in Zertifizierungsprüfungen die oben hier Voraussetzungen durch entsprechende Fragen prüfen.
+Der iSAQB e. V. kann in Zertifizierungsprüfungen die hier genannten Voraussetzungen durch entsprechende Fragen prüfen.
 
 Teilnehmende sollten die im nachfolgend genannten Kenntnisse und/oder Erfahrung mitbringen. Insbesondere bilden substanzielle praktischen Erfahrungen aus der Softwareentwicklung im Team eine wichtige Voraussetzung zum Verständnis des vermittelten Lernstoffes und die erfolgreiche Zertifizierung.
 
