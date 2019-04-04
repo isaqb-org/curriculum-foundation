@@ -1,4 +1,4 @@
-// header file for curriculum section 1: Basic Concepts
+// structure  file for curriculum section 1: Basic Concepts
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
