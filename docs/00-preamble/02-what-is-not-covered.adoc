@@ -14,12 +14,12 @@ Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
 * Programmierung oder Programmiersprachen
 * Spezifische Vorgehensmodelle
 * Grundlagen oder Notationen der Modellierung (wie etwa UML)
-* Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizie-rungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
+* Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
 * Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., http://istqb.org, International Software Testing Qualification Board)
 * Projekt- oder Produktmanagement
 * konkrete Werkzeuge
 
-Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwen-digen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
+Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwendigen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
 
 // end::DE[]
 
