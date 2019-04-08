@@ -10,7 +10,8 @@ include::../config/_feedback.adoc[]
 Softwarearchitekten können:
 
 * auf Basis bestehender Anforderungen Architekturziele identifizieren und präzisieren;
-* langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären.
+* langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären;
+* Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten.
 
 // end::DE[]
 
@@ -22,16 +23,15 @@ Software architects can:
 
 * identify and specify architectural goals based on existing requirements;
 * explain long-term quality requirements and their differentiation from (short-term) project goals.
+* explain conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders.
 
 // end::EN[]
 
 // tag::REMARK[]
 [IMPORTANT]
 ====
-GS/RER (Feb 2019): 
-
-GS/CL (Jan 2019): Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
-
-RR: Removed redundancies, especially with LG 2-3
+* P.Ghadir (April 2019): see https://github.com/isaqb-org/curriculum-foundation/issues/33[issue #33] 
+* GS/CL (Jan 2019): Begriffe "Architektur- und Projektziele" durch kurz- und langfristige Ziele ersetzt. Formulierung vereinfacht.
+* RR: Removed redundancies, especially with LG 2-3
 ====
 // end::REMARK[]
