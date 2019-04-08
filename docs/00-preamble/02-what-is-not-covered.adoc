@@ -19,7 +19,7 @@ Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
 * Projekt- oder Produktmanagement
 * konkrete Werkzeuge
 
-Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwen-digen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
+Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwendigen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
 
 // end::DE[]
 
