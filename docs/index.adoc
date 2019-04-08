@@ -1,33 +1,42 @@
 = image:images/isaqb-logo-150px.jpg[] CPSA Certified Professional for Software Architecture®
 - Foundation Level Curriculum -
 
+:TOC:
 
-The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects. You can find download links in the following sections.
 
-You can find the Foundation Level Curriculum (short: FLC) for the foundation level at <<foundation-curriculum.adoc#>>
-
-The terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
-
-
-== Production version
-
-The current productive version (aka: relevant for examinations) is version 4.1 (EN) and 4.2 (DE), both of which are currently only available via the official https://isaqb.org[iSAQB website].
+The **Foundation Level** curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on https://github.com/isaqb-org[Github] to improve the curriculum.
 
 
-== Development versions 
+A **glossary** of the terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
 
-=== Status
+== Version under development
+
+=== Version 5.x (under development, to be released September 2019) 
+
+==== Status
 image:https://travis-ci.org/isaqb-org/curriculum-foundation.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-foundation"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-=== Available Versions
-The Foundation Level curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on Github to improve the curriculum.
+
+==== Recent builds (draft) 
 
 - link:foundation-curriculum_de.html[German without Comments (online, html)]
 - link:foundation-curriculum_en.html[English without Comments (online, html)]
 - link:foundation-curriculum_remarks_de_en.html[German/English with Comments (online, html)]
 - link:foundation-curriculum_de.pdf[German without Comments (PDF)]
 - link:foundation-curriculum_en.pdf[English without Comments (PDF)]
+
+
+== Version 4.x (released 2017)
+
+The current productive version (aka: relevant for examinations) is version 4.1 (EN) and 4.2 (DE), both of which are currently only available via the official https://isaqb.org[iSAQB website].
+
+== Versions 3 and prior
+
+iSAQB does not maintain a repository of older versions. Upon request we can provide previous versions,
+you may volunteer to update this repository accordingly.
+
