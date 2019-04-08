@@ -25,6 +25,7 @@ Sie erkennen und berücksichtigen den:
 Software architects are able to gather and consider constraints and influencing factors that restrict the freedom in design decisions
 
 They should recognize and consider the:
+
 * impact of quality requirements
 * impact of technical decisions and concepts
 * (potential) impact of organizational, legal, and other constraints (R2)
