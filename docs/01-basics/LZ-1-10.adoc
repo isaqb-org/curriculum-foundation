@@ -32,4 +32,11 @@ Software architects know different types of IT systems, for example:
 // end::EN[]
 
 // tag::REMARK[]
+[QUESTION]
+====
+April 2019: Roger Rhoades proposed to maybe remove this LG,
+see https://github.com/isaqb-org/curriculum-foundation/issues/12[issue 12].
+
+
+====
 // end::REMARK[]
