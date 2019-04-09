@@ -7,11 +7,11 @@ include::../config/_feedback.adoc[]
 [[LZ-1-3]]
 ==== LZ 1-3: Softwarearchitektur in Software-Lebenszyklus einordnen (R2)
 
-Softwarearchitekten können Ihre Aufgaben und Ergebnisse in die gesamte Entwicklung von IT-Systemen einordnen.
+Softwarearchitekten können Ihre Aufgaben und Ergebnisse in den gesamten Lebenszyklus von IT-Systemen einordnen.
 Sie können:
 
-* Zusammenhänge zu Geschäfts- und Betriebsprozessen für beispielsweise Informationssysteme und Entscheidungsunterstützungssysteme (Data Warehouse, Management Information Systems) oder anderen Arten von Systemen herstellen;
-* Konsequenzen von Änderungen bei Anforderungen, Qualitätszielen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen.
+* Konsequenzen von Änderungen bei Anforderungen, Qualitätszielen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen;
+* inhaltliche Zusammenhänge zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen aufzeigen.
 
 // end::DE[]
 
@@ -22,8 +22,8 @@ Sie können:
 Software architects understand their tasks and can integrate their results into the overall lifeycle of IT systems.
 They can:
 
-* establish correlations between business and operational processes and their corresponding information systems and decision support systems (data warehouse, management information systems), or other types of systems;
-* identify the consequences of changes in requirements, quality objectives, technologies, or the system environment in relation to software architecture.
+* identify the consequences of changes in requirements, quality objectives, technologies, or the system environment in relation to software architecture;
+* elaborate on relationships between IT-systems and the supported business and operational processes.
 
 // end::EN[]
 
@@ -31,7 +31,7 @@ They can:
 
 [NOTE]
 ====
-RR: I’m not sure myself what these points are getting at.
+GS (April 2019, in reaction to remarks from RR): Aligned DE and EN versions, changed order of items, slightly rephrased second item. Removed references to DWH and other kinds of information systems, as it didn't fit the contents of this LG.
 
 GS (Feb 2019): I'd prefer to replace "in die gesamte Entwicklung" by "Lifecycle" (intro sentence)
 ====
