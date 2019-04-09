@@ -64,8 +64,8 @@ Furthermore, the following will be useful for understanding several concepts:
 
 * Basics and differences of imperative, declarative, object-oriented and functional programming
 * Practical experience in 
-** an object-oriented programming language (i.e. Java or C#);
-** software development in teams;
+** an object-oriented programming language (i.e. Java or C#)
+** software development in teams
 ** designing and implementing distributed applications, such as client-server systems or web applications
 ** technical documentation, especially documenting source code, system design or technical concepts
 
