@@ -11,7 +11,7 @@ Softwarearchitekten können:
 
 * Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren;
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen;
-* gegenseitige Abhängigkeiten und Wechselwirkungen von Entwurfsentscheidungen erkennen und begründen;
+* gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen;
 * Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden;
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen;
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht;
@@ -36,7 +36,7 @@ Software architects are able to:
 
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical;
 * make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks;
-* recognize and justify interdependencies and consequences of design decisions;
+* recognize and justify interdependencies and trade-offs of design decisions;
 * explain the terms _black box_ and _white box_ and apply them purposefully;
 * apply stepwise refinement and specify building blocks;
 * design architecture views, especially building-block view, runtime view and deployment view;
@@ -56,10 +56,10 @@ When making architecture and design decisions, software architects know and cons
 
 [NOTE]
 ====
-GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
 
-GS/CL (Jan 2019): diverse detaillierte DDD-Konstrukte entfernt
-
-RR: Removed text relating to decisions. This is covered in LG 3-8
+* GS (April 2019): fixed https://github.com/isaqb-org/curriculum-foundation/issues/14[issue 14] by adjusting translation.
+* GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
+* GS/CL (Jan 2019): diverse detaillierte DDD-Konstrukte entfernt
+* RR: Removed text relating to decisions. This is covered in LG 3-8
 ====
 // end::REMARK[]
