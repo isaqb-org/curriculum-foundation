@@ -13,10 +13,10 @@ Sie wissen, dass:
 
 * quantitative Bewertung helfen kann, kritische Teile innerhalb von Systemen zu identifizieren;
 * zur Bewertung von Architekturen weitere Informationen hilfreich sein können, etwa:
+** Anforderungs- und Architekturdokumentation
 ** Quellcode und diesbezügliche Metriken wie Lines-of-Code, (zyklomatische) Komplexität, ein- und ausgehende Abhängigkeiten
 ** bekannte Fehler in Quellcode, insbesondere Fehlercluster
 ** Testfälle und Testergebnisse
-** Anforderungs- und Lösungsmodelle
 
 // end::DE[]
 
@@ -30,16 +30,16 @@ They know that:
 
 * quantitative evaluation can help to identify critical parts within systems;
 * further information can be helpful for the evaluation of architectures, for example:
+** Requirements and architecture documentation
 ** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
 ** known errors in source code, especially error clusters
 ** Test cases and test results
-** Requirements and solution models
 
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
-GS: nur wording angepasst
+GS: see https://github.com/isaqb-org/curriculum-foundation/issues/16[issue 16]
 ====
 // end::REMARK[]
