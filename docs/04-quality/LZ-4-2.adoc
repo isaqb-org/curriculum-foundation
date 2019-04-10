@@ -28,8 +28,6 @@ Software architects can:
 // tag::REMARK[]
 [NOTE]
 ====
-GS: Formulierung angepasst
-
-RR: We don’t (shouldn’t) define (formulieren) quality requirements. This is the customer’s job. We shouldn’t define how fast, secure, etc. a system should be.
+RR: (March 2019) We don’t (shouldn’t) define (formulieren) quality requirements. This is the customer’s job. We shouldn’t define how fast, secure, etc. a system should be. See https://github.com/isaqb-org/curriculum-foundation/issues/15[issue 15]
 ====
 // end::REMARK[]
