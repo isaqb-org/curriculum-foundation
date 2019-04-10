@@ -13,8 +13,8 @@ Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwickl
 * iterativer und inkrementeller Entwurf
 ** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
 ** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen
-* Domain-Driven Design
-* Modellgetriebene Architektur
+* Domain-Driven Design (R3)
+* Modellgetriebene Architektur (R3)
 
 // end::DE[]
 
@@ -28,14 +28,15 @@ Software architects are able to name, explain, and use the basic approaches of a
 * Iterative and incremental design
 ** Necessity of iterations, especially when decision-making is affected by uncertainties
 ** Necessity of feedback on design decisions
-* Domain-driven design
-* Model-driven architecture
+* Domain-driven design (R3)
+* Model-driven architecture (R3)
 
 // end::EN[]
 
 // tag::REMARK[]
 [IMPORTANT]
 ====
-GS (Feb. 2019): re-ordered approaches, re-phrased _iterative and incremental_
+* GS (April 2019) incorporated suggestion by Roger Rhoades from https://github.com/isaqb-org/curriculum-foundation/issues/13[issue 13] to lower priority of MDA and DDD
+* GS (Feb. 2019): re-ordered approaches, re-phrased _iterative and incremental_
 ====
 // end::REMARK[]
