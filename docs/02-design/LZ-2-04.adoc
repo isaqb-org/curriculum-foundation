@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 Softwarearchitekten können:
 
 * die Bedeutung von Querschnittskonzepten erklären;
-* Querschnittliche Konzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit;
+* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit;
 * mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
 
 Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
