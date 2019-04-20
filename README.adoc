@@ -52,6 +52,12 @@ task buildDocs {
 
 In the "renderNoRemarksDE" certain attributes (aka variables) are defined that configure the corresponding output. 
 
+Please note: You need to include the submodule "pdf-theme" in your checkout, otherwise the build will fail. You can do that with the following command:
+
+[source,bash]
+----
+git submodule update --recursive --remote
+----
 
 === Legacy build
 
