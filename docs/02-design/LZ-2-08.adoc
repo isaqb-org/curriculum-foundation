@@ -6,9 +6,9 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 
 [[LZ-2-8]]
-==== LZ 2-8: Qualitätsziele mit passenden Ansätzen und Techniken erreichen (R1)
+==== LZ 2-8: Qualitätsanforderungen mit passenden Ansätzen und Techniken erreichen (R1)
 
-Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsziele von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden, beispielsweise für:
+Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden, beispielsweise für:
 
 * Effizienz/Performance
 * Wartbarkeit, Modifizierbarkeit, Erweiterbarkeit, Adaptierbarkeit
