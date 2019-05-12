@@ -23,8 +23,8 @@ Software architects are able to adequately document and communicate typical cros
 
 [NOTE]
 ====
-GS+RR: Redundanz zu Kapitel 2 entfernt, Protokollierung aufgenomen.
-====
-JR: Begriff an Kapitel 2 angepasst: "Querschnittskonzepte" anstelle von "querschnittliche Konzepte".
+
+* GS+RR: Redundanz zu Kapitel 2 entfernt, Protokollierung aufgenomen.
+* JR: Begriff an Kapitel 2 angepasst: "Querschnittskonzepte" anstelle von "querschnittliche Konzepte".
 ====
 // end::REMARK[]
