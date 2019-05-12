@@ -1,4 +1,4 @@
-= Curriculum für CPSA Certified Professional for Software Architecture® : - *Foundation Level* -
+= Curriculum für CPSA Certified Professional for Software Architecture^(R)^ : - *Foundation Level* -
 :toc: left
 // handle numerous attributes. Successful inclusion of this file
 // is ABSOLUTELY NECESSARY!!
