@@ -1,4 +1,4 @@
-= image:images/isaqb-logo-150px.jpg[] CPSA Certified Professional for Software Architecture®
+= image:images/isaqb-logo-150px.jpg[] CPSA Certified Professional for Software Architecture^(R)^
 - Foundation Level Curriculum -
 
 :TOC:
