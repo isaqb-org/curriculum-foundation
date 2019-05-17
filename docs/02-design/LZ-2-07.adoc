@@ -35,7 +35,7 @@ Software architects understand dependencies and coupling between building blocks
 
 // tag::REMARK[]
 
-[IMPORTANT]
+[NOTE]
 ====
 GS, Feb 2019: re-formated DE version, adjusted EN translation to modifications of DE version
 ====

@@ -49,7 +49,7 @@ Software architects understand the impact of design principles onto source code 
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 GS, Feb. 2019: fixed wrong indentation for modularization (SRP and OCP are principles on their own).
 Added links to leaning goals. Adjusted intro sentence of EN version.

@@ -28,7 +28,7 @@ Essential goals of software architecture are:
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 GS/CL: sprachlich leicht umformuliert
 

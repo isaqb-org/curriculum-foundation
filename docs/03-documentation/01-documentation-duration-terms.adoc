@@ -28,7 +28,7 @@ Views; structures; (technical) concepts; documentation; communication; descripti
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 GS (Feb. 2019): Why do we have ";" semicolons in EN and comma in DE?
 ====

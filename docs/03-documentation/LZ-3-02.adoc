@@ -27,7 +27,7 @@ Software architects are able to:
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 GS: Layout, sprachlich vereinfacht, _Schablone_ entfernt
 ====

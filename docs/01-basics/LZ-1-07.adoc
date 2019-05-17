@@ -28,7 +28,7 @@ Software architects can:
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 * G.Starke (April 2019): changed order of items. Removed "Architecture goals", added "specify quality requirements" - fixing both https://github.com/isaqb-org/curriculum-foundation/issues/33[issue #33] and https://github.com/isaqb-org/curriculum-foundation/issues/11[issue 11].
 * P.Ghadir (April 2019):  add "handle conflicts between short-term and long-term goals", see https://github.com/isaqb-org/curriculum-foundation/issues/33[issue #33] 

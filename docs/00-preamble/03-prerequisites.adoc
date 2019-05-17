@@ -73,7 +73,7 @@ Furthermore, the following will be useful for understanding several concepts:
 // end::EN[]
 
 // tag::REMARK[]
-[WARNING]
+[NOTE]
 ====
 GS: March 2019: added several (programming and development) prerequisites
 ====

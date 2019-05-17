@@ -34,7 +34,7 @@ Software architects are able to name, explain, and use the basic approaches of a
 // end::EN[]
 
 // tag::REMARK[]
-[IMPORTANT]
+[NOTE]
 ====
 * GS (April 2019) incorporated suggestion by Roger Rhoades from https://github.com/isaqb-org/curriculum-foundation/issues/13[issue 13] to lower priority of MDA and DDD
 * GS (Feb. 2019): re-ordered approaches, re-phrased _iterative and incremental_
