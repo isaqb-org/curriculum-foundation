@@ -50,6 +50,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-style'        : 'isaqb',
       'with-uniqe-LG-id' : false,
+      'allow-uri-read': true
     ]
   }
 }
