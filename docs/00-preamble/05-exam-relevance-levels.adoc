@@ -10,9 +10,9 @@ Die Prüfungsrelevanz dieser Lernziele beziehungsweise deren Unterpunkte ist bei
 
 Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte. Bezüglich der Prüfungsrelevanz verwendet der Lehrplan folgende Kategorien:
 
-[cols="2,1,6,1",options="header"]
+[cols="2,1,6,2",options="header"]
 |===
-| Lernziel-Kategorie | Kenn-zeichen | Bedeutung | Relevanz für Prüfung
+| Lernziel-Kategorie | ID | Bedeutung | Relevanz für Prüfung
 
 | Können
 | R1
@@ -44,10 +44,10 @@ Every learning goal describes the contents to be taught including their key term
 Regarding relevance for the examination, the following categories are used in this curriculum:
 
 
-[cols="2,1,6,1",options="header"]
+[cols="2,1,6,2",options="header"]
 |===
 | Learning-goal category
-| Identifier
+| ID
 | Meaning
 | Relevance for examination
 
