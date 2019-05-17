@@ -5,7 +5,7 @@
 include::config/setup.adoc[]
 
 // document-version should be set by the build process
-:document-version: 5.0-DRAFT 2019
+:document-version: 5.0-RC-1 2019
 
 // this is the base URL for the "improve this doc" links that directly link
 // to the source files in our repository
