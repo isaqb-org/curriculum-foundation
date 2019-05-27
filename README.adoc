@@ -79,7 +79,7 @@ The current (2019) FLWG members are:
 * Phillip Ghadir (FLWG co-chair)
 * Peter Götz (aka _hero of the build_!)
 * Dr. Peter Hruschka
-* Alexander Lorz
+* Dr. Alexander Lorz
 * Roger Rhoades
 * Mischa Soujon
 * Dr. Gernot Starke (FLWG chair)
