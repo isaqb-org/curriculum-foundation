@@ -15,6 +15,7 @@ Softwarearchitekten verstehen Abhängigkeiten und Kopplung zwischen Bausteinen u
 * Sie kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
 ** Muster (siehe <<LZ-2-5,Lernziel 2-5>>)
 ** Grundlegende Entwurfsprinzipien (siehe <<LZ-2-6,Lernziel 2-6>>)
+** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von _Dependency Injection_.
 
 
 // end::DE[]
@@ -30,6 +31,7 @@ Software architects understand dependencies and coupling between building blocks
 * They know and can apply possibilities to reduce or eliminate coupling, for example:
 ** Patterns (see <<LG-2-5, learning goal 2-5>>)
 ** Basic design principles (see <<LG-2-6, learning goal 2-6>>)
+** Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
 // end::EN[]
 
@@ -45,6 +47,7 @@ GS, Feb 2019: re-formated DE version, adjusted EN translation to modifications o
 ifdef::withRemarks[]
 [NOTE]
 ====
-GS/CL: sprachlich leicht umformuliert, einige Muster entfernt, jetzt komplett R1.
+* GS (May 2019): added depency injection (which was removed from LG-2-6)
+* GS/CL (Feb 2019): sprachlich leicht umformuliert, einige Muster entfernt, jetzt komplett R1.
 ====
 endif::withRemarks[]
