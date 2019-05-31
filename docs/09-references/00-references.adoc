@@ -19,7 +19,7 @@ include::../config/_feedback.adoc[]
 
 - [[[Fowler2003, Fowler 2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. Addison-Wesley, 2003.
 
-- [[[Gharbi+2017,Gharbi+2017]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 3. Auflage, dpunkt Verlag, Heidelberg 2017.
+- [[[GharbiEtAl2017,Gharbi+2017]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 3. Auflage, dpunkt Verlag, Heidelberg 2017.
 
 - [[[Martin2003,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
 - [[[POSA-Series]]] Pattern-Oriented Software Architecture (POSA), Prentice Hall International.
