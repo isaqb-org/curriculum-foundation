@@ -7,17 +7,17 @@ include::../config/_feedback.adoc[]
 [[LZ-1-9]]
 ==== LZ 1-9: Zuständigkeit von Softwarearchitekten in organisatorischen Kontext einordnen (R3)
 
-Softwarearchitekten kennen weitere Architekturdomänen, beispielsweise:
+Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
 
-* Softwarearchitektur: Struktur und Konzepte einzelner Softwaresysteme (Fokus des iSAQB CPSA-F).
-
-Die folgenden Architekturdomänen sich nicht inhaltlicher Fokus vom CPSA-F:
+Darüber hinaus kennen Softwarearchitekten weitere Architekturdomänen, beispielsweise:
 
 * Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften.
 * Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen.
 * Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten.
-* Infrastruktur- bzw. Technologie-Architektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-* Hardwarearchitektur (für hardwarenahe Systeme)
+* Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
+* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
+
+Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
 
 // end::DE[]
 
@@ -25,19 +25,19 @@ Die folgenden Architekturdomänen sich nicht inhaltlicher Fokus vom CPSA-F:
 [[LG-1-9]]
 ==== LG 1-9: Responsibilities of software architects within the greater architectural context (R3)
 
-Software architects know other architectural domains, for example:
+The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
 
-* Software architecture: structure and concepts of individual software systems (focus of iSAQB CPSA-F).
-
-The following domains of architecture are not the content focus of CPSA-F:
+In addition, software architects are familiar with other architectural domains, for example:
 
 * Enterprise IT architecture: Structure of application landscapes.
 * Business and Process Architecture: Structure of, among other things, business processes.
 * Information architecture: cross-system structure and use of information and data.
 * Infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
-* Hardware architecture (for hardware-related systems)
+* Hardware or processor architecture (for hardware-related systems)
 
+These architectural domains are not the content focus of CPSA-F.
 // end::EN[]
 
 // tag::REMARK[]
+GS, May 31st 2019: The previous wording was difficult to understand, so I rephrased a bit. See https://github.com/isaqb-org/curriculum-foundation/issues/53[issue #53]
 // end::REMARK[]

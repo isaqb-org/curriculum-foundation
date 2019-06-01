@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-==	Beschreibung und Kommunikation von Softwarearchitekturen
+== Beschreibung und Kommunikation von Softwarearchitekturen
 
 |===
 | Dauer: 150 Min. | Übungszeit: 90 Min.
@@ -17,7 +17,7 @@ Sichten, Strukturen; (technische) Konzepte; Dokumentation; Kommunikation, Beschr
 // end::DE[]
 
 // tag::EN[]
-== 3 Specification and communication of software architectures
+== Specification and communication of software architectures
 
 |===
 | Duration: 150 min. | Exercises: 90 min.

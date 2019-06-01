@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 // tag::BIB_REFS[] 
 === {references}
 
-<<Bass2003>>, <<Clements2002>>, <<Gharbi2014>>, <<Starke2017>>, <<Zörner2015>>
+<<Bass2003>>, <<Clements2002>>, <<Gharbi+2017>>, <<Starke2017>>, <<Zörner2015>>
 
 // end::BIB_REFS[] 
 

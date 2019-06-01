@@ -17,8 +17,7 @@ Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwe
 * Single-Responsibility-Prinzip
 * Offen-Geschlossen-Prinzip (_Open-/Closed-Principle_)
 * möglichst lose, aber funktional ausreichende Kopplung der Bausteine (siehe auch <<LZ-2-7,LZ 2-7>>)
-* Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen (_Dependency Inversion_)
-* Dependency Injection zur Externalisierung von Abhängigkeiten
+* Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen (_Dependency Inversion_) 
 * konzeptioneller Integrität zur Erreichung der Gleichförmigkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme (R2)
 
 Softwarearchitekten verstehen die Einflüsse der Entwurfsprinzipien auf Quellcode und können diese gezielt einsetzen.
@@ -40,7 +39,6 @@ Software architects are able to explain and apply the following design principle
 * Open/closed principle
 * Loose, but functionally sufficient coupling of building blocks (cf. <<LG-2-7, LG 2-7>>)
 * Dependency inversion by means of interfaces or similar abstractions
-* Dependency injection in order to externalize dependencies
 * Conceptual integrity to achieve uniformity (homogeneity, consistency) of solutions for similar problems (R2)
 
 Software architects understand the impact of design principles onto source code and are able to apply these appropriately.
@@ -51,9 +49,9 @@ Software architects understand the impact of design principles onto source code 
 // tag::REMARK[]
 [NOTE]
 ====
-GS, Feb. 2019: fixed wrong indentation for modularization (SRP and OCP are principles on their own).
+* GS, May 2019: moved _dependency injection_ to LG-02-07 
+* GS, Feb. 2019: fixed wrong indentation for modularization (SRP and OCP are principles on their own).
 Added links to leaning goals. Adjusted intro sentence of EN version.
-
-CL/GS, Jan 2019: Minor rephrasing (DE version)
+* CL/GS, Jan 2019: Minor rephrasing (DE version)
 ====
 // end::REMARK[]

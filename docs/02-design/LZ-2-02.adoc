@@ -22,8 +22,8 @@ Softwarearchitekten können:
 
 Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
 
-* den starken Einfluss von Qualitätsanforderungen – wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizient;
-* Lösungsmöglichkeiten, „Design Tactics“, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
+* den starken Einfluss von Qualitätsanforderungen – wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizienz;
+* Lösungsmöglichkeiten, _Design Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
 * mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
 
 // end::DE[]
@@ -56,7 +56,7 @@ When making architecture and design decisions, software architects know and cons
 
 [NOTE]
 ====
-
+* GS (May 2019): fixed typo in "Effizienz" (DE)
 * GS (April 2019): fixed https://github.com/isaqb-org/curriculum-foundation/issues/14[issue 14] by adjusting translation.
 * GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
 * GS/CL (Jan 2019): diverse detaillierte DDD-Konstrukte entfernt
