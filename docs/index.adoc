@@ -10,7 +10,7 @@ The **Foundation Level** curriculum is currently maintained and published in bot
 
 A **glossary** of the terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
 
-== Version
+== Available Versions
 
 === Version 5 (to be released September 2019) 
 
