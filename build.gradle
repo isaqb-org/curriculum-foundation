@@ -16,7 +16,7 @@ plugins {
 
 ext {
   currentDate = new Date().format("d. MMM yyyy")
-  project.version = "5.0 DRAFT ($currentDate)"
+  project.version = "5.0 RC-2 ($currentDate)"
   curriculumBaseName = "foundation-curriculum"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
