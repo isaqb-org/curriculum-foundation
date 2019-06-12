@@ -5,7 +5,7 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1)
+==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1-R3)
 Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
 * Top-down- und Bottom-Up-Vorgehen beim Entwurf
@@ -20,7 +20,7 @@ Softwarearchitekten können grundlegende Vorgehensweisen der Architekturentwickl
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Select and use approaches and heuristics for architecture development (R1)
+==== LG 2-1: Select and use approaches and heuristics for architecture development (R1-R3)
 Software architects are able to name, explain, and use the basic approaches of architecture development, for example:
 
 * Top-down and bottom-up approaches to design
