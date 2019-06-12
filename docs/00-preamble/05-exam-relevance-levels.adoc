@@ -10,22 +10,25 @@ Die Prüfungsrelevanz dieser Lernziele beziehungsweise deren Unterpunkte ist bei
 
 Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte. Bezüglich der Prüfungsrelevanz verwendet der Lehrplan folgende Kategorien:
 
-[cols="2,1,6,2",options="header"]
+[cols="1,2,6,2",options="header"]
 |===
-| Lernziel-Kategorie | ID | Bedeutung | Relevanz für Prüfung
+| ID 
+| Lernziel-Kategorie 
+| Bedeutung 
+| Relevanz für Prüfung
 
-| Können
 | R1
+| Können
 | Diese Inhalte sollen die Teilnehmer nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
 | Inhalte *werden* geprüft.
 
-| Verstehen
 | R2
+| Verstehen
 | Diese Inhalte sollen die Teilnehmer grundsätzlich verstehen. Sie werden in Schulungen i. d. R. nicht durch Übungen vertieft.
 | Inhalte *können* geprüft werden.
 
-| Kennen
 | R3
+| Kennen
 | Diese Inhalte (Begriffe, Konzepte, Methoden, Praktiken oder Ähnliches) können das Verständnis unterstützen oder das Thema motivieren. Sie werden in Schulungen bei Bedarf thematisiert.
 | Inhalte *werden nicht* geprüft.
 |===
@@ -44,26 +47,26 @@ Every learning goal describes the contents to be taught including their key term
 Regarding relevance for the examination, the following categories are used in this curriculum:
 
 
-[cols="2,1,6,2",options="header"]
+[cols="1,2,6,2",options="header"]
 |===
-| Learning-goal category
 | ID
+| Learning-goal category
 | Meaning
 | Relevance for examination
 
-| Being able to 
 | R1
+| Being able to 
 | These are the contents participants will be expected to be able to put into practice independently upon completion of the course. Within the course, these contents will be covered through exercises and discussions.
 | Contents *will be* part of the examination.
 
-| Understanding 
 | R2
+| Understanding 
 | These are the contents participants are expected to understand in principle.
 They will normally not be the primary focus of exercises in training.
 | Contents *may be* part of the examination.
 
-| Knowing 
 | R3
+| Knowing 
 | These contents (terms, concepts, methods, practices or similar) can enhance understanding and motivate the topic.
 They may be covered in training if required.
 | Contents will *not be* part of examination.
