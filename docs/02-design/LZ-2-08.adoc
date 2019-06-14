@@ -8,12 +8,15 @@ include::../config/_feedback.adoc[]
 [[LZ-2-8]]
 ==== LZ 2-8: Qualitätsanforderungen mit passenden Ansätzen und Techniken erreichen (R1)
 
-Softwarearchitekten können Taktiken, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden, beispielsweise für:
+Softwarearchitekten kennen und berücksichtigen den starken Einfluss von Qualitätsanforderungen in Architektur- und Entwurfsentscheidungen, beispielsweise für:
 
-* Effizienz/Performance
+* Effizienz / Performance
+* Verfügbarkeit
 * Wartbarkeit, Modifizierbarkeit, Erweiterbarkeit, Adaptierbarkeit
 
-Sie können entsprechende Risiken identifizieren.
+Sie können Lösungsmöglichkeiten, _Design Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden.
+
+Sie können mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten sowie die entsprechenden Risiken identifizieren und kommunizieren.
 
 // end::DE[]
 
@@ -22,12 +25,15 @@ Sie können entsprechende Risiken identifizieren.
 [[LG-2-8]]
 ==== LG 2-8: Achieve quality requirements with appropriate approaches and techniques (R1)
 
-Software architects can explain and apply tactics, appropriate practices and technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems), e.g. for:
+Software architects understand and consider the considerable influence of quality requirements in architecture and design decisions, e.g. for:
 
-* efficiency/performance
-* maintainability, modifiability, extensibility, adaptability
+* Efficiency / Performance
+* Availability
+* Maintainability, modifiability, extensibility, adaptability
 
-They can identify corresponding risks.
+They can explain and apply solution options, _Design Tactics_, suitable practices as well as technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems).
+
+They can identify and communicate possible trade-offs between such solutions and their associated risks.
 
 // end::EN[]
 
@@ -35,6 +41,7 @@ They can identify corresponding risks.
 
 [NOTE]
 ====
+RER: Juni 2019: Redundanzen zwischen LZ 2-2 und 2-8 eliminiert
 GS: Feb 2019: Ich bin der Meinung, dass dieses LZ ins Kapitel 2 (statt bisher 5) des Lehrplanes gehört, und habe es zum neuen LZ 2-8 gemacht
 ====
 // end::REMARK[]

@@ -19,13 +19,6 @@ Softwarearchitekten können:
 * fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen;
 * Risiken von Entwurfsentscheidungen identifizieren.
 
-
-Softwarearchitekten kennen und berücksichtigen in Architektur- und Entwurfsentscheidungen:
-
-* den starken Einfluss von Qualitätsanforderungen – wie beispielsweise Wartbarkeit, Verfügbarkeit, Effizienz;
-* Lösungsmöglichkeiten, _Design Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen;
-* mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten.
-
 // end::DE[]
 
 // tag::EN[]
@@ -43,12 +36,6 @@ Software architects are able to:
 * explain the consequences of these decisions on the corresponding source code;
 * separate technical and domain-related elements of architectures and justify these decisions;
 * identify risks related to architecture decisions.
-
-When making architecture and design decisions, software architects know and consider:
-
-* the considerable impact of quality requirements – i.e. changeability, reliability, efficiency;
-* solution options, design tactics, appropriate practices, and technical possibilities for achieving specific quality requirements;
-* the trade-offs between such options.
 
 // end::EN[]
 
