@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 [[LZ-4-4]]
 ==== LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2)
 
-Softwarearchitekten kennen Ansätze zur quantitativen Bewertung (Messung) von Software.
+Softwarearchitekten kennen Ansätze zur quantitativen Analyse und Bewertung (Messung) von Software.
 
 Sie wissen, dass:
 
@@ -24,7 +24,7 @@ Sie wissen, dass:
 [[LG-4-4]]
 ==== LZ 4-4: Quantitative evaluation of software architectures (R2)
 
-Software architects know approaches for the quantitative evaluation (measurement) of software.
+Software architects know approaches for the quantitative analysis and evaluation (measurement) of software.
 
 They know that:
 
