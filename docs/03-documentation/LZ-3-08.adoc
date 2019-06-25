@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können:
 
-* Architekturentscheidungen systematisch herleiten, begründen, kommunizieren und dokumentieren;
+* Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren;
 * gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren.
 
 // end::DE[]
@@ -20,7 +20,7 @@ Softwarearchitekten können:
 S
 oftware architects are able to:
 
-* systematically derive, justify, communicate, and document architectural decisions
+* systematically take, justify, communicate, and document architectural decisions
 * Identify, communicate, and document interdependencies between design decisions
 
 // end::EN[]
@@ -28,7 +28,9 @@ oftware architects are able to:
 // tag::REMARK[]
 [NOTE]
 ====
-GS: wording: += kommunizieren, begründen
+GS (Juni 2019): "herleiten" durch "herbeiführen" ersetzt (engl: derive -> take)
+
+GS (Feb 2019): wording: += kommunizieren, begründen
 ====
 
 // end::REMARK[]
