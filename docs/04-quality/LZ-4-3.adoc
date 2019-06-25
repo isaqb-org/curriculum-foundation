@@ -21,7 +21,7 @@ Softwarearchitekten:
 
 // tag::EN[]
 [[LG-4-3]]
-==== LZ 4-3: Qualitative Analysis and Asessment of Software Architectures (R2-R3)
+==== LG 4-3: Qualitative Analysis and Asessment of Software Architectures (R2-R3)
 Software Architects:
 
 * know methodical approaches for the qualitative analysis and assessment of software architectures (R2), for example, as specified by ATAM (R3);

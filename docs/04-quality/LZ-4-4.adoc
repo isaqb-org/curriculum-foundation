@@ -22,7 +22,7 @@ Sie wissen, dass:
 
 // tag::EN[]
 [[LG-4-4]]
-==== LZ 4-4: Quantitative evaluation of software architectures (R2)
+==== LG 4-4: Quantitative evaluation of software architectures (R2)
 
 Software architects know approaches for the quantitative analysis and evaluation (measurement) of software.
 
