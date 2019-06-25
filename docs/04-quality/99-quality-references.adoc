@@ -8,7 +8,7 @@ include::../config/_feedback.adoc[]
 
 === {references}
 
-<<Bass2003>>,<<Clements2002>>, <<GharbiEtAl2017>>, <<Martin2003>>, <<Starke2017>>
+<<Bass2003>>, <<Clements2002>>, <<GharbiEtAl2017>>, <<Martin2003>>, <<Starke2017>>
 
 // end::BIB_REFS[] 
 
