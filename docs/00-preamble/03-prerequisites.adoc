@@ -56,7 +56,7 @@ Participants should have the following knowledge and/or experience. In particula
 
 * Basic knowledge of:
 ** modelling and abstraction
-** algorithms and data structures
+** algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary/Map)
 ** UML (class, package, component and sequence diagrams) and their relation to source code
 
 
