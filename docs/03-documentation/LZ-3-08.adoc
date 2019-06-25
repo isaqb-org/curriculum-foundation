@@ -17,8 +17,8 @@ Softwarearchitekten können:
 // tag::EN[]
 [[LG-3-8]]
 ==== LG 3-8: Explain and document architectural decisions (R2)
-S
-oftware architects are able to:
+
+Software architects are able to:
 
 * systematically take, justify, communicate, and document architectural decisions
 * Identify, communicate, and document interdependencies between design decisions
