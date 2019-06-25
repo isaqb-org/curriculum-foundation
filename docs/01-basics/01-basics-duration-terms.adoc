@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 == Grundbegriffe
 
 |===
-| Dauer: 120 Min. | Übungszeit: keine
+| Dauer: 120 Min. | Übungszeit: Keine.
 |===
 
 
