@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten:
 
-* können Architekturen stakeholdergerecht dokumentieren und kommunizieren, dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder;
+* können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder;
 * sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
 * kennen den Nutzen von Template-basierter Dokumentation.
 
