@@ -18,7 +18,7 @@ Sie kennen:
 ** funktional vollständig aus Sicht der Nutzer oder nutzender Bausteine.
 * die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen.
 * unterschiedliche Implementierungsansätze von Schnittstellen (R3):
-** ressourcenorientierter Ansatz (wie in REpresentational State Transfer)
+** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices)
 
 // end::DE[]
@@ -37,7 +37,7 @@ They know:
 ** functionally complete from the perspective of users or building blocks using them.
 * the necessity to treat internal and external interfaces differently.
 * different approaches for implementing interfaces (R3):
-** Resource-oriented approach (see Representational State Transfer);
+** Resource-oriented approach (REST, Representational State Transfer);
 ** Service-oriented approach (see WS-*/SOAP-based web services.
 
 // end::EN[]
