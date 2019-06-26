@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 | Dauer: 180 Min. | Übungszeit: 120 Min.
 |===
 
-===	Wichtige Begriffe
+===	Wesentliche Begriffe
 
 Architektur-)Sichten; Strukturen; (technische) Konzepte; Dokumentation; Kommunikation; Beschreibung; zielgruppen- oder stakeholdergerecht; Meta-Strukturen und Templates zur Beschreibung und Kommunikation; Kontextabgrenzung; Bausteine; Bausteinsicht; Laufzeitsicht; Verteilungssicht; Knoten; Kanal; Verteilungsartefakte; Mapping von Bausteinen auf Verteilungsartefakte; Beschreibung von Schnittstellen und Entwurfsentscheidungen; UML; Werkzeuge zur Dokumentation
 

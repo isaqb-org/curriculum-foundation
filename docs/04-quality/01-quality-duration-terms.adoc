@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 | Dauer: 60 Min. | Übungszeit: 60 Min.
 |===
 
-=== Wichtige Begriffe
+=== Wesentliche Begriffe
 Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbaum; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; qualitative Architekturbewertung; Metriken und quantitative Bewertung
 
 
