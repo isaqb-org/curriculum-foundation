@@ -9,6 +9,7 @@ include::../config/_feedback.adoc[]
 
 [bibliography]
 == {references}
+- [[[isaqbreferences, iSAQB Working Groups]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
 
 - [[[Bass2012, Bass+2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3^rd^ Edition, Addison Wesley 2012.
 - [[[Clements2002, Clements+2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
