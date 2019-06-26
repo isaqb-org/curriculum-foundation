@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 == Beispiele für Softwarearchitekturen
 
 |===
-| Dauer: 60 Min. | Übungszeit: Keine.
+| Dauer: 90 Min. | Übungszeit: Keine
 |===
 
 Dieser Abschnitt ist nicht prüfungsrelevant.
@@ -18,7 +18,7 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 // tag::EN[]
 == Examples of Software architectures
 |===
-| Duration: 60 Min. | Exercises: none.
+| Duration: 90 min. | Exercises: none
 |===
 
 This section is not relevant for for the exam.

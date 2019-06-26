@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 == Grundbegriffe
 
 |===
-| Dauer: 120 Min. | Übungszeit: Keine.
+| Dauer: 120 Min. | Übungszeit: Keine
 |===
 
 
@@ -21,7 +21,7 @@ Architekturdomänen; {glossary_url}structure[Struktur]; {glossary_url}building-b
 == Basic concepts of software architecture
 
 |===
-| Duration: 120 Min. | Exercises: none
+| Duration: 120 min. | Exercises: none
 |===
 
 === Relevant terms

@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 == Beschreibung und Kommunikation von Softwarearchitekturen
 
 |===
-| Dauer: 150 Min. | Übungszeit: 90 Min.
+| Dauer: 180 Min. | Übungszeit: 120 Min.
 |===
 
 ===	Wichtige Begriffe
@@ -20,7 +20,7 @@ Architektur-)Sichten; Strukturen; (technische) Konzepte; Dokumentation; Kommunik
 == Specification and communication of software architectures
 
 |===
-| Duration: 150 min. | Exercises: 90 min.
+| Duration: 180 min. | Exercises: 120 min.
 |===
 
 === Relevant terms
