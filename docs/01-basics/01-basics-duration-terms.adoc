@@ -7,13 +7,29 @@ include::../config/_feedback.adoc[]
 == Grundbegriffe
 
 |===
-| Dauer: 120 Min. | Übungszeit: Keine.
+| Dauer: 120 Min. | Übungszeit: Keine
 |===
 
 
 === Wesentliche Begriffe
 {glossary_url}software-architecture[Softwarearchitektur];
-Architekturdomänen; {glossary_url}structure[Struktur]; {glossary_url}building-block[Bausteine]; {glossary_url}component[Komponenten]; {glossary_url}interface[Schnittstellen]; {glossary_url}relationship[Beziehungen]; Querschnittskonzepte; Nutzen von Softwarearchitektur; Softwarearchitekten und deren Verantwortlichkeiten; Rolle; Aufgaben und benötigte Fähigkeiten; Stakeholder und deren Anliegen; funktionale Anforderungen; {glossary_url}quality-requirement[Qualitätsanforderungen]; {glossary_url}constraints[Randbedingungen]; Einflussfaktoren; Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssysteme etc.)
+Architekturdomänen; 
+{glossary_url}structure[Struktur]; 
+{glossary_url}building-block[Bausteine]; 
+{glossary_url}component[Komponenten]; 
+{glossary_url}interface[Schnittstellen]; 
+{glossary_url}relationship[Beziehungen]; 
+Querschnittskonzepte; 
+Nutzen von Softwarearchitektur; 
+Softwarearchitekten und deren Verantwortlichkeiten; 
+Rolle; 
+Aufgaben und benötigte Fähigkeiten; 
+Stakeholder und deren Anliegen; 
+funktionale Anforderungen; 
+{glossary_url}quality-requirement[Qualitätsanforderungen]; 
+{glossary_url}constraints[Randbedingungen]; 
+Einflussfaktoren; 
+Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssysteme etc.)
 
 // end::DE[]
 
@@ -21,11 +37,25 @@ Architekturdomänen; {glossary_url}structure[Struktur]; {glossary_url}building-b
 == Basic concepts of software architecture
 
 |===
-| Duration: 120 Min. | Exercises: none
+| Duration: 120 min. | Exercises: none
 |===
 
-=== Terms and concepts
-{glossary_url}software-architecture[Software architecture]; architecture domains; {glossary_url}structure[structure]; {glossary_url}building-block[building blocks], {glossary_url}component[components]; {glossary_url}interface[interfaces]; {glossary_url}relationship[relationships]; cross-cutting concerns; software architects and their responsibilities; tasks and required skills; stakeholders and their concerns; functional and {glossary_url}quality-requirement[quality] requirements of systems; {glossary_url}constraints[constraints]; influencing factors; types of IT systems (embedded systems; real-time systems; information systems etc.)
+=== Relevant terms
+{glossary_url}software-architecture[Software architecture]; 
+architecture domains; {glossary_url}structure[structure]; 
+{glossary_url}building-block[building blocks]; 
+{glossary_url}component[components]; 
+{glossary_url}interface[interfaces]; 
+{glossary_url}relationship[relationships]; 
+cross-cutting concerns; 
+software architects and their responsibilities; 
+tasks and required skills; 
+stakeholders and their concerns; 
+functional and {glossary_url}quality-requirement[quality] 
+requirements of systems; 
+{glossary_url}constraints[constraints]; 
+influencing factors; 
+types of IT systems (embedded systems; real-time systems; information systems etc.)
 
 
 // end::EN[]

@@ -59,9 +59,26 @@ Please note: You need to include the submodule "pdf-theme" in your checkout, oth
 git submodule update --recursive --remote
 ----
 
-=== Legacy build
+== Release process
 
-There is a Docker-based build available in https://github.com/isaqb-org/adoc2pdf[its own repository], in case you cannot build with gradle. 
+We have a standardized release process for this document:
+
+=== New major versions of the curriculum
+* Announcements: major versions (4.x, 5.x) are announced to training providers at least 3-4 month in advance (usually on the iSAQB members meeting). 
+* RC1: About 3 month prior to release, training providers receive the first release candidate (RC1) for review and comments. 
+* RC2: 6-8 weeks prior to release they receive the final release candidate RC2, which is _feature frozen_ (meaning neither learning goals nor priorities will substantially change, only bugs and typos will be fixed). 
+* Final version (e.g. 5.0) will be made public by iSAQB.org and iSAQB.com
+* Released versions will be tagged in git. 
+
+All languages (e.g. DE and EN) will be released at the same time.
+
+=== Updates
+
+In case of typos or other minor changes, we will release updates (e.g. 5.1, 5.2) following a consecutive numbering scheme.
+
+We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of minor versions (althouth we cannot ultimately guarantee that).
+
+Therefore updates will just be delivered to training providers.
 
 
 == Maintainers

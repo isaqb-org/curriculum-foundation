@@ -19,7 +19,7 @@ Es müsste dann ein eigener Lizenzvertrag geschlossen werden.
 2.	Sind Sie Trainer, Anbieter oder Trainingsorganisator, ist die Nutzung der Dokumente und/oder Lehrpläne nach Erwerb einer Nutzungslizenz möglich. Hierzu bitte unter contact@isaqb.org nachfragen.
 Lizenzverträge, die alles umfassend regeln, sind vorhanden.
 
-3.	Falls Sie weder unter die Kategorie 1. noch unter die Kategorie 2. fallen, aber dennoch die Dokumente und/oder Lehrpläne nutzen möchten, nehmen Sie bitte ebenfalls Kontakt unter contact@isaqb.org zum iSAQB e.V. auf.
+3.	Falls Sie unter keine der vorstehenden Kategorien fallen, aber dennoch die Dokumente und/oder Lehrpläne nutzen möchten, nehmen Sie bitte ebenfalls Kontakt unter contact@isaqb.org zum iSAQB e.V. auf.
 Sie werden dort über die Möglichkeit des Erwerbs entsprechender Lizenzen im Rahmen der vorhandenen
 Lizenzverträge informiert und können die gewünschten Nutzungsgenehmigungen erhalten.
 
@@ -45,7 +45,8 @@ Please address any enquiries to contact@isaqb.org. License agreements with compr
 
 3.	If you fall neither into category 1 nor category 2, but would like to use these documents and/or curricula nonetheless, please also contact the iSAQB e. V. by writing to contact@isaqb.org. You will then be informed about the possibility of acquiring relevant licenses through existing license agreements, allowing you to obtain your desired usage authorizations.
 
-We stress that, as a matter of principle, this curriculum is protected by copyright.
+We like to point out that this curriculum is protected by copyright.
+
 The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
 The abbreviation "e. V." is part of the iSAQB's official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
 For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSAQB without the use of said abbreviation.

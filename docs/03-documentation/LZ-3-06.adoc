@@ -7,7 +7,7 @@ include::../config/_feedback.adoc[]
 [[LZ-3-6]]
 ==== LZ 3-6: Querschnittskonzepte dokumentieren und kommunizieren (R1)
 
-Softwarearchitekten können typische Querschnittskonzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung;
+Softwarearchitekten können typische Querschnittskonzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
 
 // end::DE[]
 
@@ -15,7 +15,7 @@ Softwarearchitekten können typische Querschnittskonzepte (auch genannt _Prinzip
 [[LG-3-6]]
 ==== LG 3-6: Document and communicate cross-cutting concerns (R1)
 
-Software architects are able to adequately document and communicate typical cross-cutting concerns, e. g., persistence, workflow management, UI, deployment/integration, logging);
+Software architects are able to adequately document and communicate typical cross-cutting concerns, e. g., persistence, workflow management, UI, deployment/integration, logging.
 
 // end::EN[]
 

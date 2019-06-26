@@ -32,7 +32,7 @@ They should adapt their contribution to a software development in a specific con
 * Quality assurance
 * IT operations (production, data centers), applies primarily to information systems
 * Hardware development
-* Enterprise Architect, architecture board
+* Enterprise architecture, architecture board
 
 // end::EN[]
 

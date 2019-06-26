@@ -16,7 +16,7 @@ Softwarearchitekten können:
 
 // tag::EN[]
 [[LG-3-5]]
-==== LZ 3-5: Explain and apply context view of systems (R1)
+==== LG 3-5: Explain and apply context view of systems (R1)
 Software architects can:
 
 * Depict the context of systems, e.g. in the form of context diagrams with explanations;

@@ -9,39 +9,40 @@ include::../config/_feedback.adoc[]
 Softwarearchitekten:
 
 * kennen methodische Vorgehensweisen zur qualitativen Analyse und Bewertung von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3);
-* können kleinere Systeme qualitativ analysieren und bewerten;
-* wissen, dass zur qualitativen Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können:
+* können kleinere Systeme qualitativ analysieren und bewerten (R2);
+* wissen, dass zur qualitativen Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können (R2):
 ** Qualitätsanforderungen, beispielsweise in Form von Qualitätsbäumen und -szenarien
 ** Architekturdokumentation
 ** Architektur- und Entwurfsmodelle
 ** Quellcode
 ** Metriken
+** Sonstige Dokumentationen des Systems, etwa Anforderungs-, Betriebs- oder Testdokumentation
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-3]]
-==== LZ 4-3: Qualitative Analysis and Asessment of Software Architectures (R2-R3)
+==== LG 4-3: Qualitative analysis and asessment of software architectures (R2-R3)
 Software Architects:
 
 * know methodical approaches for the qualitative analysis and assessment of software architectures (R2), for example, as specified by ATAM (R3);
-* can qualitatively analyze and assess smaller systems;
-* know that the following sources of information can help in the qualitative analysis and assessment of architectures:
+* can qualitatively analyze and assess smaller systems (R2);
+* know that the following sources of information can help in the qualitative analysis and assessment of architectures (R2):
 ** quality requirements, e.g. in the form of quality trees and scenarios
 ** architecture documentation
 ** architecture and design models
 ** source code
 ** metrics
+** other documentation of the system, such as requirements, operational or test documentation.
 
 // end::EN[]
 
 // tag::REMARK[]
 [NOTE]
 ====
-GS: += _analysieren_ im Titel, ATAM auf R3
-
-FLWG: ATAM nur noch exemplarisch
-
-RR: Vorgehen ist mir weniger wichtig als die Ziele und Ergebnisse von ATAM
+* GS (June 2019): make relevance of sub-goals of LG-4-3  explicit, added other kinds of documentation
+* GS: += _analysieren_ im Titel, ATAM auf R3
+* FLWG: ATAM nur noch exemplarisch
+* RR: Vorgehen ist mir weniger wichtig als die Ziele und Ergebnisse von ATAM
 ====
 // end::REMARK[]

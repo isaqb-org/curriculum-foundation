@@ -73,7 +73,7 @@ They may be covered in training if required.
 |===
 
 If required, the learning goals include references to further reading, standards or other sources.
-The sections "Terms and Concepts" of each chapter list word that are associated with the contents of the chapter.
+The sections "Terms and Concepts" of each chapter list words that are associated with the contents of the chapter.
 Some of them are used in the descriptions of learning goals.
 
 // end::EN[]

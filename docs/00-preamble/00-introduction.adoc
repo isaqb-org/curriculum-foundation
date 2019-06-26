@@ -3,7 +3,7 @@
 include::01-what-to-expect.adoc[{include_configuration}]
 
 <<<
-include::02-what-is-not-covered.adoc[{include_configuration}]
+include::02-out-of-scope.adoc[{include_configuration}]
 
 <<<
 include::03-prerequisites.adoc[{include_configuration}]

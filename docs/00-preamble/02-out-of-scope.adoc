@@ -1,5 +1,5 @@
 // tag::FEEDBACK[]
-:filename: 00-preamble/02-what-is-not-covered.adoc
+:filename: 00-preamble/02-out-of-scope.adoc
 include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
@@ -17,23 +17,24 @@ Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
 * Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
 * Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., http://istqb.org, International Software Testing Qualification Board)
 * Projekt- oder Produktmanagement
-* konkrete Werkzeuge
+* Einführung in konkrete Werkzeuge
 
 Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwendigen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
 
 // end::DE[]
 
 // tag::EN[]
-=== What is *not* covered by the curriculum
+=== Out of scope
 This curriculum reflects the contents currently considered by the iSAQB members to be necessary and useful for achieving the learning goals of CPSA-F. It is not a comprehensive description of the entire domain of 'software architecture'.
 
 The following topics or concepts are not part of CPSA-F:
 
 * Specific implementation technologies, frameworks or libraries
 * Programming or programming languages
-* Modelling notations (such as UML) or fundamentals of modelling itself
+* Specific process models
+* Fundamentals of modelling notations (such as UML) or fundamentals of modelling itself
 * System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., http://ireb.org, International Requirements Engineering Board)
-* Software testing (please refer to the education and certification program by ISTQB e.V., http://istqb.org, International Software Testing Board)
+* Software testing (please refer to the education and certification program by ISTQB e.V., http://istqb.org, International Software Testing Qualification Board)
 * Project or product management
 * Introduction to specific software tools
 

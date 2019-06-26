@@ -10,7 +10,7 @@ include::../config/_feedback.adoc[]
 | Dauer: 60 Min. | Übungszeit: 60 Min.
 |===
 
-=== Wichtige Begriffe
+=== Wesentliche Begriffe
 Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbaum; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; qualitative Architekturbewertung; Metriken und quantitative Bewertung
 
 
@@ -20,10 +20,10 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbau
 == Software architecture and quality
 
 |===
-| Duration: 60 Min. | Exercises: 60 min.
+| Duration: 60 min. | Exercises: 60 min.
 |===
 
-=== Terms and concepts
+=== Relevant terms
 Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; quality scenarios; quality tree; trade-offs between quality characteristics; qualitative architecture assessment; metrics and quantitative assessment
 
 // end::EN[]

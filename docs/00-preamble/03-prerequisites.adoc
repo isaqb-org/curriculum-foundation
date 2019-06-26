@@ -31,7 +31,6 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 * Grundbegriffe bzw. Unterschiede von imperativer, deklarativer, objektorientierter und funktionaler Programmierung
 * praktische Erfahrung in 
 ** einer objektorientierten Programmiersprache (etwa Java oder C#);
-** der arbeitsteiligen Entwicklung von Software;  
 ** Konzeption und Implementierung verteilt ablaufender Anwendungen, wie etwa Client/Server-Systeme oder Web-Anwendungen
 ** technischer Dokumentation, insbesondere in der Dokumentation von Quellcode, Systementwürfen oder technischen Konzepten
 
@@ -56,7 +55,7 @@ Participants should have the following knowledge and/or experience. In particula
 
 * Basic knowledge of:
 ** modelling and abstraction
-** algorithms and data structures
+** algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary/Map)
 ** UML (class, package, component and sequence diagrams) and their relation to source code
 
 
@@ -65,7 +64,6 @@ Furthermore, the following will be useful for understanding several concepts:
 * Basics and differences of imperative, declarative, object-oriented and functional programming
 * Practical experience in 
 ** an object-oriented programming language (i.e. Java or C#)
-** software development in teams
 ** designing and implementing distributed applications, such as client-server systems or web applications
 ** technical documentation, especially documenting source code, system design or technical concepts
 
