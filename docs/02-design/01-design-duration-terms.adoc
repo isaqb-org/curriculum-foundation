@@ -25,7 +25,7 @@ Entwurf; Vorgehen beim Entwurf; Entwurfsentscheidung; Sichten; Schnittstellen; t
 | Duration: 300 min. | Excercises: 90 min.
 |===
 
-=== Terms and concepts
+=== Relevant terms
 Design; design approach; design decision; views; interfaces; technical and cross-cutting concerns; stereotypes; architectural patterns; pattern languages; design principles; dependencies; coupling; cohesion; functional and technical architectures; top-down and bottom-up approaches; model-based design; iterative/incremental design; domain-driven design
 
 // end::EN[]

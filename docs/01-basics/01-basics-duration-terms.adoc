@@ -24,7 +24,7 @@ Architekturdomänen; {glossary_url}structure[Struktur]; {glossary_url}building-b
 | Duration: 120 Min. | Exercises: none
 |===
 
-=== Terms and concepts
+=== Relevant terms
 {glossary_url}software-architecture[Software architecture]; architecture domains; {glossary_url}structure[structure]; {glossary_url}building-block[building blocks], {glossary_url}component[components]; {glossary_url}interface[interfaces]; {glossary_url}relationship[relationships]; cross-cutting concerns; software architects and their responsibilities; tasks and required skills; stakeholders and their concerns; functional and {glossary_url}quality-requirement[quality] requirements of systems; {glossary_url}constraints[constraints]; influencing factors; types of IT systems (embedded systems; real-time systems; information systems etc.)
 
 
