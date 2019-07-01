@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-:toc-title: Inhaltsverzeichnis
+:toc-title: Table of Contents
 :learning_goals: Learning goals
 :chapter-label:
 :introduction: Introduction
