@@ -1,6 +1,5 @@
 = CPSA Certified Professional for Software Architecture^(R)^ : - *Foundation Level Curriculum* -
 :toc: left
-
 // handle numerous attributes. Successful inclusion of this file
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
