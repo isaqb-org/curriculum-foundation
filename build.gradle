@@ -18,7 +18,7 @@ ext {
   currentDate = new Date().format("d. MMM yyyy")
   // read document version from file "document.version"
   //project.version = project.file("./document.version").text
-  project.version = project.file("./document.version").text + "-" + "($currentDate)"
+  project.version = project.file("./document.version").text
   curriculumBaseName = "foundation-curriculum"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
