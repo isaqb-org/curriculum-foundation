@@ -7,7 +7,7 @@ buildscript {
   }
 
   dependencies {
-    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.17"
+    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.18"
   }
 }
 plugins {
@@ -16,7 +16,9 @@ plugins {
 
 ext {
   currentDate = new Date().format("d. MMM yyyy")
-  project.version = "5.0 RC-2 ($currentDate)"
+  // read document version from file "document.version"
+  //project.version = project.file("./document.version").text
+  project.version = project.file("./document.version").text + "-" + "($currentDate)"
   curriculumBaseName = "foundation-curriculum"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
@@ -41,10 +43,10 @@ class RenderCurriculumTask extends AsciidoctorTask {
     backends 'pdf', 'html5'
     attributes = [
       'icons'            : 'font',
-      'document-version' : "${project.version}",
       'currentDate'      : currentDate,
       'language'         : language,
       'withRemarks'      : withRemarks,
+      'document-version' : "${project.version}" + "-" + language + " (" + currentDate + ")",
       'withFeedback'     : true,
       'debug_adoc'       : false,
       'pdf-stylesdir'    : '../pdf-theme/themes',
@@ -65,21 +67,21 @@ task buildDocs {
 task renderNoRemarksDE(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE", false]) {
   doLast {
-    addSuffixToCurriculum("_de")
+    addSuffixToCurriculum("-${project.version}-de")
   }
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "EN", false]) {
   doLast {
-    addSuffixToCurriculum("_en")
+    addSuffixToCurriculum("-${project.version}-en")
   }
 }
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
   doLast {
-    addSuffixToCurriculum("_remarks_de_en")
+    addSuffixToCurriculum("-${project.version}-remarks-de-en")
   }
 }
 
