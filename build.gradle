@@ -40,6 +40,9 @@ class RenderCurriculumTask extends AsciidoctorTask {
     outputDir = new File("./build/")
     separateOutputDirs = false
     backends 'pdf', 'html5'
+
+    def fileVersion = project.file("./document.version").text + "-" + language
+
     attributes = [
       'icons'            : 'font',
       'currentDate'      : currentDate,
