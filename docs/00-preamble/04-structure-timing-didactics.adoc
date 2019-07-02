@@ -4,7 +4,7 @@ include::../config/_feedback.adoc[]
 // end::FEEDBACK[]
 
 // tag::DE[]
-=== Struktur, Dauer, Didaktik und weitere Details lizenzierter Schulungen
+=== Struktur, Dauer, Didaktik
 
 Die in den nachfolgenden Kapiteln des Lehrplans genannten Zeiten sind lediglich Empfehlungen.
 Die Dauer einer Schulung sollte mindestens 3 Tage betragen, kann aber durchaus länger sein.
