@@ -12,7 +12,7 @@ Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie d
 Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übungen kann der jeweilige Schulungsanbieter individuell festlegen.
 
 .Empfohlene Zeitaufteilung
-image::zeitaufteilung-DE.png[]
+image::zeitaufteilung-DE.jpg[pdfwidth=75%, role="text-center"]
 
 // end::DE[]
 
@@ -25,7 +25,7 @@ Providers may vary in their approach to duration, teaching methods, the type and
 The types (domains and technologies) of examples and exercises can be determined individually by the training provider.
 
 .Recommended time distribution
-image::time-distribution-EN.png[]
+image::time-distribution-EN.jpg[pdfwidth=75%, role="text-center"]
 
 // end::EN[]
 
