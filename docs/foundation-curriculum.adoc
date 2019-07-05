@@ -1,11 +1,9 @@
-= Curriculum für CPSA Certified Professional for Software Architecture^(R)^ : - *Foundation Level* -
+= CPSA Certified Professional for Software Architecture^(R)^ : - *Foundation Level Curriculum* -
 :toc: left
 // handle numerous attributes. Successful inclusion of this file
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
 
-// document-version should be set by the build process
-:document-version: 5.0-RC-2 2019
 
 // this is the base URL for the "improve this doc" links that directly link
 // to the source files in our repository
