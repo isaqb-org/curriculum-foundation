@@ -10,7 +10,7 @@ cache:
   - "$HOME/.gradle/caches/"
   - "$HOME/.gradle/wrapper/"
 script:
-- "./gradlew renderNoRemarksDE renderNoRemarksEN"
+- "./gradlew renderNoRemarksDE renderNoRemarksEN publish"
 deploy:
   provider: releases
   api_key:
