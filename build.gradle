@@ -8,6 +8,7 @@ buildscript {
 
   dependencies {
     classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.18"
+    classpath 'org.ajoberstar:gradle-git-publish:0.3.0'
   }
 }
 plugins {
@@ -86,6 +87,17 @@ task renderWithRemarksDE_EN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
   doLast {
     addSuffixToCurriculum("-${project.version}-remarks-de-en")
+  }
+}
+
+apply plugin: 'org.ajoberstar.git-publish'
+task publish(type: GradleBuild) {
+  String travisPr = System.getenv('TRAVIS_PULL_REQUEST')
+  if ("false".equals(travisPr)) {
+      buildFile = 'publish.gradle'
+      tasks = ['gitPublishPush']
+  } else {
+      println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
   }
 }
 
