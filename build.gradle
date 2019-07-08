@@ -90,7 +90,6 @@ task renderWithRemarksDE_EN(type: RenderCurriculumTask,
   }
 }
 
-apply plugin: 'org.ajoberstar.git-publish'
 task publish(type: GradleBuild) {
   String travisPr = System.getenv('TRAVIS_PULL_REQUEST')
   if ("false".equals(travisPr)) {

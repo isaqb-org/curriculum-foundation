@@ -6,7 +6,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'org.ajoberstar:gradle-git-publish:0.3.0'
+        classpath 'org.ajoberstar:gradle-git-publish:2.1.1'
     }
 }
 
@@ -17,6 +17,14 @@ gitPublish {
   repoUri = 'https://github.com/isaqb-org/curriculum-foundation.git'
   branch = 'gh-pages'
   contents {
-    from('build')
+    from('build/images') {
+      into 'images'
+    }
+    from('build/*.html')
   }
+  preserve {
+    include '*.html'
+    exclude '*.pdf'
+  }
+  commitMessage = "Publishing release ${project.version}"
 }
