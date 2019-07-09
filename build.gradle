@@ -1,4 +1,4 @@
-ich import org.asciidoctor.gradle.AsciidoctorTask
+import org.asciidoctor.gradle.AsciidoctorTask
 import javax.inject.Inject
 
 buildscript {
