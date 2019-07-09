@@ -15,7 +15,7 @@ Softwarearchitekten können ihre Rolle erklären und ihren Beitrag zur Systement
 * Qualitätssicherung
 * IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
 * Hardwareentwicklung
-* Unternehmensarchitektur, Architekturboard
+* Unternehmensarchitektur, Architekturboard.
 
 // end::DE[]
 
@@ -32,7 +32,7 @@ They should adapt their contribution to a software development in a specific con
 * Quality assurance
 * IT operations (production, data centers), applies primarily to information systems
 * Hardware development
-* Enterprise architecture, architecture board
+* Enterprise architecture, architecture board.
 
 // end::EN[]
 

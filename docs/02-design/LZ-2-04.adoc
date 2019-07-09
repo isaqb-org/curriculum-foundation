@@ -9,8 +9,8 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können:
 
-* die Bedeutung von Querschnittskonzepten erklären;
-* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit;
+* die Bedeutung von Querschnittskonzepten erklären
+* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit
 * mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
 
 Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
@@ -23,9 +23,9 @@ Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend
 
 Software architects are able to:
 
-* explain the significance of such cross-cutting concerns.
-* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency;
-* identify and assess potential interdependencies between these decisions;
+* explain the significance of such cross-cutting concerns
+* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency
+* identify and assess potential interdependencies between these decisions.
 
 Software architects know that such cross-cutting concepts may be re-used throughout the system.
 
