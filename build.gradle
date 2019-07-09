@@ -1,4 +1,4 @@
-import org.asciidoctor.gradle.AsciidoctorTask
+ich import org.asciidoctor.gradle.AsciidoctorTask
 import javax.inject.Inject
 
 buildscript {
@@ -8,7 +8,6 @@ buildscript {
 
   dependencies {
     classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-alpha.18"
-    classpath 'org.ajoberstar:gradle-git-publish:0.3.0'
   }
 }
 plugins {
