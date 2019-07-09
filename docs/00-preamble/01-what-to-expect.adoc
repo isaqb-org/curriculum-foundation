@@ -13,15 +13,15 @@ Dadurch können die Teilnehmenden ihre erworbene Fertigkeiten auf ein breites Sp
 
 Im Mittelpunkt steht der Erwerb folgender Fähigkeiten:
 
-* mit anderen Beteiligten aus den Bereichen Anforderungsmanagement, Projektmanagement, Entwicklung und Test wesentliche Architekturentscheidungen abzustimmen;
-* die wesentlichen Schritte beim Entwurf von Softwarearchitekturen zu verstehen sowie für kleine und mittlere Systeme selbständig durchzuführen;
+* mit anderen Beteiligten aus den Bereichen Anforderungsmanagement, Projektmanagement, Entwicklung und Test wesentliche Architekturentscheidungen abzustimmen
+* die wesentlichen Schritte beim Entwurf von Softwarearchitekturen zu verstehen sowie für kleine und mittlere Systeme selbständig durchzuführen
 * Softwarearchitekturen auf Basis von Sichten, Architekturmustern und technischen Konzepten zu dokumentieren und zu kommunizieren.
 
 Darüber hinaus behandeln CPSA-F-Schulungen:
 
-*	den Begriff und die Bedeutung von Softwarearchitektur,
-*	die Aufgaben und Verantwortung von Softwarearchitekten,
-*	die Rolle von Softwarearchitekten in Entwicklungsvorhaben,
+*	den Begriff und die Bedeutung von Softwarearchitektur
+*	die Aufgaben und Verantwortung von Softwarearchitekten
+*	die Rolle von Softwarearchitekten in Entwicklungsvorhaben
 *	State-of-the-Art-Methoden und -Praktiken zur Entwicklung von Softwarearchitekturen.
 
 // end::DE[]
@@ -34,16 +34,16 @@ CPSA-F trainings teach methods and principles for design, documentation and eval
 
 Focus is education and training of the following skills:
 
-*	Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
-*	understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
-*	document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
+*	Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test
+*	understand the essential activities of software architecture, and carry out those for small- to medium sized systems
+*	document and communicate software architectures based upon architectural views, architecture patterns and technical concepts.
 
 In addition, such trainings cover:
 
-* the term software architecture and its meaning,
-* the tasks and responsibilities of software architects,
-* the roles of software architects within development projects,
-* state-of-the-art methods and techniques for developing software architectures
+* the term software architecture and its meaning
+* the tasks and responsibilities of software architects
+* the roles of software architects within development projects
+* state-of-the-art methods and techniques for developing software architectures.
 
 // end::EN[]
 

@@ -9,8 +9,8 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können:
 
-* spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und konkret formulieren, beispielsweise in Form von Szenarien und Qualitätsbäumen;
-* Szenarien und Qualitätsbäume erklären und anwenden;
+* spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und konkret formulieren, beispielsweise in Form von Szenarien und Qualitätsbäumen
+* Szenarien und Qualitätsbäume erklären und anwenden.
 
 // end::DE[]
 
@@ -20,8 +20,8 @@ Softwarearchitekten können:
 
 Software architects can:
 
-* clarify and formulate specific quality requirements for the software to be developed and its architectures, for example in the form of scenarios and quality trees;
-* Explain and apply scenarios and quality trees;
+* clarify and formulate specific quality requirements for the software to be developed and its architectures, for example in the form of scenarios and quality trees
+* explain and apply scenarios and quality trees.
 
 // end::EN[]
 

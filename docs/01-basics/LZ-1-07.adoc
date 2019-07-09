@@ -9,8 +9,8 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können:
 
-* langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären;
-* Potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten;
+* langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären
+* Potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
 * Qualitätsanforderungen identifizieren und präzisieren.
 
 // end::DE[]
@@ -21,8 +21,8 @@ Softwarearchitekten können:
 
 Software architects can:
 
-* explain long-term quality requirements and their differentiation from (short-term) project goals;
-* explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders;
+* explain long-term quality requirements and their differentiation from (short-term) project goals
+* explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders
 * identify and specify quality requirements.
 
 // end::EN[]

@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten können:
 
-* Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren;
+* Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren
 * gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren.
 
 // end::DE[]

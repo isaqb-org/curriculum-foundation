@@ -17,7 +17,7 @@ Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
 * Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
 * Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., http://istqb.org, International Software Testing Qualification Board)
 * Projekt- oder Produktmanagement
-* Einführung in konkrete Werkzeuge
+* Einführung in konkrete Werkzeuge.
 
 Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwendigen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.
 
@@ -36,7 +36,7 @@ The following topics or concepts are not part of CPSA-F:
 * System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., http://ireb.org, International Requirements Engineering Board)
 * Software testing (please refer to the education and certification program by ISTQB e.V., http://istqb.org, International Software Testing Qualification Board)
 * Project or product management
-* Introduction to specific software tools
+* Introduction to specific software tools.
 
 // end::EN[]
 

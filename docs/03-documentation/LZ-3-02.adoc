@@ -9,8 +9,8 @@ include::../config/_feedback.adoc[]
 
 Softwarearchitekten:
 
-* können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder;
-* sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren;
+* können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekten sowie möglicherweise zusätzliche Stakeholder
+* sind in der Lage, die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich zu konsolidieren und harmonisieren
 * kennen den Nutzen von Template-basierter Dokumentation.
 
 // end::DE[]
@@ -20,8 +20,8 @@ Softwarearchitekten:
 ==== LG 3-2: Describe and communicate software architectures (R1)
 Software architects are able to:
 
-* document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders;
-* consolidate and harmonise the style and content of contributions from different groups of authors.
+* document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
+* consolidate and harmonise the style and content of contributions from different groups of authors
 * know the benefits of template-based documentation.
 
 // end::EN[]
