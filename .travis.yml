@@ -1,25 +1,26 @@
 language: java
 install: true
 jdk:
-  - oraclejdk8
-
+- oraclejdk8
 before_cache:
-  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
-  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+- rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+- rm -fr $HOME/.gradle/caches/*/plugin-resolution/
 cache:
   directories:
-    - $HOME/.gradle/caches/
-    - $HOME/.gradle/wrapper/
+  - "$HOME/.gradle/caches/"
+  - "$HOME/.gradle/wrapper/"
 script:
-  - ./gradlew renderNoRemarksDE renderNoRemarksEN
-
+- "./gradlew renderNoRemarksDE renderNoRemarksEN publish"
 deploy:
   provider: releases
   api_key:
     secure: lty+YlfjEA++ikYOHOOUeRZWnQuZi+JB1ejuQn9dlfgquI7EexIt4U2rbTKwy25WMr3Mqlt058cYqluV0ZvibAfagkDZTxwP0V8zI7qIWIjRfqYSs46Y3pny2R8gPSPacruIFvBy6Y4cpB0GdJZWmW3Tt/UikTO40U0iy7XNIcCwowTfoBPr69Df5C5Ix5XfT0Iyfozgj58jbk+D85hFDMx4Lddn0+nXQglt8SbJM/5BLC2qtPunzy0dQBXkAoF7j5Q+Rl6WW4n6fRpFSG2b6wK37RwgENmNiQVtGLT/T7paSIO9bRJjRjJVh0S1q5oDonJaMPQQagzrnY1RwbiYox1CEhnfeMPpwDGYHtxYlenrPsqpx408azERTD042/N9Scghtva0IhHGxatPOScFb0Jjddx3v5Y8qwwpVLdmkcGlAa+2g+5vX7755Ze1bYZgmZHicicIlSymWzirlDHhEhQfSUMtcI/P9NMUmFrnl+nOaOeuyf3bnKyrRhHIxztx46wjeOjk0pFsjhJIgo3B1Z0YRSqsnvB1zY7h/R9O3zjSbxl8LKu4vg/W0WCv14HmxNo0S0myY2a6iHltFaJWzrec6dJHIrla2SyfeZ8or5MONqTnLIBFK83Q+Jq/gVYR9MIq8Uc1Eyjr5FajCxvap67ZsgRSfWizHVvk7N7SWjI=
   file:
-    - "build/foundation-curriculum_de.pdf"
-    - "build/foundation-curriculum_en.pdf"
+  - build/foundation-curriculum_de.pdf
+  - build/foundation-curriculum_en.pdf
   skip_cleanup: true
   draft: true
   overwrite: true
+env:
+  global:
+    secure: qpsJqqq/+UzBTgPNxHALqkoaUVrPKXu8mcYxZeffmT49uYhuxID6k26dnObUJVftCCwZDicoll+SxL8l5VgKx/5YnrEmDj8+zb4DON0IaVpuaYgDOFXBHEVaPUA0Jrb0NJ3JiLOsqv9D4RHbO23nxxgYgygqqZeKGwGZkgCXnZ6KnuKrUipfh81MWs0KcEgcjvdLsIE6GKVzAmE/wtc0mKtzsH+ty94TLWH54MlQPQHfY4OjuWPcuAbax4NDOMsRkmvjZeD1wqS4o04t4R+88Pciyy8SXOXvC7OAnAK2f8Ky9rW5kVv4C70b/HqdfZL2+100wTUQenFhIX6jB3NiUg4zHsnXjqUQhLEtEfRbiNJ0eBlCqQto8Y4duV4jZYwtx9O09OThTF/PWT6q1zj/f8ofM0ANoOx6O1rxOLWXSOCYtwA9YH4Qxi6OUoTQhrI0doNYSs77hT6jgLqwfIXewQ/kcgYyb/7fW7qXgD9Mkr7GlGB46WmZJelPv6NBKgui/KyoV+P9v1MqLWwGowmW+GA+X8rJnxBOFcEWAoE1NIJaYstDjnNOyQ16V47hMAM5MRGl6GxAOf16/NSVOkUN6ciVMNte29eKr4Wfmm2wEmVTK2rN1h9jPVzYITg4Zb86DKVj3qR8WUVCmJaCa+Q1gSyZJt2yciIIPNNppMdttdM=
