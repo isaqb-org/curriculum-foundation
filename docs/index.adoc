@@ -38,5 +38,5 @@ The current productive version (aka: relevant for examinations) is version 4.1 (
 == Versions 3 and prior
 
 iSAQB does not maintain a repository of older versions. Upon request we can provide previous versions,
-you may volunteer to update this repository accordingly.
+you may volunteer to update this repository accordingly. Thank you
 
