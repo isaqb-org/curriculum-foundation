@@ -21,8 +21,11 @@ gitPublish {
     from('build/images') {
       into 'images'
     }
-    from('build/foundation-curriculum-${project.version}*.html')
-    from('build/foundation-curriculum-${project.version}*.pdf')
+    from('build') {
+      include '**/*.html'
+      include '**/*.pdf'
+      exclude 'gitPublish'
+    }
   }
   commitMessage = "Publishing release ${project.version}"
 }
