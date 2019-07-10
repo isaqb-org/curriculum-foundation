@@ -11,7 +11,7 @@ cache:
   - "$HOME/.gradle/wrapper/"
 script:
 # - "./gradlew wrapper --gradle-version 5.4.1 --distribution-type bin"
-- "./gradlew renderNoRemarksDE renderNoRemarksEN publish publish"
+- "./gradlew renderNoRemarksDE renderNoRemarksEN publish --info --stacktracw"
 - "ls -la ./build/gitPublish"
 deploy:
   provider: releases
