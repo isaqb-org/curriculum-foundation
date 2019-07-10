@@ -1,4 +1,0 @@
-[submodule "pdf-theme"]
-	path = pdf-theme
-	url = https://github.com/isaqb-org/pdf-theme.git
-	branch = master
