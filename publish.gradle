@@ -16,11 +16,13 @@ gitPublish {
   System.setProperty('org.ajoberstar.grgit.auth.username', System.getenv('GH_PAGES'))
   repoUri = 'https://github.com/isaqb-org/curriculum-foundation.git'
   branch = 'gh-pages'
+  project.version = project.file("./document.version").text
   contents {
     from('build/images') {
       into 'images'
     }
     from('build/*.html')
+    from('build/*.pdf')
   }
   preserve {
     include '*.html'
