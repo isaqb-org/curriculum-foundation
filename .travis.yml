@@ -12,7 +12,7 @@ cache:
 script:
 # - "./gradlew wrapper --gradle-version 5.4.1 --distribution-type bin"
 - "./gradlew renderNoRemarksDE renderNoRemarksEN publish --info --stacktrace"
-- "ls -la ./build/gitPublish"
+- "ls -laR ./build"
 deploy:
   provider: releases
   api_key:
