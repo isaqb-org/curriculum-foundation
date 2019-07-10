@@ -1,9 +1,0 @@
-.DS_Store
-
-\.gradle
-\build
-.idea
-.project
-.settings/org.eclipse.buildship.core.prefs
-.vscode/settings.json
-timing-pie-chart/~$pie-chart-overview.xlsx
