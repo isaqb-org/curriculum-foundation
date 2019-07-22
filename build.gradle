@@ -57,15 +57,16 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'pdf-fontsdir'     : '../pdf-theme/fonts',
       'pdf-style'        : 'isaqb',
       'with-uniqe-LG-id' : false,
-      'allow-uri-read': true
+      'allow-uri-read'   : true,
+      'outputDir'        : outputDir
     ]
   }
 }
 
 task buildDocs {
-	group 'Documentation'
-	description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
+  group 'Documentation'
+  description 'Grouping task for generating all languages in several formats'
+  dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
@@ -98,5 +99,7 @@ task publish(type: GradleBuild) {
       println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
   }
 }
+
+apply from: 'scripts/includeLearningObjectives.gradle'
 
 defaultTasks "buildDocs"
