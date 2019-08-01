@@ -36,6 +36,15 @@ endif::withRemarks[]
 // currently only DE and EN are supported
 :language: DE
 
+ifeval::["{language}" == "DE"]
+:curriculum-header-title: iSAQB-Curriculum für Foundation Level
+endif::[]
+
+ifeval::["{language}" == "EN"]
+:curriculum-header-title: iSAQB curriculum for Foundation Level
+endif::[]
+
+
 ifeval::["{language}" == "DE;EN"]
 [NOTE]
 ====
