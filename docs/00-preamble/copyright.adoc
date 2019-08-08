@@ -33,7 +33,7 @@ Alle Rechte an diesen Copyrights stehen ausschließlich dem International Softwa
 
 == Legal Notice
 
-© (Copyright), International Software Architecture Qualification Board e. V.
+(C) (Copyright), International Software Architecture Qualification Board e. V.
 (iSAQB^(R)^ e. V.) 2019
 
 The curriculum may only be used subject to the following conditions:
