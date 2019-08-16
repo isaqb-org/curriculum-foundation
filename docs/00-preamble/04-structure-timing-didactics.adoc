@@ -14,6 +14,28 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 .Empfohlene Zeitaufteilung
 image::zeitaufteilung-DE.jpg[pdfwidth=75%, role="text-center"]
 
+
+[cols="<,>", options="header"]
+|===
+
+| Inhalt | Empfohlene Dauer (min)
+
+| 1. Grundlagen | 120
+
+| 2. Entwurf und Entwicklung | 420
+
+| 3. Beschreibung und Kommunikation | 240
+
+| 4. Architektur und Qualität | 120
+
+| 5. Beispiele | 90
+
+| |
+
+| Summe | 990 (16,5h)
+
+|===
+
 // end::DE[]
 
 // tag::EN[]
@@ -27,6 +49,27 @@ The types (domains and technologies) of examples and exercises can be determined
 .Recommended time distribution
 image::time-distribution-EN.jpg[pdfwidth=75%, role="text-center"]
 
+
+[cols="<,>", options="header"]
+|===
+
+| Content | Recommended Duration (min)
+
+| 1. Basic Concepts of Software Architecture | 120
+
+| 2. Design and Development | 420
+
+| 3. Specification and Communication | 240
+
+| 4. Software Architecture and Quality | 120
+
+| 5. Examples | 90
+
+| |
+
+| Total | 990 (16.5h)
+
+|===
 // end::EN[]
 
 // tag::REMARK[]
