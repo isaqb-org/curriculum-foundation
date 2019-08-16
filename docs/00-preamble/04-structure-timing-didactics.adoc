@@ -32,7 +32,7 @@ image::zeitaufteilung-DE.jpg[pdfwidth=75%, role="text-center"]
 
 | |
 
-| Summe | 990 (16,5h)
+| Summe | 990
 
 |===
 
@@ -67,7 +67,7 @@ image::time-distribution-EN.jpg[pdfwidth=75%, role="text-center"]
 
 | |
 
-| Total | 990 (16.5h)
+| Total | 990
 
 |===
 // end::EN[]
