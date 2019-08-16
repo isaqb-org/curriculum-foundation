@@ -8,7 +8,7 @@ include::../config/_feedback.adoc[]
 == Entwurf und Entwicklung von Softwarearchitekturen
 
 |===
-| Dauer: 330 Min. | Übungszeit: 120 Min.
+| Dauer: 330 Min. | Übungszeit: 90 Min.
 |===
 
 
@@ -22,7 +22,7 @@ Entwurf; Vorgehen beim Entwurf; Entwurfsentscheidung; Sichten; Schnittstellen; t
 == Design and development of software architectures
 
 |===
-| Duration: 330 min. | Excercises: 120 min.
+| Duration: 330 min. | Excercises: 90 min.
 |===
 
 === Relevant terms
