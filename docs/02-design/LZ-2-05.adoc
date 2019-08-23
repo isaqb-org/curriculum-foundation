@@ -22,7 +22,7 @@ Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsge
 * Messaging (R2), z.B. mit Events und Commands
 
 
-Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur und PoEAA (für Informationssysteme) (R3)
+Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.B. <<Buschmann96>>)und PoEAA (<<Fowler2003>>) (für Informationssysteme) (R3)
 
 // end::DE[]
 
@@ -45,7 +45,7 @@ Software architects know various architectural patterns and can use them as requ
 * Messaging (R2), e.g. with events and commands
 
 
-Software architects know essential sources for architectural patterns, such as POSA literature and PoEAA (for information systems) (R3).
+Software architects know essential sources for architectural patterns, such as POSA (e.g. <<Buschmann96>>) and PoEAA (<<Fowler2003>>) (for information systems) (R3).
 
 // end::EN[]
 
@@ -53,6 +53,7 @@ Software architects know essential sources for architectural patterns, such as P
 
 [NOTE]
 ====
+GS (August 2019): Added reference for PoEAA, replaced POSA by Buschmann-references
 GS (Feb 2019): re-ordered to match priorities.
 
 GS/CL (Jan 2019): significantly shortenend, removed "styles" -> followed RRs' suggestion below.
