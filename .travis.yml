@@ -20,8 +20,9 @@ deploy:
   file:
   - build/foundation-curriculum-*.pdf
   - build/foundation-curriculum-*.html
+  - build/foundation-curriculum-remarks-de-en.html
   - build/images/*
-#  - build/foundation-curriculum_en.pdf
+
   skip_cleanup: true
   draft: true
   overwrite: true
