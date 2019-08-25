@@ -5,8 +5,8 @@
 /Author (- Foundation Level Curriculum -)
 /Creator (Asciidoctor PDF 1.5.0.beta.2, based on Prawn 2.2.2)
 /Producer (- Foundation Level Curriculum -)
-/ModDate (D:20190825185554+00'00')
-/CreationDate (D:20190825185712+00'00')
+/ModDate (D:20190825190815+00'00')
+/CreationDate (D:20190825190932+00'00')
 >>
 endobj
 2 0 obj
@@ -1539,7 +1539,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (foundation-curriculum_de.html)
+/URI (foundation-curriculum-de.html)
 >>
 /Subtype /Link
 /Rect [92.4508 361.6037 266.0918 371.1037]
@@ -1550,7 +1550,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (foundation-curriculum_en.html)
+/URI (foundation-curriculum-en.html)
 >>
 /Subtype /Link
 /Rect [92.4508 342.3882 263.3463 351.8882]
@@ -1561,7 +1561,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (foundation-curriculum_remarks_de_en.html)
+/URI (foundation-curriculum-remarks-de-en.html)
 >>
 /Subtype /Link
 /Rect [92.4508 323.1727 286.9348 332.6727]
@@ -1572,7 +1572,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (foundation-curriculum_de.pdf)
+/URI (foundation-curriculum-de.pdf)
 >>
 /Subtype /Link
 /Rect [92.4508 303.9572 234.8843 313.4572]
@@ -1583,7 +1583,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (foundation-curriculum_en.pdf)
+/URI (foundation-curriculum-en.pdf)
 >>
 /Subtype /Link
 /Rect [92.4508 284.7417 232.1388 294.2417]
