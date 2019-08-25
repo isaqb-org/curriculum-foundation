@@ -9,7 +9,7 @@ include::../config/_feedback.adoc[]
 
 Wesentliche Ziele von Softwarearchitektur sind:
 
-* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen, im Gegensatz zur reinen Implementierung der Funktionalität
+* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit sowie funktionale Anforderungen zu erreichen
 * Erstellung und Wartung von Software, insbesondere die Implementierung zu unterstützen
 * Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder.
 
@@ -21,7 +21,7 @@ Wesentliche Ziele von Softwarearchitektur sind:
 
 Essential goals of software architecture are:
 
-* the achievement of quality requirements such as reliability, maintainability, changeability, security etc. in contrast to the implementation of pure functionality
+* the achievement of quality requirements such as reliability, maintainability, changeability, security etc. and functional requirements 
 * supporting the creation and maintenance of software, particularly its implementation
 * convey the understanding of structures and concepts of the system, related to all relevant stakeholders.
 
@@ -30,6 +30,7 @@ Essential goals of software architecture are:
 // tag::REMARK[]
 [NOTE]
 ====
+GS, August 2019: after discussions and comments from Andreas Rausch and Mahbouba Gharbi, re-formulated first item (removed "in contrast to functionality").
 GS/CL: sprachlich leicht umformuliert
 
 RR: Keine klare Abgrenzung zwischen Nutzen und Zielen, deswegen vereinfacht.

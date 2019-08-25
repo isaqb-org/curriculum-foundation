@@ -72,21 +72,21 @@ task buildDocs {
 task renderNoRemarksDE(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE", false]) {
   doLast {
-    addSuffixToCurriculum("-${project.version}-de")
+    addSuffixToCurriculum("-de")
   }
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "EN", false]) {
   doLast {
-    addSuffixToCurriculum("-${project.version}-en")
+    addSuffixToCurriculum("-en")
   }
 }
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
   doLast {
-    addSuffixToCurriculum("-${project.version}-remarks-de-en")
+    addSuffixToCurriculum("-remarks-de-en")
   }
 }
 
