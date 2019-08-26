@@ -12,7 +12,8 @@ Wesentliche Ziele von Softwarearchitektur sind:
 * Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit sowie funktionale Anforderungen zu erreichen
 * Erstellung und Wartung von Software, insbesondere die Implementierung zu unterstützen
 * Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder.
-* Architekturrelevante Richtlinien zur Implementierung zu spezifizieren
+// proposal from RRhoades: 
+// * Architekturrelevante Richtlinien zur Implementierung zu spezifizieren
 
 // end::DE[]
 
@@ -25,7 +26,8 @@ Essential goals of software architecture are:
 * the achievement of quality requirements such as reliability, maintainability, changeability, security etc. and functional requirements 
 * supporting the creation and maintenance of software, particularly its implementation
 * convey the understanding of structures and concepts of the system, related to all relevant stakeholders.
-* specify architecture-relevant guidelines for the implementation
+// proposal from RRhoades: 
+// * specify architecture-relevant guidelines for the implementation
 
 // end::EN[]
 
