@@ -10,7 +10,6 @@ cache:
   - "$HOME/.gradle/caches/"
   - "$HOME/.gradle/wrapper/"
 script:
-# - "./gradlew wrapper --gradle-version 5.4.1 --distribution-type bin"
 - "./gradlew renderNoRemarksDE renderNoRemarksEN renderWithRemarksDE_EN publish --info --stacktrace"
 - "ls -laR ./build"
 deploy:
