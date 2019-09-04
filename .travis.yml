@@ -11,7 +11,7 @@ cache:
   - "$HOME/.gradle/wrapper/"
 script:
 - "./gradlew renderNoRemarksDE renderNoRemarksEN renderWithRemarksDE_EN publish --info --stacktrace"
-- "ls -laR ./build"
+- "ls -laR ./build | grep -v .git"
 deploy:
   provider: releases
   on:
