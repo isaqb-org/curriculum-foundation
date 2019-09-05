@@ -71,6 +71,8 @@ task buildDocs {
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE", false]) {
+  group 'Documentation'
+  description 'Builds the German curriculum as PDF and HTML file, without remarks.'
   doLast {
     addSuffixToCurriculum("-de")
   }
@@ -78,6 +80,8 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "EN", false]) {
+  group 'Documentation'
+  description 'Builds the English curriculum as PDF and HTML file, without remarks.'
   doLast {
     addSuffixToCurriculum("-en")
   }
@@ -85,6 +89,8 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
     constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
+  group 'Documentation'
+  description 'Builds both the German and the English curricula as PDF and HTML files, with remarks. Those files are for internal use only.'
   doLast {
     addSuffixToCurriculum("-remarks-de-en")
   }
