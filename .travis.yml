@@ -10,7 +10,7 @@ cache:
   - "$HOME/.gradle/caches/"
   - "$HOME/.gradle/wrapper/"
 script:
-- "./gradlew renderNoRemarksDE renderNoRemarksEN renderWithRemarksDE_EN publish --info --stacktrace"
+- "./gradlew buildDocs publish --info --stacktrace"
 - "ls -laR ./build | grep -v .git"
 deploy:
   provider: releases
