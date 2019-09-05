@@ -1,5 +1,4 @@
-import static groovy.io.FileType.*
-import java.util.regex.*
+import static groovy.io.FileType.FILES
 
 class LearningObjective {
     String id
