@@ -12,13 +12,15 @@ endif::[]
 
 == Status
 
-*Release Candidate RC-4* version: image:https://travis-ci.org/isaqb-org/curriculum-foundation.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-foundation"]
+https://isaqb-org.github.io/curriculum-foundation/[Version 5 of the curriculum is now available.]
+
+image:https://travis-ci.org/isaqb-org/curriculum-foundation.svg?branch=master["Build Status", link="https://travis-ci.org/isaqb-org/curriculum-foundation"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-This repository contains the *curriculum* for the upcoming version 5 of CPSA-F (which will be mandatory for CPSA-F licensed trainings from September 1^st^ 2019). 
+This repository contains the *curriculum* for version 5 of CPSA-F (which will be mandatory for CPSA-F licensed trainings from September 1^st^ 2019).
 
 This is <<copyrighted,copyrighted work>>.
 
@@ -102,7 +104,6 @@ The current (2019) FLWG members are:
 * Dr. Gernot Starke (FLWG chair)
 
 
-
 == What does "Foundation Level" cover?
 
 As stated above, _Foundation Level_ covers small to medium-sized software systems.
@@ -157,4 +158,3 @@ We stress that, as a matter of principle, this curriculum is protected by copyri
 The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
 
 The abbreviation "e. V." is part of the iSAQB's official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
- 
