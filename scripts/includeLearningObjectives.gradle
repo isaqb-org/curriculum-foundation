@@ -86,7 +86,8 @@ task includeLearningObjectives(
     }
 
     ext.writeLearningObjectives = { contentDE, contentEN ->
-        def outFile = new File(buildDir, '/learning-objectives.adoc')
+        def docsFolder = new File(projectDir, '/docs')
+        def outFile = new File(docsFolder, '/learning-objectives.adoc')
 
         println "Learning objectives file: " + outFile.getAbsolutePath()
 
