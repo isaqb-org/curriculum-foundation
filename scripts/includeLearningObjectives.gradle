@@ -89,6 +89,8 @@ task includeLearningObjectives(
     ext.writeLearningObjectives = { contentDE, contentEN ->
         def outFile = new File(buildDir, '/learning-objectives.adoc')
 
+        println "Learning objectives file: " + outFile.getAbsolutePath()
+
         final String EMPTYFeedback = """\n \n // tag::FEEDBACK[]\n// end::FEEDBACK[]"""
         final String EMPTYRemark = """// tag::REMARK[]\n//end::REMARK[]\n"""
 
