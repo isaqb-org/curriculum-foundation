@@ -23,6 +23,7 @@ deploy:
   file:
   - build/foundation-curriculum-de*
   - build/foundation-curriculum-en*
+  - build/images/*
   skip_cleanup: true
   # comment in if you want to test deployment specific stuff. You might also
   # want to comment out the "on:" flag with branch and tags for testing.
