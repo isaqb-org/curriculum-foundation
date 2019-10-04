@@ -7,8 +7,7 @@ include::../config/_feedback.adoc[]
 // tag::DE[]
 == Rechtliches
 
-(C) (Copyright), International Software Architecture Qualification Board e. V.
-(iSAQB^(R)^ e. V.) 2019
+**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2019**
 
 Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:
 
@@ -23,9 +22,15 @@ Lizenzverträge, die alles umfassend regeln, sind vorhanden.
 Sie werden dort über die Möglichkeit des Erwerbs entsprechender Lizenzen im Rahmen der vorhandenen
 Lizenzverträge informiert und können die gewünschten Nutzungsgenehmigungen erhalten.
 
-Grundsätzlich weisen wir darauf hin, dass dieser Lehrplan urheberrechtlich geschützt ist.
+.Wichtiger Hinweis
+****
+*Grundsätzlich weisen wir darauf hin, dass dieser Lehrplan urheberrechtlich geschützt ist.
+Alle Rechte an diesen Copyrights stehen ausschließlich dem International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) zu.*
+****
+// end::DE[]
 
-Alle Rechte an diesen Copyrights stehen ausschließlich dem International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) zu.
+Die Abkürzung "e. V." ist Teil des offiziellen Namens des iSAQB und steht für "eingetragener Verein", der seinen Status als juristische Person nach deutschem Recht beschreibt.
+Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser Abkürzung als iSAQB bezeichnet.
 
 // end::DE[]
 
@@ -33,8 +38,7 @@ Alle Rechte an diesen Copyrights stehen ausschließlich dem International Softwa
 
 == Legal Notice
 
-(C) (Copyright), International Software Architecture Qualification Board e. V.
-(iSAQB^(R)^ e. V.) 2019
+**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2019**
 
 The curriculum may only be used subject to the following conditions:
 
@@ -45,9 +49,12 @@ Please address any enquiries to info@isaqb.org. License agreements with comprehe
 
 3.	If you fall neither into category 1 nor category 2, but would like to use these documents and/or curricula nonetheless, please also contact the iSAQB e. V. by writing to info@isaqb.org. You will then be informed about the possibility of acquiring relevant licenses through existing license agreements, allowing you to obtain your desired usage authorizations.
 
-We like to point out that this curriculum is protected by copyright.
+.Important Notice
+****
+*We stress that, as a matter of principle, this curriculum is protected by copyright.
+The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.*
+****
 
-The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
 The abbreviation "e. V." is part of the iSAQB's official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
 For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSAQB without the use of said abbreviation.
 
