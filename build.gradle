@@ -1,5 +1,6 @@
 import org.asciidoctor.gradle.AsciidoctorTask
 import javax.inject.Inject
+import java.text.SimpleDateFormat
 
 buildscript {
   repositories {
@@ -15,7 +16,10 @@ plugins {
 }
 
 ext {
-  currentDate = new Date().format("d. MMM yyyy")
+  today = new Date()
+  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
+  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+
   // read document version from file "document.version"
   project.version = project.file("./document.version").text
   curriculumBaseName = "foundation-curriculum"
@@ -70,7 +74,7 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, currentDate, "DE", false]) {
+    constructorArgs: [curriculumBaseName, germanDate, "DE", false]) {
   group 'Documentation'
   description 'Builds the German curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -79,7 +83,7 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, currentDate, "EN", false]) {
+    constructorArgs: [curriculumBaseName, englishDate, "EN", false]) {
   group 'Documentation'
   description 'Builds the English curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -88,7 +92,7 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
 }
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, currentDate, "DE;EN", true]) {
+    constructorArgs: [curriculumBaseName, germanDate, "DE;EN", true]) {
   group 'Documentation'
   description 'Builds both the German and the English curricula as PDF and HTML files, with remarks. Those files are for internal use only.'
   doLast {
