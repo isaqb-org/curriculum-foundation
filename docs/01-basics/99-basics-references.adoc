@@ -1,7 +1,3 @@
-// tag::FEEDBACK[]
-:filename: 02-design/99-basics-references.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 
 // tag::BIB_REFS[] 

@@ -9,14 +9,6 @@
 // table-of-contents placement does not work in pdf, but in html
 :toc: left
 
-// if the attribute ":withFeedback:" is set, we include buttons to give
-// feedback to specific content sections (only in html5 output)
-:withFeedback!:
-:feedback:
-ifdef::withFeedback[]
-:feedback: FEEDBACK
-endif::withFeedback[]
-
 
 // if the attribute ":withRemarks:" is set, we amend every content-include
 // by "REMARK", so that the sections tagged "REMARK" are always included.
@@ -55,7 +47,7 @@ endif::[]
 // ":include_configuration:" always consists of the language, eventually
 // followed by ";REMARK" and preceeded by 
 // additional markers might be configured here!
-:include_configuration: tags={feedback};{language};{remarks}
+:include_configuration: tags={language};{remarks}
 
 
 // ":bibrefs:" (bibliography entries) are single language, to avoid redundancy.

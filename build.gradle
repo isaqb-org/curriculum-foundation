@@ -55,7 +55,6 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'language'         : language,
       'withRemarks'      : withRemarks,
       'document-version' : fileVersion + " (" + currentDate + ")",
-      'withFeedback'     : true,
       'debug_adoc'       : false,
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-fontsdir'     : '../pdf-theme/fonts',

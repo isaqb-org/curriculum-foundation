@@ -2,10 +2,6 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ===============================================
 
-// tag::FEEDBACK[]
-:filename: 02-design/99-design-references.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 [bibliography]
 == {references}

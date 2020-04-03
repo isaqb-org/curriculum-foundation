@@ -25,4 +25,4 @@ include::./LZ-2-08.adoc[{include_configuration}]
 
 include::./LZ-2-09.adoc[{include_configuration}]
 
-include::./99-design-references.adoc[tags={feedback};{bibrefs};{remarks}]
+include::./99-design-references.adoc[tags={bibrefs};{remarks}]
