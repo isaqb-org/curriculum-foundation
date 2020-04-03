@@ -136,25 +136,4 @@ Wolfgang Fahl, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, 
 [[copyrighted]]
 == Licensing and Copyright
 
-[IMPORTANT]
-====
-THIS IS COPYRIGHTED WORK.
-
-© (Copyright), https://isaqb.org[International Software Architecture Qualification Board e. V.]
-(iSAQB^(R)^ e. V.) 2009-2019
-====
-
-The curriculum may only be used subject to the following conditions:
-
-1. You wish to obtain the CPSA Certified Professional for Software Architecture Foundation Level^(R)^ certificate. For the purpose of obtaining the certificate, it shall be permitted to use these text documents and/or curricula by creating working copies for your own computer. If any other use of documents and/or curricula is intended, for instance for their dissemination to third parties, for advertising etc., please write to contact@isaqb.org to enquire whether this is permitted. A separate license agreement would then have to be entered into.
-
-2. If you are a trainer, training provider or training organizer, it shall be possible for you to use the documents and/or curricula once you have obtained a usage license.
-Please address any enquiries to contact@isaqb.org. License agreements with comprehensive provisions for all aspects exist.
-
-3. If you fall neither into category 1 nor category 2, but would like to use these documents and/or curricula nonetheless, please also contact the iSAQB e. V. by writing to contact@isaqb.org. You will then be informed about the possibility of acquiring relevant licenses through existing license agreements, allowing you to obtain your desired usage authorizations.
-
-We stress that, as a matter of principle, this curriculum is protected by copyright.
-
-The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
-
-The abbreviation "e. V." is part of the iSAQB's official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
+include::LICENSE.adoc[]
