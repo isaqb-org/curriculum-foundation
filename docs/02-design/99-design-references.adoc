@@ -1,14 +1,9 @@
-// tag::FEEDBACK[]
-:filename: 02-design/99-design-references.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 
 // tag::BIB_REFS[] 
 
 === {references}
 
-<<Bass2012>>, <<Fowler2003>>, <<GharbiEtAl2017>>, <<gof>>, <<Martin2003>>, <<Buschmann96>> and <<Buschmann2007>>, <<Starke2017>>, <<Lilienthal2017>>
+<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<martin>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>
 
 // end::BIB_REFS[] 
 

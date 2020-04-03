@@ -1,7 +1,3 @@
-// tag::FEEDBACK[]
-:filename: 02-design/01-design-duration-terms.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 

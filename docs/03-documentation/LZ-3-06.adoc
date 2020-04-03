@@ -1,7 +1,4 @@
-// tag::FEEDBACK[]
-:filename: 03-documentation/LZ-3-06.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
+
 
 // tag::DE[]
 [[LZ-3-6]]

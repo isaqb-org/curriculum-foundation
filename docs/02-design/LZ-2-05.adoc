@@ -1,7 +1,3 @@
-// tag::FEEDBACK[]
-:filename: 02-design/LZ-2-05.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
 
 // tag::DE[]
 [[LZ-2-5]]
@@ -22,7 +18,7 @@ Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsge
 * Messaging (R2), z.B. mit Events und Commands
 
 
-Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.B. <<Buschmann96>>)und PoEAA (<<Fowler2003>>) (für Informationssysteme) (R3)
+Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme) (R3)
 
 // end::DE[]
 
@@ -45,7 +41,7 @@ Software architects know various architectural patterns and can use them as requ
 * Messaging (R2), e.g. with events and commands
 
 
-Software architects know essential sources for architectural patterns, such as POSA (e.g. <<Buschmann96>>) and PoEAA (<<Fowler2003>>) (for information systems) (R3).
+Software architects know essential sources for architectural patterns, such as POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems) (R3).
 
 // end::EN[]
 

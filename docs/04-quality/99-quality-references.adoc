@@ -1,14 +1,9 @@
-// tag::FEEDBACK[]
-:filename: 02-design/99-quality-references.adoc
-include::../config/_feedback.adoc[]
-// end::FEEDBACK[]
-
 
 // tag::BIB_REFS[] 
 
 === {references}
 
-<<Bass2003>>, <<Clements2002>>, <<GharbiEtAl2017>>, <<Martin2003>>, <<Starke2017>>
+<<Bass2003>>, <<clementseval>>, <<gharbietal>>, <<martin>>, <<starke>>
 
 // end::BIB_REFS[] 
 

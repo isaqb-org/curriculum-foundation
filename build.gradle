@@ -8,7 +8,7 @@ buildscript {
   }
 
   dependencies {
-    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.0-beta.2"
+    classpath "org.asciidoctor:asciidoctorj-pdf:1.5.3"
   }
 }
 plugins {
@@ -55,7 +55,6 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'language'         : language,
       'withRemarks'      : withRemarks,
       'document-version' : fileVersion + " (" + currentDate + ")",
-      'withFeedback'     : true,
       'debug_adoc'       : false,
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-fontsdir'     : '../pdf-theme/fonts',
@@ -100,15 +99,6 @@ task renderWithRemarksDE_EN(type: RenderCurriculumTask,
   }
 }
 
-task publish(type: GradleBuild) {
-  String travisPr = System.getenv('TRAVIS_PULL_REQUEST')
-  if ("false".equals(travisPr)) {
-      buildFile = 'publish.gradle'
-      tasks = ['gitPublishPush']
-  } else {
-      println 'env var TRAVIS_PULL_REQUEST says we build for PR #' + travisPr + ', won\'t publish docs!'
-  }
-}
 
 apply from: 'scripts/includeLearningObjectives.gradle'
 
