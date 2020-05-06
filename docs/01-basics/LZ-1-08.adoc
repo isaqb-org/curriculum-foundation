@@ -17,7 +17,7 @@ Softwarearchitekten:
 Software architects: 
 
 * should explicitly present assumptions or prerequisites and avoid implicit assumptions
-* Tknow that implicit assumptions can lead to potential misunderstandings between stakeholders.
+* know that implicit assumptions can lead to potential misunderstandings between stakeholders.
 
 // end::EN[]
 
