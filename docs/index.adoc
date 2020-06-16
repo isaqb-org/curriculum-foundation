@@ -34,7 +34,7 @@ More versions https://github.com/isaqb-org/curriculum-foundation/tags[(tagged) o
 
 == Version 4.x (released 2017)
 
-The current productive version (aka: relevant for examinations) is version 4.1 (EN) and 4.2 (DE), both of which are currently only available via the official https://isaqb.org[iSAQB website].
+The previous main releases are version 4.1 (EN) and 4.2 (DE), both of which are only available upon request.
 
 == Versions 3 and prior
 
