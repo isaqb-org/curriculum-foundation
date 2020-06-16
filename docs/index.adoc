@@ -38,6 +38,6 @@ The previous main releases are version 4.1 (EN) and 4.2 (DE), both of which are 
 
 == Versions 3 and prior
 
-iSAQB does not maintain a repository of older versions. Upon request we can provide previous versions,
-you may volunteer to update this repository accordingly. Thank you
+iSAQB does not maintain a repository of older versions. Upon request, we can provide previous versions,
+you may volunteer to update this repository accordingly. Thank you.
 
