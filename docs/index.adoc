@@ -12,7 +12,7 @@ A **glossary** of the terminology used in the iSAQB curricula can be found as a 
 
 == Available Versions
 
-=== Version 5.1 (released December 2019) 
+=== Version 2019.2 (released December 2019, formerly known as V5.1)
 
 ==== Status
 image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=master["CI"]
