@@ -1,11 +1,11 @@
 
 // tag::DE[]
 [[LZ-1-9]]
-==== LZ 1-9: Zuständigkeit von Softwarearchitekten in organisatorischen Kontext einordnen (R3)
+==== LZ 1-9: Zuständigkeit von Softwarearchitekt:innen in organisatorischen Kontext einordnen (R3)
 
 Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
 
-Darüber hinaus kennen Softwarearchitekten weitere Architekturdomänen, beispielsweise:
+Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beispielsweise:
 
 * Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften
 * Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen

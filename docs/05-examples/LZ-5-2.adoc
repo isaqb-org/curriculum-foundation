@@ -1,7 +1,7 @@
 // tag::DE[]
 [[LZ-5-2]]
 ==== LZ 5-2: Technische Umsetzung einer Lösung nachvollziehen (R3)
-Softwarearchitekten können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.
+Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.
 
 // end::DE[]
 

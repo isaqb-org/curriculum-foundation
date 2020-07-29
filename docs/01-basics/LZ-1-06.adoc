@@ -3,7 +3,7 @@
 [[LZ-1-6]]
 ==== LZ 1-6: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R1)
 
-* Softwarearchitekten können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
+* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
 * Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
 Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
 

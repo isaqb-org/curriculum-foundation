@@ -3,7 +3,7 @@
 [[LZ-3-8]]
 ==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R2)
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren
 * gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren.

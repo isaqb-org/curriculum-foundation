@@ -3,7 +3,7 @@
 [[LZ-2-5]]
 ==== LZ 2-5: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1-R3)
 
-Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
+Softwarearchitekt:innen kennen diverse Architekturmuster und können diese bedarfsgerecht einsetzen:
 
 * Schichten (_Layer_) (R1)
 * Pipes und Filter (R1)
@@ -18,7 +18,7 @@ Softwarearchitekten kennen diverse Architekturmuster und können diese bedarfsge
 * Messaging (R2), z.B. mit Events und Commands
 
 
-Softwarearchitekten kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme) (R3)
+Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme) (R3)
 
 // end::DE[]
 

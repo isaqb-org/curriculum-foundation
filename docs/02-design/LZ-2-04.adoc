@@ -3,13 +3,13 @@
 [[LZ-2-4]]
 ==== LZ 2-4: Querschnittskonzepte entwerfen und umsetzen (R1)
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * die Bedeutung von Querschnittskonzepten erklären
 * Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit
 * mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
 
-Softwarearchitekten wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
+Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
 
 // end::DE[]
 

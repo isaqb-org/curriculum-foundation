@@ -16,7 +16,7 @@ Darüber hinaus behandeln CPSA-F-Schulungen:
 
 *	den Begriff und die Bedeutung von Softwarearchitektur
 *	die Aufgaben und Verantwortung von Softwarearchitekten
-*	die Rolle von Softwarearchitekten in Entwicklungsvorhaben
+*	die Rolle von Softwarearchitekt:innen in Entwicklungsvorhaben
 *	State-of-the-Art-Methoden und -Praktiken zur Entwicklung von Softwarearchitekturen.
 
 // end::DE[]

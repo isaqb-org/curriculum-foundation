@@ -4,7 +4,7 @@
 [[LZ-3-6]]
 ==== LZ 3-6: Querschnittskonzepte dokumentieren und kommunizieren (R1)
 
-Softwarearchitekten können typische Querschnittskonzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
+Softwarearchitekt:innen können typische Querschnittskonzepte (auch genannt _Prinzipien_ oder _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
 
 // end::DE[]
 

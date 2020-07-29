@@ -4,7 +4,7 @@
 [[LZ-2-9]]
 ==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1-R3)
 
-Softwarearchitekten kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
+Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
 
 Sie kennen:
 

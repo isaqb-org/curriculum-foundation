@@ -3,7 +3,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale diskutieren (R1)
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * den Begriff der Qualität (angelehnt an DIN/ISO 25010, vormals 9126) und der Qualitätsmerkmale erklären
 * generische Qualitätsmodelle (wie etwa DIN/ISO 25010) erklären

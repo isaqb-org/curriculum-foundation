@@ -2,7 +2,7 @@
 // tag::DE[]
 [[LZ-4-3]]
 ==== LZ 4-3: Softwarearchitekturen qualitativ analysieren und bewerten (R2-R3)
-Softwarearchitekten:
+Softwarearchitekt:innen:
 
 * kennen methodische Vorgehensweisen zur qualitativen Analyse und Bewertung von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
 * können kleinere Systeme qualitativ analysieren und bewerten (R2)
