@@ -1,0 +1,13 @@
+Copy translated versions (PDF) of the curriculum (other than German or English) to the directory `docs-ext`.
+
+Please make sure, that the file name is well-formed and complies with the following format:
+
+`curriculum-xxxx-lc.pdf`
+
+`xxxx`: insert the name of the curriculum, e.g. `web` or `flex`  +
+`lc`: iso language code of the translation, e.g. `es` (Spanish) or `pt` (Portuguese)
+
+Example: `curriculum-web-es.pdf` <- Spanish version of the WEB curriculum.
+
+**ATTENTION:** For every document that you add to `docs-ext`, you also have to create an entry in `index.adoc`
+so that people can access it from the overview page of this curriculum.
