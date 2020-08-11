@@ -60,6 +60,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
+        commit_message: Publish Release ${{ env.RELEASE_VERSION }}
     - name: Upload Release Files
       if: startsWith(github.ref, 'refs/tags/')
       id: upload-release-asset
