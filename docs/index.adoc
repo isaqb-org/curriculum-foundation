@@ -24,11 +24,11 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 
 ==== Recent builds 
 
-- link:foundation-curriculum-de.html[German without Comments (online, html)]
-- link:foundation-curriculum-en.html[English without Comments (online, html)]
-- link:foundation-curriculum-remarks-de-en.html[German/English with Comments (online, html)]
-- link:foundation-curriculum-de.pdf[German without Comments (PDF)]
-- link:foundation-curriculum-en.pdf[English without Comments (PDF)]
+- link:curriculum-foundation-de.html[German without Comments (online, html)]
+- link:curriculum-foundation-en.html[English without Comments (online, html)]
+- link:curriculum-foundation-remarks-de-en.html[German/English with Comments (online, html)]
+- link:curriculum-foundation-de.pdf[German without Comments (PDF)]
+- link:curriculum-foundation-en.pdf[English without Comments (PDF)]
 
 More versions https://github.com/isaqb-org/curriculum-foundation/tags[(tagged) on the Github Releases page.]
 

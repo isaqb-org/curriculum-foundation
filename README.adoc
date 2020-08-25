@@ -124,6 +124,8 @@ In addition, such trainings cover
 * the roles of software architects within development
 * state-of-the-art methods and techniques for developing software architectures
 
+== Additional translations/languages
+include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Contributors
 Work on this curriculum started way back in 2007/2008 - and numerous people contributed - either by proposing, crafting and writing content or by commenting, reviewing and otherwise helping to improve.

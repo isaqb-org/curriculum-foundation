@@ -1,8 +1,17 @@
-= CPSA Certified Professional for Software Architecture^(R)^ : - *Foundation Level Curriculum* -
-:toc: left
 // handle numerous attributes. Successful inclusion of this file
 // is ABSOLUTELY NECESSARY!!
 include::config/setup.adoc[]
+
+ifeval::["{language}" == "DE"]
+= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+:toc: left
+endif::[]
+
+ifeval::["{language}" == "EN"]
+= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+:toc: left
+endif::[]
+
 
 // define terms for toc, learning_goals
 // will have strange results if multiple languages

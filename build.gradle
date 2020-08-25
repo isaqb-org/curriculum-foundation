@@ -22,7 +22,7 @@ ext {
 
   // read document version from file "document.version"
   project.version = project.file("./document.version").text
-  curriculumBaseName = "foundation-curriculum"
+  curriculumBaseName = "curriculum-foundation"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
       File source = new File("${buildDir}/${curriculumBaseName}.${extension}")
