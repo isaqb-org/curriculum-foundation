@@ -17,7 +17,7 @@ Architekturdomänen;
 {glossary_url}relationship[Beziehungen]; 
 Querschnittskonzepte; 
 Nutzen von Softwarearchitektur; 
-Softwarearchitekten und deren Verantwortlichkeiten; 
+Softwarearchitekt:innen und deren Verantwortlichkeiten; 
 Rolle; 
 Aufgaben und benötigte Fähigkeiten; 
 Stakeholder und deren Anliegen; 

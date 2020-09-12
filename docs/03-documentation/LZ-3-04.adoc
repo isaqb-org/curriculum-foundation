@@ -1,7 +1,7 @@
 // tag::DE[]
 [[LZ-3-4]]
 ==== LZ 3-4: Architektursichten erläutern und anwenden (R1)
-Softwarearchitekten können folgende Architektursichten anwenden:
+Softwarearchitekt:innen können folgende Architektursichten anwenden:
 
 * Kontextsicht (auch genannt Kontextabgrenzung)
 * Baustein- oder Komponentensicht (Aufbau des Systems aus Softwarebausteinen)

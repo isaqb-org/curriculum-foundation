@@ -3,7 +3,7 @@
 [[LZ-1-3]]
 ==== LZ 1-3: Softwarearchitektur in Software-Lebenszyklus einordnen (R2)
 
-Softwarearchitekten können Ihre Aufgaben und Ergebnisse in den gesamten Lebenszyklus von IT-Systemen einordnen.
+Softwarearchitekt:innen können Ihre Aufgaben und Ergebnisse in den gesamten Lebenszyklus von IT-Systemen einordnen.
 Sie können:
 
 * Konsequenzen von Änderungen bei funktionalen Anforderungen, Qualitätsanforderungen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen

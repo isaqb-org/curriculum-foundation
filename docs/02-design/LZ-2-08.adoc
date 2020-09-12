@@ -4,7 +4,7 @@
 [[LZ-2-8]]
 ==== LZ 2-8: Qualitätsanforderungen mit passenden Ansätzen und Techniken erreichen (R1)
 
-Softwarearchitekten kennen und berücksichtigen den starken Einfluss von Qualitätsanforderungen in Architektur- und Entwurfsentscheidungen, beispielsweise für:
+Softwarearchitekt:innen kennen und berücksichtigen den starken Einfluss von Qualitätsanforderungen in Architektur- und Entwurfsentscheidungen, beispielsweise für:
 
 * Effizienz / Performance
 * Verfügbarkeit

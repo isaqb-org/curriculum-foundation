@@ -3,7 +3,7 @@
 [[LZ-4-2]]
 ==== LZ 4-2: Qualitätsanforderungen an Softwarearchitekturen klären (R1)
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und konkret formulieren, beispielsweise in Form von Szenarien und Qualitätsbäumen
 * Szenarien und Qualitätsbäume erklären und anwenden.

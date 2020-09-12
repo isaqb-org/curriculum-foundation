@@ -3,7 +3,7 @@
 [[LZ-3-7]]
 ==== LZ 3-7: Schnittstellen beschreiben (R1)
 
-Softwarearchitekten können sowohl interne als auch externe Schnittstellen beschreiben und spezifizieren.
+Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen beschreiben und spezifizieren.
 
 // end::DE[]
 

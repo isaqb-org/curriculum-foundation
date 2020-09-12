@@ -3,7 +3,7 @@
 [[LZ-1-7]]
 ==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)
 
-Softwarearchitekten können:
+Softwarearchitekt:innen können:
 
 * langfristige Qualitätsanforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären
 * Potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten

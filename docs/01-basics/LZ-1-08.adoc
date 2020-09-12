@@ -3,7 +3,7 @@
 [[LZ-1-8]]
 ==== LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)
 
-Softwarearchitekten: 
+Softwarearchitekt:innen: 
 
 * können Annahmen oder Voraussetzungen explizit darstellen und vermeiden implizite Annahmen
 * wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken.

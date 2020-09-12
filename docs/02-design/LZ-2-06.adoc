@@ -2,7 +2,7 @@
 
 [[LZ-2-6]]
 ==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1)
-Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwenden:
+Softwarearchitekt:innen können die folgenden Entwurfsprinzipien erläutern und anwenden:
 
 * Abstraktion
 * Modularisierung, unter Berücksichtigung von:
@@ -15,7 +15,7 @@ Softwarearchitekten können die folgenden Entwurfsprinzipien erläutern und anwe
 * Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen (_Dependency Inversion_) 
 * konzeptioneller Integrität zur Erreichung der Gleichförmigkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme (R2)
 
-Softwarearchitekten verstehen die Einflüsse der Entwurfsprinzipien auf Quellcode und können diese gezielt einsetzen.
+Softwarearchitekt:innen verstehen die Einflüsse der Entwurfsprinzipien auf Quellcode und können diese gezielt einsetzen.
 
 // end::DE[]
 

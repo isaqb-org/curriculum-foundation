@@ -3,7 +3,7 @@
 [[LZ-1-10]]
 ==== LZ 1-10: Typen von IT-Systemen unterscheiden (R3)
 
-Softwarearchitekten kennen unterschiedliche Typen von IT-Systemen, beispielsweise:
+Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispielsweise:
 
 * Informationssysteme
 * Decision-Support, Data-Warehouse oder Business-Intelligence Systeme
