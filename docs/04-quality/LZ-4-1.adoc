@@ -19,15 +19,15 @@ Softwarearchitekt:innen können:
 [[LG-4-1]]
 ==== LG 4-1: Discuss quality models and quality characteristics (R1)
 
-Software architects can:
+Software architects can explain:
 
-* explain the concept of quality (based on DIN/ISO 25010, formerly 9126) and quality characteristics
-* Explain generic quality models (such as DIN/ISO 25010)
-* Explain correlations and trade-offs of quality characteristics, for example:
-** Configurability versus reliability
-** Memory requirements versus performance efficiency
-** Security versus usability
-** Runtime flexibility versus maintainability.
+* the concept of quality (based on DIN/ISO 25010, formerly 9126) and quality characteristics
+* generic quality models (such as DIN/ISO 25010)
+* correlations and trade-offs of quality characteristics, for example:
+** configurability versus reliability
+** memory requirements versus performance efficiency
+** security versus usability
+** runtime flexibility versus maintainability.
 
 // end::EN[]
 
