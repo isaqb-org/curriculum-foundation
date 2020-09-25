@@ -19,7 +19,7 @@ Software architects know several definitions of software architecture (incl. ISO
 
 * Components/building blocks with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
-* Structures, crosscutting concepts, principles
+* Structures, cross-cutting concepts, principles
 * Architecture decisions and their consequences on the entire systems and its lifecycle
 
 // end::EN[]
