@@ -17,7 +17,7 @@ Software architects can:
 
 * Depict the context of systems, e.g. in the form of context diagrams with explanations
 * represent external interfaces of systems in the context view
-* differentiate functional and technical context.
+* differentiate business and technical context.
 
 // end::EN[]
 
