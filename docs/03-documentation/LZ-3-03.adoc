@@ -10,7 +10,7 @@ Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme zur Notation vo
 * Sequenz- und Aktivitätsdiagramme
 * Zustandsdiagramme
 
-Softwarearchitekt:innen kennen Alternativen zu UML-Diagrammen. Insbesondere für die Laufzeitsicht eignen sich z. B. Flussdiagramme, nummerierte Listen, BPMN.
+Softwarearchitekt:innen kennen Alternativen zu UML-Diagrammen. Insbesondere für die Laufzeitsicht eignen sich z. B. Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
 
 // end::DE[]
 
@@ -25,7 +25,7 @@ Software architects know at least the following UML diagrams to describe archite
 * sequence and activity diagrams
 * state machine diagrams
 
-Software architects know alternative notations to UML diagrams, especially for the runtime view,  e.g., flow charts, numbered lists, BPMN.
+Software architects know alternative notations to UML diagrams, especially for the runtime view,  e.g., flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]
 
