@@ -36,7 +36,8 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 === Prerequisites
 The iSAQB e. V. may check the following prerequisites in certification examinations via corresponding questions.
 
-Participants should have the following knowledge and/or experience. In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
+Participants should have the following knowledge and/or experience. 
+In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
 
 * More than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education
 * Knowledge of and practical experience with at least one higher programming language, especially:
