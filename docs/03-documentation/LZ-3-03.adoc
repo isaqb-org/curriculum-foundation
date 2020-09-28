@@ -1,31 +1,37 @@
 
 // tag::DE[]
 [[LZ-3-3]]
-==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2)
+==== LZ 3-3: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
 Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
 
-* Klassen-, Paket-, Komponenten- und Kompositionsstrukturdiagramme
-* Verteilungsdiagramme
-* Sequenz- und Aktivitätsdiagramme
-* Zustandsdiagramme
+* Klassen-, Paket-, Komponenten- (jeweils R2) und Kompositionsstrukturdiagramme (R3)
+* Verteilungsdiagramme (R2)
+* Sequenz- und Aktivitätsdiagramme (R2)
+* Zustandsdiagramme (R3)
 
-Softwarearchitekt:innen kennen Alternativen zu UML-Diagrammen. Insbesondere für die Laufzeitsicht eignen sich z. B. Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
+Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
+
+* ArchiMate 
+* für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-3]]
-==== LG 3-3: Explain and apply notations/models to describe software architecture (R2)
+==== LG 3-3: Explain and apply notations/models to describe software architecture (R2-R3)
 
 Software architects know at least the following UML diagrams to describe architectural views:
 
-* class, package, component and composite-structure diagrams
-* deployment diagrams
-* sequence and activity diagrams
-* state machine diagrams
+* class, package, component (all R2) and composite-structure diagrams (R3)
+* deployment diagrams (R2)
+* sequence and activity diagrams (R2)
+* state machine diagrams (R3)
 
-Software architects know alternative notations to UML diagrams, especially for the runtime view,  e.g., flow charts, numbered lists or business-process-modeling-notation (BPMN).
+Software architects know alternative notations to UML diagrams, for example: (R3)
+
+* Archimate
+* for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]
 

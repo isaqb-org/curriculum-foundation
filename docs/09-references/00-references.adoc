@@ -6,6 +6,7 @@
 [bibliography]
 == {references}
 
+- [[[archimate, Archimate]]] The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
 - [[[bass,Bass+ 2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3^rd^ Edition, Addison Wesley 2012.
 - [[[buschmanna,Buschmann+ 1996]]] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.
 - [[[buschmannb,Buschmann+ 2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
