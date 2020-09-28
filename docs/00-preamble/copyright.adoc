@@ -2,7 +2,7 @@
 // tag::DE[]
 == Rechtliches
 
-**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2019**
+**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2020**
 
 Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:
 
@@ -32,7 +32,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 
 == Legal Notice
 
-**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2019**
+**(C) (Copyright), International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) 2020**
 
 The curriculum may only be used subject to the following conditions:
 
