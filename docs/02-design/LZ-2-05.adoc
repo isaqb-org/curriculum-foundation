@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-2-5]]
-==== LZ 2-5: LG 2-5: Wichtige Lösungsmuster beschreiben, erklären und angemessen anwenden (R1, R3)
+==== LZ 2-5: Wichtige Lösungsmuster beschreiben, erklären und angemessen anwenden (R1, R3)
 
 
 Softwarearchitekt:innen kennen verschiedene Architekturmuster (siehe unten) und können sie gegebenenfalls anwenden.
@@ -24,7 +24,7 @@ Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele daf
 * Dependency Injection als eine mögliche Lösung für das Dependency-Inversion-Prinzip 
 
 
- Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
+Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
  
 * Blackboard: Behandlung von Problemen, die nicht durch deterministische Algorithmen lösbar sind, sondern vielfältiges Wissen erfordern.
 * Broker: verantwortlich für die Koordination der Kommunikation zwischen Anbieter(n) und Verbraucher(n), angewandt in verteilten Systemen. Verantwortlich für die Weiterleitung von Anfragen und/oder die Übermittlung von Ergebnissen, Fehlern und Ausnahmen.
