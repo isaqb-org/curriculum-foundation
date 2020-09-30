@@ -1,14 +1,14 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1-R3)
+==== LZ 2-1: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)
 Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
-* Top-down- und Bottom-Up-Vorgehen beim Entwurf
-* Sichtenbasierte Architekturentwicklung
-* iterativer und inkrementeller Entwurf
-** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen
-** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen
+* Top-down- und Bottom-Up-Vorgehen beim Entwurf (R1)
+* Sichtenbasierte Architekturentwicklung (R1)
+* iterativer und inkrementeller Entwurf (R1)
+** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen (R1)
+** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen (R1)
 * Domain-Driven Design (R3)
 * Modellgetriebene Architektur (R3)
 
@@ -16,14 +16,14 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Select and use approaches and heuristics for architecture development (R1-R3)
+==== LG 2-1: Select and use approaches and heuristics for architecture development (R1,R3)
 Software architects are able to name, explain, and use the basic approaches of architecture development, for example:
 
-* Top-down and bottom-up approaches to design
-* View-based architecture development
-* Iterative and incremental design
-** Necessity of iterations, especially when decision-making is affected by uncertainties
-** Necessity of feedback on design decisions
+* Top-down and bottom-up approaches to design (R1)
+* View-based architecture development (R1)
+* Iterative and incremental design (R1)
+** Necessity of iterations, especially when decision-making is affected by uncertainties (R1)
+** Necessity of feedback on design decisions (R1)
 * Domain-driven design (R3)
 * Model-driven architecture (R3)
 
