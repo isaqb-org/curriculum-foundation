@@ -9,7 +9,6 @@ Softwarearchitekt:innen kennen:
 ** ISO/IEEE-42010 (vormals 1471)
 ** arc42
 ** C4
-** RM/ODP
 ** FMC
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
@@ -26,7 +25,6 @@ Software architects know:
 ** ISO/IEEE-42010 (formerly 1471)
 ** arc42
 ** C4
-** RM/ODP
 ** FMC
 * ideas and examples of checklists for the creation, documentation, and testing of software architectures
 * possible tools for creating and maintaining architectural documentation
