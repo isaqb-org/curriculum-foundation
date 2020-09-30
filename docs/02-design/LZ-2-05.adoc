@@ -24,7 +24,7 @@ Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele daf
 * Dependency Injection als eine mögliche Lösung für das Dependency-Inversion-Prinzip 
 
 
- Softwarearchitekt:innen können  diejenigen der folgenden Muster erklären und Beispiele dafür liefern, die für die Kategorien von Systemen relevant sind, an denen sie selbst arbeiten (R3):
+ Softwarearchitekt:innen können einige der folgenden Muster erklären und Beispiele dafür liefern (R3):
 
 * Blackboard: Behandlung von Problemen, die nicht durch deterministische Algorithmen lösbar sind, sondern vielfältiges Wissen erfordern.
 * Broker: verantwortlich für die Koordination der Kommunikation zwischen Anbieter(n) und Verbraucher(n), angewandt in verteilten Systemen. Verantwortlich für die Weiterleitung von Anfragen und/oder die Übermittlung von Ergebnissen, Fehlern und Ausnahmen.
@@ -74,7 +74,7 @@ Software architects can explain and provide examples for the following patterns 
 * Dependency Injection as a possible solution for the Dependency-Inversion-Principle 
 
 
-Software architects can explain and provide examples for those of the following patterns that are relevant for the categories of systems they build (R3):
+Software architects can explain several of the following patterns and can provide examples (R3):
 
 * Blackboard: handle problems that cannot be solved by deterministic algorithms but require diverse knowledge.
 * Broker:  responsible for coordinating communication between provider(s) and consumer(s), applied in distributed systems. Responsible for forwarding requests and/or transmitting results and exceptions..
