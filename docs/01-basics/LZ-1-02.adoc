@@ -23,18 +23,15 @@ Softwarearchitektur zielt darauf ab:
 
 Software architects can justify the following essential goals of software architecture.
 
-Software architecture aims at:
-
-* supporting design, implementation, maintenance and operation of systems
-* achieving quality requirements such as reliability, maintainability, changeability, security
-* achieving functional requirements or ensuring that they can be met
-* providing an understanding of the system's structures and concepts, with regard to all relevant stakeholders
-* systematically reducing complexity 
-* specifying architecturally relevant guidelines for implementation and operation
-
-
-
-
+The objectives of software architecture are:
+ 
+* support the design, implementation, maintenance, and operation of systems
+* achieve quality requirements such as reliability, maintainability, changeability, security, etc.
+* achieve functional requirements or ensure that they can be met
+* ensure that the the system's structures and concepts are understood by all relevant stakeholders
+* systematically reduce complexity
+* specify architecturally relevant guidelines for implementation and operation
+ 
 // end::EN[]
 
 // tag::REMARK[]
