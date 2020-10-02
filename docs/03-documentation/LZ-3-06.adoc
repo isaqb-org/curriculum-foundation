@@ -10,7 +10,7 @@ Softwarearchitekt:innen können typische Querschnittskonzepte (synonym _Prinzipi
 
 // tag::EN[]
 [[LG-3-6]]
-==== LG 3-6: Document and communicate cross-cutting concerns (R1)
+==== LG 3-6: Document and communicate cross-cutting concepts (R1)
 
 Software architects are able to adequately document and communicate typical cross-cutting concepts (synonym: _principles_, _aspects_), e. g., persistence, workflow management, UI, deployment/integration, logging.
 
@@ -18,10 +18,4 @@ Software architects are able to adequately document and communicate typical cros
 
 // tag::REMARK[]
 
-[NOTE]
-====
-
-* GS+RR: Redundanz zu Kapitel 2 entfernt, Protokollierung aufgenomen.
-* JR: Begriff an Kapitel 2 angepasst: "Querschnittskonzepte" anstelle von "querschnittliche Konzepte".
-====
 // end::REMARK[]
