@@ -44,7 +44,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
     separateOutputDirs = false
     backends 'pdf', 'html5'
 
-    def fileVersion = project.file("./document.version").text.trim() + "-" + language
+    def fileVersion = project.version.trim() + "-" + language
 
     attributes = [
       'icons'            : 'font',
