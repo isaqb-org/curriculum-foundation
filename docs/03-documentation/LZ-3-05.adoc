@@ -4,7 +4,7 @@
 ==== LZ 3-5: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
 Softwarearchitekt:innen können:
 
-* Kontext von Systemen z.B. in Form von Kontextdiagramm mit Erläuterungen darstellen
+* Kontext von Systemen z.B. in Form von Kontextdiagrammen mit Erläuterungen darstellen
 * externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen
 * fachlichen und technischen Kontext differenzieren.
 
@@ -13,9 +13,9 @@ Softwarearchitekt:innen können:
 // tag::EN[]
 [[LG-3-5]]
 ==== LG 3-5: Explain and apply context view of systems (R1)
-Software architects can:
+Software architects are able to:
 
-* Depict the context of systems, e.g. in the form of context diagrams with explanations
+* depict the context of systems, e.g. in the form of context diagrams with explanations
 * represent external interfaces of systems in the context view
 * differentiate business and technical context.
 
