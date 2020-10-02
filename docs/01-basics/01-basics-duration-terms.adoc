@@ -43,7 +43,7 @@ architecture domains; {glossary_url}structure[structure];
 {glossary_url}component[components]; 
 {glossary_url}interface[interfaces]; 
 {glossary_url}relationship[relationships]; 
-cross-cutting concerns; 
+{glossary_url}cross-cutting concepts[Cross-cutting concepts]; 
 software architects and their responsibilities; 
 tasks and required skills; 
 stakeholders and their concerns; 
