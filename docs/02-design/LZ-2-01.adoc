@@ -9,7 +9,9 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 * iterativer und inkrementeller Entwurf (R1)
 ** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen (R1)
 ** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen (R1)
-* Domain-Driven Design (R3)
+* Domain-Driven Design, siehe <<evans>> (R3)
+* Evolutionäre Architektur, siehe <<ford>> (R3)
+* Globale Analyse, siehe <<hofmeister>> (R3) 
 * Modellgetriebene Architektur (R3)
 
 // end::DE[]
@@ -17,14 +19,16 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 // tag::EN[]
 [[LG-2-1]]
 ==== LG 2-1: Select and use approaches and heuristics for architecture development (R1,R3)
-Software architects are able to name, explain, and use the basic approaches of architecture development, for example:
+Software architects are able to name, explain, and use basic approaches of architecture development, for example:
 
 * Top-down and bottom-up approaches to design (R1)
 * View-based architecture development (R1)
 * Iterative and incremental design (R1)
 ** Necessity of iterations, especially when decision-making is affected by uncertainties (R1)
 ** Necessity of feedback on design decisions (R1)
-* Domain-driven design (R3)
+* Domain-Driven Design, see <<evans>> (R3)
+* Evolutionary Architektur, see <<ford>> (R3)
+* Global Analysis, see <<hofmeister>> (R3) 
 * Model-driven architecture (R3)
 
 // end::EN[]
