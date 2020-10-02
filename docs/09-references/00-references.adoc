@@ -12,13 +12,16 @@
 - [[[buschmannb,Buschmann+ 2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
 - [[[clementseval,Clements+ 2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
 - [[[clementsdoc,Clements+ 2010]]] Paul Clements,  Felix Bachmann, Len Bass, David Garlan, David, James Ivers, Reed Little, Paulo Merson and Robert Nord. _Documenting Software Architectures: Views and Beyond_, 2nd edition, Addison Wesley, 2010
+- [[[evans,Evans 2004]]] Eric Evans: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ Addison-Wesley, 2004.
+- [[[ford,Ford 2020]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
 - [[[fowler,Fowler 2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2003.
-- [[[gharbietal,Gharbi+ 2017]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 3. Auflage, dpunkt Verlag, Heidelberg 2017.
+- [[[gharbietal,Gharbi+ 2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
 - [[[gof,Gamma+ 94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
 Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java. Springer-Vieweg Verlag, 2. Auflage 2014.
+- [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[isaqbreferences,iSAQB Working Groups]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
 - [[[lilienthal,Lilienthal 2017]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 2. Auflage, dpunkt Verlag 2018.
 - [[[martin,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
-- [[[starke,Starke 2017]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 8. Auflage, Carl Hanser Verlag 2017. Website: https://esabuch.de
+- [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 - [[[zoerner,Zörner 2015]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015.
