@@ -34,7 +34,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumBaseName, String currentDate, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumBaseName, String versionDate, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
@@ -49,11 +49,11 @@ class RenderCurriculumTask extends AsciidoctorTask {
     attributes = [
       'icons'            : 'font',
       'revnumber'        : fileVersion,
-      'revdate'          : currentDate,
-      'currentDate'      : currentDate,
+      'revdate'          : versionDate,
+      'currentDate'      : versionDate,
       'language'         : language,
       'withRemarks'      : withRemarks,
-      'document-version' : fileVersion + " (" + currentDate + ")",
+      'document-version' : fileVersion + "-" + versionDate,
       'debug_adoc'       : false,
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-fontsdir'     : '../pdf-theme/fonts',
