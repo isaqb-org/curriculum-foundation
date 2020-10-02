@@ -17,8 +17,7 @@ plugins {
 
 ext {
   today = new Date()
-  englishDate = new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(today)
-  germanDate = new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(today)
+  versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
   // read document version from file "document.version"
   project.version = project.file("./document.version").text
@@ -73,7 +72,7 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, germanDate, "DE", false]) {
+    constructorArgs: [curriculumBaseName, versionDate, "DE", false]) {
   group 'Documentation'
   description 'Builds the German curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -82,7 +81,7 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, englishDate, "EN", false]) {
+    constructorArgs: [curriculumBaseName, versionDate, "EN", false]) {
   group 'Documentation'
   description 'Builds the English curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -91,7 +90,7 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
 }
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, germanDate, "DE;EN", true]) {
+    constructorArgs: [curriculumBaseName, versionDate, "DE;EN", true]) {
   group 'Documentation'
   description 'Builds both the German and the English curricula as PDF and HTML files, with remarks. Those files are for internal use only.'
   doLast {
