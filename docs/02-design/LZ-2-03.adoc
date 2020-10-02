@@ -4,6 +4,7 @@
 ==== LZ 2-3: Einflussfaktoren auf Softwarearchitektur erheben und berücksichtigen können (R1-R2)
 
 Softwarearchitekt:innen können Einflussfaktoren (Randbedingungen) als Einschränkungen der Entwurfsfreiheit erarbeiten und berücksichtigen.
+Sie verstehen, dass ihre Entscheidungen weitere Anforderungen und Einschränkungen für das zu entwerfende System, seine Architektur oder den Entwicklungsprozess mit sich bringen können.
 
 Sie erkennen und berücksichtigen den:
 
@@ -18,7 +19,8 @@ Sie erkennen und berücksichtigen den:
 [[LG-2-3]]
 ==== LG 2-3: Identify and consider factors influencing software architecture (R1-R2)
 
-Software architects are able to gather and consider constraints and influencing factors that restrict the freedom in design decisions.
+Software architects are able to gather and consider constraints and influencing factors that restrict their decisions. 
+They understand that their decisions may imply further requirements and constraints on the system being designed, its architecture, or the development process."
 
 They should recognize and consider the:
 
