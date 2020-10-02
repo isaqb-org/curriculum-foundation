@@ -1,0 +1,67 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push events if the pushed
+# tag is a release candidate
+on:
+  push:
+    tags:
+      - "[2-9][0-9][0-9][0-9].[0-9]+-RC[0-9]+"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: Checkout Source
+      uses: actions/checkout@v2
+    - name: Checkout Submodules
+      uses: textbook/git-checkout-submodule-action@master
+    - name: Set up JDK 14
+      uses: actions/setup-java@v1
+      with:
+        java-version: 14
+    - name: Execute Gradle Build
+      uses: eskatos/gradle-command-action@v1
+      with:
+        # Gradle command line arguments, see gradle --help
+        arguments: buildDocs
+
+    # do the following two things only for a release!
+    - name: Set Environment Variables for Release Version
+      if: startsWith(github.ref, 'refs/tags/')
+      run: echo ::set-env name=RELEASE_VERSION::${GITHUB_REF:10}
+    - name: Create New Release Candidate
+      if: startsWith(github.ref, 'refs/tags/')
+      id: create-release-candidate
+      uses: actions/create-release@latest
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      with:
+        tag_name: ${{ env.RELEASE_VERSION }}
+        release_name: Release Candidate ${{ env.RELEASE_VERSION }}
+        draft: false
+        prerelease: true
+    - name: Prepare Deployment
+      if: startsWith(github.ref, 'refs/tags/')
+      run: |
+        rm -rf ./build/tmp
+        cp ./docs-ext/curriculum-*.pdf ./build
+        zip -r release.zip ./build
+    - name: Upload Release Files
+      if: startsWith(github.ref, 'refs/tags/')
+      id: upload-release-candidate-asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create-release-candidate.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
+        asset_path: ./release.zip
+        asset_name: release-${{ env.RELEASE_VERSION }}.zip
+        asset_content_type: application/zip
