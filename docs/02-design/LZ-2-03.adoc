@@ -38,7 +38,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Markttrends
 ** Technologietrends (z.B. Blockchain, Microservices)
 ** Methodik-Trends (z.B. agil)
-** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und mandatierter Designentscheidungen (R3)
+** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen (R3)
 // end::DE[]
 
 // tag::EN[]
