@@ -1,33 +1,88 @@
 
 // tag::DE[]
 [[LZ-2-3]]
-==== LZ 2-3: Einflussfaktoren auf Softwarearchitektur erheben und berücksichtigen können (R1-R2)
+==== LZ 2-3: Einflussfaktoren auf Softwarearchitektur erheben und berücksichtigen können (R1-R3)
 
 Softwarearchitekt:innen können Einflussfaktoren (Randbedingungen) als Einschränkungen der Entwurfsfreiheit erarbeiten und berücksichtigen.
 Sie verstehen, dass ihre Entscheidungen weitere Anforderungen und Einschränkungen für das zu entwerfende System, seine Architektur oder den Entwicklungsprozess mit sich bringen können.
 
-Sie erkennen und berücksichtigen den:
+Sie erkennen und berücksichtigen den Einfluss von:
 
-* Einfluss von Qualitätsanforderungen
-* Einfluss technischer Entscheidungen und Konzepte
-* (möglichen) Einfluss organisatorischer und juristischer Faktoren (R2)
-* Einfluss verschiedener Stakeholder (R2)
+* **produktbezogenen** Faktoren wie (R1)
+** funktionale Anforderungen 
+** Qualitätsanforderungen und Qualitätsziele
+** zusätzliche Faktoren wie Produktkosten, beabsichtigtes Lizenzmodell oder Geschäftsmodell des Systems
 
+* **technischen** Faktoren wie (R1-R3)
+** extern beauftragte technische Entscheidungen und Konzepte (R1)
+** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
+** technologische Beschränkungen für Datenstrukturen und Schnittstellen (R2)
+** Referenzarchitekturen, Bibliotheken, Komponenten und Frameworks (R1)
+** Programmiersprachen (R3)
+
+* **organisatorischen** Faktoren wie
+** Organisationsstruktur des Entwicklungsteams und des Kunden (R1)
+** Unternehmens- und Teamkultur (R3)
+** Partnerschaften und Kooperationen (R2)
+** Normen, Richtlinien und Prozessmodelle (z.B. Genehmigungs- und Freigabeprozesse) (R2)
+** Verfügbarkeit von Ressourcen wie Budget, Zeit und Personal (R1)
+** Verfügbarkeit, Qualifikation und Engagement von Mitarbeitenden (R1)
+
+* **regulatorischen** Faktoren wie (R2)
+** lokale und internationale rechtliche Einschränkungen
+** Vertrags- und Haftungsfragen
+** Datenschutzgesetze und Gesetze zum Schutz der Privatsphäre
+** Fragen der Einhaltung oder Verpflichtungen zur Beweislast
+
+* **Trends** wie (R3)
+** Markttrends
+** Technologietrends (z.B. Blockchain, Microservices)
+** Methodik-Trends (z.B. agil)
+** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und mandatierter Designentscheidungen (R3)
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-3]]
-==== LG 2-3: Identify and consider factors influencing software architecture (R1-R2)
+==== LG 2-3: Identify and consider factors influencing software architecture (R1-R3)
 
-Software architects are able to gather and consider constraints and influencing factors that restrict their decisions. 
-They understand that their decisions may imply further requirements and constraints on the system being designed, its architecture, or the development process."
+Software architects are able to gather and consider constraints and influencing factors that restrict their decisions.
+They understand that their decisions may imply further requirements and constraints on the system being designed, its architecture, or the development process. (R1-R2)
 
-They should recognize and consider the:
+They should recognize and account for the impact of:
 
-* impact of quality requirements
-* impact of technical decisions and concepts
-* (potential) impact of organizational, legal, and other constraints (R2)
-* impact of stakeholder concerns (R2)
+* product-related factors such as (R1)
+** functional requirements 
+** quality requirements and quality goals
+** additional factors such as product cost, intended licensing model, or business model of the system
+
+* technological factors such as (R1-R3)
+** externally mandated technical decisions and concepts (R1)
+** existing or planned hardware and software infrastructure (R1)
+** technological constraints on data structures and interfaces (R2)
+** reference architectures, libraries, components, and frameworks (R1)
+** programming languages (R3)
+
+* organizational factors such as
+** organizational structure of the development team and of the customer (R1)
+** company and team cultures (R3)
+** partnerships and cooperation agreements (R2)
+** standards, guidelines, and process models (e.g. approval and release processes) (R2)
+** available resources like budget, time, and staff (R1)
+** availability, skill set, and commitment of staff (R1)
+
+* regulatory factors such as (R2)
+** local and international legal constraints
+** contract and liability issues
+** data protection​ and privacy laws
+** compliance issues or obligations to provide burden of proof​
+
+* trends such as (R3)
+** market trends
+** technology trends (e.g. blockchain, microservices)
+** methodology trends (e.g. agile)
+** (potential) impact of further stakeholder concerns and mandated design decisions (R3)
+
+Software architects are able to describe how those factors can influence design decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
 
 // end::EN[]
 
