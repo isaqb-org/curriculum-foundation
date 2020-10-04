@@ -25,7 +25,7 @@ Software architects understand dependencies and coupling between building blocks
 * can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * know and can apply possibilities to reduce or eliminate coupling, for example:
 ** Patterns (see <<LG-2-5, learning goal 2-5>>)
-** Basic design principles (see <<LG-2-6, learning goal 2-6>>)
+** Fundamental design principles (see <<LG-2-6, learning goal 2-6>>)
 ** Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
 // end::EN[]
