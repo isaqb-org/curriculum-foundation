@@ -1,43 +1,107 @@
 // tag::DE[]
 
 [[LZ-2-6]]
-==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1)
-Softwarearchitekt:innen können die folgenden Entwurfsprinzipien erläutern und anwenden:
+==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1-R3)
 
-* Abstraktion
-* Modularisierung, unter Berücksichtigung von:
-** Geheimnisprinzip (_Information Hiding_) und Kapselung
-** Trennung von Verantwortlichkeiten (_Separation of Concerns_)
-** Hoher Kohäsion
-* Single-Responsibility-Prinzip
-* Offen-Geschlossen-Prinzip (_Open-/Closed-Principle_)
-* möglichst lose, aber funktional ausreichende Kopplung der Bausteine (siehe auch <<LZ-2-7,LZ 2-7>>)
-* Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen (_Dependency Inversion_) 
-* konzeptioneller Integrität zur Erreichung der Gleichförmigkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme (R2)
+Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind. 
+Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)
 
-Softwarearchitekt:innen verstehen die Einflüsse der Entwurfsprinzipien auf Quellcode und können diese gezielt einsetzen.
+Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten Prinzip abhängt, sind Softwarearchitekt:innen in der Lage:
+
+* die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren.
+* zu erklären, wie diese Prinzipien angewendet werden sollen.
+* darzulegen, wie Qualitätsanforderungen die Anwendung dieser Prinzipien beeinflussen.
+* die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern.
+* Quellcode- und Architekturentwürfe zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten.
+
+
+**Abstraktion** (R1)
+
+* im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen.
+* als ein Enwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen.
+* Schnittstellen als Abstraktionen
+
+
+**Modularisierung** (R1)
+
+* Geheimnisprinzip (Information Hiding) und Kapselung (R1)
+* Trennung von Verantwortlichkeiten (Separation of Concerns - SoC) (R1)
+* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen, siehe LG 2-7
+* Hohe Kohäsion (R1)
+* SOLID-Prinzipien (R1-R3), soweit sie auf architektonischer Ebene von Relevanz sind:
+** S: Single-Responsibility-Prinzip (R1) und seine Beziehung zu SoC
+** O: Offen/geschlossen-Prinzip (R1)
+** L: Liskovsches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
+** I: Interface-Segregation-Prinzip (R2) und seine Beziehung zu <<lg-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
+** D: Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten (R1) durch Schnittstellen oder ähnlichen Abstraktionen
+
+**Konzeptionelle Integrität** (R2)
+
+* um Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen. (R2)
+* als ein Mittel zur Umsetzung des Prinzips der geringsten Überraschung (principle of least surprise). (R3)
+
+
+**Einfachheit** (R1)
+
+* als Mittel zur Verringerung von Komplexität (R1)
+* als Motiv der Prinzipien KISS (R1) und YAGNI (R2)
+
+
+**Erwartete Fehler** (R1-R2)
+
+* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
+* als eine Verallgemeinerung des Robustheitsgrundsatzes (Postel's law) (R2)
 
 // end::DE[]
 
 // tag::EN[]
 
 [[LG-2-6]]
-==== LG 2-6: Explain and use design principles (R1)
-Software architects are able to explain and apply the following design principles:
+==== LG 2-6: Explain and use design principles (R1-R3)
+Software architects are able to explain what design principles are. 
+They can outline their general objectives and applications with regard to software architecture. (R2)
 
-* Abstraction
-* Modularization, with regard to:
-** information hiding and encapsulation
-** separation of concerns
-** high cohesion
-* Single-Responsibility
-* Open/closed principle
-* Loose, but functionally sufficient coupling of building blocks (cf. <<LG-2-7, LG 2-7>>)
-* Dependency inversion by means of interfaces or similar abstractions
-* Conceptual integrity to achieve uniformity (homogeneity, consistency) of solutions for similar problems (R2)
+With relevance for the examination depending on the specific principle listed below, software architects are able to:
 
-Software architects understand the impact of design principles onto source code and are able to apply these appropriately.
+* explain the design principles listed below and can illustrate them with examples
+* explain how those principles are to be applied
+* explain how the quality requirements determine which principles should be applied
+* explain the impact of design principles on the implementation
+* analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 
+**Abstraction** (R1)
+
+* in the sense of a means for deriving useful generalizations.
+* as a design construct, where building blocks are dependent on the abstractions rather than depending on implementations.
+* Interfaces as abstractions
+
+**Modularization** (R1)
+
+* Information hiding and encapsulation (R1)
+* Separation of concerns - SoC (R1)
+* Loose, but functionally sufficient, coupling (R1)of building blocks, see LG 2-7
+* High cohesion (R1)
+* SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
+** S: Single responsibility principle (R1) and its relation to SoC
+** O: Open/closed principle (R1)
+** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
+** I: Interface segregation principle (R2), including its relation to <<lg-2-9, LG 2-9 "Design and define interfaces">>
+** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
+
+**Conceptual integrity** (R2)
+
+* to achieve uniformity (homogeneity, consistency) of solutions for similar problems. (R2)
+* as a means to implement the principle of least surprise. (R3)
+
+**Simplicity** (R1)
+
+* as a means to reduce complexity. (R1)
+* as the driving factor behind KISS (R1) and YAGNI (R2).
+
+**Expect Errors** (R1-R2)
+
+* as a means to design for robust and resilient systems (R1)
+* as a generalization of the robustness principle aka Postel's law (R2)
 
 // end::EN[]
 
