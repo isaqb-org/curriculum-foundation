@@ -6,13 +6,16 @@
 [bibliography]
 == {references}
 
+- [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
 - [[[archimate, Archimate]]] The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
 - [[[bass,Bass+ 2012]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 3^rd^ Edition, Addison Wesley 2012.
+- [[[brownc4,Brown]]] Simon Brown: Brown, Simon: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
 - [[[buschmanna,Buschmann+ 1996]]] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.
 - [[[buschmannb,Buschmann+ 2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
 - [[[clementseval,Clements+ 2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
 - [[[clementsdoc,Clements+ 2010]]] Paul Clements,  Felix Bachmann, Len Bass, David Garlan, David, James Ivers, Reed Little, Paulo Merson and Robert Nord. _Documenting Software Architectures: Views and Beyond_, 2nd edition, Addison Wesley, 2010
 - [[[evans,Evans 2004]]] Eric Evans: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ Addison-Wesley, 2004.
+- [[[fmc,FMC]]] Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
 - [[[fowler,Fowler 2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2003.
 - [[[gharbietal,Gharbi+ 2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
@@ -20,6 +23,7 @@
 Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java. Springer-Vieweg Verlag, 2. Auflage 2014.
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
+- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: <http://www.iso-architecture.org/ieee-1471/>
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
 - [[[lilienthal,Lilienthal 2018]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 2. Auflage, dpunkt Verlag 2018.
 - [[[martin,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
