@@ -36,6 +36,7 @@ Software architects are able to:
 
 Software architects know that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
 
+
 These factors impact:
 
 * whether written or verbal communication should be prioritized
@@ -46,6 +47,7 @@ These factors impact:
 * formal reviews and sign-off processes for documentation
 
 Software architects are aware of these factors and can adjust the documentation characteristics according to the situation.
+
 // end::EN[]
 
 // tag::REMARK[]

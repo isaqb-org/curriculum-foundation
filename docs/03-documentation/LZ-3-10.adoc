@@ -6,10 +6,10 @@
 Softwarearchitekt:innen kennen:
 
 * Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
-** ISO/IEEE-42010 (vormals 1471)
-** arc42
-** C4
-** FMC
+** ISO/IEEE-42010 (vormals 1471), siehe <<iso42010>>
+** arc42, siehe <<arc42>>
+** C4, siehe <<brownc4>>
+** FMC, siehe <<fmc>>
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
@@ -22,22 +22,15 @@ Softwarearchitekt:innen kennen:
 Software architects know:
 
 * basics of several published frameworks for the description of software architectures, for example:
-** ISO/IEEE-42010 (formerly 1471)
-** arc42
-** C4
-** FMC
+** ISO/IEEE-42010 (formerly 1471), see <<iso42010>>
+** arc42, see <<arc42>>
+** C4, see <<brownc4>>
+** FMC, see <<fmc>>
 * ideas and examples of checklists for the creation, documentation, and testing of software architectures
 * possible tools for creating and maintaining architectural documentation
 
 // end::EN[]
 
 // tag::REMARK[]
-[NOTE]
-====
-GS: (Feb 2019): please can we remove the "checklists"?
 
-GS: C4 aufgenommen (von Simon Brown)
-
-GS/RR: TOGAF entfernt
-====
 // end::REMARK[]
