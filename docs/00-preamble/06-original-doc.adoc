@@ -2,14 +2,11 @@
 // tag::DE[]
 === Aktuelle Version sowie öffentliches Repository
 
-Den aktuellen Stand dieses Dokumentes finden Sie auf der offiziellen https://isaqb-org.github.io/curriculum-foundation/[Download-Seite].
+Den aktuellen Stand dieses Dokumentes finden Sie auf der offiziellen https://isaqb-org.github.io/curriculum-foundation/[Download-Seite] unter https://isaqb-org.github.io/.
 
 Das Dokument wird in einem https://github.com/isaqb-org/curriculum-foundation[öffentlichen Repository] unter https://github.com/isaqb-org/curriculum-foundation gepflegt, alle Änderungen sind dort sichtbar. 
 
 Bitte melden Sie eventuelle Probleme in unserem https://github.com/isaqb-org/curriculum-foundation/issues[öffentlichen Issue Tracker] bei https://github.com/isaqb-org/curriculum-foundation/issues.
-
-
-
 
 
 // end::DE[]
@@ -17,7 +14,7 @@ Bitte melden Sie eventuelle Probleme in unserem https://github.com/isaqb-org/cur
 // tag::EN[]
 === Current version and public repository
 
-You find the most current version of this document on the official https://isaqb-org.github.io/curriculum-foundation/[download page].
+You find the most current version of this document on the official https://isaqb-org.github.io/curriculum-foundation/[download page] on https://isaqb-org.github.io/.
 
 The document is maintained in a https://github.com/isaqb-org/curriculum-foundation[public repository] at https://github.com/isaqb-org/curriculum-foundation, all changes and modifications are public. 
 
