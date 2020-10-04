@@ -10,8 +10,8 @@ Folgende Themen oder Konzepte sind *nicht Bestandteil des CPSA-F*:
 * Programmierung oder Programmiersprachen
 * Spezifische Vorgehensmodelle
 * Grundlagen oder Notationen der Modellierung (wie etwa UML)
-* Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., http://ireb.org, International Requirements Engineering Board)
-* Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., http://istqb.org, International Software Testing Qualification Board)
+* Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., https://ireb.org, International Requirements Engineering Board)
+* Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., https://istqb.org, International Software Testing Qualification Board)
 * Projekt- oder Produktmanagement
 * Einführung in konkrete Werkzeuge.
 
@@ -29,8 +29,8 @@ The following topics or concepts are not part of CPSA-F:
 * Programming or programming languages
 * Specific process models
 * Fundamentals of modelling notations (such as UML) or fundamentals of modelling itself
-* System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., http://ireb.org, International Requirements Engineering Board)
-* Software testing (please refer to the education and certification program by ISTQB e.V., http://istqb.org, International Software Testing Qualification Board)
+* System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., https://ireb.org, International Requirements Engineering Board)
+* Software testing (please refer to the education and certification program by ISTQB e.V., https://istqb.org, International Software Testing Qualification Board)
 * Project or product management
 * Introduction to specific software tools.
 
