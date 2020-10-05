@@ -70,7 +70,8 @@ To unify upper/lowercase within the (EN) version, we use the _Chicago manual of 
 * if and only if an item is a really long sentence which deserves a full stop, or consists of several sentences, then we use it.
 * Only then does an item start with uppercase.
 
-For the German (DE) version, we don't use punctuation at the end of bullet-list items
+For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
+
 == Release process
 
 We have a standardized release process for this document:
