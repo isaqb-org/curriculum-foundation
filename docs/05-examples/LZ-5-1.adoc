@@ -9,7 +9,6 @@ Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforde
 [[LG-5-1]]
 ==== LG 5-1: Know the relation between requirements, constraints, and solutions (R3)
 Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.
-Software architects have used at least one example to identify and understand the relationship between requirements and constraints, and the solution decisions.
 
 // end::EN[]
 
