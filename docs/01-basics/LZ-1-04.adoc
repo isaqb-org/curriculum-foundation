@@ -16,7 +16,7 @@ Hierzu zählen neben den funktionalen Anforderungen (Required Features) insbeson
 * Softwarearchitektur analysieren und bewerten, insbesondere hinsichtlich Risiken bezüglich der geforderten Qualitätsmerkmale
 * Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
 
-Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen
+Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.
 
 // end::DE[]
 
