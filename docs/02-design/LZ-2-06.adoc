@@ -8,17 +8,17 @@ Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwar
 
 Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten Prinzip abhängt, sind Softwarearchitekt:innen in der Lage:
 
-* die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren.
-* zu erklären, wie diese Prinzipien angewendet werden sollen.
-* darzulegen, wie Qualitätsanforderungen die Anwendung dieser Prinzipien beeinflussen.
-* die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern.
-* Quellcode- und Architekturentwürfe zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten.
+* die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren
+* zu erklären, wie diese Prinzipien angewendet werden sollen
+* darzulegen, wie Qualitätsanforderungen die Anwendung dieser Prinzipien beeinflussen
+* die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern
+* Quellcode- und Architekturentwürfe zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
 
 
 **Abstraktion** (R1)
 
-* im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen.
-* als ein Enwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen.
+* im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
+* als ein Enwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
 * Schnittstellen als Abstraktionen
 
 
@@ -37,8 +37,8 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 
 **Konzeptionelle Integrität** (R2)
 
-* um Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen. (R2)
-* als ein Mittel zur Umsetzung des Prinzips der geringsten Überraschung (principle of least surprise). (R3)
+* um Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
+* als ein Mittel zur Umsetzung des Prinzips der geringsten Überraschung (principle of least surprise) (R3)
 
 
 **Einfachheit** (R1)
@@ -71,16 +71,16 @@ With relevance for the examination depending on the specific principle listed be
 
 **Abstraction** (R1)
 
-* in the sense of a means for deriving useful generalizations.
-* as a design construct, where building blocks are dependent on the abstractions rather than depending on implementations.
-* Interfaces as abstractions
+* in the sense of a means for deriving useful generalizations
+* as a design construct, where building blocks are dependent on the abstractions rather than depending on implementations
+* interfaces as abstractions
 
 **Modularization** (R1)
 
-* Information hiding and encapsulation (R1)
-* Separation of concerns - SoC (R1)
-* Loose, but functionally sufficient, coupling (R1)of building blocks, see LG 2-7
-* High cohesion (R1)
+* information hiding and encapsulation (R1)
+* separation of concerns - SoC (R1)
+* loose, but functionally sufficient, coupling (R1)of building blocks, see LG 2-7
+* high cohesion (R1)
 * SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
 ** S: Single responsibility principle (R1) and its relation to SoC
 ** O: Open/closed principle (R1)
@@ -90,13 +90,13 @@ With relevance for the examination depending on the specific principle listed be
 
 **Conceptual integrity** (R2)
 
-* to achieve uniformity (homogeneity, consistency) of solutions for similar problems. (R2)
-* as a means to implement the principle of least surprise. (R3)
+* to achieve uniformity (homogeneity, consistency) of solutions for similar problems (R2)
+* as a means to implement the principle of least surprise (R3)
 
 **Simplicity** (R1)
 
-* as a means to reduce complexity. (R1)
-* as the driving factor behind KISS (R1) and YAGNI (R2).
+* as a means to reduce complexity (R1)
+* as the driving factor behind KISS (R1) and YAGNI (R2)
 
 **Expect Errors** (R1-R2)
 

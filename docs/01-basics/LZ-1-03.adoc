@@ -7,7 +7,7 @@ Softwarearchitekt:innen können Ihre Aufgaben und Ergebnisse in den gesamten Leb
 Sie können:
 
 * Konsequenzen von Änderungen bei funktionalen Anforderungen, Qualitätsanforderungen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen
-* inhaltliche Zusammenhänge zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen aufzeigen.
+* inhaltliche Zusammenhänge zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen aufzeigen
 
 // end::DE[]
 
@@ -19,7 +19,7 @@ Software architects understand their tasks and can integrate their results into 
 They can:
 
 * identify the consequences of changes in functional requirements, quality requirements, technologies, or the system environment in relation to software architecture
-* elaborate on relationships between IT-systems and the supported business and operational processes.
+* elaborate on relationships between IT-systems and the supported business and operational processes
 
 // end::EN[]
 

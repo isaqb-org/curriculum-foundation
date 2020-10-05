@@ -19,11 +19,11 @@ Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispiels
 
 Software architects know different types of IT systems, for example:
 
-* Information systems
-* Decision support, data warehouse or business intelligence systems
-* Mobile systems
-* Batch processes or systems
-* hardware-related systems; here they understand the necessity of hardware/software code design (temporal and content-related dependencies of hardware and software design).
+* information systems
+* decision support, data warehouse or business intelligence systems
+* mobile systems
+* batch processes or systems
+* hardware-related systems; here they understand the necessity of hardware/software code design (temporal and content-related dependencies of hardware and software design)
 
 // end::EN[]
 

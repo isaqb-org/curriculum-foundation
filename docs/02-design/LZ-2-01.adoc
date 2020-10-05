@@ -21,15 +21,15 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 ==== LG 2-1: Select and use approaches and heuristics for architecture development (R1,R3)
 Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
 
-* Top-down and bottom-up approaches to design (R1)
-* View-based architecture development (R1)
-* Iterative and incremental design (R1)
-** Necessity of iterations, especially when decision-making is affected by uncertainties (R1)
-** Necessity of feedback on design decisions (R1)
-* Domain-Driven Design, see <<evans>> (R3)
-* Evolutionary Architektur, see <<ford>> (R3)
-* Global Analysis, see <<hofmeister>> (R3) 
-* Model-driven architecture (R3)
+* top-down and bottom-up approaches to design (R1)
+* view-based architecture development (R1)
+* iterative and incremental design (R1)
+** necessity of iterations, especially when decision-making is affected by uncertainties (R1)
+** necessity of feedback on design decisions (R1)
+* domain-Driven Design, see <<evans>> (R3)
+* evolutionary Architektur, see <<ford>> (R3)
+* global Analysis, see <<hofmeister>> (R3) 
+* model-driven architecture (R3)
 
 // end::EN[]
 

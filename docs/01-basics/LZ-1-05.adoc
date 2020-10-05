@@ -21,14 +21,14 @@ Softwarearchitekt:innen können ihre Rolle erklären und ihren Beitrag zur Syste
 Software architects are able to explain their role.
 They should adapt their contribution to a software development in a specific context and in relation to other stakeholders, in particular to:
 
-* Requirements analysis (system analysis, requirements management, business department and subject-matter experts)
-* Implementation
-* Project lead and management
-* Product management, product owner
-* Quality assurance
+* requirements analysis (system analysis, requirements management, business department and subject-matter experts)
+* implementation
+* project lead and management
+* product management, product owner
+* quality assurance
 * IT operations (production, data centers), applies primarily to information systems
-* Hardware development
-* Enterprise architecture, architecture board.
+* hardware development
+* enterprise architecture, architecture board.
 
 // end::EN[]
 

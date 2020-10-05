@@ -7,10 +7,10 @@ Softwarearchitekt:innen können folgende wesentlichen Ziele von Softwarearchitek
 
 Softwarearchitektur zielt darauf ab: 
 
-* Entwurf, Implementierung, Pflege und Betrieb von Systemen zu unterstützen,
-* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen,
-* funktionale Anforderungen zu erreichen bzw. deren Erfüllbarkeit sicherzustellen,
-* Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder,
+* Entwurf, Implementierung, Pflege und Betrieb von Systemen zu unterstützen
+* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen
+* funktionale Anforderungen zu erreichen bzw. deren Erfüllbarkeit sicherzustellen
+* Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder
 * systematisch Komplexität zu reduzieren 
 * architekturrelevante Richtlinien für Implementierung und Betrieb zu spezifizieren
 

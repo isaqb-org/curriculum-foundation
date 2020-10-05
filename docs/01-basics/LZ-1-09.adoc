@@ -11,7 +11,7 @@ Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beis
 * Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen
 * Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten
 * Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme).
+* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
 
 Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
 
@@ -25,11 +25,11 @@ The focus of the iSAQB CPSA Foundation Level is on structures and concepts of in
 
 In addition, software architects are familiar with other architectural domains, for example:
 
-* Enterprise IT architecture: Structure of application landscapes
-* Business and Process Architecture: Structure of, among other things, business processes
-* Information architecture: cross-system structure and use of information and data
-* Infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
-* Hardware or processor architecture (for hardware-related systems).
+* enterprise IT architecture: Structure of application landscapes
+* business and Process Architecture: Structure of, among other things, business processes
+* information architecture: cross-system structure and use of information and data
+* infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
+* hardware or processor architecture (for hardware-related systems)
 
 These architectural domains are not the content focus of CPSA-F.
 // end::EN[]

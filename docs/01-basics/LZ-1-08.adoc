@@ -6,7 +6,7 @@
 Softwarearchitekt:innen: 
 
 * können Annahmen oder Voraussetzungen explizit darstellen und vermeiden implizite Annahmen
-* wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken.
+* wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken
 
 // end::DE[]
 
@@ -17,7 +17,7 @@ Softwarearchitekt:innen:
 Software architects: 
 
 * should explicitly present assumptions or prerequisites and avoid implicit assumptions
-* know that implicit assumptions can lead to potential misunderstandings between stakeholders.
+* know that implicit assumptions can lead to potential misunderstandings between stakeholders
 
 // end::EN[]
 

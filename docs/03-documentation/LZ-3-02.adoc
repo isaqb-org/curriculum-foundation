@@ -32,7 +32,7 @@ Software architects are able to:
 
 * document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
 * consolidate and harmonise the style and content of contributions from different groups of authors
-* know the benefits of template-based documentation.
+* know the benefits of template-based documentation
 
 Software architects know that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
 

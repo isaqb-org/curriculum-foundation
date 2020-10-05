@@ -25,10 +25,10 @@ They know that:
 
 * quantitative evaluation can help to identify critical parts within systems
 * further information can be helpful for the evaluation of architectures, for example:
-** Requirements and architecture documentation
+** requirements and architecture documentation
 ** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
 ** known errors in source code, especially error clusters
-** Test cases and test results.
+** test cases and test results.
 
 // end::EN[]
 
