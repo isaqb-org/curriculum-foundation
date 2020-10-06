@@ -12,7 +12,7 @@ Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme zur Notation vo
 
 Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 
-* ArchiMate 
+* ArchiMate, siehe <<archimate>> 
 * für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
 
 // end::DE[]
@@ -30,7 +30,7 @@ Software architects know at least the following UML diagrams to describe archite
 
 Software architects know alternative notations to UML diagrams, for example: (R3)
 
-* Archimate
+* Archimate, see <<archimate>>
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]
