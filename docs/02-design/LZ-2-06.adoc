@@ -79,13 +79,13 @@ With relevance for the examination depending on the specific principle listed be
 
 * information hiding and encapsulation (R1)
 * separation of concerns - SoC (R1)
-* loose, but functionally sufficient, coupling (R1) of building blocks, see <<lg-2-7,LG 2-7>>
+* loose, but functionally sufficient, coupling (R1) of building blocks, see <<LZ-2-7, LG 2-7>>
 * high cohesion (R1)
 * SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
 ** S: Single responsibility principle (R1) and its relation to SoC
 ** O: Open/closed principle (R1)
 ** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
-** I: Interface segregation principle (R2), including its relation to <<lg-2-9, LG 2-9>>
+** I: Interface segregation principle (R2), including its relation to <<LZ-2-9, LG 2-9>>
 ** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
