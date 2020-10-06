@@ -9,8 +9,8 @@ Sie:
 * kennen unterschiedliche Arten der Abhängigkeiten von Bausteinen (beispielsweise strukturelle Kopplung über Benutzung/Delegation, Schachtelung, Besitz, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Datentypen oder über Hardware)
 * können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen
 * kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
-** Muster (siehe <<LZ-2-5,Lernziel 2-5>>)
-** Grundlegende Entwurfsprinzipien (siehe <<LZ-2-6,Lernziel 2-6>>)
+** Muster (siehe <<LZ-2-5, LZ 2-5>>)
+** Grundlegende Entwurfsprinzipien (siehe <<LZ-2-6, LZ 2-6>>)
 ** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von _Dependency Injection_.
 
 
@@ -25,8 +25,8 @@ Software architects understand dependencies and coupling between building blocks
 * know different types of dependencies of building blocks (e.g. structural coupling via use/delegation, nesting, ownership, generation, inheritance, temporal coupling, coupling via data types or via hardware)
 * can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * know and can apply possibilities to reduce or eliminate coupling, for example:
-** Patterns (see <<LG-2-5, learning goal 2-5>>)
-** Fundamental design principles (see <<LG-2-6, learning goal 2-6>>)
+** Patterns (see <<LG-2-5, LG 2-5>>)
+** Fundamental design principles (see <<LG-2-6, LG 2-6>>)
 ** Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
 // end::EN[]
