@@ -75,17 +75,17 @@ With relevance for the examination depending on the specific principle listed be
 * as a design construct, where building blocks are dependent on the abstractions rather than depending on implementations
 * interfaces as abstractions
 
-**Modularization** (R1)
+**Modularization** (R1-R3)
 
 * information hiding and encapsulation (R1)
 * separation of concerns - SoC (R1)
-* loose, but functionally sufficient, coupling (R1)of building blocks, see LG 2-7
+* loose, but functionally sufficient, coupling (R1) of building blocks, see <<lg-2-7,LG 2-7>>
 * high cohesion (R1)
 * SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
 ** S: Single responsibility principle (R1) and its relation to SoC
 ** O: Open/closed principle (R1)
 ** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
-** I: Interface segregation principle (R2), including its relation to <<lg-2-9, LG 2-9 "Design and define interfaces">>
+** I: Interface segregation principle (R2), including its relation to <<lg-2-9, LG 2-9>>
 ** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
@@ -93,7 +93,7 @@ With relevance for the examination depending on the specific principle listed be
 * to achieve uniformity (homogeneity, consistency) of solutions for similar problems (R2)
 * as a means to implement the principle of least surprise (R3)
 
-**Simplicity** (R1)
+**Simplicity** (R1-R2)
 
 * as a means to reduce complexity (R1)
 * as the driving factor behind KISS (R1) and YAGNI (R2)
