@@ -67,7 +67,7 @@ Software architects know:
 Software architects can explain and provide examples for the following patterns (R1):
 
 * Layers:  
-** Abstraction layers" hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
+** Abstraction layers hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
 ** Another interpretation are Layers to (physically) separate functionality or responsibility, see https://en.wikipedia.org/wiki/Multitier_architecture
 
 * Pipes-and-Filter: Representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filter") and associated data transport/buffering capabilities ("Pipes").
