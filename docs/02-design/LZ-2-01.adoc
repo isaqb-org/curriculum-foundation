@@ -27,7 +27,7 @@ Software architects are able to name, explain, and use fundamental approaches of
 ** necessity of iterations, especially when decision-making is affected by uncertainties (R1)
 ** necessity of feedback on design decisions (R1)
 * domain-Driven Design, see <<evans>> (R3)
-* evolutionary Architektur, see <<ford>> (R3)
+* evolutionary architecture, see <<ford>> (R3)
 * global Analysis, see <<hofmeister>> (R3) 
 * model-driven architecture (R3)
 
