@@ -8,7 +8,7 @@ Softwarearchitekt:innen können:
 * Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren
 * gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren
 
-Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<adr>>) und können diese zur Dokumentation von Entscheidungen einsetzen.
+Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<adr>>) und können diese zur Dokumentation von Entscheidungen einsetzen (R2).
 // end::DE[]
 
 // tag::EN[]
@@ -20,7 +20,7 @@ Software architects are able to:
 * systematically take, justify, communicate, and document architectural decisions
 * identify, communicate, and document interdependencies between design decisions
 
-Software architects know about Architecture-Decision-Records (ADR, see <<adr>>) and can apply these to document decisions.
+Software architects know about Architecture-Decision-Records (ADR, see <<adr>>) and can apply these to document decisions (R2).
 
 // end::EN[]
 
