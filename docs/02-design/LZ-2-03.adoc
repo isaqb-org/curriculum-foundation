@@ -8,19 +8,19 @@ Sie verstehen, dass ihre Entscheidungen weitere Anforderungen und Einschränkung
 
 Sie erkennen und berücksichtigen den Einfluss von:
 
-* **produktbezogenen** Faktoren wie (R1)
+* produktbezogenen Faktoren wie (R1)
 ** funktionale Anforderungen 
 ** Qualitätsanforderungen und Qualitätsziele
 ** zusätzliche Faktoren wie Produktkosten, beabsichtigtes Lizenzmodell oder Geschäftsmodell des Systems
 
-* **technischen** Faktoren wie (R1-R3)
+* technischen Faktoren wie (R1-R3)
 ** extern beauftragte technische Entscheidungen und Konzepte (R1)
 ** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
 ** technologische Beschränkungen für Datenstrukturen und Schnittstellen (R2)
 ** Referenzarchitekturen, Bibliotheken, Komponenten und Frameworks (R1)
 ** Programmiersprachen (R3)
 
-* **organisatorischen** Faktoren wie
+* organisatorischen Faktoren wie
 ** Organisationsstruktur des Entwicklungsteams und des Kunden (R1)
 ** Unternehmens- und Teamkultur (R3)
 ** Partnerschaften und Kooperationen (R2)
@@ -28,13 +28,13 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Verfügbarkeit von Ressourcen wie Budget, Zeit und Personal (R1)
 ** Verfügbarkeit, Qualifikation und Engagement von Mitarbeitenden (R1)
 
-* **regulatorischen** Faktoren wie (R2)
+* regulatorischen Faktoren wie (R2)
 ** lokale und internationale rechtliche Einschränkungen
 ** Vertrags- und Haftungsfragen
 ** Datenschutzgesetze und Gesetze zum Schutz der Privatsphäre
 ** Fragen der Einhaltung oder Verpflichtungen zur Beweislast
 
-* **Trends** wie (R3)
+* Trends wie (R3)
 ** Markttrends
 ** Technologietrends (z.B. Blockchain, Microservices)
 ** Methodik-Trends (z.B. agil)
