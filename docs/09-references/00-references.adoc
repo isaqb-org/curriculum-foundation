@@ -18,8 +18,8 @@
 - [[[fmc,FMC]]] Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
 - [[[fowler,Fowler 2003]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2003.
-- [[[gharbietal,Gharbi+ 2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
-- [[[gof,Gamma+ 94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
+- [[[gharbietal,Gharbi+2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
+- [[[gof,Gamma+94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns:
 Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java. Springer-Vieweg Verlag, 2. Auflage 2014.
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
@@ -33,5 +33,6 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[nygard,Nygard 2020]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/> 
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
+- [[[distributedsystems,vanSteen+Tanenbaum]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>.
 - [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
 - [[[zoerner,Zörner 2015]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 2. Auflage, Carl Hanser Verlag 2015.
