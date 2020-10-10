@@ -80,7 +80,7 @@ Software architects can explain several of the following patterns, explain their
 * Blackboard: handle problems that cannot be solved by deterministic algorithms but require diverse knowledge
 * Broker:  responsible for coordinating communication between provider(s) and consumer(s), applied in distributed systems. Responsible for forwarding requests and/or transmitting results and exceptions
 * Combinator (synonym: closure of operations), for domain object of type T, look for operations with both input and output type T. See <<yorgey>>
-* CQRS (Command-Query-Responsibility-Segregation): An architectural element responsible for coordinating communication between provider(s) and consumer(s), applied in distributed systems. Separation of read-and-write concerns in information systems. Requires some context on database-/persistence technology to understand the different properties and requirements of "read" versus "write" operations
+* CQRS (Command-Query-Responsibility-Segregation): Separates read- from write concerns in information systems. Requires some context on database-/persistence technology to understand the different properties and requirements of "read" versus "write" operations
 * Event-Sourcing:  handle operations on data by a sequence of events, each of which is recorded in an append-only store
 * Interpreter: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself
 * Integration and messaging patterns (e.g. from Hohpe+2004])
