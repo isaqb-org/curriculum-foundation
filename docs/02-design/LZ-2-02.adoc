@@ -24,7 +24,7 @@ Softwarearchitekt:innen können:
 Software architects are able to:
 
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
-* make structure-relevant decisions regarding system decomposition and building block structure and deliberately design dependencies between building blocks
+* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks
 * recognize and justify interdependencies and trade-offs of design decisions
 * explain the terms _black box_ and _white box_ and apply them purposefully
 * apply stepwise refinement and specify building blocks
