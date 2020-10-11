@@ -28,7 +28,7 @@ Software architects are able to:
 * recognize and justify interdependencies and trade-offs of design decisions
 * explain the terms _black box_ and _white box_ and apply them purposefully
 * apply stepwise refinement and specify building blocks
-* design architecture views, especially building block view, runtime view and deployment view
+* design architecture views, especially building-block view, runtime view and deployment view
 * explain the consequences of these decisions on the corresponding source code
 * separate technical and domain-related elements of architectures and justify these decisions
 * identify risks related to architecture decisions.
@@ -39,6 +39,7 @@ Software architects are able to:
 
 [NOTE]
 ====
+* RR: (Oct 2020): added hyphen when using "building block" as an adjective
 * GS (May 2019): fixed typo in "Effizienz" (DE)
 * GS (April 2019): fixed https://github.com/isaqb-org/curriculum-foundation/issues/14[issue 14] by adjusting translation.
 * GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
