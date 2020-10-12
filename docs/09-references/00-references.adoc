@@ -36,7 +36,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[nygard,Nygard 2020]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/> 
 - [[[pethuru,Pethuru 2017]]] Architectural Patterns. Packt 2017. ISBN 9781787287495
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
-- [[[starke,Starke 2013]]] Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). Springer Verlag 2013. ISBN 9783662579367
+- [[[eilebrecht,Eilebrecht+2019]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 5th Edition Springer Verlag 2019.
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 - [[[distributedsystems,vanSteen+Tanenbaum]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>.
 - [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
