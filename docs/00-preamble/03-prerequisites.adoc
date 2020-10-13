@@ -51,7 +51,7 @@ In particular, substantial practical experience from software development in a t
 
 * Basic knowledge of:
 ** modelling and abstraction
-** algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary, Map)
+** algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary/Map)
 ** UML (class, package, component and sequence diagrams) and their relation to source code
 
 
