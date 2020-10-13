@@ -2,13 +2,14 @@
 // tag::DE[]
 [[LZ-1-5]]
 ==== LZ 1-5: Rolle von Softwarearchitekt:innen in Beziehung zu anderen Stakeholdern setzen (R1)
-Softwarearchitekt:innen können ihre Rolle erklären und ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern kontextspezifisch ausgestalten, insbesondere zu:
+Softwarearchitekt:innen können ihre Rolle erklären. 
+Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:
 
-* Anforderungsanalyse (Systemanalyse, Anforderungsmanagement, Fachbereich)
-* Implementierung
-* Projektleitung und -management
 * Produktmanagement, Product-Owner
-* Qualitätssicherung
+* Projektleitung und -management
+* Anforderungsanalytiker:innen (System-/Businessanalyse, Anforderungsmanagement, Fachbereich)
+* Entwicklung
+* Qualitätssicherung und Test
 * IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
 * Hardwareentwicklung
 * Unternehmensarchitektur, Architekturboard.
@@ -18,17 +19,18 @@ Softwarearchitekt:innen können ihre Rolle erklären und ihren Beitrag zur Syste
 // tag::EN[]
 [[LG-1-5]]
 ==== LG 1-5: Relate the role of software architects to other stakeholders (R1)
-Software architects are able to explain their role.
-They should adapt their contribution to a software development in a specific context and in relation to other stakeholders, in particular to:
+Software architects are able to explain their role. 
+They should adapt their contribution to a software
+development in a specific context and in relation to other stakeholders and organizational units, in particular to:
 
-* requirements analysis (system analysis, requirements management, business department and subject-matter experts)
-* implementation
-* project lead and management
-* product management, product owner
-* quality assurance
-* IT operations (production, data centers), applies primarily to information systems
-* hardware development
-* enterprise architecture, architecture board.
+* product management and product owners
+* project managers
+* requirement engineers (requirements- or business analysts, requirements managers, system analysts, business owners, subject-matter experts, etc.)
+* developers
+* quality assurance and testers
+* IT operators and administrators (applies primarily to production environment or data centers for information systems),
+* hardware developers
+* enterprise architects and architecture board members
 
 // end::EN[]
 
