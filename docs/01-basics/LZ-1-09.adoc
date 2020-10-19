@@ -26,7 +26,7 @@ The focus of the iSAQB CPSA Foundation Level is on structures and concepts of in
 In addition, software architects are familiar with other architectural domains, for example:
 
 * enterprise IT architecture: Structure of application landscapes
-* business and Process Architecture: Structure of, among other things, business processes
+* business and process architecture: Structure of, among other things, business processes
 * information architecture: cross-system structure and use of information and data
 * infrastructure or technology architecture: Structure of the technical infrastructure, hardware, networks, etc.
 * hardware or processor architecture (for hardware-related systems)
