@@ -2,7 +2,7 @@
 // tag::BIB_REFS[] 
 === {references}
 
-<<arc42>>, <<archimate>>, <<bass>>, <<brown>>, <<clementsdoc>>, <<fmc>>, <<gharbietal>>, <<starke>>, <<uml>>, <<zoerner>>
+<<arc42>>, <<archimate>>, <<bass>>, <<brown>>, <<clementsdoc>>, <<fmc>>, <<gharbietal>>, <<nygard>>, <<starke>>, <<uml>>, <<zoerner>>
 
 // end::BIB_REFS[] 
 

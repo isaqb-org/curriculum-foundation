@@ -33,7 +33,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[martin17,Martin 2017]]] Robert Martin. Clean Architecture: A craftsman’s guide to software structure and design. MITP, 
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
 - [[[newman,Newman 2015]]] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O'Reilly. 2015. ISBN 9781491950357.
-- [[[nygard,Nygard 2020]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/> 
+- [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/> 
 - [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017. 
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 - [[[eilebrecht,Eilebrecht+2019]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 5th Edition Springer Verlag 2019.
