@@ -47,7 +47,7 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 * als Motiv der Prinzipien KISS (R1) und YAGNI (R2)
 
 
-**Erwartete Fehler** (R1-R2)
+**Erwarte Fehler** (R1-R2)
 
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (Postel's law) (R2)
