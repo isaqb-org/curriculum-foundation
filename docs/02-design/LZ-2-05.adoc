@@ -15,17 +15,17 @@ Sie wissen (R3):
 
 Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele dafür liefern (R1):
 
-* Schicht (Layers):  
+* Schicht (Layers):
 ** Abstraktionsschichten (Abstraction layers) verbergen Details, Beispiel: ISO/OSI-Netzwerkschichten oder "Hardware-Abstraktionsschicht". Siehe <https://en.wikipedia.org/wiki/Hardware_abstraction>.
 ** Eine andere Interpretation sind Schichten zur (physischen) Trennung von Funktionalität oder Verantwortung, siehe <https://en.wikipedia.org/wiki/Multitier_architecture>.
 
 * Pipes-and-Filter: Repräsentativ für Datenflussmuster, die die schrittweise Verarbeitung in eine Reihe von Verarbeitungsaktivitäten ("Filter") und zugehörige Transport/Puffer ("Pipes") separieren.
-* Microservices (auch bekannt als Self-Contained-Systems), teilen Anwendungen in separate ausführbare Diensteauf, die über Netzwerk (remote) kommunizieren.
-* Dependency Injection als eine mögliche Lösung für das Dependency-Inversion-Prinzip 
+* Microservices teilen Anwendungen in separate ausführbare Diensteauf, die über Netzwerk (remote) kommunizieren.
+* Dependency Injection als eine mögliche Lösung für das Dependency-Inversion-Prinzip
 
 
 Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
- 
+
 * Blackboard: Behandlung von Problemen, die nicht durch deterministische Algorithmen lösbar sind, sondern vielfältiges Wissen erfordern.
 * Broker: verantwortlich für die Koordination der Kommunikation zwischen Anbieter(n) und Verbraucher(n), angewandt in verteilten Systemen. Verantwortlich für die Weiterleitung von Anfragen und/oder die Übermittlung von Ergebnissen, Fehlern und Ausnahmen.
 * Kombinator (Synonym: Closure of Operations), für Domänenobjekte vom Typ T, suchen Sie nach Operationen sowohl mit Input- als auch Output-Typ T. Siehe <<yorgey>>
@@ -34,15 +34,15 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * Interpreter: repräsentieren Domänenobjekt oder DSL als Syntax, bieten eine Funktion, die eine semantische Interpretation des Domänenobjekts getrennt vom Domänenobjekt selbst implementiert.
 * Integrations- oder Messaging-Patterns (z.B. aus Hohpe+2004])
 * Die MVC-, MVVM-, MV-Update-, PAC-Musterfamilie, die die externe Repräsentation (Ansicht) von Daten von Operationen Diensten und deren Koordination trennt .
-* Schnittstellenmuster wie Adapter, Fassade, Proxy. Solche Muster helfen bei der Integration von Subsystemen und/oder bei der Vereinfachung von Abhängigkeiten. Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können. 
-** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt. 
+* Schnittstellenmuster wie Adapter, Fassade, Proxy. Solche Muster helfen bei der Integration von Subsystemen und/oder bei der Vereinfachung von Abhängigkeiten. Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können.
+** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt.
 ** Fassade: vereinfacht die Verwendung eines Providers für den/die Consumer durch vereinfachten Zugriff.
 ** Proxy: Ein Vermittler/Stellvertreter zwischen Consumer und Provider, der beispielsweise die zeitliche Entkopplung, das Caching von Ergebnissen oder die Zugriffkontrolle auf den Provider ermöglicht.
 * Observer (Beobachter): ein Produzent von Werten benachrichtigt eine zentrale Vermittlungsstelle, bei der sich Interessenten (Consumer) registrieren können, um über Änderungen benachrichtigt zu werden.
 * Plug-In: erweitert das Verhalten einer Komponente.
 * Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von aussen nach innen (Outside-In), niemals von innen nach aussen (Inside-Out).
 * Remote Procedure Call: eine Funktion oder einen Algorithmus in einem anderen Adressraum ausführen lassen.
-* SOA: Service-orientierte Architektur. Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern. 
+* SOA: Service-orientierte Architektur. Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern.
 * Template und Strategy: spezifische Algorithmen durch Kapselung flexibel machen.
 * Visitor (Besucher): Traversierung von Datenstrukturen von spezifischer Verarbeitung trennen.
 
@@ -66,13 +66,13 @@ Software architects know:
 
 Software architects can explain and provide examples for the following patterns (R1):
 
-* Layers:  
+* Layers:
 ** Abstraction layers hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
 ** Another interpretation are Layers to (physically) separate functionality or responsibility, see https://en.wikipedia.org/wiki/Multitier_architecture
 
 * Pipes-and-Filter: Representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filter") and associated data transport/buffering capabilities ("Pipes").
-* Microservices (aka Self-Contained-Systems), split application into separate executable that communicate via network
-* Dependency Injection as a possible solution for the Dependency-Inversion-Principle 
+* Microservices split application into separate executable that communicate via network
+* Dependency Injection as a possible solution for the Dependency-Inversion-Principle
 
 
 Software architects can explain several of the following patterns, explain their relevance for concrete systems, and provide examples. (R3)
