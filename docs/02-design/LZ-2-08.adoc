@@ -12,7 +12,7 @@ Softwarearchitekt:innen kennen und berücksichtigen den starken Einfluss von Qua
 
 Sie können:
 
-* Lösungsmöglichkeiten, _Design Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden
+* Lösungsmöglichkeiten, _Architectural Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden
 * mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten sowie die entsprechenden Risiken identifizieren und kommunizieren.
 
 // end::DE[]
@@ -30,7 +30,7 @@ Software architects understand and consider the considerable influence of qualit
 
 They can:
 
-* explain and apply solution options, _Design Tactics_, suitable practices as well as technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems)
+* explain and apply solution options, _Architectural Tactics_, suitable practices as well as technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems)
 * identify and communicate possible trade-offs between such solutions and their associated risks
 
 
