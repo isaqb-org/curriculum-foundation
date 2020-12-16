@@ -21,6 +21,11 @@ ext {
 
   // read document version from file "document.version"
   project.version = project.file("./document.version").text
+
+  validity = new Date(project.file("./document.validity").text.trim())
+  validityEnglish = "valid from " + new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(validity)
+  validityGerman = "Gültig ab " + new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(validity)
+
   curriculumBaseName = "curriculum-foundation"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
@@ -34,7 +39,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumBaseName, String versionDate, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumBaseName, String versionDate, String validity, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
@@ -54,7 +59,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'currentDate'      : versionDate,
       'language'         : language,
       'withRemarks'      : withRemarks,
-      'document-version' : fileVersion + "-" + versionDate,
+      'document-version' : fileVersion + "-" + versionDate + " (" + validity + ")",
       'debug_adoc'       : false,
       'pdf-stylesdir'    : '../pdf-theme/themes',
       'pdf-fontsdir'     : '../pdf-theme/fonts',
@@ -73,7 +78,7 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, "DE", false]) {
+    constructorArgs: [curriculumBaseName, versionDate, validityGerman,  "DE", false]) {
   group 'Documentation'
   description 'Builds the German curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -82,7 +87,7 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, "EN", false]) {
+    constructorArgs: [curriculumBaseName, versionDate, validityEnglish, "EN", false]) {
   group 'Documentation'
   description 'Builds the English curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -91,7 +96,7 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
 }
 
 task renderWithRemarksDE_EN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, "DE;EN", true]) {
+    constructorArgs: [curriculumBaseName, versionDate, validityEnglish, "DE;EN", true]) {
   group 'Documentation'
   description 'Builds both the German and the English curricula as PDF and HTML files, with remarks. Those files are for internal use only.'
   doLast {
