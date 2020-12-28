@@ -52,7 +52,7 @@ jobs:
       if: startsWith(github.ref, 'refs/tags/')
       run: |
         rm -rf ./build/tmp
-        cp ./docs-ext/curriculum-*.pdf ./build
+        cp ./docs-ext/curriculum-*.pdf ./build 2>/dev/null || :
         zip -r release.zip ./build
     - name: Upload Release Files
       if: startsWith(github.ref, 'refs/tags/')
