@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: CI - Releases and Master
 
 # Controls when the action will run. Triggers the workflow on push or pull request 
 # events but only for the master branch
@@ -37,7 +37,7 @@ jobs:
     # do the following two things only for a release!
     - name: Set Environment Variables for Release Version
       if: startsWith(github.ref, 'refs/tags/')
-      run: echo ::set-env name=RELEASE_VERSION::${GITHUB_REF:10}
+      run: echo "RELEASE_VERSION=${GITHUB_REF:10}" >> $GITHUB_ENV
     - name: Create New Release
       if: startsWith(github.ref, 'refs/tags/')
       id: create_release
@@ -53,7 +53,7 @@ jobs:
       if: startsWith(github.ref, 'refs/tags/')
       run: |
         rm -rf ./build/tmp
-        cp ./docs-ext/curriculum-*.pdf ./build
+        cp ./docs-ext/curriculum-*.pdf ./build 2>/dev/null || :
         zip -r release.zip ./build
     - name: Deploy
       if: startsWith(github.ref, 'refs/tags/')
