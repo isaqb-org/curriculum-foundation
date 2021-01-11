@@ -34,6 +34,18 @@ RC3 up to RC7 fixed a few typos and formatting issues as well as slight changes 
 * LG 2-7 add messaging/events to coupling types
 * LG 2-8 changed wording from “design tactics” to “architectural tactics”
 
+== Changelog for RC3 and RC4 Nov 6^th^, 2020 (curated)
+For the complete changelog, see the git commit history.
+The numbers (like #196) refer to the GitHub issues. RC3 and RC4 fix a few typos and weaknesses/omissions in formulations of LGs.
+RC4 will be the last release candidate prior to finalization
+
+=== Substantial changes:
+• LG 2-5 removed “Self-contained systems” from microservice pattern, as these two are not the same thing, #204
+• LG 2-6 fixed translation of “expect errors”, #202
+• LG 2-6 rephrased “conceptual integrity”, #202
+• LG 2-7 added “messaging/events” to list of coupling types, #201
+
+
 == Changelog for RC2 Oct 19^th^, 2020 (curated)
 === Substantial Changes:
 * LG 2-6 fixed several wrong relevance-levels on sub-learning-goal headings
@@ -74,7 +86,6 @@ Better indication which method has which exam relevance
 * In all sections "Important terms" at the beginning of each curriculum section, numerous terms are missing the hyperlinks into the iSAQB glossary.
 * On macOS, the hyperlinks to the iSAQB glossary within PDF documents fail in the standard "Preview" app. Firefox and AcrobatReader work fine. See https://github.com/isaqb-org/curriculum-foundation/issues/189
 * For an overview of past and ongoing work, see our public Kanban-board on https://github.com/isaqb-org/curriculum-foundation/projects/3.
-International Software Architecture Qualification Board Readme for 2021.1.rc2-20201008 Web: www.isaqb.org / E-Mail: info@isaqb.org
 
 - - -
 
