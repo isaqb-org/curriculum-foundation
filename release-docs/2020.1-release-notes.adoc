@@ -28,7 +28,7 @@ More than 130 GitHub issues were raised and handled in more than 350 commits for
 
 == Changelog for RC7, Dec 18^th^, 2020 (curated)
 For the complete changelog, see the git commit history. The numbers (like #196) refer to the GitHub issues.
-RC3 up to RC7 fixed a few typos and formatting issues as well as slight changes in wording.
+RC5 up to RC7 fixed a few typos and formatting issues as well as slight changes in wording.
 * fixed several translation issues between DE and EN versions
 * fixed numerous cross-references and hyperlinks
 * LG 2-7 add messaging/events to coupling types
@@ -40,27 +40,27 @@ The numbers (like #196) refer to the GitHub issues. RC3 and RC4 fix a few typos 
 RC4 will be the last release candidate prior to finalization
 
 === Substantial changes:
-• LG 2-5 removed “Self-contained systems” from microservice pattern, as these two are not the same thing, #204
-• LG 2-6 fixed translation of “expect errors”, #202
-• LG 2-6 rephrased “conceptual integrity”, #202
-• LG 2-7 added “messaging/events” to list of coupling types, #201
+• LG 2-5 removed “Self-contained systems” from microservice pattern, as these two are not the same thing, https://github.com/isaqb-org/curriculum-foundation/issues/204[#204]
+• LG 2-6 fixed translation of “expect errors”, https://github.com/isaqb-org/curriculum-foundation/issues/202[#202]
+• LG 2-6 rephrased “conceptual integrity”, https://github.com/isaqb-org/curriculum-foundation/issues/202[#202]
+• LG 2-7 added “messaging/events” to list of coupling types, https://github.com/isaqb-org/curriculum-foundation/issues/201[#201]
 
 
 == Changelog for RC2 Oct 19^th^, 2020 (curated)
 === Substantial Changes:
 * LG 2-6 fixed several wrong relevance-levels on sub-learning-goal headings
-* LG 2-7 renamed LG to “managing dependencies” (instead of “planning dependencies”, #195)
-* LG 3-6 demoted “documenting cross-cutting concepts” to R2 (#186)
-* LG 3-8 promoted “documenting architecture-decisions” to R1, added ADR (#187)
+* LG 2-7 renamed LG to “managing dependencies” (instead of “planning dependencies”, https://github.com/isaqb-org/curriculum-foundation/issues/195[#195])
+* LG 3-6 demoted “documenting cross-cutting concepts” to R2 (https://github.com/isaqb-org/curriculum-foundation/issues/186[#186])
+* LG 3-8 promoted “documenting architecture-decisions” to R1, added ADR (https://github.com/isaqb-org/curriculum-foundation/issues/187[#187])
 
 === Trivial Changes:
-* LG 1-2 unified wording, to “goals and benefits” (#192)
-* LG 1-5 more consistent wording (#196)
+* LG 1-2 unified wording, to “goals and benefits” (https://github.com/isaqb-org/curriculum-foundation/issues/192[#192])
+* LG 1-5 more consistent wording (https://github.com/isaqb-org/curriculum-foundation/issues/196[#196])
 * added some references to section 1 (Fundamentals)
 * LG 2-1 fixed typo
-* LG 2-5 removed duplicate sentence (#194)
-* LG 2-7 rephrased coupling-types (#197)
-* LG 3-3 added reference to ArchiMate (#146, #147, #191)
+* LG 2-5 removed duplicate sentence (https://github.com/isaqb-org/curriculum-foundation/issues/194[#194])
+* LG 2-7 rephrased coupling-types (https://github.com/isaqb-org/curriculum-foundation/issues/197[#197])
+* LG 3-3 added reference to ArchiMate (https://github.com/isaqb-org/curriculum-foundation/issues/146[#146], https://github.com/isaqb-org/curriculum-foundation/issues/147[#147], https://github.com/isaqb-org/curriculum-foundation/issues/191[#191])
 * Several new entries have been added to the references section at the end, and hyperlinked from within the document
 
 == Changelog for RC1 Oct 6^th^, 2020 (curated)
