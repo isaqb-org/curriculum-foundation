@@ -74,7 +74,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
+  dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN"
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
@@ -94,16 +94,6 @@ task renderNoRemarksEN(type: RenderCurriculumTask,
     addSuffixToCurriculum("-en")
   }
 }
-
-task renderWithRemarksDE_EN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, validityEnglish, "DE;EN", true]) {
-  group 'Documentation'
-  description 'Builds both the German and the English curricula as PDF and HTML files, with remarks. Those files are for internal use only.'
-  doLast {
-    addSuffixToCurriculum("-remarks-de-en")
-  }
-}
-
 
 apply from: 'scripts/includeLearningObjectives.gradle'
 
