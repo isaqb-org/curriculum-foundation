@@ -1,0 +1,139 @@
+= image:../docs/images/isaqb-logo.jpg[width=150] CPSA Certified Professional for Software Architecture^(R)^: Foundation Level Curriculum 2021
+
+====
+The next release of the Foundation-Level curriculum is scheduled for April 1^st^, 2021.
+From that date, using this new curriculum in both trainings and examination becomes **mandatory**.
+Please adjust your training material accordingly.
+====
+
+This version of the curriculum is the seventh and last release-candidate.
+For all errors you find, please https://github.com/isaqb-org/curriculum-foundation/issues/[open issues on our public issue tracker].
+
+== Brief Summary of Changes Between 2019.2 (v5.x) and 2021.1
+* Keep the overall structure of the curriculum
+* New versioning schema, upcoming version will be 2021.1-EN and 2021.1-DE
+* Keep LG structure + numbering
+* Several LGs received major updates:
+** Update goals of software architecture (LG 1-2)
+** Update influencing factors (LG 2-3)
+** Update patterns (LG 2-5)
+** Update design principles (LG 2-6)
+* Several learning goals now contain a brief explanation (e.g. LG 2-5 on patterns) to clarify their content
+* Update gendering (DE version only)
+* Fix numerous bugs and inconsistencies, many slight wording changes
+* Add LG 1-11 on "Challenges of distributed systems (R3)"
+* Version and validity date now in document footer
+
+More than 130 GitHub issues were raised and handled in more than 350 commits for the upcoming release.
+
+== Changelog for RC7, Dec 18^th^, 2020 (curated)
+For the complete changelog, see the git commit history. The numbers (like #196) refer to the GitHub issues.
+RC3 up to RC7 fixed a few typos and formatting issues as well as slight changes in wording.
+* fixed several translation issues between DE and EN versions
+* fixed numerous cross-references and hyperlinks
+* LG 2-7 add messaging/events to coupling types
+* LG 2-8 changed wording from “design tactics” to “architectural tactics”
+
+== Changelog for RC2 Oct 19^th^, 2020 (curated)
+=== Substantial Changes:
+* LG 2-6 fixed several wrong relevance-levels on sub-learning-goal headings
+* LG 2-7 renamed LG to “managing dependencies” (instead of “planning dependencies”, #195)
+* LG 3-6 demoted “documenting cross-cutting concepts” to R2 (#186)
+* LG 3-8 promoted “documenting architecture-decisions” to R1, added ADR (#187)
+
+=== Trivial Changes:
+* LG 1-2 unified wording, to “goals and benefits” (#192)
+* LG 1-5 more consistent wording (#196)
+* added some references to section 1 (Fundamentals)
+* LG 2-1 fixed typo
+* LG 2-5 removed duplicate sentence (#194)
+* LG 2-7 rephrased coupling-types (#197)
+* LG 3-3 added reference to ArchiMate (#146, #147, #191)
+* Several new entries have been added to the references section at the end, and hyperlinked from within the document
+
+== Changelog for RC1 Oct 6^th^, 2020 (curated)
+* Prerequisites have been clarified, "object-oriented language" has been replaced by "higher-level language"
+* LG 1-2 received additional sub-goals and explanation
+* LG 1-11 has been added (R3), naming some characteristics and challenges of distributed systems
+* LG 2-1 mentions additional architecture "methods" (Evolutionary Architecture, Global-Analysis), all R3.
+Better indication which method has which exam relevance
+* LG 2-3 major overhaul: new structure of LG, new and explicit collection of influencing factors
+* LG 2-5 completely restructured list of patterns. A few R1, many optional R3. R1 now covers Microservices and Dependency Injection (yes, after lengthy discussions we decided to add it as a fundamental pattern here. Please note: The list of optional R3 patterns give trainers the opportunity to add specific content as needed.
+* LG 2-6 completely restructured ist of design principles. As we consider this topic to be one of the most important in architecture education, we collected all the fundamental principles in a modular structure. Trainers most likely will have to adapt training material to this new and enhanced LG.
+* LG 3-2 improved wording, explained the need for specific adaption of documentation
+* LG 3-3 demoted a few diagram types to R3, ArchiMate has been added to the list
+* LG 3-10 RM/ODP has been removed, some references added
+* Additional references have been added, some references updated to newer editions or versions
+* Inconsistencies in translation between EN and DE have been sorted out
+* Numerous typos and hyperlinks have been fixed
+* Links to original document sources, issue-tracker and downloads have been added to introduction
+* Styling of PDF documents has been improved
+* Improved the build and release toolchain
+
+== Known Issues
+* In all sections "Important terms" at the beginning of each curriculum section, numerous terms are missing the hyperlinks into the iSAQB glossary.
+* On macOS, the hyperlinks to the iSAQB glossary within PDF documents fail in the standard "Preview" app. Firefox and AcrobatReader work fine. See https://github.com/isaqb-org/curriculum-foundation/issues/189
+* For an overview of past and ongoing work, see our public Kanban-board on https://github.com/isaqb-org/curriculum-foundation/projects/3.
+International Software Architecture Qualification Board Readme for 2021.1.rc2-20201008 Web: www.isaqb.org / E-Mail: info@isaqb.org
+
+- - -
+
+== Steps to the Release
+We adhere to the following release-process:
+
+[cols="2, 2, 7a"]
+|===
+|Step Nr. |Date |Content
+
+|1+2
+|until Sept 30^th^, 2020
+|Internal discussion and collection of requirements/suggestions for the new version.
+
+|3+4
+|planned: up to Sept 30^th^, 2020
+
+real: up to Oct. 6^th^, 2020
+|See change log above and the following resources
+
+* v2021 https://github.com/isaqb-org/curriculum-foundation/projects/3[Kanban] board on GitHub
+* v2021 issues on https://github.com/isaqb-org/curriculum-foundation/issues?page=1&q=is%3Aissue[GitHub (#48 up to #168)]
+* Discussion on https://confluence.isaqb.org/pages/viewpage.action?pageId=47355652["2021 - Patterns in the Curriculum (LG 2-5)"]
+* Discussion on https://confluence.isaqb.org/pages/viewpage.action?pageId=47355991["2021 Design-Principles in the Curriculum (LG 2-6)"]
+* Discussion on https://confluence.isaqb.org/pages/viewpage.action?pageId=47356315["2021 Factors influencing SWA in the Curriculum (LG 2-3)"]
+
+
+|5
+|starting Oct 6^th^, 2020 until Nov 6^th^, 2020
+|release candidate _2021.1.rc1-EN-20201006_ and _2020.1.rc1-DE-20201006_ given to training providers for review and request-for-comments.
+
+**Deadline for comments and suggestions is November 6^th^, 2020.**
+
+We urge you to provide suggestions via GitHub issues (one request per issue), so the Foundation Level Working Group can discuss and comment them individually!
+
+|5
+|ongoing
+|FLWG might issue new release candidates to fix severe issues.
+
+|6
+|until Dec 1^st^, 2020
+|Accepted changes incorporated into the curriculum.
+
+
+|7-9
+|until Jan 15^th^, 2021
+|FLWG updates examination questions according to new curriculum version.
+
+
+|10+11
+|until March 20^th^, 2021
+|iSAQB GmbH has the new version translated to all required languages (ES, FR, RU etc.) and the translations reviewed.
+
+
+|12
+|April 1^st^, 2021
+|Official release: **Usage of new version is mandatory in all trainings given in DE or EN.**
+
+* All trainers need to have their complete training material updated to this release
+* All examination providers EP need to have completed their transition to new questions. Use of old version is NOT permitted from hereon.
+
+|===
