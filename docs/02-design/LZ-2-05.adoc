@@ -20,7 +20,7 @@ Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele daf
 ** Eine andere Interpretation sind Schichten zur (physischen) Trennung von Funktionalität oder Verantwortung, siehe <https://en.wikipedia.org/wiki/Multitier_architecture>.
 
 * Pipes-and-Filter: Repräsentativ für Datenflussmuster, die die schrittweise Verarbeitung in eine Reihe von Verarbeitungsaktivitäten ("Filter") und zugehörige Transport/Puffer ("Pipes") separieren.
-* Microservices teilen Anwendungen in separate ausführbare Diensteauf, die über Netzwerk (remote) kommunizieren.
+* Microservices teilen Anwendungen in separate ausführbare Dienste auf, die über Netzwerk (remote) kommunizieren.
 * Dependency Injection als eine mögliche Lösung für das Dependency-Inversion-Prinzip
 
 
