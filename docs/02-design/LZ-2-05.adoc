@@ -15,7 +15,7 @@ Sie wissen (R3):
 
 Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele dafür liefern (R1):
 
-* Schicht (Layers):
+* Schichten (Layers):
 ** Abstraktionsschichten (Abstraction layers) verbergen Details, Beispiel: ISO/OSI-Netzwerkschichten oder "Hardware-Abstraktionsschicht". Siehe <https://en.wikipedia.org/wiki/Hardware_abstraction>.
 ** Eine andere Interpretation sind Schichten zur (physischen) Trennung von Funktionalität oder Verantwortung, siehe <https://en.wikipedia.org/wiki/Multitier_architecture>.
 
