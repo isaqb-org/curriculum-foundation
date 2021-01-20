@@ -23,6 +23,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Checkout Submodules
       uses: textbook/git-checkout-submodule-action@master
+    - name: Verify Gradle Wrapper
+      uses: gradle/wrapper-validation-action@v1
     - name: Set up JDK 14
       uses: actions/setup-java@v1
       with:
@@ -54,7 +56,10 @@ jobs:
         rm -rf ./build/tmp
         cp ./docs-ext/curriculum-*.pdf ./build 2>/dev/null || :
         zip -r release.zip ./build
-    - name: Deploy Release Candidate
+        mkdir release_dir
+        cp ./build/curriculum-*.pdf ./release_dir 2>/dev/null || :
+        mv release.zip ./release_dir/release-${{ env.RELEASE_VERSION }}.zip
+    - name: Deploy Release Candidate to GitHub Pages
       if: startsWith(github.ref, 'refs/tags/')
       uses: peaceiris/actions-gh-pages@v3
       with:
@@ -65,14 +70,22 @@ jobs:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         commit_message: Publish Release Candidate ${{ env.RELEASE_VERSION }}
-    - name: Upload Release Files
+    - name: Upload Release Candidate Files
       if: startsWith(github.ref, 'refs/tags/')
-      id: upload-release-candidate-asset
-      uses: actions/upload-release-asset@v1
+      id: upload-release-candidate-assets
+      uses: actions/github-script@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ steps.create-release-candidate.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps
-        asset_path: ./release.zip
-        asset_name: release-${{ env.RELEASE_VERSION }}.zip
-        asset_content_type: application/zip
+        script: |
+          const fs = require('fs').promises;
+          const { repo: { owner, repo }, sha } = context;
+
+          for (let file of await fs.readdir('./release_dir')) {
+            await github.repos.uploadReleaseAsset({
+              owner, repo,
+              release_id: ${{ steps.create-release-candidate.outputs.id }},
+              name: file,
+              data: await fs.readFile(`./release_dir/${file}`)
+            });
+          }
