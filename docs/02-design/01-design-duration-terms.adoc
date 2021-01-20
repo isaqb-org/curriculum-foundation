@@ -24,7 +24,7 @@ Abhängigkeit;
 Kopplung; 
 Kohäsion; 
 fachliche und technische Architekturen; 
-Top-down- und Bottom-Up-Vorgehen; 
+Top-down- und Bottom-up-Vorgehen;
 modellbasierter Entwurf; 
 iterativer/inkrementeller Entwurf; 
 Domain-Driven Design
