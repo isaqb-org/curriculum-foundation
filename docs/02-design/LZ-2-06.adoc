@@ -18,7 +18,7 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 **Abstraktion** (R1)
 
 * im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
-* als ein Enwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
+* als ein Entwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
 * Schnittstellen als Abstraktionen
 
 
