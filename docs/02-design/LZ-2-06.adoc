@@ -38,7 +38,7 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 **Konzeptionelle Integrität** (R2)
 
 * bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
-* als ein Mittel um Prinzips der geringsten Überraschung zu erreichen (principle of least surprise) (R3)
+* als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (principle of least surprise) (R3)
 
 
 **Einfachheit** (R1)
