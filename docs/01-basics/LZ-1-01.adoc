@@ -18,7 +18,7 @@ Softwarearchitekt:innen kennen mehrere Definitionen von Softwarearchitektur (u. 
 Software architects know several definitions of software architecture (incl. ISO 42010/IEEE 1471, SEI, Booch etc.) and can name their similarities:
 
 * Components/building blocks with interfaces and relationships
-* building blocks as a general term, components as a special form thereof
+* Building blocks as a general term, components as a special form thereof
 * Structures, cross-cutting concepts, principles
 * Architecture decisions and their consequences on the entire systems and its lifecycle
 
