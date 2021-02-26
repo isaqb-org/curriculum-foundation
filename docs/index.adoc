@@ -11,9 +11,7 @@ The **Foundation Level** curriculum is currently maintained and published in bot
 A **glossary** of the terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
 
 == Available Versions
-
-=== Version 2019.2 (released December 2019, formerly known as V5.1)
-
+=== Version 2021.1 (released February 26th, 2021 | valid from April 1st, 2021)
 ==== Status
 image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=master["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
@@ -21,13 +19,39 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
+==== Recent builds
 
-==== Recent builds 
+|===
+| Version | HTML | PDF
 
-- link:curriculum-foundation-de.html[German without Comments (online, html)]
-- link:curriculum-foundation-en.html[English without Comments (online, html)]
-- link:curriculum-foundation-de.pdf[German without Comments (PDF)]
-- link:curriculum-foundation-en.pdf[English without Comments (PDF)]
+| German
+| link:curriculum-foundation-de.html[HTML]
+| link:curriculum-foundation-de.pdf[PDF]
+
+| English
+| link:curriculum-foundation-en.html[HTML]
+| link:curriculum-foundation-en.pdf[PDF]
+
+|===
+
+
+
+=== Version 2019.2 (released December 2019, formerly known as V5.1)
+**ATTENTION: This version of the curriculum is only valid up to and including March 31st, 2021.**
+
+|===
+| Version | PDF
+
+| German
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2019.2-rev1/foundation-curriculum-de.pdf[Download]
+
+| English
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2019.2-rev1/foundation-curriculum-en.pdf[Download]
+
+|===
+
+
+
 
 More versions https://github.com/isaqb-org/curriculum-foundation/tags[(tagged) on the Github Releases page.]
 
