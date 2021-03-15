@@ -4,6 +4,7 @@ include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
 = Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+:toc-title: Inhaltsverzeichnis
 :toc: left
 endif::[]
 

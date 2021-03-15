@@ -1,5 +1,4 @@
 // tag::DE[]
-:toc-title: Inhaltsverzeichnis
 :learning_goals: Lernziele
 :chapter-label:
 :introduction: Einleitung
@@ -7,7 +6,6 @@
 // end::DE[]
 
 // tag::EN[]
-:toc-title: Table of Contents
 :learning_goals: Learning goals
 :chapter-label:
 :introduction: Introduction
