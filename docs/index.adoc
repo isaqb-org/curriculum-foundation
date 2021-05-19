@@ -32,6 +32,10 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 | link:curriculum-foundation-en.html[HTML]
 | link:curriculum-foundation-en.pdf[PDF]
 
+| Spanish
+| not available
+| link:curriculum-foundation-es.pdf[PDF]
+
 |===
 
 
