@@ -13,9 +13,9 @@ Sie können:
 
 // tag::EN[]
 [[LG-1-3]]
-==== LG 1-3: Understand software architecture as part of the software life cycle (R2)
+==== LG 1-3: Understand software architecture as part of the software lifecycle (R2)
 
-Software architects understand their tasks and can integrate their results into the overall lifeycle of IT systems.
+Software architects understand their tasks and can integrate their results into the overall lifecycle of IT systems.
 They can:
 
 * identify the consequences of changes in functional requirements, quality requirements, technologies, or the system environment in relation to software architecture
