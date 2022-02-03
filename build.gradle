@@ -1,5 +1,4 @@
 import org.asciidoctor.gradle.AsciidoctorTask
-import javax.inject.Inject
 import java.text.SimpleDateFormat
 
 buildscript {
@@ -19,18 +18,17 @@ ext {
   today = new Date()
   versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
-  // read document version from file "document.version"
   project.version = project.file("./document.version").text
 
   validity = new Date(project.file("./document.validity").text.trim())
   validityEnglish = "valid from " + new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(validity)
   validityGerman = "Gültig ab " + new SimpleDateFormat("d. MMMM yyy", Locale.GERMANY).format(validity)
 
-  curriculumBaseName = "curriculum-foundation"
+  curriculumFileName = "curriculum-foundation"
   addSuffixToCurriculum = { suffix ->
     for (extension in ["html", "pdf"]) {
-      File source = new File("${buildDir}/${curriculumBaseName}.${extension}")
-      File target = new File("${buildDir}/${curriculumBaseName}${suffix}.${extension}")
+      File source = new File("${buildDir}/${curriculumFileName}.${extension}")
+      File target = new File("${buildDir}/${curriculumFileName}${suffix}.${extension}")
 
       source.renameTo(target)
     }
@@ -39,11 +37,11 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumBaseName, String versionDate, String validity, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumFileName, String versionDate, String validity, String language, boolean withRemarks) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
-      include "${curriculumBaseName}.adoc"
+      include "${curriculumFileName}.adoc"
     }
     outputDir = new File("./build/")
     separateOutputDirs = false
@@ -52,21 +50,24 @@ class RenderCurriculumTask extends AsciidoctorTask {
     def fileVersion = project.version.trim() + "-" + language
 
     attributes = [
-      'icons'            : 'font',
-      'revnumber'        : fileVersion,
-      'version-label'    : '',
-      'revdate'          : versionDate,
-      'currentDate'      : versionDate,
-      'language'         : language,
-      'withRemarks'      : withRemarks,
-      'document-version' : fileVersion + "-" + versionDate + " (" + validity + ")",
-      'debug_adoc'       : false,
-      'pdf-stylesdir'    : '../pdf-theme/themes',
-      'pdf-fontsdir'     : '../pdf-theme/fonts',
-      'pdf-style'        : 'isaqb',
-      'with-uniqe-LG-id' : false,
-      'allow-uri-read'   : true,
-      'outputDir'        : outputDir
+      'icons'             : 'font',
+      'version-label'     : '',
+      'revnumber'         : fileVersion,
+      'revdate'           : versionDate,
+      'document-version'  : fileVersion + "-" + versionDate + " (" + validity + ")",
+      'currentDate'       : versionDate,
+      'language'          : language,
+      'withRemarks'       : withRemarks,
+      'curriculumFileName': curriculumFileName,
+      'debug_adoc'        : false,
+      'pdf-stylesdir'     : '../pdf-theme/themes',
+      'pdf-fontsdir'      : '../pdf-theme/fonts',
+      'pdf-style'         : 'isaqb',
+      'stylesheet'        : '../html-theme/adoc-github.css',
+      'stylesheet-dir'    : '../html-theme'
+      'with-uniqe-LG-id'  : false,
+      'allow-uri-read'    : true,
+      'outputDir'         : outputDir
     ]
   }
 }
@@ -78,7 +79,7 @@ task buildDocs {
 }
 
 task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, validityGerman,  "DE", false]) {
+    constructorArgs: [curriculumFileName, versionDate, validityGerman,  "DE", false]) {
   group 'Documentation'
   description 'Builds the German curriculum as PDF and HTML file, without remarks.'
   doLast {
@@ -87,7 +88,7 @@ task renderNoRemarksDE(type: RenderCurriculumTask,
 }
 
 task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumBaseName, versionDate, validityEnglish, "EN", false]) {
+    constructorArgs: [curriculumFileName, versionDate, validityEnglish, "EN", false]) {
   group 'Documentation'
   description 'Builds the English curriculum as PDF and HTML file, without remarks.'
   doLast {
