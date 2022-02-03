@@ -6,7 +6,3 @@
 <<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<martin03>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>
 
 // end::BIB_REFS[] 
-
-
-// tag::REMARK[]
-// end::REMARK[]

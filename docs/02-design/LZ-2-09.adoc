@@ -37,15 +37,3 @@ They know:
 ** Service-oriented approach (see WS-*/SOAP-based web services.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-[NOTE]
-====
-GS (June 2019): re-ordered sub-goals to have R1 before R3.
-
-GS (Feb 2019): Added the differentiation between external and internal interfaces.
-
-GS/CL (Jan 2019): Nachsatz zu Dokumentation entfernt, der gehört in Kapitel 3
-====
-// end::REMARK[]

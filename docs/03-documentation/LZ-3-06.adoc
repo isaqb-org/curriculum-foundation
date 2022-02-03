@@ -15,7 +15,3 @@ Softwarearchitekt:innen können typische Querschnittskonzepte (synonym _Prinzipi
 Software architects are able to adequately document and communicate typical cross-cutting concepts (synonym: _principles_, _aspects_), e. g., persistence, workflow management, UI, deployment/integration, logging.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

@@ -21,6 +21,3 @@ The document is maintained in a https://github.com/isaqb-org/curriculum-foundati
 Please report any issues in our https://github.com/isaqb-org/curriculum-foundation/issues[public issue tracker] on https://github.com/isaqb-org/curriculum-foundation/issues.
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

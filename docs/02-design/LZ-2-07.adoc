@@ -32,20 +32,3 @@ Software architects understand dependencies and coupling between building blocks
 ** Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-[NOTE]
-====
-GS, Feb 2019: re-formated DE version, adjusted EN translation to modifications of DE version
-====
-// end::REMARK[]
-
-
-ifdef::withRemarks[]
-[NOTE]
-====
-* GS (May 2019): added depency injection (which was removed from LG-2-6)
-* GS/CL (Feb 2019): sprachlich leicht umformuliert, einige Muster entfernt, jetzt komplett R1.
-====
-endif::withRemarks[]

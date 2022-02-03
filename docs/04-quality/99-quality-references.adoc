@@ -5,8 +5,4 @@
 
 <<bass>>, <<clementseval>>, <<gharbietal>>, <<martin03>>, <<starke>>
 
-// end::BIB_REFS[] 
-
-
-// tag::REMARK[]
-// end::REMARK[]
+// end::BIB_REFS[]

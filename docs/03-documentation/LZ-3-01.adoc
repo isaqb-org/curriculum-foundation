@@ -22,10 +22,3 @@ Software architects know the quality requirements of technical documentation and
 They know that only the target audiences can assess the understandability of technical documentation.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS: _Leser_ durch _Zielgruppe_ ersetzt
-====
-// end::REMARK[]

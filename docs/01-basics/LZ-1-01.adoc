@@ -23,6 +23,3 @@ Software architects know several definitions of software architecture (incl. ISO
 * Architecture decisions and their consequences on the entire systems and its lifecycle
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

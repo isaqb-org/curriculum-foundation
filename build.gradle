@@ -37,7 +37,7 @@ ext {
 
 class RenderCurriculumTask extends AsciidoctorTask {
   @Inject
-  RenderCurriculumTask(String curriculumFileName, String versionDate, String validity, String language, boolean withRemarks) {
+  RenderCurriculumTask(String curriculumFileName, String versionDate, String validity, String language) {
     sourceDir = new File("./docs/")
     sources {
       include "index.adoc"
@@ -57,7 +57,6 @@ class RenderCurriculumTask extends AsciidoctorTask {
       'document-version'  : fileVersion + "-" + versionDate + " (" + validity + ")",
       'currentDate'       : versionDate,
       'language'          : language,
-      'withRemarks'       : withRemarks,
       'curriculumFileName': curriculumFileName,
       'debug_adoc'        : false,
       'pdf-stylesdir'     : '../pdf-theme/themes',
@@ -75,22 +74,22 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", "renderNoRemarksDE", "renderNoRemarksEN"
+  dependsOn "includeLearningObjectives", "renderDE", "renderEN"
 }
 
-task renderNoRemarksDE(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, validityGerman,  "DE", false]) {
+task renderDE(type: RenderCurriculumTask,
+    constructorArgs: [curriculumFileName, versionDate, validityGerman,  "DE"]) {
   group 'Documentation'
-  description 'Builds the German curriculum as PDF and HTML file, without remarks.'
+  description 'Builds the German curriculum as PDF and HTML file.'
   doLast {
     addSuffixToCurriculum("-de")
   }
 }
 
-task renderNoRemarksEN(type: RenderCurriculumTask,
-    constructorArgs: [curriculumFileName, versionDate, validityEnglish, "EN", false]) {
+task renderEN(type: RenderCurriculumTask,
+    constructorArgs: [curriculumFileName, versionDate, validityEnglish, "EN"]) {
   group 'Documentation'
-  description 'Builds the English curriculum as PDF and HTML file, without remarks.'
+  description 'Builds the English curriculum as PDF and HTML file.'
   doLast {
     addSuffixToCurriculum("-en")
   }

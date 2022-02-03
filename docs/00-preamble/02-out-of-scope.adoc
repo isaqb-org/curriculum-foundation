@@ -35,7 +35,6 @@ The following topics or concepts are not part of CPSA-F:
 * Introduction to specific software tools.
 
  The aim of the training is to provide the basics for acquiring the advanced knowledge and skills required for the respective application.
+
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

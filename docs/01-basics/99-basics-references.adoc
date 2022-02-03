@@ -6,9 +6,5 @@
 
 <<bass>>, <<gharbietal>>, <<isaqbreferences>>, <<starke>>, <<distributedsystems>>
 
-
 // end::BIB_REFS[] 
 
-
-// tag::REMARK[]
-// end::REMARK[]

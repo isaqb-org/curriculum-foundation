@@ -104,13 +104,3 @@ With relevance for the examination depending on the specific principle listed be
 * as a generalization of the robustness principle aka Postel's law (R2)
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-* GS, May 2019: moved _dependency injection_ to LG-02-07 
-* GS, Feb. 2019: fixed wrong indentation for modularization (SRP and OCP are principles on their own).
-Added links to leaning goals. Adjusted intro sentence of EN version.
-* CL/GS, Jan 2019: Minor rephrasing (DE version)
-====
-// end::REMARK[]

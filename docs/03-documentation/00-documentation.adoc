@@ -28,4 +28,4 @@ include::./LZ-3-09.adoc[{include_configuration}]
 
 include::./LZ-3-10.adoc[{include_configuration}]
 
-include::./99-documentation-references.adoc[tags={bibrefs};{remarks}]
+include::./99-documentation-references.adoc[tags={bibrefs}]

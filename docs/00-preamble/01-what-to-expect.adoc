@@ -41,7 +41,3 @@ In addition, such trainings cover:
 * state-of-the-art methods and techniques for developing software architectures.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

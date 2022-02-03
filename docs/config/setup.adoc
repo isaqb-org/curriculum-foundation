@@ -9,16 +9,6 @@
 // table-of-contents placement does not work in pdf, but in html
 :toc: left
 
-
-// if the attribute ":withRemarks:" is set, we amend every content-include
-// by "REMARK", so that the sections tagged "REMARK" are always included.
-:withRemarks!:
-:remarks:
-ifdef::withRemarks[]
-:remarks: REMARK
-endif::withRemarks[]
-
-
 // Uniqe ID for learning goals (as proposed in https://github.com/isaqb-org/curriculum-foundation/issues/20)
 // attribute ":with-uniqe-LG-id:"
 // FIXME 
@@ -44,10 +34,9 @@ Several languages have been configured, but the language-specific headings (like
 ====
 endif::[]
 
-// ":include_configuration:" always consists of the language, eventually
-// followed by ";REMARK" and preceeded by 
+// ":include_configuration:" always consists of the language,
 // additional markers might be configured here!
-:include_configuration: tags={language};{remarks}
+:include_configuration: tags={language}
 
 
 // ":bibrefs:" (bibliography entries) are single language, to avoid redundancy.

@@ -31,10 +31,3 @@ They know that:
 ** test cases and test results.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS: see https://github.com/isaqb-org/curriculum-foundation/issues/16[issue 16]
-====
-// end::REMARK[]

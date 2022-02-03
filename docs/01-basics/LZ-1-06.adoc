@@ -17,7 +17,3 @@ Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
 * Due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
 
 // end::EN[]
-
-
-// tag::REMARK[]
-// end::REMARK[]

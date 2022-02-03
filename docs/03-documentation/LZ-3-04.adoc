@@ -21,6 +21,3 @@ Software architects are able to use the following architectural views:
 * deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

@@ -26,7 +26,3 @@ Software architects are able to:
 Software architects know that such cross-cutting concepts may be re-used throughout the system.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

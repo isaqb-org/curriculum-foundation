@@ -13,10 +13,3 @@ Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Imp
 Software architects use documentation to support the design, implementation and further development (also called _maintenance_ or _evolution_) of systems.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS: Redundanz zu LZ 3-2 entfernt, _Weiterentwicklung_ und Synonyme aufgenommen.
-====
-// end::REMARK[]
