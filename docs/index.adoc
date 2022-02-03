@@ -7,19 +7,10 @@ The international Software Architecture Qualification Board (link:https://isaqb.
 
 The **Foundation Level** curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on https://github.com/isaqb-org[Github] to improve the curriculum.
 
-
 A **glossary** of the terminology used in the iSAQB curricula can be found as a (freely available) ebook, published on https://leanpub.com/isaqbglossary/read[Leanpub]
 
 == Available Versions
 === Version 2021.1 (released February 26th, 2021 | valid from April 1st, 2021)
-==== Status
-image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=master["CI"]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/master.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
-
-==== Recent builds
 
 |===
 | Version | HTML | PDF
@@ -53,8 +44,6 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 | https://github.com/isaqb-org/curriculum-foundation/releases/download/2019.2-rev1/foundation-curriculum-en.pdf[Download]
 
 |===
-
-
 
 
 More versions https://github.com/isaqb-org/curriculum-foundation/tags[(tagged) on the Github Releases page.]
