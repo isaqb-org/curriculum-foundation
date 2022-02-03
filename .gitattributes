@@ -1,0 +1,2 @@
+# exclude .gitignore, CI config and similar from the generated tarball
+.git*           export-ignore
