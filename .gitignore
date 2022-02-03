@@ -1,8 +1,10 @@
 .DS_Store
 
-\.gradle
-\build
+.gradle
+build
 .idea
+advanced-template.iml
+.settings/org.eclipse.buildship.core.prefs
 .project
 .settings/org.eclipse.buildship.core.prefs
 .vscode/settings.json
