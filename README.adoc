@@ -14,7 +14,7 @@ endif::[]
 
 https://isaqb-org.github.io/curriculum-foundation/[Version 5 of the curriculum is now available.]
 
-image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI/badge.svg?branch=main["CI"]
+image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
