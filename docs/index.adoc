@@ -1,6 +1,7 @@
-= image:images/isaqb-logo.jpg[iSAQB,150] CPSA Certified Professional for Software Architecture^(R)^
-- Foundation Level Curriculum -
+include::config/setup.adoc[]
 
+= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
+- Foundation Level Curriculum -
 :TOC:
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects. You can find download links in the following sections.
@@ -16,19 +17,22 @@ A **glossary** of the terminology used in the iSAQB curricula can be found as a 
 | Version | HTML | PDF
 
 | German
-| link:curriculum-foundation-de.html[HTML]
-| link:curriculum-foundation-de.pdf[PDF]
+| link:{curriculumFileName}-de.html[HTML]
+| link:{curriculumFileName}-de.pdf[PDF]
 
 | English
-| link:curriculum-foundation-en.html[HTML]
-| link:curriculum-foundation-en.pdf[PDF]
+| link:{curriculumFileName}-en.html[HTML]
+| link:{curriculumFileName}-en.pdf[PDF]
 
 | Spanish
 | not available
-| link:curriculum-foundation-es.pdf[PDF]
+| link:{curriculumFileName}-es.pdf[PDF]
+
+| Italian
+| not available
+| link:{curriculumFileName}-it.pdf[PDF]
 
 |===
-
 
 
 === Version 2019.2 (released December 2019, formerly known as V5.1)
