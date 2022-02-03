@@ -18,74 +18,76 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - name: Checkout Source
-      uses: actions/checkout@v2
-    - name: Checkout Submodules
-      uses: textbook/git-checkout-submodule-action@master
-    - name: Verify Gradle Wrapper
-      uses: gradle/wrapper-validation-action@v1
-    - name: Set up JDK 14
-      uses: actions/setup-java@v1
-      with:
-        java-version: 14
-    - name: Execute Gradle Build
-      uses: eskatos/gradle-command-action@v1
-      with:
-        # Gradle command line arguments, see gradle --help
-        arguments: buildDocs
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout Source
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - name: Verify Gradle Wrapper
+        uses: gradle/wrapper-validation-action@v1
+      - name: Set up JDK 17
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: 17
+      - name: Execute Gradle Build
+        uses: eskatos/gradle-command-action@v2
+        with:
+          # Gradle command line arguments, see gradle --help
+          gradle-version: 7.3.2
+          arguments: buildDocs
 
-    # do the following two things only for a release!
-    - name: Set Environment Variables for Release Version
-      if: startsWith(github.ref, 'refs/tags/')
-      run: echo "RELEASE_VERSION=${GITHUB_REF:10}" >> $GITHUB_ENV
-    - name: Create New Release Candidate
-      if: startsWith(github.ref, 'refs/tags/')
-      id: create-release-candidate
-      uses: actions/create-release@latest
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
-      with:
-        tag_name: ${{ env.RELEASE_VERSION }}
-        release_name: Release Candidate ${{ env.RELEASE_VERSION }}
-        draft: false
-        prerelease: true
-    - name: Prepare Deployment
-      if: startsWith(github.ref, 'refs/tags/')
-      run: |
-        rm -rf ./build/tmp
-        cp ./docs-ext/curriculum-*.pdf ./build 2>/dev/null || :
-        zip -r release.zip ./build
-        mkdir release_dir
-        cp ./build/curriculum-*.pdf ./release_dir 2>/dev/null || :
-        mv release.zip ./release_dir/release-${{ env.RELEASE_VERSION }}.zip
-    - name: Deploy Release Candidate to GitHub Pages
-      if: startsWith(github.ref, 'refs/tags/')
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
-        destination_dir: release-candidate
-        keep_files: true
-        user_name: 'github-actions[bot]'
-        user_email: 'github-actions[bot]@users.noreply.github.com'
-        commit_message: Publish Release Candidate ${{ env.RELEASE_VERSION }}
-    - name: Upload Release Candidate Files
-      if: startsWith(github.ref, 'refs/tags/')
-      id: upload-release-candidate-assets
-      uses: actions/github-script@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        script: |
-          const fs = require('fs').promises;
-          const { repo: { owner, repo }, sha } = context;
+      # do the following two things only for a release!
+      - name: Set Environment Variables for Release Version
+        if: startsWith(github.ref, 'refs/tags/')
+        run: echo "RELEASE_VERSION=${GITHUB_REF:10}" >> $GITHUB_ENV
+      - name: Create New Release Candidate
+        if: startsWith(github.ref, 'refs/tags/')
+        id: create-release-candidate
+        uses: actions/create-release@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ env.RELEASE_VERSION }}
+          release_name: Release Candidate ${{ env.RELEASE_VERSION }}
+          draft: false
+          prerelease: true
+      - name: Prepare Deployment
+        if: startsWith(github.ref, 'refs/tags/')
+        run: |
+          rm -rf ./build/tmp
+          cp ./docs-ext/curriculum-*.pdf ./build 2>/dev/null || :
+          zip -r release.zip ./build
+          mkdir release_dir
+          cp ./build/curriculum-*.pdf ./release_dir 2>/dev/null || :
+          mv release.zip ./release_dir/release-${{ env.RELEASE_VERSION }}.zip
+      - name: Deploy Release Candidate to GitHub Pages
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          destination_dir: release-candidate
+          keep_files: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: Publish Release Candidate ${{ env.RELEASE_VERSION }}
+      - name: Upload Release Candidate Files
+        if: startsWith(github.ref, 'refs/tags/')
+        id: upload-release-candidate-assets
+        uses: actions/github-script@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          script: |
+            const fs = require('fs').promises;
+            const { repo: { owner, repo }, sha } = context;
 
-          for (let file of await fs.readdir('./release_dir')) {
-            await github.repos.uploadReleaseAsset({
-              owner, repo,
-              release_id: ${{ steps.create-release-candidate.outputs.id }},
-              name: file,
-              data: await fs.readFile(`./release_dir/${file}`)
-            });
-          }
+            for (let file of await fs.readdir('./release_dir')) {
+              await github.repos.uploadReleaseAsset({
+                owner, repo,
+                release_id: ${{ steps.create-release-candidate.outputs.id }},
+                name: file,
+                data: await fs.readFile(`./release_dir/${file}`)
+              });
+            }
