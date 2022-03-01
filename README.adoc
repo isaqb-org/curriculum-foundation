@@ -12,7 +12,7 @@ endif::[]
 
 == Status
 
-https://isaqb-org.github.io/curriculum-foundation/[Version 5 of the curriculum is now available.]
+
 
 image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
@@ -20,7 +20,11 @@ image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
-This repository contains the *curriculum* for version 5 of CPSA-F (which will be mandatory for CPSA-F licensed trainings from September 1^st^ 2019).
+This repository contains the *curriculum* for CPSA-F in the following versions:
+
+* Version 5 (mandatory from September 1^st^ 2019 until March 31^st^ 2021)
+* Version 2021.1 (mandatory from April 1^st^ 2021)
+* (upcoming) Version 2023 (will be mandatory from April 1^st^ 2023)
 
 This is <<copyrighted,copyrighted work>>.
 
@@ -77,8 +81,45 @@ For the German (DE) version, we don't use punctuation at the end of bullet-list 
 We have a standardized release process for this document:
 
 === Overview of release process
-image:release-process/release-process-2023.png[graphical overview of release process]
+image:./release-process/release-process-2023.drawio.png[graphical overview of release process]
 
+[cols="1,6,2,2"]
+|===
+| Nr | Activity  | Duration  | Schedule/deadline
+| 1  | Collect change requests | continuously 
+| for 2023, CRs are accepted until May 5th 2022 
+a| 2  | Examination providers provide (structured) data as input, so the FLWG can create (anonymous) statistical evaluation of examinations and examination questions. These statistics also result in CRs, unless it concerns specific formulations in exam questions. In that case, it's managed in our private JIRA. | continuously | none
+| 3 | FLWG maintains the curriculum and associated information within this public Github repository | |
+| 4 | FLWG decides internally, which changes to accept for the upcoming release.| | RD - 6M, Oct 1st 2022
+| 5 | The list of accepted changes is given to all training providers (TP) for review and request-for-comments. From that time, TP can begin to update their training material.
+    | | RD - 6M, Oct 1st 2022
+| 6 | FLWG incorporates the accepted changes in a new branch in the Github repo. FLWG maintains a detailed change list.
+    | 4 weeks | RD - 5M, Nov 1st 2022
+a| 7 | When all changes are included and finalized, a new version of the curriculum is generated (in both EN and DE language) - but not yet made mandatory! All training providers and trainers shall be notified of this update.
+
+**This new version is published on the isaqb-org.github.io website.** 
+    | 2 weeks | RD - 4.5M, Nov. 15th 2022
+| 4, 6 & 7 | Minor corrections, hotfixes | continuously |	
+| 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 4-6 weeks |
+a| 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
+EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| RD - 3M, Jan 15th 2023|
+| 10 | SAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
+     | 4 weeks|
+| 11 | For every target language there need to be an expert group who can handle review of translation
+     | 4-6 weeks | 
+a| 12 | **EN + DE release of curriculum and examination question: Usage of new version is mandatory in all trainings given in DE or EN.**
+
+ * All trainers need to have their complete training material updated to this release
+ * All examination providers EP need to have completed their transition to new questions. Use of old version is NOT permitted from hereon.
+   | | RD, April 1st 2023
+| 13 | International release of curriculum and examination questions.
+Usage of new version is mandatory in all trainings given in any language.
+   | | RD + max 12 weeks
+
+|===
+
+* **RD**: Release-Date (next: April 1st 2023) 
+* **EP**: Examination Provider
 
 === New major versions of the curriculum
 * Announcements: major versions (2019.x, 2021.x) are announced to training providers at least 3-4 month in advance--usually at the iSAQB members meeting.
@@ -118,23 +159,22 @@ Example for a full version in the English curriculum PDF: `2021.1-EN-20210401`
 == Maintainers
 
 image::FLWG-logo.png[width=200,float="left"]
-The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG), consisting of maximum 10 people.
-The FLWG is responsible for maintaining the CPSA-F Curriculum. Major version updates are reviewed and discussed with board and the members association prior to publication.
-
+The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG).
+The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions. Major version updates are reviewed and discussed with the board and the members association prior to publication.
 
 The current (2022) FLWG members are:
 
-* Mahbouba Gharbi
-* Dr. Carola Lilienthal
 * Dr. Ulrich Becker
-* Peter Götz (aka _hero of the build_!)
+* Mahbouba Gharbi
+* Peter Götz
 * Dr. Peter Hruschka
+* Dr. Carola Lilienthal
 * Dr. Alexander Lorz
+* Falk Sippach
 * Dr. Michael Sperber
+* Dr. Gernot Starke (FLWG chair)
 * Roger Rhoades
 * Benjamin Wolf
-* Falk Sippach
-* Dr. Gernot Starke (FLWG chair)
 
 
 == What does "Foundation Level" cover?
@@ -165,7 +205,7 @@ Work on this curriculum started way back in 2007/2008 - and numerous people cont
 
 (alphabetical order, current FLWG members excluded)
 
-Wolfgang Fahl, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, Bettina Tacke, Holger Tiemeyer
+Wolfgang Fahl, Philip Ghadir, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, Mischa Soujon, Bettina Tacke, Holger Tiemeyer
 
 
 [[copyrighted]]
