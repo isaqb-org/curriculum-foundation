@@ -76,6 +76,10 @@ For the German (DE) version, we don't use punctuation at the end of bullet-list 
 
 We have a standardized release process for this document:
 
+=== Overview of release process
+image:release-process/release-process-2023.png[graphical overview of release process]
+
+
 === New major versions of the curriculum
 * Announcements: major versions (2019.x, 2021.x) are announced to training providers at least 3-4 month in advance--usually at the iSAQB members meeting.
 * RC1: About 4-6 month prior to release, training providers receive the first release candidate (RC1) for review and comments.
@@ -118,20 +122,20 @@ The iSAQB members association regularly elects the *Foundation Level Working Gro
 The FLWG is responsible for maintaining the CPSA-F Curriculum. Major version updates are reviewed and discussed with board and the members association prior to publication.
 
 
-The current (2019-2020) FLWG members are:
+The current (2022) FLWG members are:
 
 * Mahbouba Gharbi
 * Dr. Carola Lilienthal
 * Dr. Ulrich Becker
-* Phillip Ghadir (FLWG co-chair)
 * Peter Götz (aka _hero of the build_!)
 * Dr. Peter Hruschka
 * Dr. Alexander Lorz
+* Dr. Michael Sperber
 * Roger Rhoades
-* Mischa Soujon
+* Benjamin Wolf
+* Falk Sippach
 * Dr. Gernot Starke (FLWG chair)
 
-In 2020, Dr. Michael Sperber supported our work by invitation.
 
 == What does "Foundation Level" cover?
 
