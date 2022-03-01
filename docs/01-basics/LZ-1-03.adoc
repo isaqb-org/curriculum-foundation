@@ -22,14 +22,3 @@ They can:
 * elaborate on relationships between IT-systems and the supported business and operational processes
 
 // end::EN[]
-
-// tag::REMARK[]
-
-[NOTE]
-====
-GS (April 2019, in reaction to remarks from RR): Aligned DE and EN versions, changed order of items, slightly rephrased second item. Removed references to DWH and other kinds of information systems, as it didn't fit the contents of this LG.
-
-GS (Feb 2019): I'd prefer to replace "in die gesamte Entwicklung" by "Lifecycle" (intro sentence)
-====
-
-// end::REMARK[]

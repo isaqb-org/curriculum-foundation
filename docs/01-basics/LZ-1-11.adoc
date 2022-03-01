@@ -34,13 +34,3 @@ Software architects know:
 * what the "split-brain" problem is and why it is difficult
 * that it is impossible to determine the temporal order of events in a distributed system
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-September 2020: Mike Sperber proposed to add this LG,
-see https://github.com/isaqb-org/curriculum-foundation/issues/148[issue 148].
-
-
-====
-// end::REMARK[]

@@ -32,13 +32,3 @@ Software Architects:
 ** other documentation of the system, such as requirements, operational or test documentation.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-* GS (June 2019): make relevance of sub-goals of LG-4-3  explicit, added other kinds of documentation
-* GS: += _analysieren_ im Titel, ATAM auf R3
-* FLWG: ATAM nur noch exemplarisch
-* RR: Vorgehen ist mir weniger wichtig als die Ziele und Ergebnisse von ATAM
-====
-// end::REMARK[]

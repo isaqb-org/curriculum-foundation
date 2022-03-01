@@ -4,8 +4,4 @@
 
 <<arc42>>, <<archimate>>, <<bass>>, <<brownc4>>, <<clementsdoc>>, <<fmc>>, <<gharbietal>>, <<nygard>>, <<starke>>, <<uml>>, <<zoerner>>
 
-// end::BIB_REFS[] 
-
-
-// tag::REMARK[]
-// end::REMARK[]
+// end::BIB_REFS[]

@@ -73,6 +73,3 @@ The sections "Terms and Concepts" of each chapter list words that are associated
 Some of them are used in the descriptions of learning goals.
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

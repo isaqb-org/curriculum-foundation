@@ -30,7 +30,3 @@ Software architects know:
 * possible tools for creating and maintaining architectural documentation
 
 // end::EN[]
-
-// tag::REMARK[]
-
-// end::REMARK[]

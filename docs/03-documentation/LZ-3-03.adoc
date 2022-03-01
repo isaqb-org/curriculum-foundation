@@ -34,6 +34,3 @@ Software architects know alternative notations to UML diagrams, for example: (R3
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

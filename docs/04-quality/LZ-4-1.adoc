@@ -30,10 +30,3 @@ Software architects can explain:
 ** runtime flexibility versus maintainability.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS: Beispiele klarer formuliert
-====
-// end::REMARK[]

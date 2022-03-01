@@ -52,13 +52,13 @@ In case you want to change that, adjust the following part of `build.gradle`:
 task buildDocs {
 	group 'Documentation'
 	description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderNoRemarksDE", "renderNoRemarksEN", "renderWithRemarksDE_EN"
+  dependsOn "renderDE", "renderEN"
 }
 ----
 
-In the "renderNoRemarksDE" certain attributes (aka variables) are defined that configure the corresponding output. 
+In the "renderDE" certain attributes (aka variables) are defined that configure the corresponding output.
 
-Please note: You need to include the submodule "pdf-theme" in your checkout, otherwise the build will fail. You can do that with the following command:
+Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following command:
 
 [source,bash]
 ----

@@ -53,8 +53,5 @@ requirements of systems;
 influencing factors; 
 types of IT systems (embedded systems; real-time systems; information systems etc.)
 
-
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

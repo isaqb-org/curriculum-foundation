@@ -26,13 +26,3 @@ Software architects know different types of IT systems, for example:
 * hardware-related systems; here they understand the necessity of hardware/software code design (temporal and content-related dependencies of hardware and software design)
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-April 2019: Roger Rhoades proposed to maybe remove this LG,
-see https://github.com/isaqb-org/curriculum-foundation/issues/12[issue 12].
-
-
-====
-// end::REMARK[]

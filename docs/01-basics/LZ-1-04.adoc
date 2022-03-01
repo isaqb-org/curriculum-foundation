@@ -40,14 +40,3 @@ Together with functional requirements (required features), this includes the req
 They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-RER, 2019-02-26: changed English translations.
-RER, 2019-02-26: changed first sentence so that the architect is responsible for the quality and architecture design rather than the quality and functionality.
-GS, Feb 2019: added "analyze" to the "evaluate" activity, both DE and EN
-
-GS, Feb 2019: TODO: Übesetzung von "gegenüber anderen Stakeholdern argumentieren" mit "discuss with..." finde ich nicht passend.
-====
-// end::REMARK[]

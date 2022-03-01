@@ -52,11 +52,3 @@ The abbreviation "e. V." is part of the iSAQB's official name and stands for "ei
 For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSAQB without the use of said abbreviation.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-This version of this document has been produced with comments (like this one) enabled.
-It is *NOT* intended for public distribution or publication, but primarily for internal iSAQB purposes.
-====
-// end::REMARK[]

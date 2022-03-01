@@ -33,6 +33,3 @@ development in a specific context and in relation to other stakeholders and orga
 * enterprise architects and architecture board members
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

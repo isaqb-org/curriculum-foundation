@@ -14,10 +14,3 @@ Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen b
 Software architects are able to describe and specify both internal and external interfaces.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS/RR: Redundanz zu Kapitel 2 behoben.
-====
-// end::REMARK[]

@@ -33,7 +33,3 @@ In addition, software architects are familiar with other architectural domains, 
 
 These architectural domains are not the content focus of CPSA-F.
 // end::EN[]
-
-// tag::REMARK[]
-GS, May 31st 2019: The previous wording was difficult to understand, so I rephrased a bit. See https://github.com/isaqb-org/curriculum-foundation/issues/53[issue #53]
-// end::REMARK[]

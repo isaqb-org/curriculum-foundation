@@ -23,13 +23,3 @@ Software architects are able to:
 Software architects know about Architecture-Decision-Records (ADR, see <<nygard>>) and can apply these to document decisions (R2).
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS (Juni 2019): "herleiten" durch "herbeiführen" ersetzt (engl: derive -> take)
-
-GS (Feb 2019): wording: += kommunizieren, begründen
-====
-
-// end::REMARK[]

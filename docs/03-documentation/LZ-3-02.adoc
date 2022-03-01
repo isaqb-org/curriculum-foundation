@@ -49,11 +49,3 @@ These factors impact:
 Software architects are aware of these factors and can adjust the documentation characteristics according to the situation.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-
-GS: Layout, sprachlich vereinfacht, _Schablone_ entfernt
-====
-// end::REMARK[]

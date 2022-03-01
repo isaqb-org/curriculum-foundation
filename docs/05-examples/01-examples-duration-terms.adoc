@@ -19,6 +19,3 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 This section is not relevant for for the exam.
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

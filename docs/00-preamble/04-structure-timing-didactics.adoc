@@ -60,5 +60,3 @@ The types (domains and technologies) of examples and exercises can be determined
 |===
 // end::EN[]
 
-// tag::REMARK[]
-// end::REMARK[]

@@ -56,6 +56,3 @@ iterative/incremental design;
 domain-driven design
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

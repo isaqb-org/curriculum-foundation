@@ -22,6 +22,3 @@ Software architects:
 * can formulate implicitly, if it is appropriate in the given context
 
 // end::EN[]
-
-// tag::REMARK[]
-// end::REMARK[]

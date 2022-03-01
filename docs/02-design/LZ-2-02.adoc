@@ -34,16 +34,3 @@ Software architects are able to:
 * identify risks related to architecture decisions.
 
 // end::EN[]
-
-// tag::REMARK[]
-
-[NOTE]
-====
-* RR: (Oct 2020): added hyphen when using "building block" as an adjective
-* GS (May 2019): fixed typo in "Effizienz" (DE)
-* GS (April 2019): fixed https://github.com/isaqb-org/curriculum-foundation/issues/14[issue 14] by adjusting translation.
-* GS (Feb 2019): re-ordered bullets in first paragraph, minor rephrasing
-* GS/CL (Jan 2019): diverse detaillierte DDD-Konstrukte entfernt
-* RR: Removed text relating to decisions. This is covered in LG 3-8
-====
-// end::REMARK[]

@@ -29,13 +29,3 @@ Software architects can justify the following essential goals and benefits of so
 * specify architecturally relevant guidelines for implementation and operation
  
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS, August 2019: after discussions and comments from Andreas Rausch and Mahbouba Gharbi, re-formulated first item (removed "in contrast to functionality").
-GS/CL: sprachlich leicht umformuliert
-
-RR: Keine klare Abgrenzung zwischen Nutzen und Zielen, deswegen vereinfacht.
-====
-// end::REMARK[]

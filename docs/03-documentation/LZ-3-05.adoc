@@ -20,10 +20,3 @@ Software architects are able to:
 * differentiate business and technical context.
 
 // end::EN[]
-
-// tag::REMARK[]
-[NOTE]
-====
-GS: Schnittstellen + Kontextdiagramm zugefügt - LZ war sonst so "leer"
-====
-// end::REMARK[]
