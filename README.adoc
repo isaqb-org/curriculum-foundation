@@ -76,6 +76,10 @@ For the German (DE) version, we don't use punctuation at the end of bullet-list 
 
 We have a standardized release process for this document:
 
+=== Overview of release process
+![graphical overview of release process](release-process/release-process-2023.png)
+
+
 === New major versions of the curriculum
 * Announcements: major versions (2019.x, 2021.x) are announced to training providers at least 3-4 month in advance--usually at the iSAQB members meeting.
 * RC1: About 4-6 month prior to release, training providers receive the first release candidate (RC1) for review and comments.
