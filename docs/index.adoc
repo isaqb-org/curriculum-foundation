@@ -32,6 +32,10 @@ A **glossary** of the terminology used in the iSAQB curricula can be found as a 
 | not available
 | link:{curriculumFileName}-it.pdf[PDF]
 
+| Portuguese
+| not available
+| link:{curriculumFileName}-pt.pdf[PDF]
+
 |===
 
 
