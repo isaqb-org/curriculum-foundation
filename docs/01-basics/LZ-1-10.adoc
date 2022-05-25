@@ -23,6 +23,6 @@ Software architects know different types of IT systems, for example:
 * decision support, data warehouse or business intelligence systems
 * mobile systems
 * batch processes or systems
-* hardware-related systems; here they understand the necessity of hardware/software code design (temporal and content-related dependencies of hardware and software design)
+* hardware-related systems; here they understand the necessity of hardware/software codesign (temporal and content-related dependencies of hardware and software design)
 
 // end::EN[]
