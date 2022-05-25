@@ -9,8 +9,7 @@ Sie verstehen, dass ihre Entscheidungen weitere Anforderungen und Einschränkung
 Sie erkennen und berücksichtigen den Einfluss von:
 
 * produktbezogenen Faktoren wie (R1)
-** funktionale Anforderungen 
-** Qualitätsanforderungen und Qualitätsziele
+** Anforderungen und Ziele
 ** zusätzliche Faktoren wie Produktkosten, beabsichtigtes Lizenzmodell oder Geschäftsmodell des Systems
 
 * technischen Faktoren wie (R1-R3)
@@ -51,8 +50,8 @@ They understand that their decisions may imply further requirements and constrai
 They should recognize and account for the impact of:
 
 * product-related factors such as (R1)
-** functional requirements 
-** quality requirements and quality goals
+** functional requirements
+** requirements and goals
 ** additional factors such as product cost, intended licensing model, or business model of the system
 
 * technological factors such as (R1-R3)

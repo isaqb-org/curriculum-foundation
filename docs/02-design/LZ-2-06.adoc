@@ -10,7 +10,7 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 
 * die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren
 * zu erklären, wie diese Prinzipien angewendet werden sollen
-* darzulegen, wie Qualitätsanforderungen die Anwendung dieser Prinzipien beeinflussen
+* darzulegen, wie Anforderungen die Anwendung dieser Prinzipien beeinflussen
 * die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern
 * Quellcode- und Architekturentwürfe zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
 
@@ -65,7 +65,7 @@ With relevance for the examination depending on the specific principle listed be
 
 * explain the design principles listed below and can illustrate them with examples
 * explain how those principles are to be applied
-* explain how the quality requirements determine which principles should be applied
+* explain how the requirements determine which principles should be applied
 * explain the impact of design principles on the implementation
 * analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 

@@ -21,8 +21,7 @@ Softwarearchitekt:innen und deren Verantwortlichkeiten;
 Rolle; 
 Aufgaben und benötigte Fähigkeiten; 
 Stakeholder und deren Anliegen; 
-funktionale Anforderungen; 
-{glossary_url}quality-requirement[Qualitätsanforderungen]; 
+Anforderungen; 
 {glossary_url}constraints[Randbedingungen]; 
 Einflussfaktoren; 
 Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssysteme etc.)
@@ -47,8 +46,7 @@ architecture domains; {glossary_url}structure[structure];
 software architects and their responsibilities; 
 tasks and required skills; 
 stakeholders and their concerns; 
-functional and {glossary_url}quality-requirement[quality] 
-requirements of systems; 
+requirements;
 {glossary_url}constraints[constraints]; 
 influencing factors; 
 types of IT systems (embedded systems; real-time systems; information systems etc.)
