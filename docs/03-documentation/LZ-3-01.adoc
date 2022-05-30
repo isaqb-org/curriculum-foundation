@@ -1,8 +1,8 @@
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Qualitätsmerkmale technischer Dokumentation erläutern und berücksichtigen (R1)
+==== LZ 3-1: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)
 
-Softwarearchitekt:innen kennen die wesentlichen Qualitätsmerkmale technischer Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:
+Softwarearchitekt:innen kennen die wesentlichen Anforderungen an technische Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:
 
 * Verständlichkeit, Korrektheit, Effizienz, Angemessenheit, Wartbarkeit
 * Orientierung von Form, Inhalt und Detailgrad an Zielgruppe der Dokumentation
@@ -13,8 +13,8 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Explain and consider the quality of technical documentation (R1)
-Software architects know the quality requirements of technical documentation and can consider and fulfil those when documenting systems:
+==== LG 3-1: Explain and consider the requirements of technical documentation (R1)
+Software architects know the requirements of technical documentation and can consider and fulfil them when documenting systems:
 
 * understandability, correctness, efficiency, appropriateness, maintainability
 * form, content, and level of detail tailored to the stakeholders

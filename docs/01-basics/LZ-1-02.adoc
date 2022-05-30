@@ -6,8 +6,8 @@
 Softwarearchitekt:innen können folgenden Nutzen und wesentlichen Ziele von Softwarearchitektur begründen:
 
 * Entwurf, Implementierung, Pflege und Betrieb von Systemen zu unterstützen
-* Qualitätsanforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen
 * funktionale Anforderungen zu erreichen bzw. deren Erfüllbarkeit sicherzustellen
+* Anforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit zu erreichen
 * Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder
 * systematisch Komplexität zu reduzieren 
 * architekturrelevante Richtlinien für Implementierung und Betrieb zu spezifizieren
@@ -22,8 +22,8 @@ Softwarearchitekt:innen können folgenden Nutzen und wesentlichen Ziele von Soft
 Software architects can justify the following essential goals and benefits of software architecture:
 
 * support the design, implementation, maintenance, and operation of systems
-* achieve quality requirements such as reliability, maintainability, changeability, security, etc.
 * achieve functional requirements or ensure that they can be met
+* achieve requirements such as reliability, maintainability, changeability, security, etc.
 * ensure that the the system's structures and concepts are understood by all relevant stakeholders
 * systematically reduce complexity
 * specify architecturally relevant guidelines for implementation and operation
