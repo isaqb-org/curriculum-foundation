@@ -9,7 +9,7 @@ Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispiels
 * Decision-Support, Data-Warehouse oder Business-Intelligence Systeme
 * Mobile Systeme
 * Batchprozesse oder -systeme
-* hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwurf).
+* hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwicklung).
 
 // end::DE[]
 

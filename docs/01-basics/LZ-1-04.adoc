@@ -2,7 +2,7 @@
 // tag::DE[]
 [[LZ-1-4]]
 ==== LZ 1-4: Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen (R1)
-Softwarearchitekt:innen tragen die Verantwortung für die Erreichung der Anforderungen und die Erstellung des Architekturentwurfs der Lösung.
+Softwarearchitekt:innen tragen die Verantwortung für die Erreichung der Anforderungen und die Entwicklung der Architektur der Lösung.
 Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
 
 Aufgaben und Verantwortung von Softwarearchitekt:innen:
