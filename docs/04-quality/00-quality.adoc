@@ -12,6 +12,4 @@ include::./LZ-4-1.adoc[{include_configuration}]
 
 include::./LZ-4-3.adoc[{include_configuration}]
 
-include::./LZ-4-4.adoc[{include_configuration}]
-
 include::./99-quality-references.adoc[tags={bibrefs}]

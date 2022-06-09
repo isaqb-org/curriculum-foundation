@@ -1,34 +1,44 @@
 
 // tag::DE[]
 [[LZ-4-3]]
-==== LZ 4-3: Softwarearchitekturen qualitativ analysieren und bewerten (R2-R3)
+==== LZ 4-3: Softwarearchitekturen analysieren und bewerten (R2-R3)
 Softwarearchitekt:innen:
 
-* kennen methodische Vorgehensweisen zur qualitativen Analyse und Bewertung von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
-* können kleinere Systeme qualitativ analysieren und bewerten (R2)
-* wissen, dass zur qualitativen Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können (R2):
-** Qualitätsanforderungen, beispielsweise in Form von Qualitätsbäumen und -szenarien
-** Architekturdokumentation
+* kennen Ansätze zur quantitativen Analyse und Bewertung (Messung) von
+  Software (R2)
+* quantitative Bewertung helfen kann, kritische Teile innerhalb von
+  Systemen zu identifizieren (R2)
+* kennen methodische Vorgehensweisen zur Analyse und Bewertung von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
+* können kleinere Systeme analysieren und bewerten (R2)
+* wissen, dass zur Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können (R2):
+** Anforderungs- und Architekturdokumentation
+** DIN/ISO-25010-Qualitätsanforderungen, beispielsweise in Form von Qualitätsbäumen und -szenarien
 ** Architektur- und Entwurfsmodelle
-** Quellcode
-** Metriken
-** Sonstige Dokumentationen des Systems, etwa Anforderungs-, Betriebs- oder Testdokumentation.
+** Quellcode und diesbezügliche Metriken wie Lines-of-Code,
+   (zyklomatische) Komplexität, ein- und ausgehende Abhängigkeiten
+** Laufzeitmetriken wie Durchsatz, Latenz, Ressourcenverbrauch
+** Sonstige Dokumentationen des Systems, etwa Betriebs- oder Testdokumentation
+** bekannte Fehler in Quellcode, insbesondere Fehlercluster
+** Testfälle und Testergebnisse.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-3]]
-==== LG 4-3: Qualitative analysis and assessment of software architectures (R2-R3)
+==== LG 4-3: Analysis and assessment of software architectures (R2-R3)
 Software Architects:
 
-* know methodical approaches for the qualitative analysis and assessment of software architectures (R2), for example, as specified by ATAM (R3);
-* can qualitatively analyze and assess smaller systems (R2)
-* know that the following sources of information can help in the qualitative analysis and assessment of architectures (R2):
-** quality requirements, e.g. in the form of quality trees and scenarios
-** architecture documentation
+* know approaches for the quantitative analysis and evaluation
+  (measurement) of software (R2)
+* quantitative evaluation can help to identify critical parts within systems
+* know methodical approaches for the analysis and assessment of software architectures (R2), for example, as specified by ATAM (R3)
+* can analyze and assess smaller systems (R2)
+* know that the following sources of information can help in the analysis and assessment of architectures (R2):
+** requirements and architecture documentation
+** DIN/ISO-25010 quality requirements, e.g. in the form of quality trees and scenarios
 ** architecture and design models
-** source code
-** metrics
-** other documentation of the system, such as requirements, operational or test documentation.
+** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
+** run-time metrics such as throughput, latency, resource usage
+** other documentation of the system, such as operational or test documentation.
 
 // end::EN[]
