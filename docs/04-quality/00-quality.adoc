@@ -10,8 +10,6 @@ include::./01-quality-duration-terms.adoc[{include_configuration}]
 
 include::./LZ-4-1.adoc[{include_configuration}]
 
-include::./LZ-4-2.adoc[{include_configuration}]
-
 include::./LZ-4-3.adoc[{include_configuration}]
 
 include::./LZ-4-4.adoc[{include_configuration}]

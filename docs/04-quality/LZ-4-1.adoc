@@ -1,32 +1,36 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale diskutieren (R1)
+==== LZ 4-1: Qualitätsmerkmale diskutieren (R1)
 
 Softwarearchitekt:innen können:
 
-* den Begriff der Qualität (angelehnt an DIN/ISO 25010, vormals 9126) und der Qualitätsmerkmale erklären
-* generische Qualitätsmodelle (wie etwa DIN/ISO 25010) erklären
+* den Begriff der Qualität aus DIN/ISO 25010 (vormals 9126) und der Qualitätsmerkmale erklären
+* das Qualitätsmodell aus DIN/ISO 25010 erklären
 * Zusammenhänge und Wechselwirkungen von Qualitätsmerkmalen erläutern, beispielsweise:
 ** Konfigurierbarkeit versus Zuverlässigkeit
 ** Speicherbedarf versus Leistungseffizienz
 ** Sicherheit versus Benutzbarkeit
 ** Laufzeitflexibilität versus Wartbarkeit.
+* DIN/ISO-25010-Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und formulieren
+* Szenarien und Qualitätsbäume formulieren, erklären und anwenden.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Discuss quality models and quality characteristics (R1)
+==== LG 4-1: Discuss quality characteristics (R1)
 
 Software architects can explain:
 
-* the concept of quality (based on DIN/ISO 25010, formerly 9126) and quality characteristics
-* generic quality models (such as DIN/ISO 25010)
+* the concept of quality from DIN/ISO 25010 (formerly 9126) and quality characteristics
+* the DIN/ISO 25010 quality model
 * correlations and trade-offs of quality characteristics, for example:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency
 ** security versus usability
 ** runtime flexibility versus maintainability.
+* clarify and formulate DIN/ISO-25010 quality requirements for the software to be developed and its architectures
+* formulate, explain and apply scenarios and quality trees.
 
 // end::EN[]

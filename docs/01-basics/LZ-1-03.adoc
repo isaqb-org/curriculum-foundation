@@ -6,6 +6,8 @@
 Softwarearchitekt:innen können Ihre Aufgaben und Ergebnisse in den gesamten Lebenszyklus von IT-Systemen einordnen.
 Sie können:
 
+* Anforderungen an die zu entwickelnde Software und deren
+  Architekturen klären und konkret formulieren
 * Konsequenzen von Änderungen bei Anforderungen, Technologien oder der Systemumgebung im Bezug auf die Softwarearchitektur erkennen
 * inhaltliche Zusammenhänge zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen aufzeigen
 
@@ -18,6 +20,8 @@ Sie können:
 Software architects understand their tasks and can integrate their results into the overall lifecycle of IT systems.
 They can:
 
+* clarify and formulate requirements for the software to be developed
+  and its architectures
 * identify the consequences of changes in requirements, technologies, or the system environment in relation to software architecture
 * elaborate on relationships between IT-systems and the supported business and operational processes
 
