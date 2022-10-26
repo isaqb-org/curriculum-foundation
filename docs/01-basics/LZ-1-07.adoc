@@ -1,24 +1,16 @@
 
 // tag::DE[]
 [[LZ-1-7]]
-==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R1)
+==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R2)
 
-Softwarearchitekt:innen können:
-
-* langfristige Anforderungen sowie deren Abgrenzung gegen (kurzfristige) Projektziele erklären
-* Potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
-* Anforderungen identifizieren und präzisieren
+Softwarearchitekt:innen können potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-7]]
-==== LG 1-7: Differentiate between short- and long-term goals (R1)
+==== LG 1-7: Differentiate between short- and long-term goals (R2)
 
-Software architects can:
-
-* explain long-term requirements and their differentiation from (short-term) project goals
-* explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders
-* identify and specify requirements
+Software architects can explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders
 
 // end::EN[]
