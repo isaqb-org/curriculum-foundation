@@ -7,7 +7,7 @@
 |===
 
 === Wesentliche Begriffe
-Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbaum; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; qualitative Architekturbewertung; Metriken und quantitative Bewertung
+Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbaum; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; qualitative Architekturanalyse; Metriken und quantitative Analyse
 
 
 // end::DE[]
@@ -20,6 +20,6 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbau
 |===
 
 === Relevant terms
-Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; quality scenarios; quality tree; trade-offs between quality characteristics; qualitative architecture assessment; metrics and quantitative assessment
+Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; quality scenarios; quality tree; trade-offs between quality characteristics; qualitative architecture analysis; metrics and quantitative analysis
 
 // end::EN[]
