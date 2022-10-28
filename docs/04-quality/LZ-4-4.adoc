@@ -12,6 +12,7 @@ Sie wissen, dass:
 ** Quellcode und diesbezügliche Metriken wie Lines-of-Code, (zyklomatische) Komplexität, ein- und ausgehende Abhängigkeiten
 ** bekannte Fehler in Quellcode, insbesondere Fehlercluster
 ** Testfälle und Testergebnisse.
+* die Verwendung einer Metrik als Zielgröße zu deren Entwertung führen kann (R2), wie z. B. durch Goodharts Gesetz (R3) beschrieben.
 
 // end::DE[]
 
@@ -29,5 +30,6 @@ They know that:
 ** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
 ** known errors in source code, especially error clusters
 ** test cases and test results.
+* the use of a metric as a target can lead to its devaluation (R2), as described, e.g., by Goodhart's law (R3).
 
 // end::EN[]
