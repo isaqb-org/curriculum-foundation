@@ -19,6 +19,7 @@ Teilnehmende sollten die im Nachfolgenden genannten Kenntnisse und/oder Erfahrun
 ** Modellierung und Abstraktion
 ** Algorithmen und Datenstrukturen (etwa Listen, Bäume, HashTable, Dictionary/Map)
 ** UML (Klassen-, Paket-, Komponenten- und Sequenzdiagramme) und deren Bezug zum Quellcode
+** Vorgehen beim Testen von Software (z.B. Unit- und Akzeptanztests)
 
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
@@ -53,6 +54,7 @@ In particular, substantial practical experience from software development in a t
 ** modelling and abstraction
 ** algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary, Map)
 ** UML (class, package, component and sequence diagrams) and their relation to source code
+** approaches to testing of software (e.g. unit- and acceptance testing)
 
 
 Furthermore, the following will be useful for understanding several concepts:
