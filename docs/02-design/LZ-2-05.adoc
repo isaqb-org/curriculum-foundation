@@ -34,7 +34,7 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * Event-Sourcing: Behandlung von Datenoperationen durch eine Abfolge von Ereignissen (Events), von denen jedes in einem Append-only Speicher aufgezeichnet wird.
 * Interpreter: repräsentieren Domänenobjekt oder DSL als Syntax, bieten eine Funktion, die eine semantische Interpretation des Domänenobjekts getrennt vom Domänenobjekt selbst implementiert.
 * Integrations- oder Messaging-Patterns (z.B. aus Hohpe+2004])
-* Die MVC-, MVVM-, MV-Update-, PAC-Musterfamilie, die die externe Repräsentation (Ansicht) von Daten von Operationen Diensten und deren Koordination trennt .
+* Die MVC- (Model View Controller), MVVM- (Model View ViewModel), MVU- (Model View Update), PAC- (Presentation Abstraction Control) Musterfamilie, die die externe Repräsentation (Ansicht) von Daten von Operationen Diensten und deren Koordination trennt.
 * Schnittstellenmuster wie Adapter, Fassade, Proxy. Solche Muster helfen bei der Integration von Subsystemen und/oder bei der Vereinfachung von Abhängigkeiten. Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können.
 ** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt.
 ** Fassade: vereinfacht die Verwendung eines Providers für den/die Consumer durch vereinfachten Zugriff.
@@ -43,7 +43,7 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * Plug-In: erweitert das Verhalten einer Komponente.
 * Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von aussen nach innen (Outside-In), niemals von innen nach aussen (Inside-Out). <<martin17>>
 * Remote Procedure Call: eine Funktion oder einen Algorithmus in einem anderen Adressraum ausführen lassen.
-* SOA: Service-orientierte Architektur. Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern.
+* SOA (Service-orientierte Architektur): Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern.
 * Template und Strategy: spezifische Algorithmen durch Kapselung flexibel machen.
 * Visitor (Besucher): Traversierung von Datenstrukturen von spezifischer Verarbeitung trennen.
 
@@ -73,8 +73,7 @@ Software architects can explain and provide examples for the following patterns 
 
 * Pipes-and-Filter: Representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filter") and associated data transport/buffering capabilities ("Pipes").
 * Microservices split application into separate executable that communicate via network
-* Dependency Injection as a possible solution for the
-  Dependency-Inversion-Principle <<newman>>
+* Dependency Injection as a possible solution for the Dependency-Inversion-Principle <<newman>>
 
 
 Software architects can explain several of the following patterns, explain their relevance for concrete systems, and provide examples. (R3)
@@ -86,7 +85,7 @@ Software architects can explain several of the following patterns, explain their
 * Event-Sourcing:  handle operations on data by a sequence of events, each of which is recorded in an append-only store
 * Interpreter: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself
 * Integration and messaging patterns (e.g. from Hohpe+2004])
-* The MVC, MVVM, MV-Update, PAC family of patterns, separating external representation (view) from data, services and their coordination
+* The MVC (Model View Controller), MVVM (Model View ViewModel), MVU (Model View Update), PAC (Presentation Abstraction Control) family of patterns, separating external representation (view) from data, services and their coordination
 * Interfacing-patterns like Adapter, Facade, Proxy. Such patterns help in integration of subsystems and/or simplification of dependencies. Architects should know that these patterns can be used independent of (object) technology
 ** Adapter: decouple consumer and provider - where the interface of the provider does not exactly match that of the consumer. The Adapter decouples one party from interface-changes in the other
 ** Facade: simplifies usage of a provider for consumer(s) by providing simplified access
@@ -95,7 +94,7 @@ Software architects can explain several of the following patterns, explain their
 * Plug-In: extend the behaviour of a component
 * Ports&Adapters (syn. Onion-Architecture, Hexagonal-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<martin17>>
 * Remote Procedure Call: make a function or algorithm execute in a different address space
-* SOA: Service-Oriented Architecture. An approach to provide abstract services rather than concrete implementations to users of the system to promote reuse of services across departments and between companies
+* SOA (Service-Oriented Architecture): An approach to provide abstract services rather than concrete implementations to users of the system to promote reuse of services across departments and between companies
 * Template and Strategy: make specific algorithms flexible by encapsulating them
 * Visitor: separate data-structure traversal from specific processing
 
