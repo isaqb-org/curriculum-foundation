@@ -4,8 +4,8 @@
 ==== LZ 4-3: Softwarearchitekturen qualitativ analysieren und bewerten (R2-R3)
 Softwarearchitekt:innen:
 
-* kennen methodische Vorgehensweisen zur qualitativen Analyse und Bewertung von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
-* können kleinere Systeme qualitativ analysieren und bewerten (R2)
+* kennen methodische Vorgehensweisen zur qualitativen Analyse von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
+* können kleinere Systeme qualitativ analysieren (R2)
 * wissen, dass zur qualitativen Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können (R2):
 ** Qualitätsanforderungen, beispielsweise in Form von Qualitätsbäumen und -szenarien
 ** Architekturdokumentation
@@ -19,11 +19,11 @@ Softwarearchitekt:innen:
 // tag::EN[]
 [[LG-4-3]]
 ==== LG 4-3: Qualitative analysis and assessment of software architectures (R2-R3)
-Software Architects:
+Software architects:
 
-* know methodical approaches for the qualitative analysis and assessment of software architectures (R2), for example, as specified by ATAM (R3);
-* can qualitatively analyze and assess smaller systems (R2)
-* know that the following sources of information can help in the qualitative analysis and assessment of architectures (R2):
+* know methodical approaches for the qualitative analysis of software architectures (R2), for example, as specified by ATAM (R3);
+* can qualitatively analyze smaller systems (R2)
+* know that the following sources of information can help in the qualitative analysis of architectures (R2):
 ** quality requirements, e.g. in the form of quality trees and scenarios
 ** architecture documentation
 ** architecture and design models
