@@ -12,13 +12,13 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 * zu erklären, wie diese Prinzipien angewendet werden sollen
 * darzulegen, wie Anforderungen die Anwendung dieser Prinzipien beeinflussen
 * die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern
-* Quellcode- und Architekturentwürfe zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
+* Quellcode und Architektur zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
 
 
 **Abstraktion** (R1)
 
 * im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
-* als ein Entwurfskonstrukt, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
+* als eine Entwurfstechnik, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
 * Schnittstellen als Abstraktionen
 
 
@@ -72,7 +72,7 @@ With relevance for the examination depending on the specific principle listed be
 **Abstraction** (R1)
 
 * in the sense of a means for deriving useful generalizations
-* as a design construct, where building blocks are dependent on the abstractions rather than depending on implementations
+* as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
 * interfaces as abstractions
 
 **Modularization** (R1-R3)

@@ -8,7 +8,8 @@ Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie könne
 
 Sie kennen:
 
-* wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf einsetzen:
+* wünschenswerte Eigenschaften von Schnittstellen und können diese bei
+  ihrer Entwicklung einsetzen:
 ** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
