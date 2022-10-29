@@ -3,6 +3,6 @@
 
 === {references}
 
-<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<martin03>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>
+<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<martin03>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>, <<lorzstarke>>
 
 // end::BIB_REFS[] 

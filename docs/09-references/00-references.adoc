@@ -30,6 +30,8 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer. ISBN 978-1680502091.
 - [[[lilienthal,Lilienthal 2018]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 2. Auflage, dpunkt Verlag 2018.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
+- [[[lorzstarke, Lorz+2021]]] Alexander Lorz, Gernot Starke: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2021.
+Alexander Lorz, Gernot Starke
 - [[[martin03,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
 - [[[martin17,Martin 2017]]] Robert Martin. Clean Architecture: A craftsman’s guide to software structure and design. MITP, 
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
