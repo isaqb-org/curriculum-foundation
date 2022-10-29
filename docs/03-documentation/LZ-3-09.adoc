@@ -8,7 +8,7 @@ Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Imp
 
 // tag::EN[]
 [[LG-3-9]]
-==== LG 3-9: Use documentation as written communication (R2)
+==== LG 3-9: Use Documentation as Written Communication (R2)
 
 Software architects use documentation to support the design, implementation and further development (also called _maintenance_ or _evolution_) of systems.
 

@@ -12,7 +12,7 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden:
 
 // tag::EN[]
 [[LG-3-4]]
-==== LG 3-4: Explain and use architectural views (R1)
+==== LG 3-4: Explain and Use Architectural Views (R1)
 Software architects are able to use the following architectural views:
 
 * context view 

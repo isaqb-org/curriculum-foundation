@@ -19,7 +19,7 @@ Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 
 // tag::EN[]
 [[LG-3-3]]
-==== LG 3-3: Explain and apply notations/models to describe software architecture (R2-R3)
+==== LG 3-3: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
 
 Software architects know at least the following UML (see <<uml>>) diagrams to describe architectural views:
 
