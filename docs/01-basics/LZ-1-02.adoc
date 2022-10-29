@@ -17,7 +17,7 @@ Softwarearchitekt:innen können folgenden Nutzen und wesentlichen Ziele von Soft
 // tag::EN[]
 [[LG-1-2]]
 
-==== LG 1-2: Understand and explain the goals and benefits of software architecture (R1)
+==== LG 1-2: Understand and Explain the Goals and Benefits of Software Architecture (R1)
 
 Software architects can justify the following essential goals and benefits of software architecture:
 

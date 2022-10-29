@@ -9,7 +9,7 @@ Softwarearchitekt:innen können potentielle Zielkonflikte zwischen kurz- und lan
 
 // tag::EN[]
 [[LG-1-7]]
-==== LG 1-7: Differentiate between short- and long-term goals (R2)
+==== LG 1-7: Differentiate between Short- And Long-Term Goals (R2)
 
 Software architects can explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders
 
