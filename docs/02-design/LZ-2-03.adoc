@@ -20,7 +20,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Programmiersprachen (R3)
 
 * organisatorischen Faktoren wie
-** Organisationsstruktur des Entwicklungsteams und des Kunden (R1)
+** Organisationsstruktur des Entwicklungsteams und des Kunden (R1), insbesondere das Gesetz von Conway (R2)
 ** Unternehmens- und Teamkultur (R3)
 ** Partnerschaften und Kooperationen (R2)
 ** Normen, Richtlinien und Prozessmodelle (z.B. Genehmigungs- und Freigabeprozesse) (R2)
@@ -62,7 +62,7 @@ They should recognize and account for the impact of:
 ** programming languages (R3)
 
 * organizational factors such as
-** organizational structure of the development team and of the customer (R1)
+** organizational structure of the development team and of the customer (R1), in particular Conway's law (R2).
 ** company and team cultures (R3)
 ** partnerships and cooperation agreements (R2)
 ** standards, guidelines, and process models (e.g. approval and release processes) (R2)
