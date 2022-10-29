@@ -6,7 +6,7 @@
 Softwarearchitekt:innen können:
 
 * die Bedeutung von Querschnittskonzepten erklären
-* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit
+* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
 * mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
 
 Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
@@ -20,7 +20,7 @@ Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergrei
 Software architects are able to:
 
 * explain the significance of such cross-cutting concepts
-* decide on and design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency
+* decide on and design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
 * identify and assess potential interdependencies between these decisions.
 
 Software architects know that such cross-cutting concepts may be re-used throughout the system.
