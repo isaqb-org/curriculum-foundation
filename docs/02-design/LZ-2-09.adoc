@@ -22,7 +22,7 @@ Sie kennen:
 
 // tag::EN[]
 [[LG-2-9]]
-==== LG 2-9: Design and define interfaces (R1-R3)
+==== LG 2-9: Design and Define Interfaces (R1-R3)
 
 Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
 

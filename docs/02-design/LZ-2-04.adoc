@@ -15,7 +15,7 @@ Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergrei
 
 // tag::EN[]
 [[LG-2-4]]
-==== LG 2-4: Design and implement cross-cutting concepts (R1)
+==== LG 2-4: Design and Implement Cross-Cutting Concepts (R1)
 
 Software architects are able to:
 

@@ -32,13 +32,13 @@ Domain-Driven Design
 // end::DE[]
 
 // tag::EN[]
-== Design and development of software architectures
+== Design and Development of Software Architectures
 
 |===
 | Duration: 330 min. | Excercises: 90 min.
 |===
 
-=== Relevant terms
+=== Relevant Terms
 Design; design approach; design decision; views; 
 {glossary_url}interface[interfaces];  
 technical and 
