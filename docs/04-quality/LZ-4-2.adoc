@@ -5,8 +5,9 @@
 
 Softwarearchitekt:innen können:
 
-* spezifische Qualitätsanforderungen an die zu entwickelnde Software und deren Architekturen klären und konkret formulieren, beispielsweise in Form von Szenarien und Qualitätsbäumen
-* Szenarien und Qualitätsbäume erklären und anwenden.
+* architekturrelevante Qualitätsanforderungen mit den Verantwortlichen klären, z. B. bzgl. deren Verständlichkeit, Machbarkeit, Widersprüche usw.
+* die Stakeholder bei der Definition bzw. Verbesserung der Qualitätsanforderungen, -szenarien und -bäumen unterstützen
+* Qualitätsanforderungen, -szenarien und -bäume als Basis für Architekturentscheidungen verwenden.
 
 // end::DE[]
 
@@ -16,7 +17,8 @@ Softwarearchitekt:innen können:
 
 Software architects can:
 
-* clarify and formulate specific quality requirements for the software to be developed and its architectures, for example in the form of scenarios and quality trees
-* explain and apply scenarios and quality trees.
+* clarify architecturally relevant quality requirements with those responsible, e.g. regarding their understandability, feasibility, contradictions, etc.
+* support stakeholders with the definition or improvement of the quality requirements, quality scenarios, and quality trees
+* use quality requirements, quality scenarios, and quality trees as a basis for architecture decisions.
 
 // end::EN[]
