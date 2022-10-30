@@ -30,6 +30,6 @@ They know that:
 ** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
 ** known errors in source code, especially error clusters
 ** test cases and test results.
-* the use of a metric as a target can lead to its devaluation (R2), as described, e.g., by Goodhart's law (R3).
+* the use of a metric as a target can lead to its invalidation (R2), as described, e.g., by Goodhart's law (R3).
 
 // end::EN[]
