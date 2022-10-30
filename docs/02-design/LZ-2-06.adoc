@@ -96,7 +96,7 @@ With relevance for the examination depending on the specific principle listed be
 **Simplicity** (R1-R2)
 
 * as a means to reduce complexity (R1)
-* as the driving factor behind KISS (R1) and YAGNI (R2)
+* as the driving factor behind KISS (R3) and YAGNI (R3)
 
 **Expect Errors** (R1-R2)
 
