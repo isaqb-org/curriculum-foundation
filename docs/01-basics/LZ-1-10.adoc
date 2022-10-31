@@ -25,7 +25,7 @@ Software architects know different types of IT systems, for example:
 * information systems
 * decision support, data warehouse or business intelligence systems
 * mobile systems
-* _Cloud-native_ Systeme (siehe <<cncf>>)
+* _Cloud-native_ Systeme (refer to <<cncf>>)
 * batch processes or systems
 * systems based upon machine learning or artificial intelligence
 * hardware-related systems; here they understand the necessity of hardware/software codesign (temporal and content-related dependencies of hardware and software design)

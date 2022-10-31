@@ -6,7 +6,7 @@
 Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind. 
 Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)
 
-Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten Prinzip abhängt, sind Softwarearchitekt:innen in der Lage:
+Softwarearchitekt:innen sind in der Lage:
 
 * die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren
 * zu erklären, wie diese Prinzipien angewendet werden sollen
@@ -61,7 +61,7 @@ Mit einer Prüfungsrelevanz, die jeweils von dem unten aufgeführten konkreten P
 Software architects are able to explain what design principles are. 
 They can outline their general objectives and applications with regard to software architecture. (R2)
 
-With relevance for the examination depending on the specific principle listed below, software architects are able to:
+Software architects are able to:
 
 * explain the design principles listed below and can illustrate them with examples
 * explain how those principles are to be applied
@@ -96,7 +96,7 @@ With relevance for the examination depending on the specific principle listed be
 **Simplicity** (R1-R2)
 
 * as a means to reduce complexity (R1)
-* as the driving factor behind KISS (R1) and YAGNI (R2)
+* as the driving factor behind KISS (R3) and YAGNI (R3)
 
 **Expect Errors** (R1-R2)
 

@@ -9,6 +9,7 @@ Softwarearchitekt:innen kennen und berücksichtigen den starken Einfluss von Qua
 * Effizienz, Laufzeitperformance
 * Verfügbarkeit
 * Wartbarkeit, Modifizierbarkeit, Erweiterbarkeit, Adaptierbarkeit
+* Energieeffizienz
 
 Sie können:
 
@@ -27,6 +28,7 @@ Software architects understand and consider the considerable influence of qualit
 * efficiency, runtime performance
 * availability
 * maintainability, modifiability, extensibility, adaptability
+* energy efficiency
 
 They can:
 
