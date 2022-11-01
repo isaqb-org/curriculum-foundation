@@ -20,7 +20,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Programmiersprachen (R3)
 
 * organisatorischen Faktoren wie
-** Organisationsstruktur des Entwicklungsteams und des Kunden (R1), insbesondere das Gesetz von Conway (R2)
+** Organisationsstruktur von Entwicklungsteams und Auftraggebenden (R1), insbesondere das Gesetz von Conway (R2)
 ** Unternehmens- und Teamkultur (R3)
 ** Partnerschaften und Kooperationen (R2)
 ** Normen, Richtlinien und Prozessmodelle (z.B. Genehmigungs- und Freigabeprozesse) (R2)
