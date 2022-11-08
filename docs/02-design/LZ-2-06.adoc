@@ -57,7 +57,7 @@ Softwarearchitekt:innen sind in der Lage:
 // tag::EN[]
 
 [[LG-2-6]]
-==== LG 2-6: Explain and use design principles (R1-R3)
+==== LG 2-6: Explain and Use Design Principles (R1-R3)
 Software architects are able to explain what design principles are. 
 They can outline their general objectives and applications with regard to software architecture. (R2)
 

@@ -17,7 +17,7 @@ Softwarearchitekt:innen kennen:
 
 // tag::EN[]
 [[LG-3-10]]
-==== LG 3-10: Know additional resources and tools for documentation (R3)
+==== LG 3-10: Know Additional Resources and Tools for Documentation (R3)
 
 Software architects know:
 

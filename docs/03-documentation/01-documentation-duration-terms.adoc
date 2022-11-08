@@ -13,7 +13,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Specification and communication of software architectures
+== Specification and Communication of Software Architectures
 
 |===
 | Duration: 180 min. | Exercises: 60 min.

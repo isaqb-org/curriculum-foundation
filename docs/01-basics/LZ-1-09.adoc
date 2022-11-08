@@ -19,7 +19,7 @@ Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
 
 // tag::EN[]
 [[LG-1-9]]
-==== LG 1-9: Responsibilities of software architects within the greater architectural context (R3)
+==== LG 1-9: Responsibilities of Software Architects within the Greater Architectural Context (R3)
 
 The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
 

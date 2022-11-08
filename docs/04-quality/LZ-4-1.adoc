@@ -17,7 +17,7 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Discuss quality models and quality characteristics (R1)
+==== LG 4-1: Discuss Quality Models and Quality Characteristics (R1)
 
 Software architects can explain:
 

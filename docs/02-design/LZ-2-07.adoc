@@ -19,7 +19,7 @@ Sie:
 
 // tag::EN[]
 [[LG-2-7]]
-==== LG 2-7: Manage dependencies between building blocks (R1)
+==== LG 2-7: Manage Dependencies between Building Blocks (R1)
 
 Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:
 

@@ -9,7 +9,7 @@ Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen b
 
 // tag::EN[]
 [[LG-3-7]]
-==== LG 3-7: Describe interfaces (R1)
+==== LG 3-7: Describe Interfaces (R1)
 
 Software architects are able to describe and specify both internal and external interfaces.
 

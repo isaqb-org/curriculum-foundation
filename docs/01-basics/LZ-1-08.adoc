@@ -13,7 +13,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-1-8]]
-==== LG 1-8: Distinguish explicit statements and implicit assumptions (R1)
+==== LG 1-8: Distinguish Explicit Statements and Implicit Assumptions (R1)
 
 Software architects: 
 

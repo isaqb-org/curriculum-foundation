@@ -18,7 +18,7 @@ Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispiels
 
 // tag::EN[]
 [[LG-1-10]]
-==== LG 1-10: Differentiate types of IT systems (R3)
+==== LG 1-10: Differentiate Types of It Systems (R3)
 
 Software architects know different types of IT systems, for example:
 

@@ -20,7 +20,7 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-2-2]]
-==== LG 2-2: Design software architectures (R1)
+==== LG 2-2: Design Software Architectures (R1)
 
 Software architects are able to:
 

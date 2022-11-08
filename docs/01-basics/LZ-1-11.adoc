@@ -19,7 +19,7 @@ Softwarearchitekt:innen wissen:
 
 // tag::EN[]
 [[LG-1-11]]
-==== LG 1-11: Challenges of distributed systems (R3)
+==== LG 1-11: Challenges of Distributed Systems (R3)
 
 Software architects are able to:
 

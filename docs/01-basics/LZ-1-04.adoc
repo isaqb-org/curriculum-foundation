@@ -21,7 +21,7 @@ Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erk
 
 // tag::EN[]
 [[LG-1-4]]
-==== LG 1-4: Understand software architects' tasks and responsibilities (R1)
+==== LG 1-4: Understand Software Architects' Tasks and Responsibilities (R1)
 Software architects are responsible for meeting requirements and and creating the architecture design of a solution.
 Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities of project management and/or other roles.
 

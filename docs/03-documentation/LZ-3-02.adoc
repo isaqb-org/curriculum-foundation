@@ -27,7 +27,7 @@ Softwarearchitekt:innen sind sich dieser Faktoren bewusst und können die Dokume
 
 // tag::EN[]
 [[LG-3-2]]
-==== LG 3-2: Describe and communicate software architectures (R1,R3)
+==== LG 3-2: Describe and Communicate Software Architectures (R1,R3)
 Software architects are able to:
 
 * document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
