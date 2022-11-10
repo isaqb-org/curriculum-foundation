@@ -2,7 +2,7 @@
 [[LZ-3-2]]
 ==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1)
 
-Softwarearchitekt:innen:
+Softwarearchitekt:innen (R1):
 
 * können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
@@ -10,7 +10,7 @@ Softwarearchitekt:innen:
 
 Softwarearchitekt:innen wissen, dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
-Diese Faktoren beeinflussen beispielsweise:
+Diese Faktoren beeinflussen beispielsweise (R3):
 
 * ob der schriftlichen oder mündlichen Kommunikation Vorrang eingeräumt werden sollte
 * Umfang und Detaillierungsgrad der in jeder Entwicklungsphase benötigten Dokumentation
@@ -28,7 +28,8 @@ Softwarearchitekt:innen sind sich dieser Faktoren bewusst und können die Dokume
 // tag::EN[]
 [[LG-3-2]]
 ==== LG 3-2: Describe and Communicate Software Architectures (R1,R3)
-Software architects are able to:
+
+Software architects are able to (R1):
 
 * document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
 * consolidate and harmonise the style and content of contributions from different groups of authors
@@ -37,7 +38,7 @@ Software architects are able to:
 Software architects know that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
 
 
-These factors impact:
+These factors impact (R3):
 
 * whether written or verbal communication should be prioritized
 * the amount and level of detail of documentation needed at each stage of development
