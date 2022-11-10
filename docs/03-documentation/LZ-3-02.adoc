@@ -13,7 +13,7 @@ Softwarearchitekt:innen wissen, dass verschiedene Eigenschaften der Dokumentatio
 Diese Faktoren beeinflussen beispielsweise (R3):
 
 * ob der schriftlichen oder mündlichen Kommunikation Vorrang eingeräumt werden sollte
-* Umfang und Detaillierungsgrad der in jeder Entwicklungsphase benötigten Dokumentation
+* Umfang und Detaillierungsgrad derD benötigten Dokumentation
 * das Dokumentationsformat
 * die Zugänglichkeit der Dokumentation
 * Formalitäten der Dokumentation (z.B. Diagramme, die einem Metamodell entsprechen, oder einfache Zeichnungen)
@@ -41,7 +41,7 @@ Software architects know that various properties of documentation depend on spec
 These factors impact (R3):
 
 * whether written or verbal communication should be prioritized
-* the amount and level of detail of documentation needed at each stage of development
+* the amount and level of detail of documentation needed 
 * the documentation format
 * the accessibility to the documentation
 * formality of documentation (e.g. diagrams compliant to a meta model or simple drawings)
