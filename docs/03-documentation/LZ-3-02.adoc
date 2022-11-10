@@ -6,14 +6,13 @@ Softwarearchitekt:innen (R1):
 
 * können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
-* kennen den Nutzen von Template-basierter Dokumentation.
-
-Softwarearchitekt:innen wissen, dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
+* können Maßnahmen entwickeln und umsetzen, die mündliche und schriftliche Kommunikation in Einklang miteinander halten und miteinander angemessen ausbalancieren
+* wissen, dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
+* kennen den Nutzen von Template-basierter Dokumentation
 
 Diese Faktoren beeinflussen beispielsweise (R3):
 
-* ob der schriftlichen oder mündlichen Kommunikation Vorrang eingeräumt werden sollte
-* Umfang und Detaillierungsgrad derD benötigten Dokumentation
+* Umfang und Detaillierungsgrad der benötigten Dokumentation
 * das Dokumentationsformat
 * die Zugänglichkeit der Dokumentation
 * Formalitäten der Dokumentation (z.B. Diagramme, die einem Metamodell entsprechen, oder einfache Zeichnungen)
@@ -33,14 +32,15 @@ Software architects are able to (R1):
 
 * document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
 * consolidate and harmonise the style and content of contributions from different groups of authors
-* know the benefits of template-based documentation
+* develop and implement measures to support the convergence of written and verbal communication, and balance one against the other appropriately
 
-Software architects know that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
+Software architects know (R1):
+* that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
+* the benefits of template-based documentation
 
 
 These factors impact (R3):
 
-* whether written or verbal communication should be prioritized
 * the amount and level of detail of documentation needed 
 * the documentation format
 * the accessibility to the documentation
