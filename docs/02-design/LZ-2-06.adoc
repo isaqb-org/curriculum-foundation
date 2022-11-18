@@ -52,6 +52,9 @@ Softwarearchitekt:innen sind in der Lage:
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (Postel's law) (R2)
 
+**Weitere Prinzipien** (R3)
+
+Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<nygard-cupid>>), und können diese anwenden.
 // end::DE[]
 
 // tag::EN[]
@@ -103,4 +106,7 @@ Software architects are able to:
 * as a means to design for robust and resilient systems (R1)
 * as a generalization of the robustness principle aka Postel's law (R2)
 
+**Other Principles** (R3)
+
+Software architects know other principles (such as CUPID, see <<nygard-cupid>>), and can apply them.
 // end::EN[]
