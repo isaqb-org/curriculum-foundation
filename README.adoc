@@ -94,16 +94,16 @@ a| 2  | Examination providers provide (structured) data as input, so the FLWG ca
 | 5 | The list of accepted changes is given to all training providers (TP) for review and request-for-comments. From that time, TP can begin to update their training material.
     | | RD - 6M, Oct 1st 2022
 | 6 | FLWG incorporates the accepted changes in a new branch in the Github repo. FLWG maintains a detailed change list.
-    | 4 weeks | RD - 5M, Nov 1st 2022
+    | 4 weeks | RD - 5M, Nov 1st 2022 (FLWG failed to meet this date)
 a| 7 | When all changes are included and finalized, a new version of the curriculum is generated (in both EN and DE language) - but not yet made mandatory! All training providers and trainers shall be notified of this update.
 
 **This new version is published on the isaqb-org.github.io website.** 
-    | 2 weeks | RD - 4.5M, Nov. 15th 2022
+    | 2 weeks | RD - 4M, Dec 20th 2022
 | 4, 6 & 7 | Minor corrections, hotfixes | continuously |	
 | 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 4-6 weeks |
 a| 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
 EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| RD - 3M, Jan 15th 2023|
-| 10 | SAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
+| 10 | iSAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
      | 4 weeks|
 | 11 | For every target language there need to be an expert group who can handle review of translation
      | 4-6 weeks | 
