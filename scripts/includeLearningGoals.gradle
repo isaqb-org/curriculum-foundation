@@ -1,12 +1,12 @@
 import static groovy.io.FileType.FILES
 
-class LearningObjective {
+class LearningGoals {
     String id
     String title
     int chapter
     int chapterIndex
 
-    LearningObjective(String id, String title, String chapter, String chapterIndex) {
+    LearningGoals(String id, String title, String chapter, String chapterIndex) {
         this.id = id
         this.title = title
         this.chapter = Integer.valueOf(chapter)
@@ -14,28 +14,28 @@ class LearningObjective {
     }
 }
 
-task includeLearningObjectives(
-        description: 'collect learning objectives from source files and include them as listing',
+task includeLearningGoals(
+        description: 'collect learning Goals from source files and include them as listing',
         group: 'isaqb-curriculum'
 ) {
     doLast {
-        def contentDE = createLearningObjectivesContent("DE", ~/\[\[(LZ-\d*-\d*)\]\]\s*==== (LZ (\d*)-(\d*).*)/, "Verzeichnis der Lernziele")
-        def contentEN = createLearningObjectivesContent("EN", ~/\[\[(LG-\d*-\d*)\]\]\s*==== (LG (\d*)-(\d*).*)/, "List of Learning Goals")
+        def contentDE = createLearningGoalsContent("DE", ~/\[\[(LZ-\d*-\d*)\]\]\s*==== (LZ (\d*)-(\d*).*)/, "Verzeichnis der Lernziele")
+        def contentEN = createLearningGoalsContent("EN", ~/\[\[(LG-\d*-\d*)\]\]\s*==== (LG (\d*)-(\d*).*)/, "List of Learning Goals")
 
-        writeLearningObjectives(contentDE, contentEN)
+        writeLearningGoals(contentDE, contentEN)
     }
 
-    ext.createLearningObjectivesContent = { language, pattern, headline ->
-        def learningObjectives = collectLearningObjectives(pattern)
+    ext.createLearningGoalsContent = { language, pattern, headline ->
+        def learningGoals = collectLearningGoals(pattern)
 
-        sortLearningObjectives(learningObjectives)
+        sortLearningGoals(learningGoals)
 
-        return compileLearningObjectives(language, headline, learningObjectives)
+        return compileLearningGoals(language, headline, learningGoals)
     }
 
-    ext.collectLearningObjectives = { pattern ->
+    ext.collectLearningGoals = { pattern ->
         def docsFolder = new File(projectDir, '/docs')
-        def learningObjectives = []
+        def learningGoals = []
 
         docsFolder.traverse(type: FILES) { file ->
 
@@ -49,17 +49,17 @@ task includeLearningObjectives(
                     def title = result.group(2)
                     def chapter = result.group(3)
                     def chapterIndex = result.group(4)
-                    learningObjectives.add(new LearningObjective(id, title, chapter, chapterIndex))
+                    learningGoals.add(new LearningGoals(id, title, chapter, chapterIndex))
                 }
             }
         }
 
-        return learningObjectives
+        return learningGoals
     }
 }
 
-ext.sortLearningObjectives = { learningObjectives ->
-    learningObjectives.sort { a, b ->
+ext.sortLearningGoals = { learningGoals ->
+    learningGoals.sort { a, b ->
         if (a.chapter == b.chapter) {
             a.chapterIndex <=> b.chapterIndex
         } else {
@@ -68,13 +68,13 @@ ext.sortLearningObjectives = { learningObjectives ->
     }
 }
 
-ext.compileLearningObjectives = { language, headline, learningObjectives ->
+ext.compileLearningGoals = { language, headline, learningGoals ->
     def content = '' << ''
 
     content <<= "// tag::" + language + "[]\n"
     content <<= "== " + headline + "\n\n"
 
-    learningObjectives.each { learningObjective ->
+    learningGoals.each { learningObjective ->
         content <<= "- <<" + learningObjective.id + ", " + learningObjective.title + ">>\n"
     }
 
@@ -83,11 +83,11 @@ ext.compileLearningObjectives = { language, headline, learningObjectives ->
     return content.toString()
 }
 
-ext.writeLearningObjectives = { contentDE, contentEN ->
+ext.writeLearningGoals = { contentDE, contentEN ->
     def docsFolder = new File(projectDir, '/docs')
-    def outFile = new File(docsFolder, '/learning-objectives.adoc')
+    def outFile = new File(docsFolder, '/learning-goals.adoc')
 
-    println "Learning objectives file: " + outFile.getAbsolutePath()
+    println "Learning goals file: " + outFile.getAbsolutePath()
 
 
     outFile.withWriter('UTF-8') { writer ->

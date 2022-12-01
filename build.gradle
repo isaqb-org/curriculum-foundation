@@ -74,7 +74,7 @@ class RenderCurriculumTask extends AsciidoctorTask {
 task buildDocs {
   group 'Documentation'
   description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", "renderDE", "renderEN"
+  dependsOn "includeLearningGoals", "renderDE", "renderEN"
 }
 
 task renderDE(type: RenderCurriculumTask,
@@ -95,6 +95,6 @@ task renderEN(type: RenderCurriculumTask,
   }
 }
 
-apply from: 'scripts/includeLearningObjectives.gradle'
+apply from: 'scripts/includeLearningGoals.gradle'
 
 defaultTasks "buildDocs"
