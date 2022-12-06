@@ -3,7 +3,7 @@
 [[LZ-2-6]]
 ==== LZ 2-6: Entwurfsprinzipien erläutern und anwenden (R1-R3)
 
-Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind. 
+Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind.
 Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)
 
 Softwarearchitekt:innen sind in der Lage:
@@ -32,7 +32,7 @@ Softwarearchitekt:innen sind in der Lage:
 ** S: Single-Responsibility-Prinzip (R1) und seine Beziehung zu SoC
 ** O: Offen/geschlossen-Prinzip (R1)
 ** L: Liskovsches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
-** I: Interface-Segregation-Prinzip (R2) und seine Beziehung zu <<lg-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
+** I: Interface-Segregation-Prinzip (R2) und seine Beziehung zu <<LG-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
 ** D: Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten (R1) durch Schnittstellen oder ähnlichen Abstraktionen
 
 **Konzeptionelle Integrität** (R2)
@@ -61,7 +61,7 @@ Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<nygard-cu
 
 [[LG-2-6]]
 ==== LG 2-6: Explain and Use Design Principles (R1-R3)
-Software architects are able to explain what design principles are. 
+Software architects are able to explain what design principles are.
 They can outline their general objectives and applications with regard to software architecture. (R2)
 
 Software architects are able to:
