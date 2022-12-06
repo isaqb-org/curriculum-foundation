@@ -22,7 +22,7 @@ Software architects:
 
 * know that software deployment is the process of making new or updated software available to its users
 * are able to name and explain fundamental concepts of software deployment, for example:
-** automate deployments
+** automated deployments
 ** repeatable builds
 ** consistent environments (e.g. use immutable and disposable infrastructure)
 ** version-control everything
