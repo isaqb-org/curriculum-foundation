@@ -35,6 +35,7 @@ Software architects are able to (R1):
 * develop and implement measures to support the convergence of written and verbal communication, and balance one against the other appropriately
 
 Software architects know (R1):
+
 * that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
 * the benefits of template-based documentation
 
@@ -43,7 +44,7 @@ These factors impact (R3):
 
 * the amount and level of detail of documentation needed 
 * the documentation format
-* the accessibility to the documentation
+* the accessibility of the documentation
 * formality of documentation (e.g. diagrams compliant to a meta model or simple drawings)
 * formal reviews and sign-off processes for documentation
 
