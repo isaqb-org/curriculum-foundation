@@ -25,7 +25,7 @@ Software architects:
 ** automated deployments
 ** repeatable builds
 ** consistent environments (e.g. use immutable and disposable infrastructure)
-** version-control everything
+** put everything under version-control
 ** releases are easy-to-undo
 
 
