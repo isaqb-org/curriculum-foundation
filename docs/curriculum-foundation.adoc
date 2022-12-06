@@ -19,10 +19,6 @@ endif::[]
 // have been configured (e.g. "DE;EN")
 include::config/i18n-definitions.adoc[tags={language}]
 
-ifdef::backend-pdf[]
-:title-logo-image: image:isaqb-logo.jpg[pdfwidth=4.25in,align=center]
-endif::[]
-
 
 <<<
 :sectnums!:

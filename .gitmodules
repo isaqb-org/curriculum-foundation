@@ -1,7 +1,6 @@
 [submodule "pdf-theme"]
 	path = pdf-theme
-	url = https://github.com/isaqb-org/pdf-theme.git
-	branch = master
+	url = https://github.com/isaqb-org/pdf-theme
 [submodule "html-theme"]
 	path = html-theme
 	url = https://github.com/isaqb-org/html-theme
