@@ -6,7 +6,7 @@
 Softwarearchitekt:innen können:
 
 * die Bedeutung von Querschnittskonzepten erklären
-* Querschnittskonzepte entscheiden und entwerfen, beispielsweise Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
+* Querschnittskonzepte entscheiden und entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
 * mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
 
 Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.

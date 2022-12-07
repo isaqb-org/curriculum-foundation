@@ -46,4 +46,4 @@ Alexander Lorz, Gernot Starke
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 - [[[distributedsystems,vanSteen+Tanenbaum]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>.
 - [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
-- [[[zoerner,Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag 2021.
+- [[[zoerner,Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.
