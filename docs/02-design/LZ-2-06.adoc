@@ -54,7 +54,7 @@ Softwarearchitekt:innen sind in der Lage:
 
 **Weitere Prinzipien** (R3)
 
-Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<nygard-cupid>>), und können diese anwenden.
+Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<nygard-cupid>>) und können diese anwenden.
 // end::DE[]
 
 // tag::EN[]
