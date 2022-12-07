@@ -26,13 +26,13 @@ Softwarearchitekt:innen sind in der Lage:
 
 * Geheimnisprinzip (Information Hiding) und Kapselung (R1)
 * Trennung von Verantwortlichkeiten (Separation of Concerns - SoC) (R1)
-* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen, siehe LG 2-7
+* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen, siehe <<LZ-2-7, Lernziel 2-7>>
 * Hohe Kohäsion (R1)
 * SOLID-Prinzipien (R1-R3), soweit sie auf architektonischer Ebene von Relevanz sind:
 ** S: Single-Responsibility-Prinzip (R1) und seine Beziehung zu SoC
 ** O: Offen/geschlossen-Prinzip (R1)
 ** L: Liskov'sches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
-** I: Interface-Segregation-Prinzip (R2) und seine Beziehung zu <<LG-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
+** I: Interface-Segregation-Prinzip (R2) und seine Beziehung zu <<LZ-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
 ** D: Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten (R1) durch Schnittstellen oder ähnlichen Abstraktionen
 
 **Konzeptionelle Integrität** (R2)
@@ -50,7 +50,7 @@ Softwarearchitekt:innen sind in der Lage:
 **Erwarte Fehler** (R1-R2)
 
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
-* als eine Verallgemeinerung des Robustheitsgrundsatzes (Postel's law) (R2)
+* als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
 
 **Weitere Prinzipien** (R3)
 
@@ -82,13 +82,13 @@ Software architects are able to:
 
 * information hiding and encapsulation (R1)
 * separation of concerns - SoC (R1)
-* loose, but functionally sufficient, coupling (R1) of building blocks, see <<LZ-2-7, LG 2-7>>
+* loose, but functionally sufficient, coupling (R1) of building blocks, see <<LG-2-7, LG 2-7>>
 * high cohesion (R1)
 * SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
 ** S: Single responsibility principle (R1) and its relation to SoC
 ** O: Open/closed principle (R1)
 ** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
-** I: Interface segregation principle (R2), including its relation to <<LZ-2-9, LG 2-9>>
+** I: Interface segregation principle (R2), including its relation to <<LG-2-9, LG 2-9>>
 ** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
@@ -104,7 +104,7 @@ Software architects are able to:
 **Expect Errors** (R1-R2)
 
 * as a means to design for robust and resilient systems (R1)
-* as a generalization of the robustness principle aka Postel's law (R2)
+* as a generalization of the robustness principle (_Postel's law_) (R2)
 
 **Other Principles** (R3)
 

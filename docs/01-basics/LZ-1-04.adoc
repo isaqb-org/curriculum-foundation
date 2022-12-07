@@ -7,7 +7,7 @@ Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehen
 
 Aufgaben und Verantwortung von Softwarearchitekt:innen:
 
-* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern, inbseondere _Required Features und__Required Constraints_
+* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern, insbesondere _Required Features und__Required Constraints_
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
 * Querschnittskonzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen
 * Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und Querschnittskonzepten kommunizieren und dokumentieren
@@ -15,7 +15,7 @@ Aufgaben und Verantwortung von Softwarearchitekt:innen:
 * Softwarearchitektur analysieren und bewerten, insbesondere hinsichtlich Risiken bezüglich der Erreichung von Anforderungen
 * Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
 
-Sie sollen selbständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.
+Sie sollen selbstständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.
 
 // end::DE[]
 

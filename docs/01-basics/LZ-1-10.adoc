@@ -10,7 +10,7 @@ Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispiels
 * Mobile Systeme
 * _Cloud-native_ Systeme (siehe <<cncf>>)
 * Batchprozesse oder -systeme
-* Systeme die auf maschinellem Lernen oder künstlicher Intelligenz basieren
+* Systeme, die auf maschinellem Lernen oder künstlicher Intelligenz basieren
 * hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwicklung).
 
 
