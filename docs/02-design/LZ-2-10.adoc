@@ -1,4 +1,6 @@
+
 // tag::DE[]
+
 [[LZ-2-10]]
 ==== LZ 2-10: Grundlegende Prinzipien von Software-Deployments kennen (R3)
 Softwarearchitekt:innen: 
@@ -11,10 +13,10 @@ Softwarearchitekt:innen:
 ** Alles liegt unter Versionskontrolle
 ** Releases sind einfach zurückzunehmen
 
-
 // end::DE[]
 
 // tag::EN[]
+
 [[LG-2-10]]
 ==== LG 2-10: Know Fundamental Principles of Software Deployment (R3)
 
