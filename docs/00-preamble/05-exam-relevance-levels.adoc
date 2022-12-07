@@ -15,7 +15,7 @@ Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegri
 
 | R1
 | Können
-| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
+| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbstständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
 | Inhalte *werden* geprüft.
 
 | R2

@@ -3,7 +3,7 @@
 [[LZ-1-7]]
 ==== LZ 1-7: Kurz- und langfristige Ziele differenzieren (R2)
 
-Softwarearchitekt:innen können potentielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
+Softwarearchitekt:innen können potenzielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
 
 // end::DE[]
 
