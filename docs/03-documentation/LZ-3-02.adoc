@@ -1,16 +1,18 @@
 // tag::DE[]
 [[LZ-3-2]]
-==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1)
+==== LZ 3-2: Softwarearchitekturen beschreiben und kommunizieren (R1, R3)
+
+Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen. (R2)
 
 Softwarearchitekt:innen (R1):
 
 * können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
 * können Maßnahmen entwickeln und umsetzen, die mündliche und schriftliche Kommunikation in Einklang miteinander halten und miteinander angemessen ausbalancieren
-* wissen, dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 * kennen den Nutzen von Template-basierter Dokumentation
+* wissen, dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
-Diese Faktoren beeinflussen beispielsweise (R3):
+Sie können beispielsweise die folgenden Merkmale von Dokumentation je nach Situation anpassen (R3):
 
 * Umfang und Detaillierungsgrad der benötigten Dokumentation
 * das Dokumentationsformat
@@ -18,15 +20,14 @@ Diese Faktoren beeinflussen beispielsweise (R3):
 * Formalitäten der Dokumentation (z.B. Diagramme, die einem Metamodell entsprechen, oder einfache Zeichnungen)
 * formale Überprüfungen und Freigabeprozesse für die Dokumentation
 
-Softwarearchitekt:innen sind sich dieser Faktoren bewusst und können die Dokumentationsmerkmale je nach Situation anpassen.
-
-
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-2]]
-==== LG 3-2: Describe and Communicate Software Architectures (R1,R3)
+==== LG 3-2: Describe and Communicate Software Architectures (R1, R3)
+
+Software architects use documentation to support the design, implementation and further development (also called _maintenance_ or _evolution_) of systems (R2)
 
 Software architects are able to (R1):
 
@@ -36,18 +37,16 @@ Software architects are able to (R1):
 
 Software architects know (R1):
 
-* that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.
 * the benefits of template-based documentation
+* that various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.
 
+For example, software architects can adjust the following documentation characteristics according to the situation (R3):
 
-These factors impact (R3):
-
-* the amount and level of detail of documentation needed 
+* the amount and level of detail of documentation needed
 * the documentation format
 * the accessibility of the documentation
 * formality of documentation (e.g. diagrams compliant to a meta model or simple drawings)
 * formal reviews and sign-off processes for documentation
 
-Software architects are aware of these factors and can adjust the documentation characteristics according to the situation.
 
 // end::EN[]
