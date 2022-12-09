@@ -11,7 +11,7 @@ Softwarearchitekt:innen kennen unterschiedliche Typen von IT-Systemen, beispiels
 * _Cloud-native_ Systeme (siehe <<cncf>>)
 * Batchprozesse oder -systeme
 * Systeme, die auf maschinellem Lernen oder künstlicher Intelligenz basieren
-* hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Codesigns (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwicklung).
+* hardwarenahe Systeme; hier verstehen sie die Notwendigkeit des Hardware-/Software-Co-Designs (zeitliche und inhaltliche Abhängigkeiten von Hard- und Softwareentwicklung).
 
 
 // end::DE[]
@@ -28,6 +28,6 @@ Software architects know different types of IT systems, for example:
 * _Cloud-native_ Systeme (refer to <<cncf>>)
 * batch processes or systems
 * systems based upon machine learning or artificial intelligence
-* hardware-related systems; here they understand the necessity of hardware/software codesign (temporal and content-related dependencies of hardware and software design)
+* hardware-related systems; here they understand the necessity of hardware/software co-design (temporal and content-related dependencies of hardware and software design)
 
 // end::EN[]
