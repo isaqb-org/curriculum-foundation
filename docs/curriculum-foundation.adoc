@@ -22,7 +22,7 @@ include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
 :sectnums!:
-include::00-preamble/copyright.adoc[{include_configuration}]
+include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 // put table of contents right behind copyright page
