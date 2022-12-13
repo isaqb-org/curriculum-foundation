@@ -53,6 +53,6 @@ endif::debug_adoc[]
 
 // glossary definitions
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
-// on github (https://leanpub.com/isaqbglossary/read)
+// on github (https://public.isaqb.org/glossary)
 // This is the fallback URL if it is not set via build.gradle
 :glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
