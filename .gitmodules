@@ -4,3 +4,6 @@
 [submodule "html-theme"]
 	path = html-theme
 	url = https://github.com/isaqb-org/html-theme
+[submodule "license-copyright"]
+	path = license-copyright
+	url = https://github.com/isaqb-org/license-copyright
