@@ -1,0 +1,32 @@
+include::config/setup.adoc[]
+
+= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
+- Foundation Level Curriculum – Release Candidate -
+
+The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
+
+The **Release Candidates** of the **Foundation Level** curriculum are currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on https://github.com/isaqb-org[Github] to improve the curriculum.
+
+== Current Release Candidate v2023.1
+
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/latest.svg[]
+|===
+| Version | HTML | PDF
+
+| German
+| link:{curriculumFileName}-de.html[HTML]
+| link:{curriculumFileName}-de.pdf[PDF]
+
+| English
+| link:{curriculumFileName}-en.html[HTML]
+| link:{curriculumFileName}-en.pdf[PDF]
+
+|===
+
+== Changes compared to 2021.1
+- link:https://github.com/isaqb-org/curriculum-foundation/blob/main/CHANGELOG.md[CHANGELOG.md on GitHub]
+// - link: [HTML diff to the latest curriculum] T.B.A.

@@ -47,4 +47,4 @@ Work relevant for V2023 has begun May 2022, and resulted in more than 120 commit
 >Count commits across all branches:
 >`git rev-list --all --count --since="01 May 2022"`
 
-![Commits since last version](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)
+![Commits since last version](https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2021.1-rev4.svg)
