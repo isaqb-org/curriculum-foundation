@@ -32,7 +32,7 @@ This is <<copyrighted,copyrighted work>>.
 toc::[]
 
 == What's CPSA-Foundation?
-Licensed trainings for _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems. 
+Licensed trainings for _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
 
 == How to contribute or participate
 You found a bug in one of the published versions, have remarks, comments or proposals?
@@ -43,7 +43,7 @@ TODO: add issue templates for bugs, comments, proposals
 
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. 
+You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
 In case you want to change that, adjust the following part of `build.gradle`:
 
@@ -86,8 +86,8 @@ image:./release-process/release-process-2023.drawio.png[graphical overview of re
 [cols="1,6,2,2"]
 |===
 | Nr | Activity  | Duration  | Schedule/deadline
-| 1  | Collect change requests | continuously 
-| for 2023, CRs are accepted until May 5th 2022 
+| 1  | Collect change requests | continuously
+| for 2023, CRs are accepted until May 5th 2022
 a| 2  | Examination providers provide (structured) data as input, so the FLWG can create (anonymous) statistical evaluation of examinations and examination questions. These statistics also result in CRs, unless it concerns specific formulations in exam questions. In that case, it's managed in our private JIRA. | continuously | none
 | 3 | FLWG maintains the curriculum and associated information within this public Github repository | |
 | 4 | FLWG decides internally, which changes to accept for the upcoming release.| | RD - 6M, Oct 1st 2022
@@ -97,16 +97,16 @@ a| 2  | Examination providers provide (structured) data as input, so the FLWG ca
     | 4 weeks | RD - 5M, Nov 1st 2022 (FLWG failed to meet this date)
 a| 7 | When all changes are included and finalized, a new version of the curriculum is generated (in both EN and DE language) - but not yet made mandatory! All training providers and trainers shall be notified of this update.
 
-**This new version is published on the isaqb-org.github.io website.** 
+**This new version is published on the isaqb-org.github.io website.**
     | 2 weeks | RD - 4M, Dec 20th 2022
-| 4, 6 & 7 | Minor corrections, hotfixes | continuously |	
+| 4, 6 & 7 | Minor corrections, hotfixes | continuously |
 | 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 4-6 weeks |
 a| 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
 EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| RD - 3M, Jan 15th 2023|
 | 10 | iSAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
      | 4 weeks|
 | 11 | For every target language there need to be an expert group who can handle review of translation
-     | 4-6 weeks | 
+     | 4-6 weeks |
 a| 12 | **EN + DE release of curriculum and examination question: Usage of new version is mandatory in all trainings given in DE or EN.**
 
  * All trainers need to have their complete training material updated to this release
@@ -118,15 +118,15 @@ Usage of new version is mandatory in all trainings given in any language.
 
 |===
 
-* **RD**: Release-Date (next: April 1st 2023) 
+* **RD**: Release-Date (next: April 1st 2023)
 * **EP**: Examination Provider
 
 === New major versions of the curriculum
 * Announcements: major versions (2019.x, 2021.x) are announced to training providers at least 3-4 month in advance--usually at the iSAQB members meeting.
 * RC1: About 4-6 month prior to release, training providers receive the first release candidate (RC1) for review and comments.
-* RC2: 6-8 weeks prior to release they receive the final release candidate RC2, which is _feature frozen_ (meaning neither learning goals nor priorities will substantially change, only bugs and typos will be fixed). 
+* RC2: 6-8 weeks prior to release they receive the final release candidate RC2, which is _feature frozen_ (meaning neither learning goals nor priorities will substantially change, only bugs and typos will be fixed).
 * Final version (e.g. 2021.1) will be made public on iSAQB.org and iSAQB.com
-* Released versions will be tagged in git. 
+* Released versions will be tagged in git.
 
 All languages (e.g. DE and EN) will be released at the same time.
 
@@ -181,7 +181,7 @@ The current (2022) FLWG members are:
 
 As stated above, _Foundation Level_ covers small to medium-sized software systems.
 
-Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements. 
+Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
 CPSA-F trainings teach methods and principles for design, communication, documentation and evaluation of software architectures, independent of specific development processes.
 
 Focus is education and training of the following skills:
@@ -211,4 +211,4 @@ Wolfgang Fahl, Philip Ghadir, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. A
 [[copyrighted]]
 == Licensing and Copyright
 
-include::LICENSE.adoc[]
+include::license-copyright/LICENSE.adoc[]

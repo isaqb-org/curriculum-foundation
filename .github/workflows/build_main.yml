@@ -63,7 +63,7 @@ jobs:
         draft: false
         prerelease: false
         bodyFile: "CHANGELOG.md"
-        artifacts: "LICENSE.adoc,release_dir/*.pdf,release_dir/*.zip"
+        artifacts: "license-copyright/LICENSE.adoc,release_dir/*.pdf,release_dir/*.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
     - name: Deploy
       if: startsWith(github.ref, 'refs/tags/')
