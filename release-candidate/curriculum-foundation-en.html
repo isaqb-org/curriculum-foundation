@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.8">
+<meta name="generator" content="Asciidoctor 2.0.17">
 <title>Curriculum forCertified Professional forSoftware Architecture (CPSA)&#174;: Foundation Level</title>
 <style>
 /* normalize.css v2.1.1 | MIT License | git.io/normalize */
@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
 <div class="details">
-<span id="revnumber"> 2023.1.RC-1-EN,</span>
-<span id="revdate">20221206</span>
+<span id="revnumber"> 2023.1.RC-2-EN,</span>
+<span id="revdate">20221213</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -2065,10 +2065,13 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-2-9">LG 2-9: Design and Define Interfaces (R1-R3)</a></p>
 </li>
 <li>
+<p><a href="#LG-2-10">LG 2-10: Know Fundamental Principles of Software Deployment (R3)</a></p>
+</li>
+<li>
 <p><a href="#LG-3-1">LG 3-1: Explain and Consider the Requirements of Technical Documentation (R1)</a></p>
 </li>
 <li>
-<p><a href="#LG-3-2">LG 3-2: Describe and Communicate Software Architectures (R1,R3)</a></p>
+<p><a href="#LG-3-2">LG 3-2: Describe and Communicate Software Architectures (R1, R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-3-3">LG 3-3: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)</a></p>
@@ -2089,10 +2092,7 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-3-8">LG 3-8: Explain and Document Architectural Decisions (R1-R2)</a></p>
 </li>
 <li>
-<p><a href="#LG-3-9">LG 3-9: Use Documentation as Written Communication (R2)</a></p>
-</li>
-<li>
-<p><a href="#LG-3-10">LG 3-10: Know Additional Resources and Tools for Documentation (R3)</a></p>
+<p><a href="#LG-3-9">LG 3-9: Know Additional Resources and Tools for Documentation (R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-4-1">LG 4-1: Discuss Quality Models and Quality Characteristics (R1)</a></p>
@@ -2529,7 +2529,7 @@ They can:</p>
 <div class="sect3">
 <h4 id="LG-1-4">LG 1-4: Understand Software Architects' Tasks and Responsibilities (R1)</h4>
 <div class="paragraph">
-<p>Software architects are responsible for meeting requirements and and creating the architecture design of a solution.
+<p>Software architects are responsible for meeting requirements and creating the architecture design of a solution.
 Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities of project management and/or other roles.</p>
 </div>
 <div class="paragraph">
@@ -2554,7 +2554,7 @@ including <em>required features</em> and <em>required constraints</em></p>
 <p>accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture</p>
 </li>
 <li>
-<p>analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements</p>
+<p>analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements, see <a href="#LG-4-3">LG 4-3: Qualitative Analysis of Software Architectures (R2-R3)</a> and <a href="#LG-4-4">LG 4-4: Quantitative Evaluation of Software Architectures (R2)</a>,</p>
 </li>
 <li>
 <p>identify, highlight, and justify the consequences of architectural decisions to other stakeholders</p>
@@ -2695,7 +2695,7 @@ They should adapt their contribution to a software development in a specific con
 <p>systems based upon machine learning or artificial intelligence</p>
 </li>
 <li>
-<p>hardware-related systems; here they understand the necessity of hardware/software codesign (temporal and content-related dependencies of hardware and software design)</p>
+<p>hardware-related systems; here they understand the necessity of hardware/software co-design (temporal and content-related dependencies of hardware and software design)</p>
 </li>
 </ul>
 </div>
@@ -3177,7 +3177,7 @@ They can outline their general objectives and applications with regard to softwa
 <p>separation of concerns - SoC (R1)</p>
 </li>
 <li>
-<p>loose, but functionally sufficient, coupling (R1) of building blocks, see <a href="#LZ-2-7">LG 2-7</a></p>
+<p>loose, but functionally sufficient, coupling (R1) of building blocks, see <a href="#LG-2-7">LG 2-7</a></p>
 </li>
 <li>
 <p>high cohesion (R1)</p>
@@ -3196,7 +3196,7 @@ They can outline their general objectives and applications with regard to softwa
 <p>L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design</p>
 </li>
 <li>
-<p>I: Interface segregation principle (R2), including its relation to <a href="#LZ-2-9">LG 2-9</a></p>
+<p>I: Interface segregation principle (R2), including its relation to <a href="#LG-2-9">LG 2-9</a></p>
 </li>
 <li>
 <p>D: Dependency inversion principle (R1) by means of interfaces or similar abstractions</p>
@@ -3241,7 +3241,7 @@ They can outline their general objectives and applications with regard to softwa
 <p>as a means to design for robust and resilient systems (R1)</p>
 </li>
 <li>
-<p>as a generalization of the robustness principle aka Postel&#8217;s law (R2)</p>
+<p>as a generalization of the robustness principle (<em>Postel&#8217;s law</em>) (R2)</p>
 </li>
 </ul>
 </div>
@@ -3273,10 +3273,10 @@ They can outline their general objectives and applications with regard to softwa
 <div class="ulist">
 <ul>
 <li>
-<p>Patterns (see <a href="#LZ-2-5">LG 2-5</a>)</p>
+<p>Patterns (see <a href="#LG-2-5">LG 2-5</a>)</p>
 </li>
 <li>
-<p>Fundamental design principles (see <a href="#LZ-2-6">LG 2-6</a>)</p>
+<p>Fundamental design principles (see <a href="#LG-2-6">LG 2-6</a>)</p>
 </li>
 <li>
 <p>Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using <em>Dependency Injection</em>.</p>
@@ -3367,6 +3367,41 @@ They can outline their general objectives and applications with regard to softwa
 </ul>
 </div>
 </div>
+<div class="sect3">
+<h4 id="LG-2-10">LG 2-10: Know Fundamental Principles of Software Deployment (R3)</h4>
+<div class="paragraph">
+<p>Software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>know that software deployment is the process of making new or updated software available to its users</p>
+</li>
+<li>
+<p>are able to name and explain fundamental concepts of software deployment, for example:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>automated deployments</p>
+</li>
+<li>
+<p>repeatable builds</p>
+</li>
+<li>
+<p>consistent environments (e.g. use immutable and disposable infrastructure)</p>
+</li>
+<li>
+<p>put everything under version-control</p>
+</li>
+<li>
+<p>releases are easy-to-undo</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_references_2">References</h3>
@@ -3420,7 +3455,10 @@ They can outline their general objectives and applications with regard to softwa
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-3-2">LG 3-2: Describe and Communicate Software Architectures (R1,R3)</h4>
+<h4 id="LG-3-2">LG 3-2: Describe and Communicate Software Architectures (R1, R3)</h4>
+<div class="paragraph">
+<p>Software architects use documentation to support the design, implementation and further development (also called <em>maintenance</em> or <em>evolution</em>) of systems (R2)</p>
+</div>
 <div class="paragraph">
 <p>Software architects are able to (R1):</p>
 </div>
@@ -3443,15 +3481,15 @@ They can outline their general objectives and applications with regard to softwa
 <div class="ulist">
 <ul>
 <li>
-<p>that various properties of documentation depend on specifics of the system, its requirements, risks, development process, organization or other factors.</p>
+<p>the benefits of template-based documentation</p>
 </li>
 <li>
-<p>the benefits of template-based documentation</p>
+<p>that various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.</p>
 </li>
 </ul>
 </div>
 <div class="paragraph">
-<p>These factors impact (R3):</p>
+<p>For example, software architects can adjust the following documentation characteristics according to the situation (R3):</p>
 </div>
 <div class="ulist">
 <ul>
@@ -3471,9 +3509,6 @@ They can outline their general objectives and applications with regard to softwa
 <p>formal reviews and sign-off processes for documentation</p>
 </li>
 </ul>
-</div>
-<div class="paragraph">
-<p>Software architects are aware of these factors and can adjust the documentation characteristics according to the situation.</p>
 </div>
 </div>
 <div class="sect3">
@@ -3584,13 +3619,7 @@ They can outline their general objectives and applications with regard to softwa
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-3-9">LG 3-9: Use Documentation as Written Communication (R2)</h4>
-<div class="paragraph">
-<p>Software architects use documentation to support the design, implementation and further development (also called <em>maintenance</em> or <em>evolution</em>) of systems.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="LG-3-10">LG 3-10: Know Additional Resources and Tools for Documentation (R3)</h4>
+<h4 id="LG-3-9">LG 3-9: Know Additional Resources and Tools for Documentation (R3)</h4>
 <div class="paragraph">
 <p>Software architects know:</p>
 </div>
@@ -3955,7 +3984,7 @@ Alexander Lorz, Gernot Starke</p>
 <p><a id="yorgey"></a>[Yorgey 2012] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <a href="https://doi.org/10.1145/2364506.2364520" class="bare">https://doi.org/10.1145/2364506.2364520</a></p>
 </li>
 <li>
-<p><a id="zoerner"></a>[Zörner 2021] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag 2021.</p>
+<p><a id="zoerner"></a>[Zörner 2021] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.</p>
 </li>
 </ul>
 </div>
@@ -3964,8 +3993,8 @@ Alexander Lorz, Gernot Starke</p>
 </div>
 <div id="footer">
 <div id="footer-text">
- 2023.1.RC-1-EN<br>
-Last updated 2022-12-06 15:05:48 UTC
+ 2023.1.RC-2-EN<br>
+Last updated 2022-12-13 07:29:23 UTC
 </div>
 </div>
 </body>
