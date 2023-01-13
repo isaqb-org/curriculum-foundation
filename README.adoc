@@ -43,9 +43,11 @@ TODO: add issue templates for bugs, comments, proposals
 
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
 
-In case you want to change that, adjust the following part of `build.gradle`:
+`./gradlew buildDocs`
+
+In case you want to change the configuration, adjust the following part of `build.gradle`:
 
 [source,groovy]
 ----
