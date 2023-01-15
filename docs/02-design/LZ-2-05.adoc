@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-2-5]]
-==== LZ 2-5: Wichtige Lösungsmuster beschreiben, erklären und angemessen anwenden (R1, R3)
+==== LZ 2-5: Wichtige Lösungsmuster beschreiben, erklären und angemessen anwenden (R1,R3)
 
 
 Softwarearchitekt:innen kennen verschiedene Architekturmuster (siehe unten) und können sie gegebenenfalls anwenden.
@@ -54,7 +54,7 @@ Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beisp
 
 // tag::EN[]
 [[LG-2-5]]
-==== LG 2-5: Describe, Explain and Appropriately Apply Important Solution Patterns (R1, R3)
+==== LG 2-5: Describe, Explain and Appropriately Apply Important Solution Patterns (R1,R3)
 
 
 Software architects know:

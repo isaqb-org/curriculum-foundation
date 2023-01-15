@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-2-3]]
-==== LZ 2-3: Anforderungen klären und berücksichtigen können (R1-R3)
+==== LZ 2-3: Anforderungen klären und berücksichtigen können (R1,R2,R3)
 
 Softwarearchitekt:innen können Anforderungen (inklusive Randbedingungen als Einschränkungen der Entwurfsfreiheit) klären und berücksichtigen.
 Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Randbedingungen) an das zu entwerfende System, seine Architektur oder den Entwicklungsprozess führen können. 
@@ -42,7 +42,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 // tag::EN[]
 [[LG-2-3]]
-==== LG 2-3: Identify and Consider Factors Influencing Software Architecture (R1-R3)
+==== LG 2-3: Identify and Consider Factors Influencing Software Architecture (R1,R2,R3)
 
 
 Software architects are able to clarify and consider requirements (including constraints that restrict their decisions).

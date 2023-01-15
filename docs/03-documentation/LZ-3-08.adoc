@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-3-8]]
-==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R1-R2)
+==== LZ 3-8: Architekturentscheidungen erläutern und dokumentieren (R1,R2)
 
 Softwarearchitekt:innen können:
 
@@ -13,7 +13,7 @@ Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<nygar
 
 // tag::EN[]
 [[LG-3-8]]
-==== LG 3-8: Explain and Document Architectural Decisions (R1-R2)
+==== LG 3-8: Explain and Document Architectural Decisions (R1,R2)
 
 Software architects are able to:
 

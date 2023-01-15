@@ -2,7 +2,7 @@
 // tag::DE[]
 
 [[LZ-2-9]]
-==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1-R3)
+==== LZ 2-9: Schnittstellen entwerfen und festlegen (R1,R2,R3)
 
 Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
 
@@ -22,7 +22,7 @@ Sie kennen:
 
 // tag::EN[]
 [[LG-2-9]]
-==== LG 2-9: Design and Define Interfaces (R1-R3)
+==== LG 2-9: Design and Define Interfaces (R1,R2,R3)
 
 Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
 
