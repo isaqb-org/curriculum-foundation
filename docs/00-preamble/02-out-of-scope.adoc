@@ -25,14 +25,14 @@ This curriculum reflects the contents currently considered by the iSAQB members 
 
 The following topics or concepts are not part of CPSA-F:
 
-* Specific implementation technologies, frameworks or libraries
-* Programming or programming languages
-* Specific process models
-* Fundamentals of modelling notations (such as UML) or fundamentals of modelling itself
-* System analysis and requirements engineering (please refer to the education and certification program by IREB e. V., https://ireb.org, International Requirements Engineering Board)
-* Software testing (please refer to the education and certification program by ISTQB e.V., https://istqb.org, International Software Testing Qualification Board)
-* Project or product management
-* Introduction to specific software tools.
+* specific implementation technologies, frameworks or libraries
+* programming or programming languages
+* specific process models
+* fundamentals of modelling notations (such as UML) or fundamentals of modelling itself
+* system analysis and requirements engineering (please refer to the education and certification program by IREB e. V., https://ireb.org, International Requirements Engineering Board)
+* software testing (please refer to the education and certification program by ISTQB e.V., https://istqb.org, International Software Testing Qualification Board)
+* project or product management
+* introduction to specific software tools.
 
  The aim of the training is to provide the basics for acquiring the advanced knowledge and skills required for the respective application.
 

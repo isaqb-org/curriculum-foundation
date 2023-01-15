@@ -34,7 +34,7 @@ They know:
 ** functionally complete from the perspective of users or building blocks using them.
 * the necessity to treat internal and external interfaces differently
 * different approaches for implementing interfaces (R3):
-** Resource-oriented approach (REST, Representational State Transfer)
-** Service-oriented approach (see WS-*/SOAP-based web services.
+** resource oriented approach (REST, Representational State Transfer)
+** service oriented approach (see WS-*/SOAP-based web services.
 
 // end::EN[]

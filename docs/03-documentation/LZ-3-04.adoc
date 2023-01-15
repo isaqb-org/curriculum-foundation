@@ -16,8 +16,8 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden:
 Software architects are able to use the following architectural views:
 
 * context view 
-* building-block or component view (composition of software building blocks) 
-* run-time view (dynamic view, interaction between software building blocks at run-time, state machines) 
+* building block or component view (composition of software building blocks) 
+* runtime view (dynamic view, interaction between software building blocks at runtime, state machines) 
 * deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)
 
 // end::EN[]

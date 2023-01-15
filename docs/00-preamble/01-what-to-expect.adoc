@@ -29,7 +29,7 @@ CPSA-F trainings teach methods and principles for design, documentation and eval
 
 Focus is education and training of the following skills:
 
-*	Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test
+*	discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test
 *	understand the essential activities of software architecture, and carry out those for small- to medium sized systems
 *	document and communicate software architectures based upon architectural views, architecture patterns and technical concepts.
 

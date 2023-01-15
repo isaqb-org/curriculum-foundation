@@ -37,7 +37,7 @@ Domain-Driven Design
 | Duration: 330 min. | Excercises: 90 min.
 |===
 
-=== Relevant Terms
+=== Relevant terms
 Design; design approach; design decision; views; 
 {glossary_url}interface[interfaces];  
 technical and 

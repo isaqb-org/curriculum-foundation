@@ -35,7 +35,7 @@ Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssystem
 | Duration: 120 min. | Exercises: none
 |===
 
-=== Relevant Terms
+=== Relevant terms
 {glossary_url}software-architecture[Software architecture]; 
 architecture domains; {glossary_url}structure[structure]; 
 {glossary_url}building-block[building blocks]; 
