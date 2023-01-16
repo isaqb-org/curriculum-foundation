@@ -6,7 +6,7 @@
 // end::DE[]
 
 // tag::EN[]
-:learning_goals: Learning goals
+:learning_goals: Learning Goals
 :chapter-label:
 :introduction: Introduction
 :references: References

@@ -30,7 +30,7 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 // end::DE[]
 
 // tag::EN[]
-=== Structure, duration and teaching methods
+=== Structure, Duration and Teaching Methods
 
 Study times given in the following sections of the curriculum are just recommendations.
 The duration of a training course should be at least three days, but may as well be longer.

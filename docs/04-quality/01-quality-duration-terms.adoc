@@ -19,7 +19,7 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbau
 | Duration: 60 min. | Exercises: 60 min.
 |===
 
-=== Relevant terms
+=== Relevant Terms
 Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; quality scenarios; quality tree; trade-offs between quality characteristics; qualitative architecture analysis; metrics and quantitative analysis
 
 // end::EN[]
