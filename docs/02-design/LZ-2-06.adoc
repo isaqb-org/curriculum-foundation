@@ -101,12 +101,12 @@ Software architects are able to:
 * as a means to reduce complexity (R1)
 * as the driving factor behind KISS (R3) and YAGNI (R3)
 
-**Expect Errors** (R1-R2)
+**Expect errors** (R1-R2)
 
 * as a means to design for robust and resilient systems (R1)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
 
-**Other Principles** (R3)
+**Other principles** (R3)
 
 Software architects know other principles (such as CUPID, see <<nygard-cupid>>), and can apply them.
 // end::EN[]

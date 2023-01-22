@@ -12,7 +12,7 @@ Bitte melden Sie eventuelle Probleme in unserem https://github.com/isaqb-org/cur
 // end::DE[]
 
 // tag::EN[]
-=== Current version and public repository
+=== Current Version and Public Repository
 
 You find the most current version of this document on the official https://isaqb-org.github.io/curriculum-foundation/[download page] on https://isaqb-org.github.io/.
 
