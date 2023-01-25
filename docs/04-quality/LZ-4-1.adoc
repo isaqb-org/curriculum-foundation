@@ -22,7 +22,7 @@ Softwarearchitekt:innen können:
 Software architects can explain:
 
 * the concept of quality and quality characteristics  (based on <<iso25010>>)
-* generic quality models (such as <<iso25010>>>)
+* generic quality models (such as <<iso25010>>)
 * correlations and trade-offs of quality characteristics, for example:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency
