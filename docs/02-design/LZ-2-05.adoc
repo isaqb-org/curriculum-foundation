@@ -71,8 +71,8 @@ Software architects can explain and provide examples for the following patterns 
 ** abstraction layers hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
 ** another interpretation are Layers to (physically) separate functionality or responsibility, see https://en.wikipedia.org/wiki/Multitier_architecture
 
-* _pipes and filter_: representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filter") and associated data transport/buffering capabilities ("Pipes").
-* _microservices_ split application into separate executable that communicate via network
+* _pipes and filters_: representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filters") and associated data transport/buffering capabilities ("Pipes").
+* _microservices_ split applications into separate executables that communicate via a network
 * _dependency injection_ as a possible solution for the Dependency-Inversion-Principle <<newman>>
 
 
