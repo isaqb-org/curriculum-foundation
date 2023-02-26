@@ -13,7 +13,7 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 
 // tag::EN[]
 [[LG-3-1]]
-==== LG 3-1: Explain and consider the requirements of technical documentation (R1)
+==== LG 3-1: Explain and Consider the Requirements of Technical Documentation (R1)
 Software architects know the requirements of technical documentation and can consider and fulfil them when documenting systems:
 
 * understandability, correctness, efficiency, appropriateness, maintainability

@@ -15,7 +15,7 @@ Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegri
 
 | R1
 | Können
-| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
+| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbstständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
 | Inhalte *werden* geprüft.
 
 | R2
@@ -35,7 +35,7 @@ Die Abschnitte "Begriffe und Konzepte" zu Beginn jedes Kapitels zeigen Worte, di
 // end::DE[]
 
 // tag::EN[]
-=== Learning goals and relevance for the examination
+=== Learning Goals and Relevance for the Examination
 The structure of the curriculum's chapters follows a set of prioritized learning goals.
 For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R1, R2, R3 classification, see the table below).
 Every learning goal describes the contents to be taught including their key terms and concepts.

@@ -13,7 +13,7 @@ Sie können:
 
 // tag::EN[]
 [[LG-1-3]]
-==== LG 1-3: Understand software architecture as part of the software lifecycle (R2)
+==== LG 1-3: Understand Software Architecture as Part of the Software Lifecycle (R2)
 
 Software architects understand their tasks and can integrate their results into the overall lifecycle of IT systems.
 They can:

@@ -19,14 +19,10 @@ endif::[]
 // have been configured (e.g. "DE;EN")
 include::config/i18n-definitions.adoc[tags={language}]
 
-ifdef::backend-pdf[]
-:title-logo-image: image:isaqb-logo.jpg[pdfwidth=4.25in,align=center]
-endif::[]
-
 
 <<<
 :sectnums!:
-include::00-preamble/copyright.adoc[{include_configuration}]
+include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
 // put table of contents right behind copyright page
@@ -34,7 +30,7 @@ toc::[]
 
 <<<
 // Auto-generated list of learning objectives
-include::learning-objectives.adoc[{include_configuration}]
+include::learning-goals.adoc[{include_configuration}]
 
 <<<
 :sectnums!:

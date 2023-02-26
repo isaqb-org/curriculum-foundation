@@ -1,15 +1,32 @@
+
 // tag::DE[]
 [[LZ-3-9]]
-==== LZ 3-9: Dokumentation als schriftliche Kommunikation nutzen (R2)
+==== LZ 3-9: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
-Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen.
+Softwarearchitekt:innen kennen:
+
+* Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
+** ISO/IEEE-42010 (vormals 1471), siehe <<iso42010>>
+** arc42, siehe <<arc42>>
+** C4, siehe <<brownc4>>
+** FMC, siehe <<fmc>>
+* Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
+* mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-9]]
-==== LG 3-9: Use documentation as written communication (R2)
+==== LG 3-9: Know Additional Resources and Tools for Documentation (R3)
 
-Software architects use documentation to support the design, implementation and further development (also called _maintenance_ or _evolution_) of systems.
+Software architects know:
+
+* basics of several published frameworks for the description of software architectures, for example:
+** ISO/IEEE-42010 (formerly 1471), see <<iso42010>>
+** arc42, see <<arc42>>
+** C4, see <<brownc4>>
+** FMC, see <<fmc>>
+* ideas and examples of checklists for the creation, documentation, and testing of software architectures
+* possible tools for creating and maintaining architectural documentation
 
 // end::EN[]

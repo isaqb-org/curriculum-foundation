@@ -38,10 +38,10 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * Schnittstellenmuster wie Adapter, Fassade, Proxy. Solche Muster helfen bei der Integration von Subsystemen und/oder bei der Vereinfachung von Abhängigkeiten. Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können.
 ** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt.
 ** Fassade: vereinfacht die Verwendung eines Providers für den/die Consumer durch vereinfachten Zugriff.
-** Proxy: Ein Vermittler/Stellvertreter zwischen Consumer und Provider, der beispielsweise die zeitliche Entkopplung, das Caching von Ergebnissen oder die Zugriffkontrolle auf den Provider ermöglicht.
+** Proxy: Ein Vermittler/Stellvertreter zwischen Consumer und Provider, der beispielsweise die zeitliche Entkopplung, das Caching von Ergebnissen oder die Zugriffskontrolle auf den Provider ermöglicht.
 * Observer (Beobachter): ein Produzent von Werten benachrichtigt eine zentrale Vermittlungsstelle, bei der sich Interessenten (Consumer) registrieren können, um über Änderungen benachrichtigt zu werden.
 * Plug-In: erweitert das Verhalten einer Komponente.
-* Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur, Clean-Architecture): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von aussen nach innen (Outside-In), niemals von innen nach aussen (Inside-Out). <<lange21>> <<martin17>>
+* Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur, Clean-Architecture): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von außen nach innen (Outside-In), niemals von innen nach außen (Inside-Out). <<lange21>> <<martin17>>
 * Remote Procedure Call: eine Funktion oder einen Algorithmus in einem anderen Adressraum ausführen lassen.
 * SOA (Service-orientierte Architektur): Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern.
 * Template und Strategy: spezifische Algorithmen durch Kapselung flexibel machen.
@@ -54,7 +54,7 @@ Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beisp
 
 // tag::EN[]
 [[LG-2-5]]
-==== LG 2-5: Describe, explain and appropriately apply important solution patterns (R1, R3)
+==== LG 2-5: Describe, Explain and Appropriately Apply Important Solution Patterns (R1, R3)
 
 
 Software architects know:
@@ -67,36 +67,36 @@ Software architects know:
 
 Software architects can explain and provide examples for the following patterns (R1):
 
-* Layers:
-** Abstraction layers hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
-** Another interpretation are Layers to (physically) separate functionality or responsibility, see https://en.wikipedia.org/wiki/Multitier_architecture
+* _layers_:
+** abstraction layers hide details, example: ISO/OSI network layers, or "hardware abstraction layer". See https://en.wikipedia.org/wiki/Hardware_abstraction
+** another interpretation are Layers to (physically) separate functionality or responsibility, see https://en.wikipedia.org/wiki/Multitier_architecture
 
-* Pipes-and-Filter: Representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filter") and associated data transport/buffering capabilities ("Pipes").
-* Microservices split application into separate executable that communicate via network
-* Dependency Injection as a possible solution for the Dependency-Inversion-Principle <<newman>>
+* _pipes and filters_: representative for data flow patterns, breaking down stepwise processing into a series of processing-activities ("Filters") and associated data transport/buffering capabilities ("Pipes").
+* _microservices_ split applications into separate executables that communicate via a network
+* _dependency injection_ as a possible solution for the Dependency-Inversion-Principle <<newman>>
 
 
 Software architects can explain several of the following patterns, explain their relevance for concrete systems, and provide examples. (R3)
 
-* Blackboard: handle problems that cannot be solved by deterministic algorithms but require diverse knowledge
-* Broker:  responsible for coordinating communication between provider(s) and consumer(s), applied in distributed systems. Responsible for forwarding requests and/or transmitting results and exceptions
-* Combinator (synonym: closure of operations), for domain object of type T, look for operations with both input and output type T. See <<yorgey>>
-* CQRS (Command-Query-Responsibility-Segregation): Separates read- from write concerns in information systems. Requires some context on database-/persistence technology to understand the different properties and requirements of "read" versus "write" operations
-* Event-Sourcing:  handle operations on data by a sequence of events, each of which is recorded in an append-only store
-* Interpreter: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself
-* Integration and messaging patterns (e.g. from Hohpe+2004])
-* The MVC (Model View Controller), MVVM (Model View ViewModel), MVU (Model View Update), PAC (Presentation Abstraction Control) family of patterns, separating external representation (view) from data, services and their coordination
-* Interfacing-patterns like Adapter, Facade, Proxy. Such patterns help in integration of subsystems and/or simplification of dependencies. Architects should know that these patterns can be used independent of (object) technology
-** Adapter: decouple consumer and provider - where the interface of the provider does not exactly match that of the consumer. The Adapter decouples one party from interface-changes in the other
-** Facade: simplifies usage of a provider for consumer(s) by providing simplified access
-** Proxy: An intermediate between consumer and provider, enabling temporal decoupling, caching of results, controlling access to the provider etc.
-* Observer: a producer of values over time notifies a central switchboards where consumers can register to be notified of them
-* Plug-In: extend the behaviour of a component
-* Ports&Adapters (syn. Onion-Architecture, Hexagonal-Architecture, Clean-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<lange21>> <<martin17>>
-* Remote Procedure Call: make a function or algorithm execute in a different address space
-* SOA (Service-Oriented Architecture): An approach to provide abstract services rather than concrete implementations to users of the system to promote reuse of services across departments and between companies
-* Template and Strategy: make specific algorithms flexible by encapsulating them
-* Visitor: separate data-structure traversal from specific processing
+* _blackboard_: handle problems that cannot be solved by deterministic algorithms but require diverse knowledge
+* _broker_:  responsible for coordinating communication between provider(s) and consumer(s), applied in distributed systems. Responsible for forwarding requests and/or transmitting results and exceptions
+* _combinator_ (synonym: closure of operations), for domain object of type T, look for operations with both input and output type T. See <<yorgey>>
+* _CQRS_ (Command-Query-Responsibility-Segregation): separates read from write concerns in information systems. Requires some context on database-/persistence technology to understand the different properties and requirements of "read" versus "write" operations
+* _event sourcing_:  handle operations on data by a sequence of events, each of which is recorded in an append-only store
+* _interpreter_: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself
+* integration and messaging patterns (e.g. from Hohpe+2004])
+* the MVC (Model View Controller), MVVM (Model View ViewModel), MVU (Model View Update), PAC (Presentation Abstraction Control) family of patterns, separating external representation (view) from data, services and their coordination
+* interfacing patterns like Adapter, Facade, Proxy. Such patterns help in integration of subsystems and/or simplification of dependencies. Architects should know that these patterns can be used independent of (object) technology
+** _adapter_: decouple consumer and provider - where the interface of the provider does not exactly match that of the consumer. The Adapter decouples one party from interface-changes in the other
+** _facade_: simplifies usage of a provider for consumer(s) by providing simplified access
+** _proxy_: an intermediate between consumer and provider, enabling temporal decoupling, caching of results, controlling access to the provider etc.
+* _observer_: a producer of values over time notifies a central switchboards where consumers can register to be notified of them
+* _plug-in_: extend the behaviour of a component
+* _ports & adapters_ (syn. Onion-Architecture, Hexagonal-Architecture, Clean-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<lange21>> <<martin17>>
+* _remote procedure call_: make a function or algorithm execute in a different address space
+* _SOA_ (Service-Oriented Architecture): an approach to provide abstract services rather than concrete implementations to users of the system to promote reuse of services across departments and between companies
+* _template and strategy_: make specific algorithms flexible by encapsulating them
+* _visitor_: separate data-structure traversal from specific processing
 
 Software architects know essential sources for architectural patterns, such as POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems) (R3).
 

@@ -13,12 +13,12 @@
 // end::DE[]
 
 // tag::EN[]
-== Specification and communication of software architectures
+== Specification and Communication of Software Architectures
 
 |===
 | Duration: 180 min. | Exercises: 60 min.
 |===
 
-=== Relevant terms
+=== Relevant Terms
 (Architectural) Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment artifacts; mapping building blocks onto deployment artifacts; description of interfaces and design decisions; UML, tools for documentation
 // end::EN[]

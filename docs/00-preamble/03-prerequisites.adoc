@@ -40,15 +40,15 @@ The iSAQB e. V. may check the following prerequisites in certification examinati
 Participants should have the following knowledge and/or experience. 
 In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
 
-* More than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education
-* Knowledge of and practical experience with at least one higher programming language, especially:
-** Concepts of 
+* more than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education
+* knowledge of and practical experience with at least one higher programming language, especially:
+** concepts of 
 *** modularization (packages, namespaces, etc.)
 *** parameter-passing (_call-by-value, call-by-reference_)
-*** _scope_, i.e. of type- and variable declaration and definition
-** Basics of type systems (static vs. dynamic typing, generic data types)
-** Error- and exception handling in software
-** Potential problems of global state and global variables
+*** _scope_, i.e. of type and variable declaration and definition
+** basics of type systems (static vs. dynamic typing, generic data types)
+** error and exception handling in software
+** potential problems of global state and global variables
 
 * Basic knowledge of:
 ** modelling and abstraction
@@ -59,8 +59,8 @@ In particular, substantial practical experience from software development in a t
 
 Furthermore, the following will be useful for understanding several concepts:
 
-* Basics and differences of imperative, declarative, object-oriented and functional programming
-* Practical experience in 
+* basics and differences of imperative, declarative, object-oriented and functional programming
+* practical experience in 
 ** a higher level programming language
 ** designing and implementing distributed applications, such as client-server systems or web applications
 ** technical documentation, especially documenting source code, system design or technical concepts

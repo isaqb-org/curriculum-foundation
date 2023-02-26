@@ -1,0 +1,34 @@
+
+// tag::DE[]
+
+[[LZ-2-10]]
+==== LZ 2-10: Grundlegende Prinzipien von Software-Deployments kennen (R3)
+Softwarearchitekt:innen: 
+
+* wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird
+* können grundlegende Konzepte des Deployments von Software benennen und erklären, beispielsweise:
+** Automatisierung von Deployments
+** Wiederholbare Builds
+** Konsistente Umgebungen (z.B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
+** Alles liegt unter Versionskontrolle
+** Releases sind einfach zurückzunehmen
+
+// end::DE[]
+
+// tag::EN[]
+
+[[LG-2-10]]
+==== LG 2-10: Know Fundamental Principles of Software Deployment (R3)
+
+Software architects:
+
+* know that software deployment is the process of making new or updated software available to its users
+* are able to name and explain fundamental concepts of software deployment, for example:
+** automated deployments
+** repeatable builds
+** consistent environments (e.g. use immutable and disposable infrastructure)
+** put everything under version-control
+** releases are easy-to-undo
+
+
+// end::EN[]

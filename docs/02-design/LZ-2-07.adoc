@@ -19,7 +19,7 @@ Sie:
 
 // tag::EN[]
 [[LG-2-7]]
-==== LG 2-7: Manage dependencies between building blocks (R1)
+==== LG 2-7: Manage Dependencies between Building Blocks (R1)
 
 Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:
 
@@ -27,8 +27,8 @@ Software architects understand dependencies and coupling between building blocks
 * understand how dependencies increase coupling
 * can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * know and can apply possibilities to reduce or eliminate coupling, for example:
-** Patterns (see <<LZ-2-5, LG 2-5>>)
-** Fundamental design principles (see <<LZ-2-6, LG 2-6>>)
-** Externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
+** patterns (see <<LG-2-5, LG 2-5>>)
+** fundamental design principles (see <<LG-2-6, LG 2-6>>)
+** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
 // end::EN[]

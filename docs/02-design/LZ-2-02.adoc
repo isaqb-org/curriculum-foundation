@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen können:
 
-* Softwarearchitekturen auf Basis bekannter bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
+* Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen
 * gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
 * Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden
@@ -20,7 +20,7 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-2-2]]
-==== LG 2-2: Design software architectures (R1)
+==== LG 2-2: Design Software Architectures (R1)
 
 Software architects are able to:
 

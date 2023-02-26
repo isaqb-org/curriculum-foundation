@@ -21,7 +21,7 @@ Sie können:
 // tag::EN[]
 
 [[LG-2-8]]
-==== LG 2-8: Achieve quality requirements with appropriate approaches and techniques (R1)
+==== LG 2-8: Achieve Quality Requirements with Appropriate Approaches and Techniques (R1)
 
 Software architects understand and consider the considerable influence of quality requirements in architecture and design decisions, e.g. for:
 

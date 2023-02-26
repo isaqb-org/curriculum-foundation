@@ -18,7 +18,7 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Select and use approaches and heuristics for architecture development (R1,R3)
+==== LG 2-1: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)
 Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
 
 * top-down and bottom-up approaches to design (R1)

@@ -9,11 +9,6 @@
 // table-of-contents placement does not work in pdf, but in html
 :toc: left
 
-// Uniqe ID for learning goals (as proposed in https://github.com/isaqb-org/curriculum-foundation/issues/20)
-// attribute ":with-uniqe-LG-id:"
-// FIXME 
-
-
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
@@ -44,8 +39,6 @@ endif::[]
 // but the "BIB_REFS" tag.
 :bibrefs: BIB_REFS
 
-
-
 // you might want to output some internal information...
 ifdef::debug_adoc[]
 [NOTE]
@@ -58,9 +51,8 @@ Current configuration:
 ====
 endif::debug_adoc[]
 
-
 // glossary definitions
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
-// on Leanpub (https://leanpub.com/isaqbglossary/read)
-//
-:glossary_url: https://leanpub.com/isaqbglossary/read#term-
+// on github (https://public.isaqb.org/glossary)
+// This is the fallback URL if it is not set via build.gradle
+:glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-

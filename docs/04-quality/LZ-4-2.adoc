@@ -12,7 +12,7 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-4-2]]
-==== LG 4-2: Clarify quality requirements for software architectures (R1)
+==== LG 4-2: Clarify Quality Requirements for Software Architectures (R1)
 
 Software architects can:
 

@@ -6,14 +6,14 @@
 Softwarearchitekt:innen: 
 
 * können Annahmen oder Voraussetzungen explizit darstellen und dadurch implizite Annahmen vermeiden
-* wissen, dass implizite Annahmen potentielle Missverständnisse zwischen beteiligten Stakeholdern bewirken
+* wissen, dass implizite Annahmen potenzielle Missverständnisse zwischen beteiligten Stakeholdern bewirken
 * können implizit formulieren, wenn es im gegebenen Kontext angemessen ist
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-8]]
-==== LG 1-8: Distinguish explicit statements and implicit assumptions (R1)
+==== LG 1-8: Distinguish Explicit Statements and Implicit Assumptions (R1)
 
 Software architects: 
 
