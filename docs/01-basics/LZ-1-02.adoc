@@ -24,7 +24,7 @@ Software architects can justify the following essential goals and benefits of so
 * support the design, implementation, maintenance, and operation of systems
 * achieve functional requirements or ensure that they can be met
 * achieve requirements such as reliability, maintainability, changeability, security, energy efficiency etc.
-* ensure that the the system's structures and concepts are understood by all relevant stakeholders
+* ensure that the system's structures and concepts are understood by all relevant stakeholders
 * systematically reduce complexity
 * specify architecturally relevant guidelines for implementation and operation
  
