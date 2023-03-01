@@ -1,13 +1,11 @@
 // tag::DE[]
 :learning_goals: Lernziele
-:chapter-label:
 :introduction: Einleitung
 :references: Referenzen
 // end::DE[]
 
 // tag::EN[]
 :learning_goals: Learning Goals
-:chapter-label:
 :introduction: Introduction
 :references: References
 // end::EN[]
