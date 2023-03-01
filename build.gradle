@@ -18,7 +18,9 @@ ext {
     today = new Date()
     versionDate = new SimpleDateFormat("yyyyMMdd").format(today)
 
-    project.version = project.file("./document.version").text
+    releaseVersion = System.getenv("RELEASE_VERSION")
+    localVersion = "LocalBuild"
+    project.version = releaseVersion == null ? localVersion : releaseVersion;
 
     validity = new Date(project.file("./document.validity").text.trim())
     validityEnglish = "valid from " + new SimpleDateFormat("MMMM d, yyyy", Locale.US).format(validity)
