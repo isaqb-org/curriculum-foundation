@@ -5,8 +5,8 @@
 
 Softwarearchitekt:innen können:
 
-* den Begriff der Qualität und der Qualitätsmerkmale (angelehnt an <<iso25010>>) erklären
-* generische Qualitätsmodelle (wie etwa <<iso25010>>) erklären
+* den Begriff der Qualität und der Qualitätsmerkmale (angelehnt an z.{nbsp}B. <<iso25010>> oder <<bass>>) erklären
+* generische Qualitätsmodelle (wie etwa <<iso25010>>, <<bass>> oder <<q42>>) erklären
 * Zusammenhänge und Wechselwirkungen von Qualitätsmerkmalen erläutern, beispielsweise:
 ** Konfigurierbarkeit versus Zuverlässigkeit
 ** Speicherbedarf versus Leistungseffizienz
@@ -21,8 +21,8 @@ Softwarearchitekt:innen können:
 
 Software architects can explain:
 
-* the concept of quality and quality characteristics  (based on <<iso25010>>)
-* generic quality models (such as <<iso25010>>)
+* the concept of quality and quality characteristics  (based on e.g. <<iso25010>> or <<bass>>)
+* generic quality models (such as <<iso25010>>, <<bass>>, or <<q42>>)
 * correlations and trade-offs of quality characteristics, for example:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency

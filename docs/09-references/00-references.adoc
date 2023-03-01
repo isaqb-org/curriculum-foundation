@@ -41,7 +41,7 @@ Alexander Lorz, Gernot Starke
 - [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/> 
 - [[[nygard-cupid,Nygard 2022]]] Michael Nygard: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
 - [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017. 
-- [[[Q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>. 
+- [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>. 
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 - [[[eilebrecht,Eilebrecht+2019]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 5th Edition Springer Verlag 2019.
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
