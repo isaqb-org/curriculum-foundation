@@ -12,7 +12,6 @@ Softwarearchitekt:innen können:
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht
 * die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
-* fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen
 * domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
 * Risiken von Entwurfsentscheidungen identifizieren.
 
