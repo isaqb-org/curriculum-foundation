@@ -4,7 +4,7 @@
 ==== LZ 2-3: Anforderungen klären und berücksichtigen können (R1-R3)
 
 Softwarearchitekt:innen können Anforderungen (inklusive Randbedingungen als Einschränkungen der Entwurfsfreiheit) klären und berücksichtigen.
-Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Randbedingungen) an das zu entwerfende System, seine Architektur oder den Entwicklungsprozess führen können.
+Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Randbedingungen) an das zu entwerfende System, seine Architektur oder den Entwicklungsprozess führen können. 
 
 Sie erkennen und berücksichtigen den Einfluss von:
 
@@ -12,7 +12,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** funktionale Anforderungen
 ** Qualitätsanforderungen
 
-* Technologische Randbedingungen wie
+* Technologische Randbedingungen wie 
 ** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
 ** technologische Beschränkungen für Datenstrukturen und Schnittstellen (R2)
 ** Referenzarchitekturen, Bibliotheken, Komponenten und Frameworks (R1)
@@ -36,7 +36,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Markttrends
 ** Technologietrends (z.B. Blockchain, Microservices)
 ** Methodik-Trends (z.B. agil)
-** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen
+** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen 
 // end::DE[]
 
 // tag::EN[]
@@ -45,7 +45,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 
 Software architects are able to clarify and consider requirements (including constraints that restrict their decisions).
-They understand that their decisions can lead to additional requirements (including constraints) on the system being designed, its architecture, or the development process.
+They understand that their decisions can lead to additional requirements (including constraints) on the system being designed, its architecture, or the development process. 
 
 
 They should recognize and account for the impact of:
@@ -54,7 +54,8 @@ They should recognize and account for the impact of:
 ** functional requirements
 ** quality requirements
 
-* technological constraints such as
+
+* technological constraints such as 
 ** existing or planned hardware and software infrastructure (R1)
 ** technological constraints on data structures and interfaces (R2)
 ** reference architectures, libraries, components, and frameworks (R1)
@@ -72,7 +73,7 @@ They should recognize and account for the impact of:
 ** local and international legal constraints
 ** contract and liability issues
 ** data protection​ and privacy laws
-** compliance issues or obligations to provide burden of proof
+** compliance issues or obligations to provide burden of proof​
 
 * trends such as (R3)
 ** market trends
