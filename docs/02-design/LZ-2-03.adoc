@@ -8,10 +8,9 @@ Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Ran
 
 Sie erkennen und berücksichtigen den Einfluss von:
 
-* produktbezogenen Anforderungen und Trends wie (R1)
+* produktbezogenen Anforderungen wie (R1)
 ** funktionale Anforderungen
 ** Qualitätsanforderungen
-** technologische, organisatorische und regulatorische Randbedingungen.
 
 * Technologische Randbedingungen wie 
 ** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
@@ -51,10 +50,9 @@ They understand that their decisions can lead to additional requirements (includ
 
 They should recognize and account for the impact of:
 
-* product-related factors and trends such as (R1)
+* product-related requirements such as (R1)
 ** functional requirements
 ** quality requirements
-** technological, organizational and regulatory constraints.
 
 
 * technological constraints such as 
