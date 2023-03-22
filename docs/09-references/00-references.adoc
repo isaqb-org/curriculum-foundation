@@ -9,7 +9,7 @@
 - [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
 - [[[archimate, Archimate]]] The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
 - [[[bass,Bass+ 2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4^th^ Edition, Addison Wesley 2021.
-- [[[brownc4,Brown]]] Simon Brown: Brown, Simon: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
+- [[[brownc4,Brown]]] Simon Brown: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
 - [[[buschmanna,Buschmann+ 1996]]] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.
 - [[[buschmannb,Buschmann+ 2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
 - [[[clementseval,Clements+ 2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
