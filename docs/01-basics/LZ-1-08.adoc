@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-1-8]]
-==== LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)
+==== LZ 1-8: Explizite Aussagen von impliziten Annahmen unterscheiden (R1)
 
 Softwarearchitekt:innen: 
 
