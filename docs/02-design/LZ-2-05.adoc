@@ -39,7 +39,9 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 ** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt.
 ** Fassade: vereinfacht die Verwendung eines Providers für den/die Consumer durch vereinfachten Zugriff.
 ** Proxy: Ein Vermittler/Stellvertreter zwischen Consumer und Provider, der beispielsweise die zeitliche Entkopplung, das Caching von Ergebnissen oder die Zugriffskontrolle auf den Provider ermöglicht.
-* Observer (Beobachter): ein Produzent von Werten benachrichtigt eine zentrale Vermittlungsstelle, bei der sich Interessenten (Consumer) registrieren können, um über Änderungen benachrichtigt zu werden.
+* Observer (Beobachter): Ein Interessent (Observer, Beobachter)
+  registriert sich bei einem Objekt (dem Subjekt), damit das Subjekt
+  den Observer bei Änderungen benachrichtigt.
 * Plug-In: erweitert das Verhalten einer Komponente.
 * Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur, Clean-Architecture): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von außen nach innen (Outside-In), niemals von innen nach außen (Inside-Out). <<lange21>> <<martin17>>
 * Remote Procedure Call: eine Funktion oder einen Algorithmus in einem anderen Adressraum ausführen lassen.
@@ -90,7 +92,8 @@ Software architects can explain several of the following patterns, explain their
 ** _adapter_: decouple consumer and provider - where the interface of the provider does not exactly match that of the consumer. The Adapter decouples one party from interface-changes in the other
 ** _facade_: simplifies usage of a provider for consumer(s) by providing simplified access
 ** _proxy_: an intermediate between consumer and provider, enabling temporal decoupling, caching of results, controlling access to the provider etc.
-* _observer_: a producer of values over time notifies a central switchboards where consumers can register to be notified of them
+* _observer_: An interested object (observer) registers with another
+  object (the subject) so that the subject notifies the observer upon changes.
 * _plug-in_: extend the behaviour of a component
 * _ports & adapters_ (syn. Onion-Architecture, Hexagonal-Architecture, Clean-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<lange21>> <<martin17>>
 * _remote procedure call_: make a function or algorithm execute in a different address space
