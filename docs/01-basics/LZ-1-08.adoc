@@ -3,11 +3,10 @@
 [[LZ-1-8]]
 ==== LZ 1-8: Explizite Aussagen von impliziten Annahmen unterscheiden (R1)
 
-Softwarearchitekt:innen: 
+Softwarearchitekt:innen:
 
 * können Annahmen oder Voraussetzungen explizit darstellen und dadurch implizite Annahmen vermeiden
 * wissen, dass implizite Annahmen potenzielle Missverständnisse zwischen beteiligten Stakeholdern bewirken
-* können implizit formulieren, wenn es im gegebenen Kontext angemessen ist
 
 // end::DE[]
 
@@ -15,10 +14,9 @@ Softwarearchitekt:innen:
 [[LG-1-8]]
 ==== LG 1-8: Distinguish Explicit Statements and Implicit Assumptions (R1)
 
-Software architects: 
+Software architects:
 
 * should explicitly present assumptions or prerequisites, therefore avoiding implicit assumptions
 * know that implicit assumptions can lead to potential misunderstandings between stakeholders
-* can formulate implicitly, if it is appropriate in the given context
 
 // end::EN[]
