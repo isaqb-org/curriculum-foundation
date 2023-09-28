@@ -1,8 +1,8 @@
 
-// tag::BIB_REFS[] 
+// tag::BIB_REFS[]
 
 === {references}
 
-<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<martin03>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>, <<lorzstarke>>
+<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<hohpe>>, <<martin03>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>, <<lorzstarke>>
 
-// end::BIB_REFS[] 
+// end::BIB_REFS[]

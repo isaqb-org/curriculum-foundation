@@ -33,7 +33,7 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * CQRS (Command-Query-Responsibility-Segregation): Trennung von Lese- und Schreibvorgängen in Informationssystemen. Erfordert Einblicke in konkrete Datenbank-/Persistenztechnologie, um die unterschiedlichen Eigenschaften und Anforderungen von "Lese-" und "Schreib"-Operationen zu verstehen.
 * Event-Sourcing: Behandlung von Datenoperationen durch eine Abfolge von Ereignissen (Events), von denen jedes in einem Append-only Speicher aufgezeichnet wird.
 * Interpreter: repräsentieren Domänenobjekt oder DSL als Syntax, bieten eine Funktion, die eine semantische Interpretation des Domänenobjekts getrennt vom Domänenobjekt selbst implementiert.
-* Integrations- oder Messaging-Patterns (z.B. aus Hohpe+2004])
+* Integrations- oder Messaging-Patterns (z.B. aus <<hohpe>>)
 * Die MVC- (Model View Controller), MVVM- (Model View ViewModel), MVU- (Model View Update), PAC- (Presentation Abstraction Control) Musterfamilie, die die externe Repräsentation (Ansicht) von Daten von Operationen Diensten und deren Koordination trennt.
 * Schnittstellenmuster wie Adapter, Fassade, Proxy. Solche Muster helfen bei der Integration von Subsystemen und/oder bei der Vereinfachung von Abhängigkeiten. Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können.
 ** Adapter: Entkopplung von Konsument und Provider - wenn die Schnittstelle des Providers nicht genau mit der des Konsumenten übereinstimmt.
@@ -86,7 +86,7 @@ Software architects can explain several of the following patterns, explain their
 * _CQRS_ (Command-Query-Responsibility-Segregation): separates read from write concerns in information systems. Requires some context on database-/persistence technology to understand the different properties and requirements of "read" versus "write" operations
 * _event sourcing_:  handle operations on data by a sequence of events, each of which is recorded in an append-only store
 * _interpreter_: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself
-* integration and messaging patterns (e.g. from Hohpe+2004])
+* integration and messaging patterns (e.g. from <<hohpe>>)
 * the MVC (Model View Controller), MVVM (Model View ViewModel), MVU (Model View Update), PAC (Presentation Abstraction Control) family of patterns, separating external representation (view) from data, services and their coordination
 * interfacing patterns like Adapter, Facade, Proxy. Such patterns help in integration of subsystems and/or simplification of dependencies. Architects should know that these patterns can be used independent of (object) technology
 ** _adapter_: decouple consumer and provider - where the interface of the provider does not exactly match that of the consumer. The Adapter decouples one party from interface-changes in the other
