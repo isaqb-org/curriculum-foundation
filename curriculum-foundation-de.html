@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
 <div class="details">
-<span id="revnumber"> 2023.1-rev2-DE,</span>
-<span id="revdate">20230321</span>
+<span id="revnumber"> 2023.1-rev3-DE,</span>
+<span id="revdate">20230928</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -2024,7 +2024,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LZ-1-7">LZ 1-7: Kurz- und langfristige Ziele differenzieren (R2)</a></p>
 </li>
 <li>
-<p><a href="#LZ-1-8">LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)</a></p>
+<p><a href="#LZ-1-8">LZ 1-8: Explizite Aussagen von impliziten Annahmen unterscheiden (R1)</a></p>
 </li>
 <li>
 <p><a href="#LZ-1-9">LZ 1-9: Zuständigkeit von Softwarearchitekt:innen in organisatorischen Kontext einordnen (R3)</a></p>
@@ -2616,7 +2616,7 @@ Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.</
 </div>
 </div>
 <div class="sect3">
-<h4 id="LZ-1-8">LZ 1-8: Explizite von impliziten Aussagen unterscheiden (R1)</h4>
+<h4 id="LZ-1-8">LZ 1-8: Explizite Aussagen von impliziten Annahmen unterscheiden (R1)</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen:</p>
 </div>
@@ -2627,9 +2627,6 @@ Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.</
 </li>
 <li>
 <p>wissen, dass implizite Annahmen potenzielle Missverständnisse zwischen beteiligten Stakeholdern bewirken</p>
-</li>
-<li>
-<p>können implizit formulieren, wenn es im gegebenen Kontext angemessen ist</p>
 </li>
 </ul>
 </div>
@@ -3067,7 +3064,7 @@ auf, die über Netzwerk (remote) kommunizieren. <a href="#newman">[Newman 2015]<
 <p>Interpreter: repräsentieren Domänenobjekt oder DSL als Syntax, bieten eine Funktion, die eine semantische Interpretation des Domänenobjekts getrennt vom Domänenobjekt selbst implementiert.</p>
 </li>
 <li>
-<p>Integrations- oder Messaging-Patterns (z.B. aus Hohpe+2004])</p>
+<p>Integrations- oder Messaging-Patterns (z.B. aus <a href="#hohpe">[Hohpe+2004]</a>)</p>
 </li>
 <li>
 <p>Die MVC- (Model View Controller), MVVM- (Model View ViewModel), MVU- (Model View Update), PAC- (Presentation Abstraction Control) Musterfamilie, die die externe Repräsentation (Ansicht) von Daten von Operationen Diensten und deren Koordination trennt.</p>
@@ -3089,7 +3086,9 @@ auf, die über Netzwerk (remote) kommunizieren. <a href="#newman">[Newman 2015]<
 </div>
 </li>
 <li>
-<p>Observer (Beobachter): ein Produzent von Werten benachrichtigt eine zentrale Vermittlungsstelle, bei der sich Interessenten (Consumer) registrieren können, um über Änderungen benachrichtigt zu werden.</p>
+<p>Observer (Beobachter): Ein Interessent (Observer, Beobachter)
+registriert sich bei einem Objekt (dem Subjekt), damit das Subjekt
+den Observer bei Änderungen benachrichtigt.</p>
 </li>
 <li>
 <p>Plug-In: erweitert das Verhalten einer Komponente.</p>
@@ -3402,7 +3401,7 @@ ihrer Entwicklung einsetzen:</p>
 <div class="sect2">
 <h3 id="_referenzen_2">Referenzen</h3>
 <div class="paragraph">
-<p><a href="#bass">[Bass+ 2021]</a>, <a href="#fowler">[Fowler 2002]</a>, <a href="#gharbietal">[Gharbi+2020]</a>, <a href="#gof">[Gamma+94]</a>, <a href="#martin03">[Martin 2003]</a>, <a href="#buschmanna">[Buschmann+ 1996]</a>, <a href="#buschmannb">[Buschmann+ 2007]</a>, <a href="#starke">[Starke 2020]</a>, <a href="#lilienthal">[Lilienthal 2019]</a>, <a href="#lorzstarke">[Lorz+2021]</a></p>
+<p><a href="#bass">[Bass+ 2021]</a>, <a href="#fowler">[Fowler 2002]</a>, <a href="#gharbietal">[Gharbi+2020]</a>, <a href="#gof">[Gamma+94]</a>, <a href="#hohpe">[Hohpe+2004]</a>, <a href="#martin03">[Martin 2003]</a>, <a href="#buschmanna">[Buschmann+ 1996]</a>, <a href="#buschmannb">[Buschmann+ 2007]</a>, <a href="#starke">[Starke 2020]</a>, <a href="#lilienthal">[Lilienthal 2019]</a>, <a href="#lorzstarke">[Lorz+2021]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -3866,7 +3865,7 @@ ihrer Entwicklung einsetzen:</p>
 <p><a id="bass"></a>[Bass+ 2021] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4<sup>th</sup> Edition, Addison Wesley 2021.</p>
 </li>
 <li>
-<p><a id="brownc4"></a>[Brown] Simon Brown: Brown, Simon: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
+<p><a id="brownc4"></a>[Brown] Simon Brown: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
 </li>
 <li>
 <p><a id="buschmanna"></a>[Buschmann+ 1996] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.</p>
@@ -3910,6 +3909,9 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.</p>
 </li>
 <li>
 <p><a id="hofmeister"></a>[Hofmeister et. al 1999] Christine Hofmeister, Robert Nord, Dilip Soni: <em>Applied Software Architecture</em>, Addison-Wesley, 1999</p>
+</li>
+<li>
+<p><a id="hohpe"></a>[Hohpe+2004] Hohpe, G. and WOOLF, B.A.: <em>Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions</em>, Addison-Wesley Professional, 2004</p>
 </li>
 <li>
 <p><a id="iso42010"></a>[ISO 42010] ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: <a href="https://www.iso-architecture.org/ieee-1471/" class="bare">https://www.iso-architecture.org/ieee-1471/</a></p>
@@ -3985,8 +3987,8 @@ Alexander Lorz, Gernot Starke</p>
 </div>
 <div id="footer">
 <div id="footer-text">
- 2023.1-rev2-DE<br>
-Last updated 2023-03-21 08:43:07 UTC
+ 2023.1-rev3-DE<br>
+Last updated 2023-09-28 13:09:47 UTC
 </div>
 </div>
 </body>

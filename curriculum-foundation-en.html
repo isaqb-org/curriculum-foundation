@@ -1897,8 +1897,8 @@ h2 {
 <div id="header">
 <h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
 <div class="details">
-<span id="revnumber"> 2023.1-rev2-EN,</span>
-<span id="revdate">20230321</span>
+<span id="revnumber"> 2023.1-rev3-EN,</span>
+<span id="revdate">20230928</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -2627,9 +2627,6 @@ They should adapt their contribution to a software development in a specific con
 <li>
 <p>know that implicit assumptions can lead to potential misunderstandings between stakeholders</p>
 </li>
-<li>
-<p>can formulate implicitly, if it is appropriate in the given context</p>
-</li>
 </ul>
 </div>
 </div>
@@ -3065,7 +3062,7 @@ They understand that their decisions can lead to additional requirements (includ
 <p><em>interpreter</em>: represent domain object or DSL as syntax, provide function implementing a semantic interpretation of domain object separately from domain object itself</p>
 </li>
 <li>
-<p>integration and messaging patterns (e.g. from Hohpe+2004])</p>
+<p>integration and messaging patterns (e.g. from <a href="#hohpe">[Hohpe+2004]</a>)</p>
 </li>
 <li>
 <p>the MVC (Model View Controller), MVVM (Model View ViewModel), MVU (Model View Update), PAC (Presentation Abstraction Control) family of patterns, separating external representation (view) from data, services and their coordination</p>
@@ -3087,7 +3084,8 @@ They understand that their decisions can lead to additional requirements (includ
 </div>
 </li>
 <li>
-<p><em>observer</em>: a producer of values over time notifies a central switchboards where consumers can register to be notified of them</p>
+<p><em>observer</em>: An interested object (observer) registers with another
+object (the subject) so that the subject notifies the observer upon changes.</p>
 </li>
 <li>
 <p><em>plug-in</em>: extend the behaviour of a component</p>
@@ -3398,7 +3396,7 @@ They can outline their general objectives and applications with regard to softwa
 <div class="sect2">
 <h3 id="_references_2">References</h3>
 <div class="paragraph">
-<p><a href="#bass">[Bass+ 2021]</a>, <a href="#fowler">[Fowler 2002]</a>, <a href="#gharbietal">[Gharbi+2020]</a>, <a href="#gof">[Gamma+94]</a>, <a href="#martin03">[Martin 2003]</a>, <a href="#buschmanna">[Buschmann+ 1996]</a>, <a href="#buschmannb">[Buschmann+ 2007]</a>, <a href="#starke">[Starke 2020]</a>, <a href="#lilienthal">[Lilienthal 2019]</a>, <a href="#lorzstarke">[Lorz+2021]</a></p>
+<p><a href="#bass">[Bass+ 2021]</a>, <a href="#fowler">[Fowler 2002]</a>, <a href="#gharbietal">[Gharbi+2020]</a>, <a href="#gof">[Gamma+94]</a>, <a href="#hohpe">[Hohpe+2004]</a>, <a href="#martin03">[Martin 2003]</a>, <a href="#buschmanna">[Buschmann+ 1996]</a>, <a href="#buschmannb">[Buschmann+ 2007]</a>, <a href="#starke">[Starke 2020]</a>, <a href="#lilienthal">[Lilienthal 2019]</a>, <a href="#lorzstarke">[Lorz+2021]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -3869,7 +3867,7 @@ They can outline their general objectives and applications with regard to softwa
 <p><a id="bass"></a>[Bass+ 2021] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4<sup>th</sup> Edition, Addison Wesley 2021.</p>
 </li>
 <li>
-<p><a id="brownc4"></a>[Brown] Simon Brown: Brown, Simon: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
+<p><a id="brownc4"></a>[Brown] Simon Brown: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
 </li>
 <li>
 <p><a id="buschmanna"></a>[Buschmann+ 1996] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.</p>
@@ -3913,6 +3911,9 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.</p>
 </li>
 <li>
 <p><a id="hofmeister"></a>[Hofmeister et. al 1999] Christine Hofmeister, Robert Nord, Dilip Soni: <em>Applied Software Architecture</em>, Addison-Wesley, 1999</p>
+</li>
+<li>
+<p><a id="hohpe"></a>[Hohpe+2004] Hohpe, G. and WOOLF, B.A.: <em>Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions</em>, Addison-Wesley Professional, 2004</p>
 </li>
 <li>
 <p><a id="iso42010"></a>[ISO 42010] ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: <a href="https://www.iso-architecture.org/ieee-1471/" class="bare">https://www.iso-architecture.org/ieee-1471/</a></p>
@@ -3988,8 +3989,8 @@ Alexander Lorz, Gernot Starke</p>
 </div>
 <div id="footer">
 <div id="footer-text">
- 2023.1-rev2-EN<br>
-Last updated 2023-03-21 08:43:07 UTC
+ 2023.1-rev3-EN<br>
+Last updated 2023-09-28 13:09:47 UTC
 </div>
 </div>
 </body>
