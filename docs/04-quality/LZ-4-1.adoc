@@ -1,13 +1,23 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Qualitätsmodelle und Qualitätsmerkmale diskutieren (R1)
+==== LZ 4-1: Qualitäten eines Softwaresystems verstehen (R1)
 
-Softwarearchitekt:innen können:
+Softwarearchitekt:innen können erklären:
 
-* den Begriff der Qualität und der Qualitätsmerkmale (angelehnt an z.{nbsp}B. <<iso25010>> oder <<bass>>) erklären
-* generische Qualitätsmodelle (wie etwa <<iso25010>>, <<bass>> oder <<q42>>) erklären
-* Zusammenhänge und Wechselwirkungen von Qualitätsmerkmalen erläutern, beispielsweise:
+* dass der Begriff "Qualität" in verschiedenen Kontexten
+  unterschiedlich benutzt wird - im Kontext von Qualitätsmanagement im
+  Sinne von "Güte" und im Sinne einer spezifischen Eigenschaften
+  (eines Softwaresystems) in anderen (und in diesem Abschnitt)
+* dass es unterschiedliche Taxonomien gibt, die Qualitäten von
+  Softwaresystemen kategorisieren (wie z.{nbsp}B.  <<iso25010>>,
+  <<bass>> oder <<q42>>)
+* dass manche Kategorisierungen Funktionalität von anderen Qualitäten
+  unterscheiden
+* dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems
+  beeinflussen können
+* dass die Veränderung einer Qualität andere so beeinflussen kann,
+  dass Abwägungen notwendig werden, wie z.{nbsp}B.
 ** Konfigurierbarkeit versus Zuverlässigkeit
 ** Speicherbedarf versus Leistungseffizienz
 ** Sicherheit versus Benutzbarkeit
@@ -17,13 +27,21 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Discuss Quality Models and Quality Characteristics (R1)
+==== LG 4-1: Understand Software System Qualities (R1)
 
 Software architects can explain:
 
-* the concept of quality and quality characteristics  (based on e.g. <<iso25010>> or <<bass>>)
-* generic quality models (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* correlations and trade-offs of quality characteristics, for example:
+* that the term "quality" is used differently in different contexts -
+  referring to "superiority" in the context of quality management, and
+  referring to a specific property (of a software system) in others
+  (and in this section)
+* that several taxonomies categorizing qualities of software systems
+  exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
+* that some categorizations distinguish functionality from other
+  qualities,
+* that software architecture can impact a software system's qualities,
+* that impacting one quality can impact others, necessitating
+  trade-offs, such as:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency
 ** security versus usability

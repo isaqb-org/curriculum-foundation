@@ -1,35 +1,29 @@
 // tag::DE[]
 [[LZ-4-4]]
-==== LZ 4-4: Softwarearchitekturen quantitativ bewerten (R2)
+==== LZ 4-4: Qualitäten durch Architektur beeinflussen (R1)
 
-Softwarearchitekt:innen kennen Ansätze zur quantitativen Analyse und Bewertung (Messung) von Software.
+Softwarearchitekt:innen:
 
-Sie wissen, dass:
-
-* quantitative Bewertung helfen kann, kritische Teile innerhalb von Systemen zu identifizieren
-* zur Bewertung von Architekturen weitere Informationen hilfreich sein können, etwa:
-** Anforderungs- und Architekturdokumentation
-** Quellcode und diesbezügliche Metriken wie Lines-of-Code, (zyklomatische) Komplexität, ein- und ausgehende Abhängigkeiten
-** bekannte Fehler in Quellcode, insbesondere Fehlercluster
-** Testfälle und Testergebnisse.
-* die Verwendung einer Metrik als Zielgröße zu deren Entwertung führen kann (R2), wie z. B. durch Goodharts Gesetz (R3) beschrieben.
+* verstehen, dass architektonische Aktivitäten davon geleitet werden
+  sollten, spezifische Qualitäten zu beeinflussen
+* können einschätzen, welche Qualitäten sie durch eine bestimmte
+  gegebene Aktivität beinflussen
+* können architektonische Aktivitäten vorschlagen, um eine bestimmte
+  Anforderung zu erfüllen
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-4]]
-==== LG 4-4: Quantitative Evaluation of Software Architectures (R2)
+==== LG 4-4: Architectural Impact on Qualities (R1)
 
-Software architects know approaches for the quantitative analysis and evaluation (measurement) of software.
+Software architects:
 
-They know that:
-
-* quantitative evaluation can help to identify critical parts within systems
-* further information can be helpful for the evaluation of architectures, for example:
-** requirements and architecture documentation
-** source code and related metrics such as lines of code, (cyclomatic) complexity, inbound and outbound dependencies
-** known errors in source code, especially error clusters
-** test cases and test results.
-* the use of a metric as a target can lead to its invalidation (R2), as described, e.g., by Goodhart's law (R3).
+* understand that architectural activites should be driven by the need
+  to impact specific qualities
+* can assess which qualities they impact through a specific
+  architectural activity
+* can propose an architectural activity suitable for fulfilling a
+  particular requirement
 
 // end::EN[]
