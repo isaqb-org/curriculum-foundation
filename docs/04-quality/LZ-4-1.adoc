@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Qualitäten eines Softwaresystems verstehen (R1)
+==== LZ 4-1: Qualitäten eines Softwaresystems verstehen und erklären (R1)
 
 Softwarearchitekt:innen können erklären:
 
@@ -12,8 +12,7 @@ Softwarearchitekt:innen können erklären:
 * dass es unterschiedliche Taxonomien gibt, die Qualitäten von
   Softwaresystemen kategorisieren (wie z.{nbsp}B.  <<iso25010>>,
   <<bass>> oder <<q42>>)
-* dass manche Kategorisierungen Funktionalität von anderen Qualitäten
-  unterscheiden
+* dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
 * dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems
   beeinflussen können
 * dass die Veränderung einer Qualität andere so beeinflussen kann,
@@ -27,18 +26,17 @@ Softwarearchitekt:innen können erklären:
 
 // tag::EN[]
 [[LG-4-1]]
-==== LG 4-1: Understand Software System Qualities (R1)
+==== LG 4-1: Understand and Explain Software System Qualities (R1)
 
 Software architects can explain:
 
 * that the term "quality" is used differently in different contexts -
-  referring to "superiority" in the context of quality management, and
+  referring to "excellence" in the context of quality management, and
   referring to a specific property (of a software system) in others
   (and in this section)
 * that several taxonomies categorizing qualities of software systems
   exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* that some categorizations distinguish functionality from other
-  qualities,
+* that some categorizations distinguish between functionality and quality
 * that software architecture can impact a software system's qualities,
 * that impacting one quality can impact others, necessitating
   trade-offs, such as:

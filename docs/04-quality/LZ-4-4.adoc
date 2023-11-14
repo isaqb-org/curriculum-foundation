@@ -1,13 +1,13 @@
 // tag::DE[]
 [[LZ-4-4]]
-==== LZ 4-4: Qualitäten durch Architektur beeinflussen (R1)
+==== LZ 4-4: Qualitäten durch Architektur verbessern (R1)
 
 Softwarearchitekt:innen:
 
 * verstehen, dass architektonische Aktivitäten davon geleitet werden
-  sollten, spezifische Qualitäten zu beeinflussen
+  sollten, spezifische Qualitäten zu verbessern
 * können einschätzen, welche Qualitäten sie durch eine bestimmte
-  gegebene Aktivität beinflussen
+  gegebene Aktivität verbessern
 * können architektonische Aktivitäten vorschlagen, um eine bestimmte
   Anforderung zu erfüllen
 
@@ -15,13 +15,13 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-4-4]]
-==== LG 4-4: Architectural Impact on Qualities (R1)
+==== LG 4-4: Improving Qualities through Architecture (R1)
 
 Software architects:
 
-* understand that architectural activites should be driven by the need
-  to impact specific qualities
-* can assess which qualities they impact through a specific
+* understand that architectural activities should be driven by the need
+  to improve specific qualities
+* can assess which qualities they improve through a specific
   architectural activity
 * can propose an architectural activity suitable for fulfilling a
   particular requirement

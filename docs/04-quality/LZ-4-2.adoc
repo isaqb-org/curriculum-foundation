@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-4-2]]
-==== LZ 4-2: Qualitäten eines Softwaresystems analysieren (R1)
+==== LZ 4-2: Qualitäten eines Softwaresystems analysieren (R1-R3)
 
 Softwarearchitekt:innen:
 
@@ -9,7 +9,7 @@ Softwarearchitekt:innen:
   verschiedene Analysemethoden zur Verfügung stehen können
 * können eine Analysemethode für eine relevante Qualität auswählen,
   wie z.{nbsp}B.:
-** Akzeptanztests
+** Analyse der Ergebnisse von Akzeptanztests
 ** quantitative Messung von Laufzeitverhalten
 ** qualitative Auswertung durch Interviews, Umfragen, Pen-Tests etc.
 ** Szenarien
@@ -28,12 +28,14 @@ Softwarearchitekt:innen:
 ** Laufzeit-Logs und Metriken
 * können ein Szenario für eine gegebene Qualität formulieren, mit
   Kontext, Stimulus und Reaktion oder Messmethode
+* können die Analyse der Qualitäten eines Softwaresystems mit einem
+  Qualitätsbaum beschreiben (R3)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-2]]
-==== LG 4-2: Analyse Software System Qualities (R1)
+==== LG 4-2: Analyse Software System Qualities (R1-R3)
 
 Software architects:
 
@@ -41,7 +43,7 @@ Software architects:
   might be available for a particular software system
 * can select an appropriate analysis method for a relevant quality,
   such as:
-** acceptance testing
+** analysis of the results of acceptance testing
 ** quantitative measurement of run-time behaviour
 ** qualitative evaluation via interviews, surveys, pen tests etc.
 ** scenarios
@@ -60,5 +62,7 @@ Software architects:
 ** run-time event logs and metrics
 * can formulate a scenario for a given quality containing context,
   stimulus and reaction or method of measurement
+* can describe the analysis of the qualities of a software systems
+  with a quality tree (R3)
 
 // end::EN[]

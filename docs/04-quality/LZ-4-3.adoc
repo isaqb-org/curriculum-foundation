@@ -6,15 +6,16 @@ Softwarearchitekt:innen:
 
 * verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
   zu formulieren, eine Analysemethode spezifizieren sollten
-* verstehen, dass in manchen Kontexten der Begriff
-  "Qualitätsanforderung" eine Anforderung meint, die sich nicht auf
-  Funktionalität bezieht, und darum mehrdeutig ist
+* verstehen, dass manche Kategorisierungen zwischen
+  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden
 * verstehen, dass eine einzelne Anforderung sich auf mehrere
   Qualitäten beziehen kann
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
   kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
-* verstehen, dass manche Gruppen zwischen Anforderungen und
-  Einschränkungen unterscheiden (R3)
+* verstehen, dass unabhängig davon, ob zwischen Anforderungen und
+  Rahmenbedingungen unterschieden wird, es wichtig ist, deren
+  Auswirkungen auf die Architektur oder die Architekturarbeit zu
+  bestimmen (R2)
 
 // end::DE[]
 
@@ -26,14 +27,14 @@ Software architects:
 
 * understand that, in order to formulate a requirement on any given
   quality, they also should specify the method of analysis
-* understand that in some contexts the term "quality requirement"
-  denotes a requirement that does not refer to functionality, and is
-  therefore ambiguous
+* understand that some categorizations distinguish between "quality
+  requirements" and functional requirements
 * understand that a single requirement might pertain to several
   qualities
 * know that the use of a metric as a target can lead to its
   invalidation (R2), as described, e.g., by Goodhart's law (R3)
-* understand that some communities distinguish between requirements
-  and constraints (R3)
+* understand that regardless if a differentiation between requirements
+  and constraints is made or not, it is important to determine their
+  impact on the architecture or the architecture work (R2)
 
 // end::EN[]
