@@ -39,8 +39,8 @@ Alexander Lorz, Gernot Starke
 - [[[martin17,Martin 2017]]] Robert Martin. Clean Architecture: A craftsman’s guide to software structure and design. Pearson, 2017.
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
 - [[[newman,Newman 2015]]] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O'Reilly. 2015.
+- [[[north-cupid,Terhorst-North 2022]]] Daniel Terhorst-North: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
 - [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
-- [[[nygard-cupid,Nygard 2022]]] Michael Nygard: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
 - [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017.
 - [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
