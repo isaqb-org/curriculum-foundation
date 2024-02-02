@@ -1,34 +1,40 @@
 
 // tag::DE[]
 [[LZ-4-3]]
-==== LZ 4-3: Softwarearchitekturen qualitativ analysieren (R2-R3)
+==== LZ 4-3: Requirements and Software Architecture (R1-R3)
 Softwarearchitekt:innen:
 
-* kennen methodische Vorgehensweisen zur qualitativen Analyse von Softwarearchitekturen (R2), beispielsweise nach ATAM (R3)
-* können kleinere Systeme qualitativ analysieren (R2)
-* wissen, dass zur qualitativen Analyse und Bewertung von Architekturen folgende Informationsquellen helfen können (R2):
-** Qualitätsanforderungen, beispielsweise in Form von Qualitätsbäumen und -szenarien
-** Architekturdokumentation
-** Architektur- und Entwurfsmodelle
-** Quellcode
-** Metriken
-** Sonstige Dokumentationen des Systems, etwa Anforderungs-, Betriebs- oder Testdokumentation.
+* verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
+  zu formulieren, eine Analysemethode spezifizieren sollten
+* verstehen, dass manche Kategorisierungen zwischen
+  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden
+* verstehen, dass eine einzelne Anforderung sich auf mehrere
+  Qualitäten beziehen kann
+* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
+  kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
+* verstehen, dass unabhängig davon, ob zwischen Anforderungen und
+  Rahmenbedingungen unterschieden wird, es wichtig ist, deren
+  Auswirkungen auf die Architektur oder die Architekturarbeit zu
+  bestimmen (R2)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-4-3]]
-==== LG 4-3: Qualitative Analysis of Software Architectures (R2-R3)
+==== LG 4-3: Requirements and Software Architecture (R1-R3)
+
 Software architects:
 
-* know methodical approaches for the qualitative analysis of software architectures (R2), for example, as specified by ATAM (R3);
-* can qualitatively analyze smaller systems (R2)
-* know that the following sources of information can help in the qualitative analysis of architectures (R2):
-** quality requirements, e.g. in the form of quality trees and scenarios
-** architecture documentation
-** architecture and design models
-** source code
-** metrics
-** other documentation of the system, such as requirements, operational or test documentation.
+* understand that, in order to formulate a requirement on any given
+  quality, they also should specify the method of analysis
+* understand that some categorizations distinguish between "quality
+  requirements" and functional requirements
+* understand that a single requirement might pertain to several
+  qualities
+* know that the use of a metric as a target can lead to its
+  invalidation (R2), as described, e.g., by Goodhart's law (R3)
+* understand that regardless if a differentiation between requirements
+  and constraints is made or not, it is important to determine their
+  impact on the architecture or the architecture work (R2)
 
 // end::EN[]
