@@ -1,0 +1,36 @@
+
+// tag::DE[]
+[[LZ-03-10]]
+==== LZ 03-10 [ehemaliges LZ 1-11]: Herausforderungen verteilter Systeme (R3)
+
+Softwarearchitekt:innen können:
+
+* die Verteilung in einer gegebenen Software-Architektur identifizieren
+* Konsistenzkriterien für ein gegebenes fachliches Problem analysieren
+* Kausalität von Ereignissen in einem verteilten System erklären
+
+Softwarearchitekt:innen wissen:
+
+* dass Kommunikation in einem verteilten System fehlschlagen kann
+* dass es bei verteilten Systemen Einschränkungen hinsichtlich der Konsistenz in Datenbanken gibt 
+* was das "Split-Brain"-Problem ist und warum es schwierig zu lösen ist
+* dass es unmöglich ist, die exakte zeitliche Reihenfolge der Ereignisse in einem verteilten System zu bestimmen
+// end::DE[]
+
+// tag::EN[]
+[[LG-03-10]]
+==== LG 03-10 [previously LG 1-11]: Challenges of Distributed Systems (R3)
+
+Software architects are able to:
+
+* identify distribution in a given software architecture
+* analyze consistency criteria for a given business problem
+* explain causality of events in a distributed system
+
+Software architects know:
+
+* communication may fail in a distributed system
+* limitations regarding consistency in real-world databases
+* what the "split-brain" problem is and why it is difficult
+* that it is impossible to determine the temporal order of events in a distributed system
+// end::EN[]

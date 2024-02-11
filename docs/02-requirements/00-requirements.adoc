@@ -1,0 +1,23 @@
+// header file for curriculum section 4:
+// Requirements
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+include::./01-requirements-duration-terms.adoc[{include_configuration}]
+
+=== {learning_goals}
+
+
+include::./LZ-02-01.adoc[{include_configuration}]
+
+include::./LZ-02-02.adoc[{include_configuration}]
+
+include::./LZ-02-03.adoc[{include_configuration}]
+
+include::./LZ-02-04.adoc[{include_configuration}]
+
+include::./LZ-02-05.adoc[{include_configuration}]
+
+include::./LZ-02-06.adoc[{include_configuration}]
+
+include::./99-requirements-references.adoc[tags={bibrefs}]

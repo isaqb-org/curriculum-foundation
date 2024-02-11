@@ -1,0 +1,13 @@
+// tag::DE[]
+[[LZ-06-01]]
+==== LZ 06-01: Bezug von Anforderungen und Randbedingungen zu Lösung erfassen (R3)
+Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforderungen und Randbedingungen zu Lösungsentscheidungen erkannt und nachvollzogen.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-06-01]]
+==== LG 06-01: Know the Relation between Requirements, Constraints, and Solutions (R3)
+Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.
+
+// end::EN[]
