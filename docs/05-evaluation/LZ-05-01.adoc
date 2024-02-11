@@ -35,7 +35,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-05-01]]
-==== LG 05-01 [previously LG 4-02]: Analyse Software System Qualities (R1-R3)
+==== LG 05-01 [previously LG 4-02]: Analysis of Software System Qualities (R1-R3)
 
 Software architects:
 
