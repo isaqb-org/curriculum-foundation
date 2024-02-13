@@ -1,0 +1,32 @@
+
+// tag::DE[]
+[[LZ-04-09]]
+==== LZ 04-09 [ehemaliges LZ 3-09]: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
+
+Softwarearchitekt:innen kennen:
+
+* Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
+** ISO/IEEE-42010 (vormals 1471), siehe <<iso42010>>
+** arc42, siehe <<arc42>>
+** C4, siehe <<brownc4>>
+** FMC, siehe <<fmc>>
+* Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
+* mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-04-09]]
+==== LG 04-09 [previously LG 3-09]: Know Additional Resources and Tools for Documentation (R3)
+
+Software architects know:
+
+* basics of several published frameworks for the description of software architectures, for example:
+** ISO/IEEE-42010 (formerly 1471), see <<iso42010>>
+** arc42, see <<arc42>>
+** C4, see <<brownc4>>
+** FMC, see <<fmc>>
+* ideas and examples of checklists for the creation, documentation, and testing of software architectures
+* possible tools for creating and maintaining architectural documentation
+
+// end::EN[]

@@ -1,0 +1,19 @@
+
+// tag::DE[]
+[[LZ-03-11]]
+==== LZ 03-11 [ehemaliges LZ 1-06]: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R2)
+
+* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
+* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
+Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-03-11]]
+==== LG 03-11 [previously LG 1-06]: Can Explain the Correlation between Development Approaches and Software Architecture (R2)
+
+* software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability).
+* due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
+
+// end::EN[]

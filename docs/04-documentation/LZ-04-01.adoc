@@ -1,0 +1,24 @@
+// tag::DE[]
+[[LZ-04-01]]
+==== LZ 04-01 [ehemaliges LZ 3-01]: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)
+
+Softwarearchitekt:innen kennen die wesentlichen Anforderungen an technische Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:
+
+* Verständlichkeit, Korrektheit, Effizienz, Angemessenheit, Wartbarkeit
+* Orientierung von Form, Inhalt und Detailgrad an Zielgruppe der Dokumentation
+
+Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielgruppen beurteilt werden kann.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-04-01]]
+==== LG 04-01 [previously LG 3-01]: Explain and Consider the Requirements of Technical Documentation (R1)
+Software architects know the requirements of technical documentation and can consider and fulfil them when documenting systems:
+
+* understandability, correctness, efficiency, appropriateness, maintainability
+* form, content, and level of detail tailored to the stakeholders
+
+They know that only the target audiences can assess the understandability of technical documentation.
+
+// end::EN[]

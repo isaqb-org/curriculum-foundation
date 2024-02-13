@@ -1,0 +1,24 @@
+
+// tag::DE[]
+== Analyse und Bewertung von Softwarearchitekturen
+
+|===
+| Dauer: 180 Min. | Übungszeit: 60 Min.
+|===
+
+===	Wesentliche Begriffe
+
+????????????????
+
+// end::DE[]
+
+// tag::EN[]
+== Analysis and Assessment of Software Architectures
+
+|===
+| Duration: 180 min. | Exercises: 60 min.
+|===
+
+=== Relevant Terms
+????????????
+// end::EN[]

@@ -1,0 +1,86 @@
+
+// tag::DE[]
+[[LZ-02-02]]
+==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen klären und berücksichtigen können (R1-R3)
+
+Softwarearchitekt:innen können Anforderungen (inklusive Randbedingungen als Einschränkungen der Entwurfsfreiheit) klären und berücksichtigen.
+Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Randbedingungen) an das zu entwerfende System, seine Architektur oder den Entwicklungsprozess führen können. 
+
+Sie erkennen und berücksichtigen den Einfluss von:
+
+* produktbezogenen Anforderungen wie (R1)
+** funktionale Anforderungen
+** Qualitätsanforderungen
+
+* Technologische Randbedingungen wie 
+** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
+** technologische Beschränkungen für Datenstrukturen und Schnittstellen (R2)
+** Referenzarchitekturen, Bibliotheken, Komponenten und Frameworks (R1)
+** Programmiersprachen (R2)
+
+* Organisatorischen Randbedingungen wie
+** Organisationsstruktur von Entwicklungsteams und Auftraggebenden (R1), insbesondere das Gesetz von Conway (R2)
+** Unternehmens- und Teamkultur (R3)
+** Partnerschaften und Kooperationen (R2)
+** Normen, Richtlinien und Prozessmodelle (z.B. Genehmigungs- und Freigabeprozesse) (R2)
+** Verfügbarkeit von Ressourcen wie Budget, Zeit und Personal (R1)
+** Verfügbarkeit, Qualifikation und Engagement von Mitarbeitenden (R1)
+
+* Regulatorischen Randbedingungen wie (R2)
+** lokale und internationale rechtliche Einschränkungen
+** Vertrags- und Haftungsfragen
+** Datenschutzgesetze und Gesetze zum Schutz der Privatsphäre
+** Fragen der Einhaltung oder Verpflichtungen zur Beweislast
+
+* Trends wie (R3)
+** Markttrends
+** Technologietrends (z.B. Blockchain, Microservices)
+** Methodik-Trends (z.B. agil)
+** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen 
+// end::DE[]
+
+// tag::EN[]
+[[LG-02-02]]
+==== LG 02-02 [previously LG 2-3]: Identify and Consider Factors Influencing Software Architecture (R1-R3)
+
+
+Software architects are able to clarify and consider requirements (including constraints that restrict their decisions).
+They understand that their decisions can lead to additional requirements (including constraints) on the system being designed, its architecture, or the development process. 
+
+
+They should recognize and account for the impact of:
+
+* product-related requirements such as (R1)
+** functional requirements
+** quality requirements
+
+
+* technological constraints such as 
+** existing or planned hardware and software infrastructure (R1)
+** technological constraints on data structures and interfaces (R2)
+** reference architectures, libraries, components, and frameworks (R1)
+** programming languages (R2)
+
+* organizational constraints such as
+** organizational structure of the development team and of the customer (R1), in particular Conway's law (R2).
+** company and team cultures (R3)
+** partnerships and cooperation agreements (R2)
+** standards, guidelines, and process models (e.g. approval and release processes) (R2)
+** available resources like budget, time, and staff (R1)
+** availability, skill set, and commitment of staff (R1)
+
+* regulatory constraints such as (R2)
+** local and international legal constraints
+** contract and liability issues
+** data protection​ and privacy laws
+** compliance issues or obligations to provide burden of proof​
+
+* trends such as (R3)
+** market trends
+** technology trends (e.g. blockchain, microservices)
+** methodology trends (e.g. agile)
+** (potential) impact of further stakeholder concerns and mandated design decisions
+
+Software architects are able to describe how those factors can influence design decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
+
+// end::EN[]

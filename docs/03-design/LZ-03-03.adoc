@@ -1,0 +1,36 @@
+
+// tag::DE[]
+[[LZ-03-03]]
+==== LZ 03-03 [ehemaliges LZ 2-02]: Softwarearchitekturen entwerfen (R1)
+
+Softwarearchitekt:innen können:
+
+* Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen
+* gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
+* Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden
+* schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
+* Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht
+* die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
+* domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
+* Risiken von Entwurfsentscheidungen identifizieren.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-03-03]]
+==== LG 03-03 [previously LG 2-02]: Design Software Architectures (R1)
+
+Software architects are able to:
+
+* design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
+* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks
+* recognize and justify interdependencies and trade-offs of design decisions
+* explain the terms _black box_ and _white box_ and apply them purposefully
+* apply stepwise refinement and specify building blocks
+* design architecture views, especially building-block view, runtime view and deployment view
+* explain the consequences of these decisions on the corresponding source code
+* separate technical and domain-related elements of architectures and justify these decisions
+* identify risks related to architecture decisions.
+
+// end::EN[]

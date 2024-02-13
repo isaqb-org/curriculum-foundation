@@ -1,0 +1,36 @@
+
+// tag::DE[]
+[[LZ-04-03]]
+==== LZ 04-03 [ehemaliges LZ 3-03]: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
+
+Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme (siehe <<uml>>) zur Notation von Architektursichten:
+
+* Klassen-, Paket-, Komponenten- (jeweils R2) und Kompositionsstrukturdiagramme (R3)
+* Verteilungsdiagramme (R2)
+* Sequenz- und Aktivitätsdiagramme (R2)
+* Zustandsdiagramme (R3)
+
+Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
+
+* ArchiMate, siehe <<archimate>> 
+* für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-04-03]]
+==== LG 04-03 [previously LG 3-03]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
+
+Software architects know at least the following UML (see <<uml>>) diagrams to describe architectural views:
+
+* class, package, component (all R2) and composite-structure diagrams (R3)
+* deployment diagrams (R2)
+* sequence and activity diagrams (R2)
+* state machine diagrams (R3)
+
+Software architects know alternative notations to UML diagrams, for example: (R3)
+
+* Archimate, see <<archimate>>
+* for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
+
+// end::EN[]

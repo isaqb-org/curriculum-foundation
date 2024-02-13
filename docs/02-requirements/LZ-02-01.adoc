@@ -1,0 +1,34 @@
+
+// tag::DE[]
+[[LZ-02-01]]
+==== LZ 02-01 [ehemaliges LZ 01-05]: Rolle von Softwarearchitekt:innen in Beziehung zu anderen Stakeholdern setzen (R1)
+Softwarearchitekt:innen können ihre Rolle erklären. 
+Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:
+
+* Produktmanagement, Product-Owner
+* Projektleitung und -management
+* Anforderungsanalytiker:innen (System-/Businessanalyse, Anforderungsmanagement, Fachbereich)
+* Entwicklung
+* Qualitätssicherung und Test
+* IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
+* Hardwareentwicklung
+* Unternehmensarchitektur, Architekturboard.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-02-01]]
+==== LG 02-01 [previously LG 01-05]: Relate the Role of Software Architects to Other Stakeholders (R1)
+Software architects are able to explain their role. 
+They should adapt their contribution to a software development in a specific context and in relation to other stakeholders and organizational units, in particular to:
+
+* product management and product owners
+* project managers
+* requirement engineers (requirements- or business analysts, requirements managers, system analysts, business owners, subject-matter experts, etc.)
+* developers
+* quality assurance and testers
+* IT operators and administrators (applies primarily to production environment or data centers for information systems),
+* hardware developers
+* enterprise architects and architecture board members
+
+// end::EN[]
