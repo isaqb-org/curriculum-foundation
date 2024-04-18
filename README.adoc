@@ -60,14 +60,35 @@ task buildDocs {
 
 In the "renderDE" certain attributes (aka variables) are defined that configure the corresponding output.
 
-Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following command:
+Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following commands:
 
-[source,bash]
+. Clone the repository - including the submodule:
++
+--
+[source,shell]
 ----
-git submodule update --recursive --remote
+Via SSH:
+git clone git@github.com:isaqb-org/curriculum-t3.git --recursive
+
+Via HTTPS:
+git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
 ----
+--
+. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
 
 == On writing style
+
+=== Heading Capitalization
+
+In https://github.com/isaqb-org/curriculum-foundation/issues/246 we decided to use title case for all headings:
+
+* capitalize: first and last word, nouns, pronouns, adjectives, verbs
+* lowercase: articles and prepositions
+
+When in doubt, opt for https://capitalizemytitle.com/style/Chicago/[Chicago Style].
+
+=== Bullet Point Lists
+
 To unify upper/lowercase within the (EN) version, we use the _Chicago manual of style proposal_":
 
 * short bullet items don't get a full-stop
