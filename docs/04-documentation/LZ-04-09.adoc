@@ -6,7 +6,7 @@
 Softwarearchitekt:innen kennen:
 
 * Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
-** ISO/IEEE-42010 (vormals 1471), siehe <<iso42010>>
+** ISO/IEEE-42010, siehe <<iso42010>>
 ** arc42, siehe <<arc42>>
 ** C4, siehe <<brownc4>>
 ** FMC, siehe <<fmc>>
@@ -22,7 +22,7 @@ Softwarearchitekt:innen kennen:
 Software architects know:
 
 * basics of several published frameworks for the description of software architectures, for example:
-** ISO/IEEE-42010 (formerly 1471), see <<iso42010>>
+** ISO/IEEE-42010, see <<iso42010>>
 ** arc42, see <<arc42>>
 ** C4, see <<brownc4>>
 ** FMC, see <<fmc>>
