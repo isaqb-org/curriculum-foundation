@@ -68,10 +68,10 @@ Please note: You need to include the submodules "pdf-theme" and "html-theme" in 
 [source,shell]
 ----
 Via SSH:
-git clone git@github.com:isaqb-org/curriculum-t3.git --recursive
+git clone git@github.com:isaqb-org/curriculum-foundation.git --recursive
 
 Via HTTPS:
-git clone https://github.com/isaqb-org/curriculum-t3.git --recursive
+git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 ----
 --
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
