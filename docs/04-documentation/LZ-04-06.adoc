@@ -1,17 +1,16 @@
 
-
 // tag::DE[]
 [[LZ-04-06]]
-==== LZ 04-06 [ehemaliges LZ 3-06]: Querschnittskonzepte dokumentieren und kommunizieren (R2)
+==== LZ 04-06 [ehemaliges LZ 3-07]: Schnittstellen beschreiben (R1)
 
-Softwarearchitekt:innen können typische Querschnittskonzepte (synonym _Prinzipien_, _Aspekte_) adäquat dokumentieren und kommunizieren, z. B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
+Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen beschreiben und spezifizieren.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-04-06]]
-==== LG 04-06 [previously LG 3-06]: Document and Communicate Cross-Cutting Concepts (R2)
+==== LG 04-06 [previously LG 3-07]: Describe Interfaces (R1)
 
-Software architects are able to adequately document and communicate typical cross-cutting concepts (synonym: _principles_, _aspects_), e. g., persistence, workflow management, UI, deployment/integration, logging.
+Software architects are able to describe and specify both internal and external interfaces.
 
 // end::EN[]
