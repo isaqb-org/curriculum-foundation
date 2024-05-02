@@ -3,6 +3,8 @@
 [[LZ-02-02]]
 ==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen klären und berücksichtigen können (R1-R3)
 
+TODO: translations must be checked
+
 Softwarearchitekt:innen können Anforderungen (inklusive Randbedingungen als Einschränkungen der Entwurfsfreiheit) klären und berücksichtigen.
 Sie verstehen, dass ihre Entscheidungen zu weiteren Anforderungen (inklusive Randbedingungen) an das zu entwerfende System, seine Architektur oder den Entwicklungsprozess führen können. 
 
@@ -41,19 +43,17 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 // tag::EN[]
 [[LG-02-02]]
-==== LG 02-02 [previously LG 2-3]: Identify and Consider Factors Influencing Software Architecture (R1-R3)
+==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements (R1-R3)
 
-
-Software architects are able to clarify and consider requirements (including constraints that restrict their decisions).
-They understand that their decisions can lead to additional requirements (including constraints) on the system being designed, its architecture, or the development process. 
-
+Software architects are able to clarify and consider requirements that impact
+the architecture being designed or the design and development process.
+They understand that their decisions can lead to additional requirements.
 
 They should recognize and account for the impact of:
 
 * product-related requirements such as (R1)
 ** functional requirements
 ** quality requirements
-
 
 * technological constraints such as 
 ** existing or planned hardware and software infrastructure (R1)
@@ -72,15 +72,16 @@ They should recognize and account for the impact of:
 * regulatory constraints such as (R2)
 ** local and international legal constraints
 ** contract and liability issues
-** data protection​ and privacy laws
-** compliance issues or obligations to provide burden of proof​
+** data protection and privacy laws
+** compliance issues or obligations to provide burden of proof
 
 * trends such as (R3)
 ** market trends
-** technology trends (e.g. blockchain, microservices)
-** methodology trends (e.g. agile)
-** (potential) impact of further stakeholder concerns and mandated design decisions
+** technology trends
+** methodology trends
 
-Software architects are able to describe how those factors can influence design decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
+Software architects are able to describe how those factors can influence
+design decisions and can elaborate on the consequences of changing
+influencing factors by providing examples for some of them (R2).
 
 // end::EN[]
