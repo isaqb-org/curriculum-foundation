@@ -1,32 +1,25 @@
 
 // tag::DE[]
 [[LZ-04-09]]
-==== LZ 04-09 [ehemaliges LZ 3-09]: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
+==== LZ 04-09 [ehemaliges LZ 3-08]: Architekturentscheidungen erläutern und dokumentieren (R1-R2)
 
-Softwarearchitekt:innen kennen:
+Softwarearchitekt:innen können:
 
-* Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
-** ISO/IEC/IEEE 42010, siehe <<iso42010>>
-** arc42, siehe <<arc42>>
-** C4, siehe <<brownc4>>
-** FMC, siehe <<fmc>>
-* Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
-* mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
+* Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren
+* gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren
 
+Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<nygard>>) und können diese zur Dokumentation von Entscheidungen einsetzen (R2).
 // end::DE[]
 
 // tag::EN[]
 [[LG-04-09]]
-==== LG 04-09 [previously LG 3-09]: Know Additional Resources and Tools for Documentation (R3)
+==== LG 04-09 [previously LG 3-08]: Explain and Document Architectural Decisions (R1-R2)
 
-Software architects know:
+Software architects are able to:
 
-* basics of several published frameworks for the description of software architectures, for example:
-** ISO/IEC/IEEE 42010, see <<iso42010>>
-** arc42, see <<arc42>>
-** C4, see <<brownc4>>
-** FMC, see <<fmc>>
-* ideas and examples of checklists for the creation, documentation, and testing of software architectures
-* possible tools for creating and maintaining architectural documentation
+* systematically take, justify, communicate, and document architectural decisions
+* identify, communicate, and document interdependencies between design decisions
+
+Software architects know about Architecture-Decision-Records (ADR, see <<nygard>>) and can apply these to document decisions (R2).
 
 // end::EN[]
