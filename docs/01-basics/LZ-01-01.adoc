@@ -6,7 +6,7 @@ Softwarearchitekt:innen kennen mehrere Definitionen von Softwarearchitektur (u. 
 
 * Komponenten/Bausteine mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
-* Strukturen, Querschnittskonzepte, Prinzipien
+* Strukturen, Querschnittsthemen, Prinzipien
 * Architekturentscheidungen mit systemweiten oder den gesamten Lebenszyklus betreffenden Konsequenzen
 
 // end::DE[]
@@ -19,7 +19,7 @@ Software architects know several definitions of software architecture (incl. ISO
 
 * components/building blocks with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
-* structures, cross-cutting concepts, principles
+* structures, cross-cutting concerns, principles
 * architecture decisions and their consequences on the entire systems and its lifecycle
 
 // end::EN[]
