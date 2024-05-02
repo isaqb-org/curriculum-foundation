@@ -14,6 +14,8 @@ include::./LZ-04-02.adoc[{include_configuration}]
 
 include::./LZ-04-03.adoc[{include_configuration}]
 
+include::./LZ-04-04.adoc[{include_configuration}]
+
 include::./LZ-04-05.adoc[{include_configuration}]
 
 include::./LZ-04-06.adoc[{include_configuration}]

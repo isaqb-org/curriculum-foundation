@@ -8,7 +8,7 @@ Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
 // tag::EN[]
 [[LG-04-04]]
-==== LG 04-04 [new]: Learning Goal not Found (R1)
+==== LG 04-04 [new]: Learning Goal not Found (R3)
 Software architects are able to gracefully deal with unexpected situations.
 
 
