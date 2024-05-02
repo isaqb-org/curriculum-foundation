@@ -1,116 +1,38 @@
 // tag::DE[]
 
 [[LZ-03-06]]
-==== LZ 03-06 [ehemaliges LZ 2-06]: Entwurfsprinzipien erläutern und anwenden (R1-R3)
+==== LZ 03-06 [ehemaliges LZ 2-07]: Abhängigkeiten von Bausteinen managen (R1)
 
-Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind.
-Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)
+Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen. 
+Sie:
 
-Softwarearchitekt:innen sind in der Lage:
-
-* die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren
-* zu erklären, wie diese Prinzipien angewendet werden sollen
-* darzulegen, wie Anforderungen die Anwendung dieser Prinzipien beeinflussen
-* die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern
-* Quellcode und Architektur zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
-
-
-**Abstraktion** (R1)
-
-* im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
-* als eine Entwurfstechnik, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
-* Schnittstellen als Abstraktionen
+* kennen und verstehen unterschiedliche Arten der Kopplung von Bausteinen (beispielsweise  Kopplung über Benutzung/Delegation, Nachrichten/Ereignisse, Komposition, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Daten, Datentypen oder Hardware)
+* verstehen, wie Abhängigkeiten die Kopplung vergrößern
+* können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen
+* kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
+** Muster
+// (siehe <<LZ-2-5, LZ 2-5>>)
+** Grundlegende Entwurfsprinzipien
+// (siehe <<LZ-2-6, LZ 2-6>>)
+** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von _Dependency Injection_.
 
 
-**Modularisierung** (R1)
-
-* Geheimnisprinzip (Information Hiding) und Kapselung (R1)
-* Trennung von Verantwortlichkeiten (Separation of Concerns - SoC) (R1)
-* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen
-//, siehe <<LZ-2-7, Lernziel 2-7>>
-* Hohe Kohäsion (R1)
-* SOLID-Prinzipien (R1-R3), soweit sie auf architektonischer Ebene von Relevanz sind:
-** S: Single-Responsibility-Prinzip (R1) und seine Beziehung zu SoC
-** O: Offen/geschlossen-Prinzip (R1)
-** L: Liskov'sches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
-** I: Interface-Segregation-Prinzip (R2)
-// und seine Beziehung zu <<LZ-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
-** D: Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten (R1) durch Schnittstellen oder ähnlichen Abstraktionen
-
-**Konzeptionelle Integrität** (R2)
-
-* bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
-* als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (principle of least surprise) (R3)
-
-
-**Einfachheit** (R1)
-
-* als Mittel zur Verringerung von Komplexität (R1)
-* als Motiv der Prinzipien KISS (R1) und YAGNI (R2)
-
-
-**Erwarte Fehler** (R1-R2)
-
-* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
-* als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
-
-**Weitere Prinzipien** (R3)
-
-Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<north-cupid>>) und können diese anwenden.
 // end::DE[]
 
 // tag::EN[]
-
 [[LG-03-06]]
-==== LG 03-06 [previously LG 2-06]: Explain and Use Design Principles (R1-R3)
-Software architects are able to explain what design principles are.
-They can outline their general objectives and applications with regard to software architecture. (R2)
+==== LG 03-06 [previously LG 2-07]: Manage Dependencies between Building Blocks (R1)
 
-Software architects are able to:
+Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:
 
-* explain the design principles listed below and can illustrate them with examples
-* explain how those principles are to be applied
-* explain how the requirements determine which principles should be applied
-* explain the impact of design principles on the implementation
-* analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
+* know and understand different types of dependencies of building blocks (e.g. coupling via use/delegation, messaging/events, composition, creation, inheritance, temporal coupling, coupling via data, data types or hardware)
+* understand how dependencies increase coupling
+* can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
+* know and can apply possibilities to reduce or eliminate coupling, for example:
+** patterns
+// (refer to <<LG-2-5, LG 2-5>>)
+** fundamental design principles
+// (refer to <<LG-2-6, LG 2-6>>)
+** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
 
-**Abstraction** (R1)
-
-* in the sense of a means for deriving useful generalizations
-* as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
-* interfaces as abstractions
-
-**Modularization** (R1-R3)
-
-* information hiding and encapsulation (R1)
-* separation of concerns - SoC (R1)
-* loose, but functionally sufficient, coupling (R1) of building blocks
-//, refer to <<LG-2-7, LG 2-7>>
-* high cohesion (R1)
-* SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
-** S: Single responsibility principle (R1) and its relation to SoC
-** O: Open/closed principle (R1)
-** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
-** I: Interface segregation principle (R2)
-//, including its relation to <<LG-2-9, LG 2-9>>
-** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
-
-**Conceptual integrity** (R2)
-
-* meaning uniformity (homogeneity, consistency) of solutions for similar problems (R2)
-* as a means to achieve the principle of least surprise (R3)
-
-**Simplicity** (R1-R2)
-
-* as a means to reduce complexity (R1)
-* as the driving factor behind KISS (R3) and YAGNI (R3)
-
-**Expect errors** (R1-R2)
-
-* as a means to design for robust and resilient systems (R1)
-* as a generalization of the robustness principle (_Postel's law_) (R2)
-
-**Other principles** (R3)
-
-Software architects know other principles (such as CUPID, see <<north-cupid>>), and can apply them.
 // end::EN[]
