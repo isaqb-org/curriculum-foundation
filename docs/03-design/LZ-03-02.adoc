@@ -1,19 +1,36 @@
 
 // tag::DE[]
 [[LZ-03-02]]
-==== LZ 03-02 [ehemaliges LZ 1-06]: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R2)
+==== LZ 03-02 [ehemaliges LZ 2-02]: Softwarearchitekturen entwerfen (R1)
 
-* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
-* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
-Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
+Softwarearchitekt:innen können:
+
+* Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen
+* gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
+* Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden
+* schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
+* Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht
+* die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
+* domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
+* Risiken von Entwurfsentscheidungen identifizieren.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-02]]
-==== LG 03-02 [previously LG 1-06]: Can Explain the Correlation between Development Approaches and Software Architecture (R2)
+==== LG 03-02 [previously LG 2-02]: Design Software Architectures (R1)
 
-* software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability).
-* due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
+Software architects are able to:
+
+* design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
+* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks
+* recognize and justify interdependencies and trade-offs of design decisions
+* explain the terms _black box_ and _white box_ and apply them purposefully
+* apply stepwise refinement and specify building blocks
+* design architecture views, especially building-block view, runtime view and deployment view
+* explain the consequences of these decisions on the corresponding source code
+* separate technical and domain-related elements of architectures and justify these decisions
+* identify risks related to architecture decisions.
 
 // end::EN[]

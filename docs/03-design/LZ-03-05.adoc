@@ -1,40 +1,19 @@
 
 // tag::DE[]
-
 [[LZ-03-05]]
-==== LZ 03-05 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und festlegen (R1-R3)
+==== LZ 03-05 [ehemaliges LZ 1-06]: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R2)
 
-Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
-
-Sie kennen:
-
-* wünschenswerte Eigenschaften von Schnittstellen und können diese bei
-  ihrer Entwicklung einsetzen:
-** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
-** schwer zu missbrauchen
-** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
-* die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
-* unterschiedliche Implementierungsansätze von Schnittstellen (R3):
-** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
-** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
+* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
+* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
+Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-05]]
-==== LG 03-05 [previously LG 2-09]: Design and Define Interfaces (R1-R3)
+==== LG 03-05 [previously LG 1-06]: Can Explain the Correlation between Development Approaches and Software Architecture (R2)
 
-Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
-
-They know: 
-
-* desired characteristics of interfaces and can use them in the design:
-** easy to learn, easy to use, easy to extend
-** hard to misuse
-** functionally complete from the perspective of users or building blocks using them.
-* the necessity to treat internal and external interfaces differently
-* different approaches for implementing interfaces (R3):
-** resource oriented approach (REST, Representational State Transfer)
-** service oriented approach (see WS-*/SOAP-based web services.
+* software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability).
+* due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
 
 // end::EN[]

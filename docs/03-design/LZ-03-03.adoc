@@ -1,36 +1,34 @@
 
 // tag::DE[]
 [[LZ-03-03]]
-==== LZ 03-03 [ehemaliges LZ 2-02]: Softwarearchitekturen entwerfen (R1)
+==== LZ 03-03 [ehemaliges LZ 2-01]: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)
+Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
-Softwarearchitekt:innen können:
-
-* Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
-* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen
-* gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
-* Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden
-* schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
-* Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht
-* die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
-* domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
-* Risiken von Entwurfsentscheidungen identifizieren.
+* Top-down- und Bottom-up-Vorgehen beim Entwurf (R1)
+* Sichtenbasierte Architekturentwicklung (R1)
+* iterativer und inkrementeller Entwurf (R1)
+** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen (R1)
+** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen (R1)
+* Domain-Driven Design, siehe <<evans>> (R3)
+* Evolutionäre Architektur, siehe <<ford>> (R3)
+* Globale Analyse, siehe <<hofmeister>> (R3) 
+* Modellgetriebene Architektur (R3)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-03]]
-==== LG 03-03 [previously LG 2-02]: Design Software Architectures (R1)
+==== LG 03-03 [previously LG 2-01]: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)
+Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
 
-Software architects are able to:
-
-* design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
-* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks
-* recognize and justify interdependencies and trade-offs of design decisions
-* explain the terms _black box_ and _white box_ and apply them purposefully
-* apply stepwise refinement and specify building blocks
-* design architecture views, especially building-block view, runtime view and deployment view
-* explain the consequences of these decisions on the corresponding source code
-* separate technical and domain-related elements of architectures and justify these decisions
-* identify risks related to architecture decisions.
+* top-down and bottom-up approaches to design (R1)
+* view-based architecture development (R1)
+* iterative and incremental design (R1)
+** necessity of iterations, especially when decision-making is affected by uncertainties (R1)
+** necessity of feedback on design decisions (R1)
+* domain-driven design, see <<evans>> (R3)
+* evolutionary architecture, see <<ford>> (R3)
+* global analysis, see <<hofmeister>> (R3) 
+* model-driven architecture (R3)
 
 // end::EN[]

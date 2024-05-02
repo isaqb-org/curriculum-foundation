@@ -13,6 +13,8 @@ Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme (siehe <<uml>>)
 Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 
 * ArchiMate, siehe <<archimate>> 
+* SysML, siehe <<sysml>>
+* C4, siehe <<brown>>
 * für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
 
 // end::DE[]
@@ -31,6 +33,9 @@ Software architects know at least the following UML (see <<uml>>) diagrams to de
 Software architects know alternative notations to UML diagrams, for example: (R3)
 
 * Archimate, see <<archimate>>
+* SysML, see <<sysml>>
+* C4, see <<brown>>
+
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]

@@ -1,34 +1,33 @@
-
 // tag::DE[]
 [[LZ-03-01]]
-==== LZ 03-01 [ehemaliges LZ 2-01]: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)
-Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
+==== LZ 03-01 [ehemaliges LZ 4-04]: Anforderungen durch Architektur erreichen (R1)
 
-* Top-down- und Bottom-up-Vorgehen beim Entwurf (R1)
-* Sichtenbasierte Architekturentwicklung (R1)
-* iterativer und inkrementeller Entwurf (R1)
-** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen (R1)
-** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen (R1)
-* Domain-Driven Design, siehe <<evans>> (R3)
-* Evolutionäre Architektur, siehe <<ford>> (R3)
-* Globale Analyse, siehe <<hofmeister>> (R3) 
-* Modellgetriebene Architektur (R3)
+Softwarearchitekt:innen:
+
+* verstehen, dass architektonische Aktivitäten davon geleitet werden
+  sollten, spezifische Qualitäten zu verbessern
+* können einen Architekturentwurf vorschlagen, der geeignet ist, 
+  Anforderungen zu erfüllen
+* können einschätzen, welche Qualitäten sie durch eine bestimmte
+  gegebene Aktivität verbessern
+* können mögliche Abwägungen zwischen Entwürfen
+  sowie den entsprechenden Risiken identifizieren und kommunizieren
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-01]]
-==== LG 03-01 [previously LG 2-01]: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)
-Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
+==== LG 03-01 [previously LG 4-04]: Fulfilling Requirements through Architecture (R1)
 
-* top-down and bottom-up approaches to design (R1)
-* view-based architecture development (R1)
-* iterative and incremental design (R1)
-** necessity of iterations, especially when decision-making is affected by uncertainties (R1)
-** necessity of feedback on design decisions (R1)
-* domain-driven design, see <<evans>> (R3)
-* evolutionary architecture, see <<ford>> (R3)
-* global analysis, see <<hofmeister>> (R3) 
-* model-driven architecture (R3)
+Software architects:
+
+* understand that architectural activities should be driven by the need
+  to improve specific qualities
+* can propose an architecture design suitable for fulfilling 
+  requirements
+* can assess which qualities they improve through a specific
+  architectural activity
+* can identify and communicate possible trade-offs between designs
+  and their associated risks
 
 // end::EN[]
