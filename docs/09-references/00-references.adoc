@@ -26,7 +26,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
-- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: <https://www.iso-architecture.org/ieee-1471/>
+- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
 - [[[iso25010, ISO 25010]]] ISO/IEC DIS 25010(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:dis:ed-2:v1:en>
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
