@@ -1,34 +1,25 @@
 
 // tag::DE[]
 [[LZ-02-01]]
-==== LZ 02-01 [ehemaliges LZ 01-05]: Rolle von Softwarearchitekt:innen in Beziehung zu anderen Stakeholdern setzen (R1)
-Softwarearchitekt:innen können ihre Rolle erklären. 
-Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:
+==== LZ 02-01: Stakeholder-Anliegen und ihr Einfluss auf die Softwarearchitektur
 
-* Produktmanagement, Product-Owner
-* Projektleitung und -management
-* Anforderungsanalytiker:innen (System-/Businessanalyse, Anforderungsmanagement, Fachbereich)
-* Entwicklung
-* Qualitätssicherung und Test
-* IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
-* Hardwareentwicklung
-* Unternehmensarchitektur, Architekturboard.
+TBD
+
+Sollte enhalten aus früherem LZ 1-7:
+
+Softwarearchitekt:innen können potenzielle Zielkonflikte zwischen kurz- und langfristigen Zielen erklären, um eine für alle Beteiligten tragfähige Lösung zu erarbeiten
+
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-02-01]]
-==== LG 02-01 [previously LG 01-05]: Relate the Role of Software Architects to Other Stakeholders (R1)
-Software architects are able to explain their role. 
-They should adapt their contribution to a software development in a specific context and in relation to other stakeholders and organizational units, in particular to:
+==== LG 02-01: Stakeholder Concerns and their Impact on Software Architecture
 
-* product management and product owners
-* project managers
-* requirement engineers (requirements- or business analysts, requirements managers, system analysts, business owners, subject-matter experts, etc.)
-* developers
-* quality assurance and testers
-* IT operators and administrators (applies primarily to production environment or data centers for information systems),
-* hardware developers
-* enterprise architects and architecture board members
+TBD
+
+Should contain from frmoer LG 1-7:
+
+Software architects can explain potential conflicts between short-term and long-term goals, in order to find a suitable solution for all stakeholders
 
 // end::EN[]

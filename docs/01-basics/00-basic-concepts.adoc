@@ -16,7 +16,5 @@ include::./LZ-01-04.adoc[{include_configuration}]
 
 include::./LZ-01-05.adoc[{include_configuration}]
 
-include::./LZ-01-06.adoc[{include_configuration}]
-
 include::./99-basics-references.adoc[tags={bibrefs}]
 

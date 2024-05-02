@@ -1,29 +1,19 @@
+
 // tag::DE[]
 [[LZ-03-02]]
-==== LZ 03-02 [ehemaliges LZ 4-04]: Qualitäten durch Architektur verbessern (R1)
+==== LZ 03-02 [ehemaliges LZ 1-06]: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R2)
 
-Softwarearchitekt:innen:
-
-* verstehen, dass architektonische Aktivitäten davon geleitet werden
-  sollten, spezifische Qualitäten zu verbessern
-* können einschätzen, welche Qualitäten sie durch eine bestimmte
-  gegebene Aktivität verbessern
-* können architektonische Aktivitäten vorschlagen, um eine bestimmte
-  Anforderung zu erfüllen
+* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
+* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
+Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-02]]
-==== LG 03-02 [previously LG 4-04]: Improving Qualities through Architecture (R1)
+==== LG 03-02 [previously LG 1-06]: Can Explain the Correlation between Development Approaches and Software Architecture (R2)
 
-Software architects:
-
-* understand that architectural activities should be driven by the need
-  to improve specific qualities
-* can assess which qualities they improve through a specific
-  architectural activity
-* can propose an architectural activity suitable for fulfilling a
-  particular requirement
+* software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability).
+* due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
 
 // end::EN[]

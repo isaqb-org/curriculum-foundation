@@ -1,48 +1,40 @@
 
 // tag::DE[]
 [[LZ-02-04]]
-==== LZ 02-04 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)
+==== LZ 02-04 [ehmaliges LZ 4-03]: Requirements and Software Architecture (R1-R3)
+Softwarearchitekt:innen:
 
-Softwarearchitekt:innen können erklären:
-
-* dass der Begriff "Qualität" in verschiedenen Kontexten
-  unterschiedlich benutzt wird - im Kontext von Qualitätsmanagement im
-  Sinne von "Güte" und im Sinne einer spezifischen Eigenschaften
-  (eines Softwaresystems) in anderen (und in diesem Abschnitt)
-* dass es unterschiedliche Taxonomien gibt, die Qualitäten von
-  Softwaresystemen kategorisieren (wie z.{nbsp}B.  <<iso25010>>,
-  <<bass>> oder <<q42>>)
-* dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
-* dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems
-  beeinflussen können
-* dass die Veränderung einer Qualität andere so beeinflussen kann,
-  dass Abwägungen notwendig werden, wie z.{nbsp}B.
-** Konfigurierbarkeit versus Zuverlässigkeit
-** Speicherbedarf versus Leistungseffizienz
-** Sicherheit versus Benutzbarkeit
-** Laufzeitflexibilität versus Wartbarkeit.
+* verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
+  zu formulieren, eine Analysemethode spezifizieren sollten
+* verstehen, dass manche Kategorisierungen zwischen
+  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden
+* verstehen, dass eine einzelne Anforderung sich auf mehrere
+  Qualitäten beziehen kann
+* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
+  kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
+* verstehen, dass unabhängig davon, ob zwischen Anforderungen und
+  Rahmenbedingungen unterschieden wird, es wichtig ist, deren
+  Auswirkungen auf die Architektur oder die Architekturarbeit zu
+  bestimmen (R2)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 4-1]: Understand and Explain Software System Qualities (R1)
+==== LG 02-04 [previously LG 4-03]: Requirements and Software Architecture (R1-R3)
 
-Software architects can explain:
+Software architects:
 
-* that the term "quality" is used differently in different contexts -
-  referring to "excellence" in the context of quality management, and
-  referring to a specific property (of a software system) in others
-  (and in this section)
-* that several taxonomies categorizing qualities of software systems
-  exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* that some categorizations distinguish between functionality and quality
-* that software architecture can impact a software system's qualities,
-* that impacting one quality can impact others, necessitating
-  trade-offs, such as:
-** configurability versus reliability
-** memory requirements versus performance efficiency
-** security versus usability
-** runtime flexibility versus maintainability.
+* understand that, in order to formulate a requirement on any given
+  quality, they also should specify the method of analysis
+* understand that some categorizations distinguish between "quality
+  requirements" and functional requirements
+* understand that a single requirement might pertain to several
+  qualities
+* know that the use of a metric as a target can lead to its
+  invalidation (R2), as described, e.g., by Goodhart's law (R3)
+* understand that regardless if a differentiation between requirements
+  and constraints is made or not, it is important to determine their
+  impact on the architecture or the architecture work (R2)
 
 // end::EN[]

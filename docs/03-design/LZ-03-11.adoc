@@ -1,19 +1,58 @@
-
 // tag::DE[]
 [[LZ-03-11]]
-==== LZ 03-11 [ehemaliges LZ 1-06]: Zusammenhang zwischen Entwicklungsvorgehen und Softwarearchitektur erläutern können (R2)
+==== LZ 03-11 [ehemaliges LZ 4-04]: Qualitäten durch Architektur verbessern (R1)
 
-* Softwarearchitekt:innen können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit).
-* Sie müssen aufgrund inhärenter Unsicherheit oftmals iterativ arbeiten und entscheiden.
-Dabei müssen sie bei anderen Stakeholdern systematisch Rückmeldung einholen.
+Softwarearchitekt:innen:
+
+* verstehen, dass architektonische Aktivitäten davon geleitet werden
+  sollten, spezifische Qualitäten zu verbessern
+* können einschätzen, welche Qualitäten sie durch eine bestimmte
+  gegebene Aktivität verbessern
+* können architektonische Aktivitäten vorschlagen, um eine bestimmte
+  Anforderung zu erfüllen
+
+TODO: Integrieren noch aus dem ehemaligen LZ 2-08:
+
+Softwarearchitekt:innen kennen und berücksichtigen den starken Einfluss von Qualitätsanforderungen in Architektur- und Entwurfsentscheidungen, beispielsweise für:
+
+* Effizienz, Laufzeitperformance
+* Verfügbarkeit
+* Wartbarkeit, Modifizierbarkeit, Erweiterbarkeit, Adaptierbarkeit
+* Energieeffizienz
+
+Sie können:
+
+* Lösungsmöglichkeiten, _Architectural Tactics_, angemessene Praktiken sowie technische Möglichkeiten zur Erreichung wichtiger Qualitätsanforderungen von Softwaresystemen (unterschiedlich für eingebettete Systeme bzw. Informationssysteme) erklären und anwenden
+* mögliche Wechselwirkungen zwischen solchen Lösungsmöglichkeiten sowie die entsprechenden Risiken identifizieren und kommunizieren.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-11]]
-==== LG 03-11 [previously LG 1-06]: Can Explain the Correlation between Development Approaches and Software Architecture (R2)
+==== LG 03-11 [previously LG 4-04]: Improving Qualities through Architecture (R1)
 
-* software architects are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability).
-* due to inherent uncertainty, software architects often have to work and make decisions iteratively. To do so, they have to systematically obtain feedback from other stakeholders.
+Software architects:
+
+* understand that architectural activities should be driven by the need
+  to improve specific qualities
+* can assess which qualities they improve through a specific
+  architectural activity
+* can propose an architectural activity suitable for fulfilling a
+  particular requirement
+
+TODO: Integrate former LG 2-08:
+
+Software architects understand and consider the considerable influence of quality requirements in architecture and design decisions, e.g. for:
+
+* efficiency, runtime performance
+* availability
+* maintainability, modifiability, extensibility, adaptability
+* energy efficiency
+
+They can:
+
+* explain and apply solution options, _Architectural Tactics_, suitable practices as well as technical possibilities to achieve important quality requirements of software systems (different for embedded systems or information systems)
+* identify and communicate possible trade-offs between such solutions and their associated risks
+
 
 // end::EN[]
