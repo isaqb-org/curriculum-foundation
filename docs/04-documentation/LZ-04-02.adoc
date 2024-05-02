@@ -6,7 +6,7 @@ Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Imp
 
 Softwarearchitekt:innen (R1):
 
-* können Architekturen stakeholdergerecht dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
+* können Architekturen entsprechend der Anliegen der Stakeholder dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z. B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
 * können Maßnahmen entwickeln und umsetzen, die mündliche und schriftliche Kommunikation in Einklang miteinander halten und miteinander angemessen ausbalancieren
 * kennen den Nutzen von Template-basierter Dokumentation
@@ -31,7 +31,7 @@ Software architects use documentation to support the design, implementation and 
 
 Software architects are able to (R1):
 
-* document and communicate architectures for corresponding stakeholders, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
+* document and communicate architectures for corresponding stakeholder concerns, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
 * consolidate and harmonise the style and content of contributions from different groups of authors
 * develop and implement measures to support the convergence of written and verbal communication, and balance one against the other appropriately
 
