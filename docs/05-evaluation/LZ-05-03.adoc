@@ -2,7 +2,7 @@
 [[LZ-05-03]]
 ==== LZ 05-03: Qualitätsszenarien, Qualitätsbäume (R2, R3)
 
-Softwarearchitekt:innen:
+Softwarearchitekt:innen
 
 * können ein Szenario für eine gegebene Qualität formulieren, mit
   Kontext, Stimulus und Reaktion oder Messmethode (R2)
@@ -14,6 +14,8 @@ Softwarearchitekt:innen:
 // tag::EN[]
 [[LG-05-03]]
 ==== LZ 05-03: Quality Scenarios, Quality Trees (R2, R3)
+
+Software architects
 
 * can formulate a scenario for a given quality containing context,
   stimulus and reaction or method of measurement (R2)
