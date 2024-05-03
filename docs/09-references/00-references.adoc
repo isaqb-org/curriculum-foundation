@@ -36,8 +36,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
 - [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 3. Auflage, dpunkt Verlag 2019.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
-- [[[lorzstarke, Lorz+2021]]] Alexander Lorz, Gernot Starke: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2021.
-Alexander Lorz, Gernot Starke
+- [[[lorzstarke, Starke+2021]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.
 - [[[martin03,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
 - [[[martin17,Martin 2017]]] Robert Martin. Clean Architecture: A craftsman’s guide to software structure and design. Pearson, 2017.
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
