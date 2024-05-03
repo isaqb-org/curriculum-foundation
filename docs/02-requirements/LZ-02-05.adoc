@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-02-05]]
-==== LZ 02-05 [ehemaliges LZ 1-08]: Explizite Aussagen von impliziten Annahmen unterscheiden (R1)
+==== LZ 02-05 [ehemaliges LZ 1-08]: Bevorzuge explizite Aussagen vor impliziten Annahmen (R1)
 
 Softwarearchitekt:innen:
 
@@ -12,11 +12,10 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-02-05]]
-==== LG 02-05 [previously LG 1-08]: Distinguish Explicit Statements and Implicit Assumptions (R1)
+==== LG 02-05 [previously LG 1-08]: Prefer Explicit Statements over Implicit Assumptions (R1)
 
 Software architects:
 
-* should explicitly present assumptions or prerequisites, therefore avoiding implicit assumptions
-* know that implicit assumptions can lead to potential misunderstandings between stakeholders
-
+* know that implicit assumptions can lead to misunderstandings between stakeholders
+* assumptions should be made explicit
 // end::EN[]
