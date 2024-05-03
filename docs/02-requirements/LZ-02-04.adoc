@@ -7,7 +7,8 @@ Softwarearchitekt:innen:
 * verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
   zu formulieren, eine Analysemethode spezifizieren sollten (siehe <<LZ-05-02>>) (R1)
 * verstehen, dass manche Kategorisierungen zwischen
-  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden (R1)
+  "Qualitätsanforderungen" und funktionalen Anforderungen
+  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> R1)
 * verstehen, dass eine einzelne Anforderung sich auf mehrere
   Qualitäten beziehen kann (R1)
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
@@ -28,7 +29,7 @@ Software architects:
 * understand that, in order to formulate a requirement on any given
   quality, they also should specify the method of analysis (see <<LG-05-02>>) (R1)
 * understand that some categorizations distinguish between "quality
-  requirements" and functional requirements (R1)
+  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
 * understand that a single requirement might pertain to several
   qualities  (R1)
 * know that the use of a metric as a target can lead to its
