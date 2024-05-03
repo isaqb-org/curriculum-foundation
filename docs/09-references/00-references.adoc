@@ -21,6 +21,8 @@
 - [[[evans,Evans 2004]]] Eric Evans: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ Addison-Wesley, 2004.
 - [[[fmc,FMC]]] Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
+
+- [[[fordhardparts,Ford+2021]]] Neal Ford, Mark Richards, Pramod Sadalage und Zhamak Dehghani: Software Architecture: The Hard Parts. Modern Trade-Off Analyses for Distributed Architectures. OReilly 2021.
 - [[[fowler,Fowler 2002]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.
 - [[[gharbietal,Gharbi+2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
 - [[[geirhos,Geirhos 2015]]] Matthias Geirhos. Entwurfsmuster: Das umfassende Handbuch (in German). Rheinwerk Computing Verlag. 2015
@@ -29,6 +31,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
+- [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 - [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
 - [[[iso25010, ISO 25010]]] ISO/IEC DIS 25010(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:dis:ed-2:v1:en>
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
@@ -37,16 +40,15 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 3. Auflage, dpunkt Verlag 2019.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
 - [[[lorzstarke, Starke+2021]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.
-- [[[martin03,Martin 2003]]] Robert Martin: Agile Software Development. Principles, Patterns, and Practices. Prentice Hall, 2003.
 - [[[martin17,Martin 2017]]] Robert Martin. Clean Architecture: A craftsman’s guide to software structure and design. Pearson, 2017.
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
-- [[[newman,Newman 2015]]] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O'Reilly. 2015.
+- [[[newman,Newman 2021]]] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O'Reilly 2nd edition 2021.
 - [[[north-cupid,Terhorst-North 2022]]] Daniel Terhorst-North: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
 - [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 - [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017.
 - [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
-- [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
-- [[[eilebrecht,Eilebrecht+2019]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 5th Edition Springer Verlag 2019.
+- [[[starke,Starke 2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
+- [[[eilebrecht,Eilebrecht+2024]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 6th Edition Springer Verlag 2024.
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
 - [[[distributedsystems,vanSteen+Tanenbaum]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>.
