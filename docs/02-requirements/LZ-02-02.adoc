@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-02-02]]
-==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen klären und berücksichtigen können (R1-R3)
+==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)
 
 TODO: translations must be checked
 
@@ -43,9 +43,9 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 // tag::EN[]
 [[LG-02-02]]
-==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements (R1-R3)
+==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)
 
-Software architects are able to clarify and consider requirements that impact
+Software architects are able to clarify and consider requirements and constraints that impact
 the architecture being designed or the design and development process.
 They understand that their decisions can lead to additional requirements.
 
