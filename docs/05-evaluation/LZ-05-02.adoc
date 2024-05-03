@@ -11,7 +11,7 @@ Softwarearchitekt:innen
 ** quantitative Messung von Laufzeitverhalten (R1)
 ** qualitative Auswertung durch Interviews, Umfragen, Pen-Tests etc. (R1)
 ** Szenarien (R1)
-** Code- und Architektur-Metriken (R1)
+** Architektur-Metriken (R1)
 ** Kosten-Nutzen-Analyse (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 * kennen Informationsquellen für Qualitätsanalyse:
@@ -41,7 +41,7 @@ Software architects
 ** quantitative measurement of run-time behaviour (R1)
 ** qualitative evaluation via interviews, surveys, pen tests etc. (R1)
 ** scenarios (R1)
-** code and architecture metrics (R1)
+** architecture metrics (R1)
 ** cost-benefit analysis (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
