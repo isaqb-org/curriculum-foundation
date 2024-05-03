@@ -1,0 +1,31 @@
+// header file for curriculum section 2: Design
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+include::./01-design-duration-terms.adoc[{include_configuration}]
+
+=== {learning_goals}
+
+include::./LZ-03-01.adoc[{include_configuration}]
+
+include::./LZ-03-02.adoc[{include_configuration}]
+
+include::./LZ-03-03.adoc[{include_configuration}]
+
+include::./LZ-03-04.adoc[{include_configuration}]
+
+include::./LZ-03-05.adoc[{include_configuration}]
+
+include::./LZ-03-06.adoc[{include_configuration}]
+
+include::./LZ-03-07.adoc[{include_configuration}]
+
+include::./LZ-03-08.adoc[{include_configuration}]
+
+include::./LZ-03-09.adoc[{include_configuration}]
+
+include::./LZ-03-10.adoc[{include_configuration}]
+
+include::./LZ-03-11.adoc[{include_configuration}]
+
+include::./99-design-references.adoc[tags={bibrefs}]

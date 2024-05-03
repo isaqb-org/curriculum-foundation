@@ -1,0 +1,43 @@
+
+// tag::DE[]
+[[LZ-01-03]]
+==== LZ 01-03 [ehemaliges LZ 1-4]: Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen (R1)
+Softwarearchitekt:innen tragen die Verantwortung für die Erreichung der Anforderungen und die Entwicklung der Architektur der Lösung.
+Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
+
+Aufgaben und Verantwortung von Softwarearchitekt:innen:
+
+* Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern, insbesondere _Required Features_ und _Required Constraints_
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
+* Querschnittsthemen entscheiden (beispielsweise Persistenz, Kommunikation, GUI)
+* Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und Querschnittsthemen kommunizieren und dokumentieren
+* Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen
+* Softwarearchitektur analysieren und bewerten, insbesondere hinsichtlich Risiken bezüglich der Erreichung von Anforderungen. 
+//Siehe <<LZ-4-3>> und <<LZ-4-4>>.
+* Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
+
+Sie sollen selbstständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-01-03]]
+==== LG 01-03 [ehemaliges LG 1-4]: Understand Software Architects' Tasks and Responsibilities (R1)
+Software architects are responsible for meeting requirements and creating the architecture design of a solution.
+Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities of project management and/or other roles.
+
+Tasks and responsibilities of software architects:
+
+* clarify and scrutinize requirements and constraints, and refine them if necessary,
+  including _required features_ and _required constraints_
+* decide how to decompose the system into building blocks, while determining dependencies and interfaces between the building blocks
+* decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)
+* communicate and document software architecture based on views, architectural patterns, cross-cutting concerns, and technical concerns
+* accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture
+* analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements.
+//Refer to <<LG-4-3>> and <<LG-4-4>>,
+* identify, highlight, and justify the consequences of architectural decisions to other stakeholders
+
+They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
+
+// end::EN[]

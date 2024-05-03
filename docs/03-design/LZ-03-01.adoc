@@ -1,0 +1,33 @@
+// tag::DE[]
+[[LZ-03-01]]
+==== LZ 03-01 [ehemaliges LZ 4-04]: Anforderungen durch Architektur erreichen (R1)
+
+Softwarearchitekt:innen:
+
+* verstehen, dass architektonische Aktivitäten davon geleitet werden
+  sollten, spezifische Qualitäten zu verbessern
+* können einen Architekturentwurf vorschlagen, der geeignet ist, 
+  Anforderungen zu erfüllen
+* können einschätzen, welche Qualitäten sie durch eine bestimmte
+  gegebene Aktivität verbessern
+* können mögliche Abwägungen zwischen Entwürfen
+  sowie den entsprechenden Risiken identifizieren und kommunizieren
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-03-01]]
+==== LG 03-01 [previously LG 4-04]: Fulfilling Requirements through Architecture (R1)
+
+Software architects:
+
+* understand that architectural activities should be driven by the need
+  to improve specific qualities
+* can propose an architecture design suitable for fulfilling 
+  requirements
+* can assess which qualities they improve through a specific
+  architectural activity
+* can identify and communicate possible trade-offs between designs
+  and their associated risks
+
+// end::EN[]

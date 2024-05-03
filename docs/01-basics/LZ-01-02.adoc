@@ -1,0 +1,30 @@
+
+// tag::DE[]
+[[LZ-01-02]]
+==== LZ 01-02: Nutzen und Ziele von Softwarearchitektur verstehen und erläutern (R1)
+
+Softwarearchitekt:innen können folgenden Nutzen und wesentlichen Ziele von Softwarearchitektur begründen:
+
+* Entwurf, Implementierung, Pflege und Betrieb von Systemen zu unterstützen
+* funktionale Anforderungen zu erreichen bzw. deren Erfüllbarkeit sicherzustellen
+* Anforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit, Energieeffizienz zu erreichen
+* Verständnis für Strukturen und Konzepte des Systems zu vermitteln, bezogen auf sämtliche relevanten Stakeholder
+* systematisch Komplexität zu reduzieren 
+* architekturrelevante Richtlinien für Implementierung und Betrieb zu spezifizieren
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-01-02]]
+==== LG 01-02: Understand and Explain the Goals and Benefits of Software Architecture (R1)
+
+Software architects can justify the following essential goals and benefits of software architecture:
+
+* support the design, implementation, maintenance, and operation of systems
+* achieve functional requirements or ensure that they can be met
+* achieve requirements such as reliability, maintainability, changeability, security, energy efficiency etc.
+* ensure that the system's structures and concepts are understood by all relevant stakeholders
+* systematically reduce complexity
+* specify architecturally relevant guidelines for implementation and operation
+ 
+// end::EN[]

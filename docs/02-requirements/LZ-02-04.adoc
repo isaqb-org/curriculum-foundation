@@ -1,0 +1,41 @@
+
+// tag::DE[]
+[[LZ-02-04]]
+==== LZ 02-04 [ehemaliges LZ 04-03]: Requirements and Software Architecture (R1-R3)
+Softwarearchitekt:innen:
+
+* verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
+  zu formulieren, eine Analysemethode spezifizieren sollten (siehe <<LZ-05-02>>) (R1)
+* verstehen, dass manche Kategorisierungen zwischen
+  "Qualitätsanforderungen" und funktionalen Anforderungen
+  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> R1)
+* verstehen, dass eine einzelne Anforderung sich auf mehrere
+  Qualitäten beziehen kann (R1)
+* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
+  kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
+* verstehen, dass unabhängig davon, ob zwischen Anforderungen und
+  Rahmenbedingungen unterschieden wird, es wichtig ist, deren
+  Auswirkungen auf die Architektur oder die Architekturarbeit zu
+  bestimmen (R2)
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-02-04]]
+==== LG 02-04 [previously LG 04-03]: Requirements and Software Architecture (R1-R3)
+
+Software architects:
+
+* understand that, in order to formulate a requirement on any given
+  quality, they also should specify the method of analysis (see <<LG-05-02>>) (R1)
+* understand that some categorizations distinguish between "quality
+  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
+* understand that a single requirement might pertain to several
+  qualities  (R1)
+* know that the use of a metric as a target can lead to its
+  invalidation (R2), as described, e.g., by Goodhart's law (R3)
+* understand that regardless if a differentiation between requirements
+  and constraints is made or not, it is important to determine their
+  impact on the architecture or the architecture work (R2)
+
+// end::EN[]

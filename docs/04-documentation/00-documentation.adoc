@@ -1,0 +1,31 @@
+// header file for curriculum section 3:
+// Documentation and Communication
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+include::./01-documentation-duration-terms.adoc[{include_configuration}]
+
+=== {learning_goals}
+
+
+include::./LZ-04-01.adoc[{include_configuration}]
+
+include::./LZ-04-02.adoc[{include_configuration}]
+
+include::./LZ-04-03.adoc[{include_configuration}]
+
+include::./LZ-04-04.adoc[{include_configuration}]
+
+include::./LZ-04-05.adoc[{include_configuration}]
+
+include::./LZ-04-06.adoc[{include_configuration}]
+
+include::./LZ-04-07.adoc[{include_configuration}]
+
+include::./LZ-04-08.adoc[{include_configuration}]
+
+include::./LZ-04-09.adoc[{include_configuration}]
+
+include::./LZ-04-10.adoc[{include_configuration}]
+
+include::./99-documentation-references.adoc[tags={bibrefs}]

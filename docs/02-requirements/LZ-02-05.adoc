@@ -1,0 +1,21 @@
+
+// tag::DE[]
+[[LZ-02-05]]
+==== LZ 02-05 [ehemaliges LZ 1-08]: Bevorzuge explizite Aussagen vor impliziten Annahmen (R1)
+
+Softwarearchitekt:innen:
+
+* können Annahmen oder Voraussetzungen explizit darstellen und dadurch implizite Annahmen vermeiden
+* wissen, dass implizite Annahmen potenzielle Missverständnisse zwischen beteiligten Stakeholdern bewirken
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-02-05]]
+==== LG 02-05 [previously LG 1-08]: Prefer Explicit Statements over Implicit Assumptions (R1)
+
+Software architects:
+
+* know that implicit assumptions can lead to misunderstandings between stakeholders
+* assumptions should be made explicit
+// end::EN[]

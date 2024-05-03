@@ -1,0 +1,56 @@
+
+// tag::DE[]
+
+== Entwurf und Entwicklung von Softwarearchitekturen
+
+|===
+| Dauer: 330 Min. | Übungszeit: 90 Min.
+|===
+
+
+=== Wesentliche Begriffe
+
+Entwurf; 
+Vorgehen beim Entwurf; 
+Entwurfsentscheidung; 
+Sichten; 
+Schnittstellen; 
+technische Konzepte und Querschnittsthemen; 
+Architekturmuster; 
+Entwurfsmuster; 
+Mustersprachen; 
+Entwurfsprinzipien; 
+Abhängigkeit; 
+Kopplung; 
+Kohäsion; 
+Top-down- und Bottom-up-Vorgehen;
+modellbasierter Entwurf; 
+iterativer/inkrementeller Entwurf; 
+Domain-Driven Design
+
+// end::DE[]
+
+// tag::EN[]
+== Design and Development of Software Architectures
+
+|===
+| Duration: 330 min. | Excercises: 90 min.
+|===
+
+=== Relevant Terms
+Design; design approach; design decision; views; 
+{glossary_url}interface[interfaces];  
+technical and 
+{glossary_url}cross-cutting-concerns[cross-cutting concerns]; 
+architectural patterns; 
+pattern languages; 
+design principles; 
+dependencies; 
+coupling; 
+cohesion; 
+top-down and bottom-up approaches; 
+model-based design; 
+iterative/incremental design; 
+domain-driven design
+
+// end::EN[]

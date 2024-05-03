@@ -10,6 +10,9 @@
 - [[[archimate, Archimate]]] The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
 - [[[bass,Bass+ 2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4^th^ Edition, Addison Wesley 2021.
 - [[[brownc4,Brown]]] Simon Brown: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
+- [[[IREBFoundation, IREB Foundation]]] Stan Bühne, Martin Glinz, Hans van Loen, Stefan
+  Staal: Certified Professional for Requirements Engineering -
+  Foundation Level - Syllabus - Version 3.2.0, IREB, 2024.
 - [[[buschmanna,Buschmann+ 1996]]] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.
 - [[[buschmannb,Buschmann+ 2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
 - [[[clementseval,Clements+ 2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
@@ -26,7 +29,7 @@ Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
-- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2011, Systems and software engineering — Architecture description, online: <https://www.iso-architecture.org/ieee-1471/>
+- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
 - [[[iso25010, ISO 25010]]] ISO/IEC DIS 25010(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:dis:ed-2:v1:en>
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
@@ -46,6 +49,7 @@ Alexander Lorz, Gernot Starke
 - [[[starke,Starke 2020]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 9. Auflage, Carl Hanser Verlag 2020. Website: https://esabuch.de
 - [[[eilebrecht,Eilebrecht+2019]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 5th Edition Springer Verlag 2019.
 - [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
+- [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
 - [[[distributedsystems,vanSteen+Tanenbaum]]] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <https://www.distributed-systems.net/>.
 - [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
 - [[[zoerner,Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.

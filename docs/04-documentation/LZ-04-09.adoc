@@ -1,0 +1,25 @@
+
+// tag::DE[]
+[[LZ-04-09]]
+==== LZ 04-09 [ehemaliges LZ 3-08]: Architekturentscheidungen erläutern und dokumentieren (R1-R2)
+
+Softwarearchitekt:innen können:
+
+* Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren
+* gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren
+
+Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<nygard>>) und können diese zur Dokumentation von Entscheidungen einsetzen (R2).
+// end::DE[]
+
+// tag::EN[]
+[[LG-04-09]]
+==== LG 04-09 [previously LG 3-08]: Explain and Document Architectural Decisions (R1-R2)
+
+Software architects are able to:
+
+* systematically take, justify, communicate, and document architectural decisions
+* identify, communicate, and document interdependencies between design decisions
+
+Software architects know about Architecture-Decision-Records (ADR, see <<nygard>>) and can apply these to document decisions (R2).
+
+// end::EN[]

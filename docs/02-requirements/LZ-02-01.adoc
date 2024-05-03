@@ -1,0 +1,94 @@
+
+// tag::DE[]
+[[LZ-02-01]]
+==== LZ 02-01: Stakeholder-Anliegen
+
+Architekten können Stakeholder und deren Anliegen sowie deren
+Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und
+Entwicklungsprozess identifizieren. (R2)
+
+* Beispiele für Stakeholder und ihre Anliegen sind wie folgt:
+
+|===
+|Interessengruppe |Anliegen der Interessengruppe
+
+| Produktmanagement
+| z. B. benötigte Zeit für die Umsetzung der Anforderungen
+
+| Projektmanager
+| z. B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
+gewählten architekturellen Ansatzes
+
+| Requirements Ingenieure
+| z. B. Erfüllung der Anforderungen
+
+| Entwickler
+| z. B. zu implementierende Komponenten und Schnittstellen, Protokolle,
+technologische Einschränkungen
+
+| Qualitätssicherung und Tester
+| z. B. isoliertes Testen von Komponenten
+
+| Betrieb
+| z. B. Infrastrukturanforderungen im Zusammenhang mit dem Betrieb des Systems
+
+|===
+
+Softwarearchitekten können potenzielle Konflikte zwischen kurz- und
+langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und
+Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R1)
+
+Architekten verstehen, dass nicht alle Anliegen der Stakeholder in
+Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt
+werden müssen. (R3)
+
+Architekten können die Anliegen der Stakeholder nutzen, um fehlende oder
+widersprüchliche Anforderungen zu entdecken und/oder Anforderungen und
+Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interviews. (R3)
+// end::DE[]
+
+// tag::EN[]
+[[LG-02-01]]
+==== LG 02-01: Stakeholder Concerns (R1 - R3)
+
+Architects can identify stakeholders and their concerns, as well as their impact on the
+software architecture or the design and development process. (R2)
+
+* Examples of stakeholders and concerns are as follows:
+
+|===
+|Stakeholder |Stakeholder Concern
+
+| product management and product owners
+| e.g., required time for the implementation of the requirements
+
+| project managers
+| e.g., required time and budget for the implementation, associated risks of the chosen
+architectural approach
+
+| requirement engineers
+| e.g., fulfillment of the requirements
+
+| developers
+| e.g., components and interfaces to be implemented, protocols, technology constraints
+
+| quality assurance and testers
+| e.g., isolated testing of components
+
+| operations
+| e.g., infrastructure requirements related to operating the system
+
+|===
+
+Software architects can explain potential conflicts between short-term and long-term goals,
+in order to resolve potential conflicts (e.g., business and project goals vs. architecture
+and maintainability goals). (R1)
+
+Architects understand that not all stakeholder concerns can or will be translated into
+requirements, but may nevertheless need to be considered. (R3)
+
+Architects can use stakeholder concerns to discover missing or conflicting requirements
+and/or validate requirements and constraints on the architecture, e.g., in stakeholder
+interviews. (R3)
+
+// end::EN[]

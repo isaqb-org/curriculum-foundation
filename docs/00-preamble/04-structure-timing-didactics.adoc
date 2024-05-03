@@ -13,13 +13,15 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 | 1. Grundlagen | 120
 
-| 2. Entwurf und Entwicklung | 420
+| 2. Anforderungen | 60
 
-| 3. Beschreibung und Kommunikation | 240
+| 3. Entwurf und Entwicklung | 420
 
-| 4. Architektur und Qualität | 120
+| 4. Beschreibung und Kommunikation | 240
 
-| 5. Beispiele | 90
+| 5. Analyse und Bewertung | 60
+
+| 6. Beispiele | 90
 
 | |
 
@@ -45,13 +47,15 @@ The types (domains and technologies) of examples and exercises can be determined
 
 | 1. Basic Concepts of Software Architecture | 120
 
-| 2. Design and Development | 420
+| 2. Requirements | 60
 
-| 3. Specification and Communication | 240
+| 3. Design and Development | 420
 
-| 4. Software Architecture and Quality | 120
+| 4. Specification and Communication | 240
 
-| 5. Examples | 90
+| 5. Analysis and Assessment | 60
+
+| 6. Examples | 90
 
 | |
 

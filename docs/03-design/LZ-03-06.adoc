@@ -1,0 +1,38 @@
+// tag::DE[]
+
+[[LZ-03-06]]
+==== LZ 03-06 [ehemaliges LZ 2-07]: Abhängigkeiten von Bausteinen managen (R1)
+
+Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen. 
+Sie:
+
+* kennen und verstehen unterschiedliche Arten der Kopplung von Bausteinen (beispielsweise  Kopplung über Benutzung/Delegation, Nachrichten/Ereignisse, Komposition, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Daten, Datentypen oder Hardware)
+* verstehen, wie Abhängigkeiten die Kopplung vergrößern
+* können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen
+* kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
+** Muster
+// (siehe <<LZ-2-5, LZ 2-5>>)
+** Grundlegende Entwurfsprinzipien
+// (siehe <<LZ-2-6, LZ 2-6>>)
+** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von _Dependency Injection_.
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-03-06]]
+==== LG 03-06 [previously LG 2-07]: Manage Dependencies between Building Blocks (R1)
+
+Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:
+
+* know and understand different types of dependencies of building blocks (e.g. coupling via use/delegation, messaging/events, composition, creation, inheritance, temporal coupling, coupling via data, data types or hardware)
+* understand how dependencies increase coupling
+* can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
+* know and can apply possibilities to reduce or eliminate coupling, for example:
+** patterns
+// (refer to <<LG-2-5, LG 2-5>>)
+** fundamental design principles
+// (refer to <<LG-2-6, LG 2-6>>)
+** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
+
+// end::EN[]

@@ -1,0 +1,40 @@
+
+// tag::DE[]
+[[LZ-01-04]]
+==== LZ 01-04 [ehemaliges LZ 1-09]: Zuständigkeit von Softwarearchitekt:innen in organisatorischen Kontext einordnen (R3)
+
+Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
+
+Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beispielsweise:
+
+* Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften
+* Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen
+* Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten
+* Datenarchitektur: Semantik und Organization von Daten
+* Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
+* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
+* Systemarchitektur (verschiedene Bedeutungen, abhängig von der Definition des Begriffs "System")
+
+Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-01-04]]
+==== LG 01-04 [previously LG 1-09]: Responsibilities of Software Architects within the Greater Architectural Context (R3)
+
+The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
+
+In addition, software architects are familiar with other architectural domains, for example:
+
+* enterprise IT architecture: Structure of application landscapes
+* business and process architecture: Structure of, among other things, business processes
+* information architecture: cross-system structure and use of information and data
+* data architecture: semantics and organization of data
+* infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
+  networks, etc.
+* hardware or processor architecture (for hardware-related systems)
+* system architecture (can have various semantics, depending on the definition of "system")
+
+These architectural domains are not the content focus of CPSA-F.
+// end::EN[]

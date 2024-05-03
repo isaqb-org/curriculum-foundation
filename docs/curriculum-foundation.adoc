@@ -19,7 +19,6 @@ endif::[]
 // have been configured (e.g. "DE;EN")
 include::config/i18n-definitions.adoc[tags={language}]
 
-
 <<<
 :sectnums!:
 include::../license-copyright/copyright.adoc[{include_configuration}]
@@ -41,16 +40,21 @@ include::00-preamble/00-introduction.adoc[]
 include::01-basics/00-basic-concepts.adoc[]
 
 <<<
-include::02-design/00-design.adoc[]
+include::02-requirements/00-requirements.adoc[]
 
 <<<
-include::03-documentation/00-documentation.adoc[]
+include::03-design/00-design.adoc[]
 
 <<<
-include::04-quality/00-quality.adoc[]
+include::04-documentation/00-documentation.adoc[]
 
 <<<
-include::05-examples/00-examples.adoc[]
+include::05-evaluation/00-evaluation.adoc[]
+
+<<<
+include::06-examples/00-examples.adoc[]
 
 <<<
 include::09-references/00-references.adoc[]
+
+
