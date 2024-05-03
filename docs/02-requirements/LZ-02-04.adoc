@@ -1,15 +1,15 @@
 
 // tag::DE[]
 [[LZ-02-04]]
-==== LZ 02-04 [ehmaliges LZ 4-03]: Requirements and Software Architecture (R1-R3)
+==== LZ 02-04 [ehemaliges LZ 04-03]: Requirements and Software Architecture (R1-R3)
 Softwarearchitekt:innen:
 
 * verstehen, dass sie, um, eine Anforderung für eine gegebene Qualität
-  zu formulieren, eine Analysemethode spezifizieren sollten
+  zu formulieren, eine Analysemethode spezifizieren sollten (siehe <<LZ-05-02>>) (R1)
 * verstehen, dass manche Kategorisierungen zwischen
-  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden
+  "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden (R1)
 * verstehen, dass eine einzelne Anforderung sich auf mehrere
-  Qualitäten beziehen kann
+  Qualitäten beziehen kann (R1)
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
   kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
 * verstehen, dass unabhängig davon, ob zwischen Anforderungen und
@@ -21,16 +21,16 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 4-03]: Requirements and Software Architecture (R1-R3)
+==== LG 02-04 [previously LG 04-03]: Requirements and Software Architecture (R1-R3)
 
 Software architects:
 
 * understand that, in order to formulate a requirement on any given
-  quality, they also should specify the method of analysis
+  quality, they also should specify the method of analysis (see <<LG-05-02>>) (R1)
 * understand that some categorizations distinguish between "quality
-  requirements" and functional requirements
+  requirements" and functional requirements (R1)
 * understand that a single requirement might pertain to several
-  qualities
+  qualities  (R1)
 * know that the use of a metric as a target can lead to its
   invalidation (R2), as described, e.g., by Goodhart's law (R3)
 * understand that regardless if a differentiation between requirements
