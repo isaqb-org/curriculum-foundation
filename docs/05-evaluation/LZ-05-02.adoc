@@ -1,57 +1,61 @@
 // tag::DE[]
 [[LZ-05-02]]
-==== LZ 05-02 [ehemaliges LZ 4-02]: Qualitäten eines Softwaresystems analysieren (R2)
+==== LZ 05-02 [ehemaliges LZ 4-02]: Qualitäten eines Softwaresystems analysieren (R1, R3)
+
+Softwarearchitekt:innen
 
 * verstehen dass für eine einzelne Qualität eines Softwaresystems
-  verschiedene Analysemethoden zur Verfügung stehen können
-* können eine Analysemethode für eine relevante Qualität auswählen,
+  verschiedene Analysemethoden zur Verfügung stehen können,
   wie z.{nbsp}B.:
-** Analyse der Ergebnisse von Akzeptanztests
-** quantitative Messung von Laufzeitverhalten
-** qualitative Auswertung durch Interviews, Umfragen, Pen-Tests etc.
-** Szenarien
-** Code-, Architektur- und Organisations-Metriken
+** Analyse der Ergebnisse von Akzeptanztests (R1)
+** quantitative Messung von Laufzeitverhalten (R1)
+** qualitative Auswertung durch Interviews, Umfragen, Pen-Tests etc. (R1)
+** Szenarien (R1)
+** Code-, Architektur- und Organisations-Metriken (R1)
+** Kosten-Nutzen-Analyse (R3)
+** Architecture Trade-Off Analysis Method <<bass>> (R3)
 * kennen Informationsquellen für Qualitätsanalyse:
-** Anforderungsdokumentation
-** Architekturdokumentation
-** Architektur- und Entwurfsmodelle
-** Quelltext
+** Anforderungsdokumentation (R1)
+** Architekturdokumentation (R1)
+** Architektur- und Entwurfsmodelle (R1)
+** Quelltext (R1)
 ** Quelltext-bezogene Metriken wie Lines-of-Code, (zyklomatische)
-   Komplexität, ein- und ausgehende Abhängigkeiten
-** Testfälle und ihre Testresultate
+   Komplexität, ein- und ausgehende Abhängigkeiten (R1)
+** Testfälle und ihre Testresultate (R1)
 ** Fehler und ihre Position im Quelltext, besonders Fehlercluster
 ** andere Dokumentation des Systems, wie z.{nbsp}B. Betriebs- und
-   Testdokumentation
-** Laufzeit-Logs und Metriken
+   Testdokumentation (R1)
+** Laufzeit-Logs und Metriken (R1)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-05-02]]
-==== LG 05-02 [previously LG 4-02]: Analysis of Software System Qualities (R1)
+==== LG 05-02 [previously LG 4-02]: Analysis of Software System Qualities (R1, R3)
 
-Software architects:
+Software architects
 
 * understand that, for any given quality, different analysis methods
-  might be available for a particular software system
-* can select an appropriate analysis method for a relevant quality,
-  such as:
-** analysis of the results of acceptance testing
-** quantitative measurement of run-time behaviour
-** qualitative evaluation via interviews, surveys, pen tests etc.
-** scenarios
-** code, architecture, and organisation metrics
+  might be available for a particular software system, such as
+** analysis of the results of acceptance testing (R1)
+** quantitative measurement of run-time behaviour (R1)
+** qualitative evaluation via interviews, surveys, pen tests etc. (R1)
+** scenarios (R1)
+** code, architecture, and organisation metrics (R1)
+** cost-benefit analysis (R3)
+** Architecture Trade-Off Analysis Method <<bass>> (R3)
+
 * know sources of information for a quality analysis (R2):
-** requirements documentation
-** architecture documentation
-** architecture and design models
-** source code
+** requirements documentation (R1)
+** architecture documentation (R1)
+** architecture and design models (R1)
+** source code (R1)
 ** source-code-related metrics such as lines of code, (cyclomatic)
-   complexity, inbound and outbound dependencies
-** test cases and test results
-** errors and their locations in the source code, especially error clusters
-** other documentation of the system, such as operational or test
-   documentation
-** run-time event logs and metrics
+   complexity, inbound and outbound dependencies (R1)
+** test cases and test results (R1)
+** errors and their locations in the source code, especially error clusters (R1)
+** other documentation of the system, such as operational or test (R1)
+   documentation (R1)
+** run-time event logs and metrics (R1)
 
 // end::EN[]
