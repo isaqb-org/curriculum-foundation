@@ -110,8 +110,8 @@ image:./release-process/release-process-2023.drawio.png[graphical overview of re
 |===
 | Nr | Activity  | Duration  | Schedule/deadline
 | 1  | Collect change requests | continuously
-| for 2025, CRs are accepted until May 31st 2024
-a| 2  | We hope to get (anonymous) statistical evaluation of examinations and examination questions from certification providers.  | continuously | none
+| for 2025, CRs are accepted until June 15th 2024
+| 2  | We hope to get (anonymous) statistical evaluation of examinations and examination questions from certification providers.  | continuously | none
 | 3 | FLWG maintains the curriculum and associated information within this public Github repository | |
 | 4 | FLWG decides internally, which changes to accept for the upcoming release.| | RD - 9M, July 1st 2024
 | 5 | The list of accepted changes is given to all training providers (TP) for review and request-for-comments. From that time, TP can begin to update their training material. Several accepted changes are already included in main-branch.
