@@ -4,7 +4,7 @@
 
 === {references}
 
-<<bass>>, <<gharbietal>>, <<isaqbreferences>>, <<lorzstarke>>, <<starke>>, <<distributedsystems>>
+<<bass>>, <<gharbietal>>, <<isaqbreferences>>, <<starkelorz>>, <<starke>>, <<distributedsystems>>
 
 // end::BIB_REFS[] 
 
