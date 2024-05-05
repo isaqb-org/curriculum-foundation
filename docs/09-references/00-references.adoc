@@ -54,6 +54,7 @@
 
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
+- [[[kruchten, Kruchten 2003]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
 
 // L
 - [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
@@ -67,7 +68,6 @@
 - [[[miller-distributed,Miller et. al]]] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <https://github.com/heathermiller/dist-prog-book>.
 - [[[maguire, Maguire 2019]]] Sandy Maguire: Algebra-Driven Design:  Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.
 
-=======
 // N
 - [[[newman,Newman 2021]]] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O'Reilly 2nd edition 2021.
 - [[[north-cupid,Terhorst-North 2022]]] Daniel Terhorst-North: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.

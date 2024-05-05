@@ -2,7 +2,8 @@
 // tag::DE[]
 [[LZ-01-01]]
 ==== LZ 01-01: Definitionen von Softwarearchitektur diskutieren (R1)
-Softwarearchitekt:innen kennen mehrere Definitionen von Softwarearchitektur (u. a. ISO/IEC/IEEE 42010, SEI, Booch etc.) und können deren Gemeinsamkeiten benennen:
+Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen
+von Softwarearchitektur <<iso42010>> <<bass>> <<kruchten>>:
 
 * Komponenten/Bausteine mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
@@ -15,7 +16,8 @@ Softwarearchitekt:innen kennen mehrere Definitionen von Softwarearchitektur (u. 
 [[LG-01-01]]
 ==== LG 01-01: Discuss Definitions of Software Architecture (R1)
 
-Software architects know several definitions of software architecture (incl. ISO/IEC/IEEE 42010, SEI, Booch etc.) and can name their similarities:
+Software architects know the commonalities of many definitions of
+software architecture <<iso42010>> <<bass>> <<kruchten>>:
 
 * components/building blocks with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
