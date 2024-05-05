@@ -43,7 +43,7 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
   registriert sich bei einem Objekt (dem Subjekt), damit das Subjekt
   den Observer bei Änderungen benachrichtigt.
 * Plug-In: erweitert das Verhalten einer Komponente.
-* Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur, Clean-Architecture): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von außen nach innen (Outside-In), niemals von innen nach außen (Inside-Out). <<lange21>> <<martin17>>
+* Ports&Adapters (syn. Onion-Architecture, Hexagonale Architektur, Clean-Architecture): konzentrieren die Domänenlogik im Zentrum des Systems, und besitzen lediglich an den Rändern Verbindungen zur Außenwelt (Datenbank, UI). Abhängigkeiten von außen nach innen (Outside-In), niemals von innen nach außen (Inside-Out). <<lange21>> <<hombergs>>
 * Remote Procedure Call: eine Funktion oder einen Algorithmus in einem anderen Adressraum ausführen lassen.
 * SOA (Service-orientierte Architektur): Ein Ansatz zur Bereitstellung abstrakter Dienste statt konkreter Implementierungen für die Benutzer des Systems, um die Wiederverwendung von Diensten über Abteilungen und zwischen Unternehmen zu fördern.
 * Template und Strategy: spezifische Algorithmen durch Kapselung flexibel machen.
