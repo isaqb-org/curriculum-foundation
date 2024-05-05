@@ -22,7 +22,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundatio
 
 This repository contains the *curriculum* for CPSA-F in the following versions:
 
-* **(upcoming) version 2025 (will become mandatory from April 1^st^ 2023)**
+* **(upcoming) version 2025 (will become mandatory from April 1^st^ 2025)**
 * Version 2023 (mandatory from April 1^st^ 2023)
 * Version 2021.1 (mandatory from April 1^st^ 2021)
 * Version 5 (mandatory from September 1^st^ 2019 until March 31^st^ 2021)
@@ -104,7 +104,7 @@ For the German (DE) version, we don't use punctuation at the end of bullet-list 
 We have a standardized release process for the curriculum and the associated examination questions.
 
 === Overview of release process
-image:./release-process/release-process-2023.drawio.png[graphical overview of release process]
+image:./release-process/release-process-2025.drawio.png[graphical overview of release process]
 
 [cols="1,6a,2,2"]
 |===
