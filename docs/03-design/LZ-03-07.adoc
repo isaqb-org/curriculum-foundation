@@ -14,6 +14,9 @@ Sie kennen:
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
 * die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
+* die Trennung zwischen Schnittstelle und Implementierung:
+** Implementierungen können bei Bedarf ausgetauscht werden.
+** Liskov'sches Substitutionsprinzip <<liskov>> als eine Möglichkeit, Konsistenz und konzeptionelle Integrität zu erreichen (R3).
 * unterschiedliche Implementierungsansätze von Schnittstellen (R3):
 ** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
@@ -26,13 +29,16 @@ Sie kennen:
 
 Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
 
-They know: 
+They know:
 
 * desired characteristics of interfaces and can use them in the design:
 ** easy to learn, easy to use, easy to extend
 ** hard to misuse
 ** functionally complete from the perspective of users or building blocks using them.
 * the necessity to treat internal and external interfaces differently
+* the distinction between interface and implementation:
+** implementations can be exchanged if required.
+** Liskov's substitution principle <<liskov>> as a way to achieve consistency and conceptual integrity (R3).
 * different approaches for implementing interfaces (R3):
 ** resource oriented approach (REST, Representational State Transfer)
 ** service oriented approach (see WS-*/SOAP-based web services.
