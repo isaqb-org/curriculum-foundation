@@ -1,6 +1,6 @@
 
 // tag::DE[]
-==	Softwarearchitektur Anforderungen
+== Anforderungen und Randbedingungen
 
 |===
 | Dauer: 60 Min. | Übungszeit: 60 Min.
@@ -13,7 +13,7 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbau
 // end::DE[]
 
 // tag::EN[]
-== Software Architecture and Requirements
+== Requirements and Constraints
 
 |===
 | Duration: 60 min. | Exercises: 60 min.
