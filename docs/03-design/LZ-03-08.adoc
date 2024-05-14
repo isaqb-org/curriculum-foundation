@@ -95,7 +95,7 @@ Software architects can explain several of the following patterns, explain their
 * _observer_: An interested object (observer) registers with another
   object (the subject) so that the subject notifies the observer upon changes.
 * _plug-in_: extend the behaviour of a component
-* _ports & adapters_ (syn. Onion-Architecture, Hexagonal-Architecture, Clean-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<lange21>> <<martin17>>
+* _ports & adapters_ (syn. Onion-Architecture, Hexagonal-Architecture, Clean-Architecture): concentrate domain logic in the center of the system, have connections to the outside world (database, UI) at the edges, dependencies only outside-in, never inside-out <<lange21>> <<hombergs>>
 * _remote procedure call_: make a function or algorithm execute in a different address space
 * _SOA_ (Service-Oriented Architecture): an approach to provide abstract services rather than concrete implementations to users of the system to promote reuse of services across departments and between companies
 * _template and strategy_: make specific algorithms flexible by encapsulating them
