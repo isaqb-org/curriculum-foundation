@@ -7,7 +7,7 @@ The international Software Architecture Qualification Board (link:https://isaqb.
 
 The **Release Candidates** of the **Foundation Level** curriculum are currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on https://github.com/isaqb-org[Github] to improve the curriculum.
 
-== Current Release Candidate v2023.1
+== Current Release Candidate v2025.1
 
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
@@ -27,6 +27,8 @@ image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundatio
 
 |===
 
-== Changes compared to 2021.1
+== Changes 2024 to 2023.1
+(to be done)
+
+== Changes 2023 compared to 2021.1
 - link:https://github.com/isaqb-org/curriculum-foundation/blob/main/CHANGELOG.md[CHANGELOG.md on GitHub]
-// - link: [HTML diff to the latest curriculum] T.B.A.
