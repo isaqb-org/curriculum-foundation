@@ -8,7 +8,8 @@ von Softwarearchitektur <<iso42010>> <<bass>> <<kruchten>>:
 * Komponenten/Bausteine mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
 * Strukturen, Querschnittsthemen, Prinzipien
-* Architekturentscheidungen mit systemweiten oder den gesamten Lebenszyklus betreffenden Konsequenzen
+* Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und
+  seinen Lebenszyklus
 
 // end::DE[]
 
