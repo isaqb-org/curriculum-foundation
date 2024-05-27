@@ -9,8 +9,8 @@
 
 === Zielstellung
 Ziel dieses Abschnitts ist es, den Teilnehmenden ein grundlegendes Verständnis der wichtigsten Begriffe und Konzepte von Softwarearchitektur zu vermitteln.
-Sie werden in die Lage versetzt, verschiedene Definitionen zu diskutieren, die wesentlichen Ziele und Vorteile zu verstehen und die wichtigen Aufgaben und Verantwortlichkeiten von Softwarearchitektinnen und Softwarearchitekten zu erkennen.
-Außerdem wird deren Rolle im breiteren organisatorischen Kontext und ihre Interaktion mit anderen Stakeholdern thematisiert, um es den Teilnehmenden zu ermöglichen, einen effektiven Beitrag zu verschiedenartigen Softwareentwicklungsprojekten zu leisten.
+Sie werden in die Lage versetzt, verschiedene Definitionen zu diskutieren, die wesentlichen Ziele und Vorteile von Softwarearchitektur zu verstehen und die wichtigsten Aufgaben und Verantwortlichkeiten von Softwarearchitektinnen und Softwarearchitekten zu erkennen.
+Außerdem wird deren Rolle im organisatorischen Kontext und ihre Interaktion mit anderen Stakeholdern thematisiert, um es den Teilnehmenden zu ermöglichen, einen effektiven Beitrag zu verschiedenartigen Softwareentwicklungsprojekten zu leisten.
 
 === Wesentliche Begriffe
 {glossary_url}software-architecture[Softwarearchitektur];
