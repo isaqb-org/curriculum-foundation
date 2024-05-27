@@ -7,6 +7,11 @@
 |===
 
 
+=== Zielstellung
+Ziel dieses Abschnitts ist es, den Teilnehmenden ein grundlegendes Verständnis der wichtigsten Begriffe und Konzepte von Softwarearchitektur zu vermitteln.
+Sie werden in die Lage versetzt, verschiedene Definitionen zu diskutieren, die wesentlichen Ziele und Vorteile zu verstehen und die wichtigen Aufgaben und Verantwortlichkeiten von Softwarearchitektinnen und Softwarearchitekten zu erkennen.
+Außerdem wird deren Rolle im breiteren organisatorischen Kontext und ihre Interaktion mit anderen Stakeholdern thematisiert, um es den Teilnehmenden zu ermöglichen, einen effektiven Beitrag zu verschiedenartigen Softwareentwicklungsprojekten zu leisten.
+
 === Wesentliche Begriffe
 {glossary_url}software-architecture[Softwarearchitektur];
 Architekturdomänen; 
@@ -34,6 +39,11 @@ Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssystem
 |===
 | Duration: 120 min. | Exercises: none
 |===
+
+
+=== Purpose
+The purpose of this section is to equip training participants with a foundational understanding of key terms and concepts in software architecture.
+It aims to enable them to discuss various definitions, comprehend the essential goals and benefits, and recognize the critical tasks and responsibilities of software architects. Additionally, the section explores the role of software architects in the broader architectural context and their interactions with other stakeholders, preparing participants to effectively contribute to diverse software development projects.
 
 === Relevant Terms
 {glossary_url}software-architecture[Software architecture]; 
