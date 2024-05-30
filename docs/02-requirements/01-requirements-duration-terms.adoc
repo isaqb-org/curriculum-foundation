@@ -8,7 +8,7 @@
 
 === Zielsetzung
 Dieser Abschnitt vertieft das Verständnis der Teilnehmenden für Stakeholder-Anliegen, Anforderungen und Qualitäten von Softwaresystemen.
-Sie lernen, den Einfluss von Stakeholdern auf Architekturentscheidungen zu erkennen sowie Konflikte und Synergien im Projektkontext einzuschätzen.
+Sie lernen, den Einfluss von Stakeholdern auf Architekturentscheidungen zu erkennen sowie Konflikte und Synergien im Kontext von Entwicklungsprojekten einzuschätzen.
 Durch die Auseinandersetzung mit verschiedenen Anforderungen und Einschränkungen erhalten sie einen Einblick in die effektive Berücksichtigung der Bedürfnisse der Stakeholder und der Projektvorgaben.
 Gleichzeitig erkennen sie die Bedeutung von Qualitäten eines Softwaresystems als entscheidende Faktoren für den Architekturentwurf. 
 
@@ -27,7 +27,7 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Qualitätsszenarien; Qualitätsbau
 
 === Purpose
 This section deepens participants' understanding of stakeholder concerns, requirements, and system qualities in software architecture.
-Participants learn to identify stakeholders and their influence on architectural decisions, discerning conflicts and synergies within project contexts.
+Participants learn to identify stakeholders and their influence on architectural decisions, discerning conflicts and synergies in the context of development projects.
 By exploring diverse requirements and constraints, they gain insight into effectively addressing stakeholders' needs and project constraints.
 Additionally, they recognize the significance of software system qualities as drivers for architectural design. 
 
