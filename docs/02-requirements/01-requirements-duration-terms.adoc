@@ -6,7 +6,7 @@
 | Dauer: 60 Min. | Übungszeit: 60 Min.
 |===
 
-=== Zielstellung
+=== Zielsetzung
 Dieser Abschnitt vertieft das Verständnis der Teilnehmenden für Stakeholder-Anliegen, Anforderungen und Qualitäten von Softwaresystemen.
 Sie lernen, den Einfluss von Stakeholdern auf Architekturentscheidungen zu erkennen sowie Konflikte und Synergien im Projektkontext einzuschätzen.
 Durch die Auseinandersetzung mit verschiedenen Anforderungen und Einschränkungen erhalten sie einen Einblick in die effektive Berücksichtigung der Bedürfnisse der Stakeholder und der Projektvorgaben.
