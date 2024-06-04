@@ -7,6 +7,12 @@
 | Dauer: 330 Min. | Übungszeit: 90 Min.
 |===
 
+=== Zielsetzung
+Dieser Abschnitt zielt darauf ab, die Teilnehmenden in die Lage zu versetzen, Architekturentscheidungen so zu treffen, dass Anforderungen der Stakeholder unter Berücksichtigung der Randbedingungen erfüllt werden können.
+Sie lernen, Architekturentwürfe zu entwickeln, fundierte Entscheidungen zur Systemzerlegung zu treffen und Abhängigkeiten zwischen Bausteinen zu gestalten.
+Zu diesem Zweck lernen sie, grundlegende Ansätze und Heuristiken bei der Architekturentwicklung anzuwenden.
+Sie erkennen die Bedeutung von Designprinzipien und Lösungsmustern und können diese anwenden.
+Darüber hinaus werden in diesem Abschnitt der Umgang mit Querschnittsbelangen, die Prinzipien des Software-Deployments und die Herausforderungen verteilter Systeme thematisiert.
 
 === Wesentliche Begriffe
 
@@ -36,6 +42,13 @@ Domain-Driven Design
 |===
 | Duration: 330 min. | Excercises: 90 min.
 |===
+
+=== Purpose
+This section aims to enable participants to take architectural decisions in a way that fulfills stakeholder requirements while respecting the given constraints of the system context.
+They will learn to develop architectural designs, make informed decisions on system decomposition and shape dependencies between building blocks.
+To this end, they learn to apply basic approaches and heuristics in architecture development.
+They recognize the importance of design principles and solution patterns and are able to apply them.
+In addition, this section addresses the management of cross-cutting concerns, the principles of software deployment and the challenges of distributed systems.
 
 === Relevant Terms
 Design; design approach; design decision; views; 
