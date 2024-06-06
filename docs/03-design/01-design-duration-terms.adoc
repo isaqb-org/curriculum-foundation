@@ -11,7 +11,7 @@
 Dieser Abschnitt zielt darauf ab, die Teilnehmenden in die Lage zu versetzen, Architekturentscheidungen so zu treffen, dass Anforderungen der Stakeholder unter Berücksichtigung der Randbedingungen erfüllt werden können.
 Sie lernen, Architekturentwürfe zu entwickeln, fundierte Entscheidungen zur Systemzerlegung zu treffen und Abhängigkeiten zwischen Bausteinen zu gestalten.
 Zu diesem Zweck lernen sie, grundlegende Ansätze und Heuristiken bei der Architekturentwicklung anzuwenden.
-Sie erkennen die Bedeutung von Designprinzipien und Lösungsmustern und können diese anwenden.
+Sie erkennen die Bedeutung von Entwurfsprinzipien und Lösungsmustern und können diese anwenden.
 Darüber hinaus werden in diesem Abschnitt der Umgang mit Querschnittsbelangen, die Prinzipien des Software-Deployments und die Herausforderungen verteilter Systeme thematisiert.
 
 === Wesentliche Begriffe
