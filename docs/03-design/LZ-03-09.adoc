@@ -1,15 +1,16 @@
 
 // tag::DE[]
 [[LZ-03-09]]
-==== LZ 03-09 [ehemaliges LZ 2-04]: Querschnittsthemen entwerfen und umsetzen (R1)
+==== LZ 03-09 [ehemaliges LZ 2-04]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
 
 Softwarearchitekt:innen können:
 
-* die Bedeutung von Querschnittsthemen erklären
-* Querschnittsthemen entscheiden und entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
-* mögliche wechselseitige Abhängigkeiten dieser Entscheidungen erkennen und beurteilen.
+* die Bedeutung von Querschnittsthemen (synonym: Belange, Anliegen) erklären
+* solche Querschnittsthemen identifizieren
+* Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
+* mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.
 
-Softwarearchitekt:innen wissen, dass solche Querschnittsthemen systemübergreifend wiederverwendbar sein können.
+Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
 
 // end::DE[]
 
@@ -20,9 +21,10 @@ Softwarearchitekt:innen wissen, dass solche Querschnittsthemen systemübergreife
 Software architects are able to:
 
 * explain the significance of such cross-cutting concerns
-* decide on and design cross-cutting concerns, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
-* identify and assess potential interdependencies between these decisions.
+* identify such cross-cutting concerns
+* design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
+* identify and assess potential interdependencies.
 
-Software architects know that such cross-cutting concerns may be re-used throughout the system.
+Software architects know that such cross-cutting concerns may be re-used across systems.
 
 // end::EN[]
