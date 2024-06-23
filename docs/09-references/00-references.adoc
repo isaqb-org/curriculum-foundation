@@ -38,8 +38,9 @@
 
 // G
 - [[[gof,Gamma+94]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
+- [[[geewax,Geewax 2021]]] J. Geewax. API Design Patterns. Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs. 
 - [[[geirhos,Geirhos 2015]]] Matthias Geirhos. Entwurfsmuster: Das umfassende Handbuch (in German). Rheinwerk Computing Verlag. 2015
-- [[[gharbietal,Gharbi+2020]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 4. Auflage, dpunkt Verlag, Heidelberg 2020.
+- [[[gharbietal,Gharbi+2024]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 5. Auflage, dpunkt Verlag, Heidelberg 2024.
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
 
 // H
@@ -54,11 +55,11 @@
 
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
-- [[[kruchten, Kruchten 2003]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
+- [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
 
 // L
 - [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
-- [[[lilienthal,Lilienthal 2019]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 3. Auflage, dpunkt Verlag 2019.
+- [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
 - [[[liskov,Liskov 1994]]] Barbara H. Liskov, Jeannette M. Wing: A behavioral notion of subtyping. ACM Transactions on Programming Languages and Systems, Volume 16, Issue 6, 1994. <doi:10.1145/197320.197383>
 
