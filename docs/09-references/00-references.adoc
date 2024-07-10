@@ -56,6 +56,7 @@
 
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
+- [[[kruchten95, Kruchten 1995]]] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50
 - [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
 
 // L
@@ -82,11 +83,12 @@
 - [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
 
 // R
-- [[[richardsfundamentsls,Richards+20]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
-
+- [[[richardsfundamentals,Richards+20]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
+- [[[rozanskiwoods, Rozanski+11]]] Nick Rozanski, Eoin Woods: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.
 // S
 - [[[starke,Starke 2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
 - [[[starkelorz, Starke+2021]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.
+- [[[starkeetalarc42, Starke+2023]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example: Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
 
 
