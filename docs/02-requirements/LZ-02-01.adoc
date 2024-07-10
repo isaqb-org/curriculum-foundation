@@ -7,7 +7,7 @@ Architekten können Stakeholder und deren Anliegen sowie deren
 Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und
 Entwicklungsprozess identifizieren. (R2)
 
-* Beispiele für Stakeholder und ihre Anliegen sind wie folgt:
+* Beispiele für Stakeholder und ihre Anliegen:
 
 |===
 |Interessengruppe |Anliegen der Interessengruppe
@@ -15,18 +15,18 @@ Entwicklungsprozess identifizieren. (R2)
 | Produktmanagement
 | z. B. benötigte Zeit für die Umsetzung der Anforderungen
 
-| Projektmanager
+| Projektmanagement
 | z. B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
 gewählten architekturellen Ansatzes
 
-| Requirements Ingenieure
+| Requirements Engineering, Fachbereiche
 | z. B. Erfüllung der Anforderungen
 
-| Entwickler
+| Entwicklungsteam
 | z. B. zu implementierende Komponenten und Schnittstellen, Protokolle,
 technologische Einschränkungen
 
-| Qualitätssicherung und Tester
+| Qualitätssicherung und Test
 | z. B. isoliertes Testen von Komponenten
 
 | Betrieb
@@ -34,17 +34,11 @@ technologische Einschränkungen
 
 |===
 
-Softwarearchitekten können potenzielle Konflikte zwischen kurz- und
-langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und
-Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R1)
+Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R1)
 
-Architekten verstehen, dass nicht alle Anliegen der Stakeholder in
-Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt
-werden müssen. (R3)
+Architekt:innen verstehen, dass nicht alle Anliegen der Stakeholder in Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt werden müssen. (R3)
 
-Architekten können die Anliegen der Stakeholder nutzen, um fehlende oder
-widersprüchliche Anforderungen zu entdecken und/oder Anforderungen und
-Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interviews. (R3)
+Architekt:innen können die Anliegen der Stakeholder nutzen, um fehlende oder widersprüchliche Anforderungen zu entdecken und/oder Anforderungen und Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interviews. (R3)
 // end::DE[]
 
 // tag::EN[]
@@ -54,7 +48,7 @@ Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interview
 Architects can identify stakeholders and their concerns, as well as their impact on the
 software architecture or the design and development process. (R2)
 
-* Examples of stakeholders and concerns are as follows:
+* Examples of stakeholders and concerns:
 
 |===
 |Stakeholder |Stakeholder Concern
