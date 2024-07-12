@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-06-01]]
-==== LZ 06-01: Bezug von Anforderungen und Randbedingungen zu Lösung erfassen (R3)
+==== LZ 06-01: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)
 Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforderungen und Randbedingungen zu Lösungsentscheidungen erkannt und nachvollzogen.
 
 // end::DE[]

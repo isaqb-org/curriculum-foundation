@@ -58,7 +58,6 @@ Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beisp
 [[LG-03-08]]
 ==== LG 03-08 [previously LG 2-05]: Describe, Explain and Appropriately Apply Important Patterns (R1, R3)
 
-
 Software architects know:
 
 * various architectural patterns and can apply them when appropriate
