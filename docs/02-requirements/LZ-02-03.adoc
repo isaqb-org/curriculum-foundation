@@ -7,10 +7,10 @@ Softwarearchitekt:innen können erklären:
 
 * dass der Begriff "Qualität" in verschiedenen Kontexten
   unterschiedlich benutzt wird - im Kontext von Qualitätsmanagement im
-  Sinne von "Güte" und im Sinne einer spezifischen Eigenschaften
+  Sinne von "Güte" und im Sinne spezifischer Eigenschaften
   (eines Softwaresystems) in anderen (und in diesem Abschnitt)
 * dass es unterschiedliche Taxonomien gibt, die Qualitäten von
-  Softwaresystemen kategorisieren (wie z.{nbsp}B.  <<iso25010>>,
+  Softwaresystemen kategorisieren (wie z.{nbsp}B. <<iso25010>>,
   <<bass>> oder <<q42>>)
 * dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
 * dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems

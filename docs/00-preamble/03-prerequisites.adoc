@@ -19,7 +19,7 @@ Teilnehmende sollten die im Nachfolgenden genannten Kenntnisse und/oder Erfahrun
 ** Modellierung und Abstraktion
 ** Algorithmen und Datenstrukturen (etwa Listen, Bäume, HashTable, Dictionary/Map)
 ** UML (Klassen-, Paket-, Komponenten- und Sequenzdiagramme) und deren Bezug zum Quellcode
-** Vorgehen beim Testen von Software (z.B. Unit- und Akzeptanztests)
+ ** Vorgehen beim Testen von Software (z.{nbsp}B. Unit- und Akzeptanztests)
 
 
 Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
