@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-02-01]]
-==== LZ 02-01: Stakeholder-Anliegen
+==== LZ 02-01: Stakeholder-Anliegen verstehen
 
 Architekten können Stakeholder und deren Anliegen sowie deren
 Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und
@@ -49,7 +49,7 @@ Einschränkungen an der Architektur zu validieren, z.{nbsp}B. in Stakeholder-Int
 
 // tag::EN[]
 [[LG-02-01]]
-==== LG 02-01: Stakeholder Concerns (R1 - R3)
+==== LG 02-01: Unterstand Stakeholder Concerns (R1 - R3)
 
 Architects can identify stakeholders and their concerns, as well as their impact on the
 software architecture or the design and development process. (R2)

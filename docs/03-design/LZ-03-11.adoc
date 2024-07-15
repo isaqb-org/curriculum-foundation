@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-03-11]]
-==== LZ 03-11 [ehemaliges LZ 1-11]: Herausforderungen verteilter Systeme (R3)
+==== LZ 03-11 [ehemaliges LZ 1-11]: Herausforderungen verteilter Systeme kennen (R3)
 
 Softwarearchitekt:innen können:
 
@@ -19,7 +19,7 @@ Softwarearchitekt:innen wissen:
 
 // tag::EN[]
 [[LG-03-11]]
-==== LG 03-11 [previously LG 1-11]: Challenges of Distributed Systems (R3)
+==== LG 03-11 [previously LG 1-11]: Know the Challenges of Distributed Systems (R3)
 
 Software architects are able to:
 

@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-02-04]]
-==== LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen und Softwarearchitektur (R1-R3)
+==== LZ 02-04 [ehemaliges LZ 04-03]: Bedeutung von Anforderungen für die Softwarearchitektur verstehen (R1-R3)
 
 Softwarearchitekt:innen:
 
@@ -23,7 +23,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 04-03]: Requirements and Software Architecture (R1-R3)
+==== LG 02-04 [previously LG 04-03]: Understand the Importance of Requirements for Software Architecture (R1-R3)
 
 Software architects:
 
