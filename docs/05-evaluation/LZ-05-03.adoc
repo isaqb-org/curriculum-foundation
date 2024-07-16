@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-05-03]]
-==== LZ 05-03: Qualitätsszenarien, Qualitätsbäume (R2, R3)
+==== LZ 05-03: Qualitätsszenarien formulieren und Qualitätsbäume beschreiben können (R2, R3)
 
 Softwarearchitekt:innen
 
@@ -13,7 +13,7 @@ Softwarearchitekt:innen
 
 // tag::EN[]
 [[LG-05-03]]
-==== LZ 05-03: Quality Scenarios, Quality Trees (R2, R3)
+==== LZ 05-03: Formulate Quality Scenarios and Describe Quality Trees (R2, R3)
 
 Software architects
 

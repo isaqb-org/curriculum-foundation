@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-02-01]]
-==== LZ 02-01: Stakeholder-Anliegen
+==== LZ 02-01: Stakeholder-Anliegen verstehen
 
 Architekten können Stakeholder und deren Anliegen sowie deren
 Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und
@@ -13,29 +13,29 @@ Entwicklungsprozess identifizieren. (R2)
 |Interessengruppe |Anliegen der Interessengruppe
 
 | Produktmanagement
-| z. B. benötigte Zeit für die Umsetzung der Anforderungen
+| z.{nbsp}B. benötigte Zeit für die Umsetzung der Anforderungen
 
 | Projektmanager
-| z. B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
+| z.{nbsp}B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
 gewählten architekturellen Ansatzes
 
 | Requirements Ingenieure
-| z. B. Erfüllung der Anforderungen
+| z.{nbsp}B. Erfüllung der Anforderungen
 
 | Entwickler
-| z. B. zu implementierende Komponenten und Schnittstellen, Protokolle,
+| z.{nbsp}B. zu implementierende Komponenten und Schnittstellen, Protokolle,
 technologische Einschränkungen
 
 | Qualitätssicherung und Tester
-| z. B. isoliertes Testen von Komponenten
+| z.{nbsp}B. isoliertes Testen von Komponenten
 
 | Betrieb
-| z. B. Infrastrukturanforderungen im Zusammenhang mit dem Betrieb des Systems
+| z.{nbsp}B. Infrastrukturanforderungen im Zusammenhang mit dem Betrieb des Systems
 
 |===
 
 Softwarearchitekten können potenzielle Konflikte zwischen kurz- und
-langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und
+langfristigen Zielen erklären, um mögliche Konflikte (z.{nbsp}B., Geschäfts- und
 Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R1)
 
 Architekten verstehen, dass nicht alle Anliegen der Stakeholder in
@@ -44,12 +44,12 @@ werden müssen. (R3)
 
 Architekten können die Anliegen der Stakeholder nutzen, um fehlende oder
 widersprüchliche Anforderungen zu entdecken und/oder Anforderungen und
-Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interviews. (R3)
+Einschränkungen an der Architektur zu validieren, z.{nbsp}B. in Stakeholder-Interviews. (R3)
 // end::DE[]
 
 // tag::EN[]
 [[LG-02-01]]
-==== LG 02-01: Stakeholder Concerns (R1 - R3)
+==== LG 02-01: Unterstand Stakeholder Concerns (R1 - R3)
 
 Architects can identify stakeholders and their concerns, as well as their impact on the
 software architecture or the design and development process. (R2)

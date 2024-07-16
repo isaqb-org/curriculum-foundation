@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LZ-01-04]]
-==== LZ 01-04 [ehemaliges LZ 1-09]: Zuständigkeit von Softwarearchitekt:innen in organisatorischen Kontext einordnen (R3)
+==== LZ 01-04 [ehemaliges LZ 1-09]: Verantwortlichkeiten von Softwarearchitekt:innen in organisatorischen Kontext einordnen (R3)
 
 Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
 
@@ -21,7 +21,7 @@ Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
 
 // tag::EN[]
 [[LG-01-04]]
-==== LG 01-04 [previously LG 1-09]: Responsibilities of Software Architects within the Greater Architectural Context (R3)
+==== LG 01-04 [previously LG 1-09]: Classify Responsibilities of Software Architects within the Greater Architectural Context (R3)
 
 The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
 

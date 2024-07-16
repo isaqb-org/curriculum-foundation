@@ -2,6 +2,7 @@
 // tag::DE[]
 [[LZ-03-03]]
 ==== LZ 03-03 [ehemaliges LZ 2-01]: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)
+
 Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
 * Top-down- und Bottom-up-Vorgehen beim Entwurf (R1)

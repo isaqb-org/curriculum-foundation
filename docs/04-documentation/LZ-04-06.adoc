@@ -4,7 +4,7 @@
 ==== LZ 04-06 [ehemaliges LZ 3-05]: Kontextabgrenzung von Systemen erläutern und anwenden (R1)
 Softwarearchitekt:innen können:
 
-* Kontext von Systemen z.B. in Form von Kontextdiagrammen mit Erläuterungen darstellen
+* Kontext von Systemen z.{nbsp}B. in Form von Kontextdiagrammen mit Erläuterungen darstellen
 * externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen
 * fachlichen und technischen Kontext differenzieren.
 

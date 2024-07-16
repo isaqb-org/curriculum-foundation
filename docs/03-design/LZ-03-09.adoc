@@ -16,7 +16,7 @@ Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergrei
 
 // tag::EN[]
 [[LG-03-09]]
-==== LG 03-09 [previously LG 2-04]: Design and Implement Cross-Cutting Concerns (R1)
+==== LG 03-09 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)
 
 Software architects are able to:
 

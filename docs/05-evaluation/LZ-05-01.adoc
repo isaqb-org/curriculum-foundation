@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-05-01]]
-==== LZ 05-01: Gründe für Architekturanalyse (R1)
+==== LZ 05-01: Gründe für Architekturanalyse kennen (R1)
 
 Softwarearchitekt:innen verstehen, dass es verschiedene mögliche
 Gründe gibt, um eine Architekturanalyse durchzuführen, zum Beispiel:
@@ -17,7 +17,7 @@ Gründe gibt, um eine Architekturanalyse durchzuführen, zum Beispiel:
 
 // tag::EN[]
 [[LG-05-01]]
-==== LG 05-01: Reasons for Architecture Analysis (R1)
+==== LG 05-01: Know the Reasons for Architecture Analysis (R1)
 
 Software architects understand that there are different possible
 reasons for performing architecture analysis, for example:

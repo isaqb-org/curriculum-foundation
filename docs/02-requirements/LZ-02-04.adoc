@@ -1,14 +1,15 @@
 
 // tag::DE[]
 [[LZ-02-04]]
-==== LZ 02-04 [ehemaliges LZ 04-03]: Requirements and Software Architecture (R1-R3)
+==== LZ 02-04 [ehemaliges LZ 04-03]: Bedeutung von Anforderungen für die Softwarearchitektur verstehen (R1-R3)
+
 Softwarearchitekt:innen:
 
 * verstehen, dass eine Anforderung für eine gegebene Qualität
   eine Analysemethode spezifizieren sollte (siehe <<LZ-05-02>>) (R1)
 * verstehen, dass manche Kategorisierungen zwischen
   "Qualitätsanforderungen" und funktionalen Anforderungen
-  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> R1)
+  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1)
 * verstehen, dass eine einzelne Anforderung sich auf mehrere
   Qualitäten beziehen kann (R1)
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
@@ -22,7 +23,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 04-03]: Requirements and Software Architecture (R1-R3)
+==== LG 02-04 [previously LG 04-03]: Understand the Importance of Requirements for Software Architecture (R1-R3)
 
 Software architects:
 

@@ -9,7 +9,7 @@ Softwarearchitekt:innen:
 * können grundlegende Konzepte des Deployments von Software benennen und erklären, beispielsweise:
 ** Automatisierung von Deployments
 ** Wiederholbare Builds
-** Konsistente Umgebungen (z.B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
+** Konsistente Umgebungen (z.{nbsp}B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
 ** Alles liegt unter Versionskontrolle
 ** Releases sind einfach zurückzunehmen
 
