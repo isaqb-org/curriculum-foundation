@@ -1,15 +1,17 @@
 // tag::DE[]
 [[LZ-04-04]]
-==== LZ 04-04 [new]: Fehler: Lernziel nicht gefunden (R3)
+==== LZ 04-04 [new]: Lernziel nicht gefunden (R3)
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
+(Siehe <<ietf-http>>)
 // end::DE[]
 
 // tag::EN[]
 [[LG-04-04]]
-==== LG 04-04 [new]: Error: Learning Goal not Found (R3)
+==== LG 04-04 [new]: Learning Goal not Found (R3)
 
 Software architects are able to gracefully deal with unexpected situations.
 
+(See <<ietf-http>>)
 // end::EN[]
