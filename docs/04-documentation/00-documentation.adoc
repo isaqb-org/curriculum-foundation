@@ -26,6 +26,4 @@ include::./LZ-04-08.adoc[{include_configuration}]
 
 include::./LZ-04-09.adoc[{include_configuration}]
 
-include::./LZ-04-10.adoc[{include_configuration}]
-
 include::./99-documentation-references.adoc[tags={bibrefs}]
