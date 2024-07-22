@@ -1,7 +1,7 @@
 // tag::DE[]
 [[LZ-04-05]]
 ==== LZ 04-05 [ehemaliges LZ 3-04]: Architektursichten erläutern und anwenden (R1)
-Softwarearchitekt:innen können folgende Architektursichten anwenden:
+Softwarearchitekt:innen können folgende Architektursichten anwenden (siehe <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
 
 * Kontextsicht (auch genannt Kontextabgrenzung)
   ** z.{nbsp}B. in Form von Kontextdiagrammen mit Erläuterungen darstellen
@@ -17,7 +17,7 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden:
 // tag::EN[]
 [[LG-04-05]]
 ==== LG 04-05 [previously LG 3-04]: Explain and Use Architectural Views (R1)
-Software architects are able to use the following architectural views:
+Software architects are able to use the following architectural views  (see <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
 
 * context view
   ** depict the context of systems, e.g. in the form of context diagrams with explanations
@@ -28,3 +28,4 @@ Software architects are able to use the following architectural views:
 * deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)
 
 // end::EN[]
+
