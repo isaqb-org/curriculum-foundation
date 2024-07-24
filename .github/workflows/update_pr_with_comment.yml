@@ -1,0 +1,10 @@
+name: Comment on Pull Request
+
+on:
+  workflow_run:
+    types: [completed]
+    workflows: [CI – Pull Requests]
+
+jobs:
+  call_workflow_build:
+    uses: isaqb-org/github-workflows/.github/workflows/update_pr_with_comment.yml@main
