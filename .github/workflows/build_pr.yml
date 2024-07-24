@@ -6,31 +6,8 @@ name: CI – Pull Requests
 # events but only for the main branch
 on:
   pull_request:
-
     branches: [ main ]
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: checkout source
-        uses: actions/checkout@v3
-        with:
-          submodules: recursive
-      - name: Verify Gradle Wrapper
-        uses: gradle/wrapper-validation-action@v1
-      - name: Set up JDK 17
-        uses: actions/setup-java@v3
-        with:
-          distribution: 'temurin'
-          java-version: 17
-      - name: Execute Gradle Build
-        uses: gradle/gradle-build-action@v2
-        with:
-          gradle-version: wrapper
-          arguments: buildDocs
+jobs:
+  call_workflow_build_pr:
+    uses: isaqb-org/github-workflows/.github/workflows/build_pr.yml@main
