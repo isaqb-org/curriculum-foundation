@@ -49,6 +49,7 @@
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 
 // I
+- [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
 - [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
 - [[[isaqbglossary,iSAQB Glossary]]] Gernot Starke et. al. iSAQB Glossary of Software Architecture Terminology. Freely available from https://leanpub.com/isaqbglossary or its source repository https://github.com/isaqb-org/glossary/releases
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
