@@ -29,6 +29,7 @@
 - [[[evans,Evans 2004]]] Eric Evans: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ Addison-Wesley, 2004.
 
 // F
+- [[[felleisenetal, Felleisen+2014]]] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <https://htdp.org/>
 - [[[fmc,FMC]]] Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
@@ -89,6 +90,8 @@
 - [[[richardsfundamentals,Richards+20]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
 - [[[rozanskiwoods, Rozanski+11]]] Nick Rozanski, Eoin Woods: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.
 // S
+- [[[sperberklaeren, Sperber+Klaeren]]] Michael Sperber, Herbert
+  Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
 - [[[starke,Starke 2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
 - [[[starkelorz, Starke+2021]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.
 - [[[starkeetalarc42, Starke+2023]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example: Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
