@@ -8,6 +8,13 @@ Sie:
 
 * kennen und verstehen unterschiedliche Arten der Kopplung von Bausteinen (beispielsweise  Kopplung über Benutzung/Delegation, Nachrichten/Ereignisse, Komposition, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Daten, Datentypen oder Hardware)
 * verstehen, wie Abhängigkeiten die Kopplung vergrößern
+* können mindestens die folgenden Arten von Kopplung unterscheiden:
+** statische und dynamische Kopplung <<fordhardparts>>
+** efferente und afferente Kopplung <<fordhardparts>>
+** andere Arten von Kopplung (z.B. Hardware/Infrastruktur, temporal, Daten, Datenstruktur etc.)
+* wissen, dass auf statische Kopplung zu verzichten und stattdessen
+  dynamische Kopplung einzusetzen, die zugrundeliegende Kopplung
+  nicht notwendigerweise reduziert
 * können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen
 * kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
 ** Muster
@@ -27,6 +34,13 @@ Software architects understand dependencies and coupling between building blocks
 
 * know and understand different types of dependencies of building blocks (e.g. coupling via use/delegation, messaging/events, composition, creation, inheritance, temporal coupling, coupling via data, data types or hardware)
 * understand how dependencies increase coupling
+* can differentiate between at least the following categories of coupling:
+** static and dynamic coupling <<fordhardparts>>
+** efferent and afferent coupling <<fordhardparts>>
+** other types of coupling (e.g. hardware/infrastructure, temporal,
+   data, data structure etc.)
+* know that forgoing static dependencies in favor of dynamic
+  dependencies does not necessarily reduce the underlying coupling
 * can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * know and can apply possibilities to reduce or eliminate coupling, for example:
 ** patterns
