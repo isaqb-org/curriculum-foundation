@@ -7,9 +7,6 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 
 * Top-down- und Bottom-up-Vorgehen beim Entwurf (R1)
 * Sichtenbasierte Architekturentwicklung, siehe <<rozanskiwoods>>, <<kruchten95>> (R1)
-* iterativer und inkrementeller Entwurf (R1)
-** Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen (R1)
-** Notwendigkeit von Rückmeldungen zu Entwurfsentscheidungen (R1)
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
 * Globale Analyse, siehe <<hofmeister>> (R3) 
@@ -24,9 +21,6 @@ Software architects are able to name, explain, and use fundamental approaches of
 
 * top-down and bottom-up approaches to design (R1)
 * view-based architecture development, see <<rozanskiwoods>>, <<kruchten95>> (R1)
-* iterative and incremental design (R1)
-** necessity of iterations, especially when decision-making is affected by uncertainties (R1)
-** necessity of feedback on design decisions (R1)
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
 * global analysis, see <<hofmeister>> (R3) 
