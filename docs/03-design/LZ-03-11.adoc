@@ -1,36 +1,34 @@
 
 // tag::DE[]
+
 [[LZ-03-11]]
-==== LZ 03-11 [ehemaliges LZ 1-11]: Herausforderungen verteilter Systeme kennen (R3)
+==== LZ 03-11 [ehemaliges LZ 2-10]: Grundlegende Prinzipien von Software-Deployments kennen (R3)
+Softwarearchitekt:innen:
 
-Softwarearchitekt:innen können:
+* wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird
+* können grundlegende Konzepte des Deployments von Software benennen und erklären, beispielsweise:
+** Automatisierung von Deployments
+** Wiederholbare Builds
+** Konsistente Umgebungen (z.{nbsp}B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
+** Alles liegt unter Versionskontrolle
+** Releases sind einfach zurückzunehmen
 
-* die Verteilung in einer gegebenen Software-Architektur identifizieren
-* Konsistenzkriterien für ein gegebenes fachliches Problem analysieren
-* Kausalität von Ereignissen in einem verteilten System erklären
-
-Softwarearchitekt:innen wissen:
-
-* dass Kommunikation in einem verteilten System fehlschlagen kann
-* dass es bei verteilten Systemen Einschränkungen hinsichtlich der Konsistenz in Datenbanken gibt 
-* was das "Split-Brain"-Problem ist und warum es schwierig zu lösen ist
-* dass es unmöglich ist, die exakte zeitliche Reihenfolge der Ereignisse in einem verteilten System zu bestimmen
 // end::DE[]
 
 // tag::EN[]
+
 [[LG-03-11]]
-==== LG 03-11 [previously LG 1-11]: Know the Challenges of Distributed Systems (R3)
+==== LG 03-11 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)
 
-Software architects are able to:
+Software architects:
 
-* identify distribution in a given software architecture
-* analyze consistency criteria for a given business problem
-* explain causality of events in a distributed system
+* know that software deployment is the process of making new or updated software available to its users
+* are able to name and explain fundamental concepts of software deployment, for example:
+** automated deployments
+** repeatable builds
+** consistent environments (e.g. use immutable and disposable infrastructure)
+** put everything under version-control
+** releases are easy-to-undo
 
-Software architects know:
 
-* communication may fail in a distributed system
-* limitations regarding consistency in real-world databases
-* what the "split-brain" problem is and why it is difficult
-* that it is impossible to determine the temporal order of events in a distributed system
 // end::EN[]
