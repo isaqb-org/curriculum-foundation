@@ -13,12 +13,13 @@ konkrete Systeme erklären und Beispiele nennen. (R3)
 * {glossary_url}remote-procedure-call[Remote procedure call]
 * Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
   und {glossary_url}proxy[Proxy].
-  Architekt:innen sollten wissen, dass diese Muster unabhängig von (Objekt-)Technologie verwendet werden können.
+  Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
+  Programmiersprachen oder Frameworks verwendet werden können.
 * {glossary_url}template-method[Template Method] und {glossary_url}Strategy[strategy]
 * {glossary_url}visitor[Visitor]
 
 Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
-<<gof,GOF>>) und <<buschmanna,POSA>> (R3).
+<<gof,GOF>> und <<buschmanna,POSA>> (R3).
 
 Sie wissen (R3):
 
@@ -40,7 +41,8 @@ concrete systems, and provide examples. (R3)
 * {glossary_url}combinator[Combinator]
 * Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
   and {glossary_url}proxy[Proxy].
-  Architects should know that these patterns can be used independent of (object) technology.
+  Architects should know that these patterns can be used
+  independently of a particular programming language or framework.
 * {glossary_url}interpreter[Interpreter]
 * {glossary_url}observer[Observer]
 * {glossary_url}remote-procedure-call[Remote procedure call]
