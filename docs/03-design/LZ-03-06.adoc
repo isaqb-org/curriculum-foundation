@@ -3,7 +3,7 @@
 [[LZ-03-06]]
 ==== LZ 03-06 [ehemaliges LZ 2-07]: Abhängigkeiten von Bausteinen managen (R1)
 
-Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen. 
+Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen.
 Sie:
 
 * kennen und verstehen unterschiedliche Arten der Kopplung von Bausteinen (beispielsweise  Kopplung über Benutzung/Delegation, Nachrichten/Ereignisse, Komposition, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Daten, Datentypen oder Hardware)
@@ -21,7 +21,8 @@ Sie:
 // (siehe <<LZ-2-5, LZ 2-5>>)
 ** Grundlegende Entwurfsprinzipien
 // (siehe <<LZ-2-6, LZ 2-6>>)
-** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von _Dependency Injection_.
+** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von
+{glossary_url}dependency-injection[Dependency Injection].
 
 
 // end::DE[]
@@ -47,6 +48,7 @@ Software architects understand dependencies and coupling between building blocks
 // (refer to <<LG-2-5, LG 2-5>>)
 ** fundamental design principles
 // (refer to <<LG-2-6, LG 2-6>>)
-** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using _Dependency Injection_.
+** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using
+{glossary_url}dependency-injection[Dependency Injection].
 
 // end::EN[]

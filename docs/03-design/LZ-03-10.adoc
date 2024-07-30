@@ -1,34 +1,30 @@
 
 // tag::DE[]
-
 [[LZ-03-10]]
-==== LZ 03-10 [ehemaliges LZ 2-10]: Grundlegende Prinzipien von Software-Deployments kennen (R3)
-Softwarearchitekt:innen: 
+==== LZ 03-10 [ehemaliges LZ 2-04]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
 
-* wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird
-* können grundlegende Konzepte des Deployments von Software benennen und erklären, beispielsweise:
-** Automatisierung von Deployments
-** Wiederholbare Builds
-** Konsistente Umgebungen (z.{nbsp}B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
-** Alles liegt unter Versionskontrolle
-** Releases sind einfach zurückzunehmen
+Softwarearchitekt:innen können:
+
+* die Bedeutung von Querschnittsthemen (synonym: Belange, Anliegen) erklären
+* solche Querschnittsthemen identifizieren
+* Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
+* mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.
+
+Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
 
 // end::DE[]
 
 // tag::EN[]
-
 [[LG-03-10]]
-==== LG 03-10 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)
+==== LG 03-10 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)
 
-Software architects:
+Software architects are able to:
 
-* know that software deployment is the process of making new or updated software available to its users
-* are able to name and explain fundamental concepts of software deployment, for example:
-** automated deployments
-** repeatable builds
-** consistent environments (e.g. use immutable and disposable infrastructure)
-** put everything under version-control
-** releases are easy-to-undo
+* explain the significance of such cross-cutting concerns
+* identify such cross-cutting concerns
+* design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
+* identify and assess potential interdependencies.
 
+Software architects know that such cross-cutting concerns may be re-used across systems.
 
 // end::EN[]

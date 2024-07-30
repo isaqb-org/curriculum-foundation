@@ -1,30 +1,61 @@
 
 // tag::DE[]
 [[LZ-03-09]]
-==== LZ 03-09 [ehemaliges LZ 2-04]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
+==== LZ 03-09 [ehemaliges LZ 2-05]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
 
-Softwarearchitekt:innen können:
+Softwarearchitekt:innen kennen den Unterschied zwischen Architektur- und Entwurfsmustern.
+Sie können mehrere der folgenden Entwurfsmuster erklären, ihre Relevanz für
+konkrete Systeme erklären und Beispiele nennen. (R3)
 
-* die Bedeutung von Querschnittsthemen (synonym: Belange, Anliegen) erklären
-* solche Querschnittsthemen identifizieren
-* Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
-* mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.
+* {glossary_url}combinator[Combinator]
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}remote-procedure-call[Remote procedure call]
+* Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
+  und {glossary_url}proxy[Proxy].
+  Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
+  Programmiersprachen oder Frameworks verwendet werden können.
+* {glossary_url}template-method[Template Method] und {glossary_url}Strategy[strategy]
+* {glossary_url}visitor[Visitor]
 
-Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.
+Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
+<<gof,GOF>> und <<buschmanna,POSA>> (R3).
+
+Sie wissen (R3):
+
+* dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.
+* dass es verschiedene Kategorien von Mustern gibt.
+* zusätzliche Quellen für Muster, die sich auf ihre spezifische technische oder Anwendungsdomäne beziehen.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-09]]
-==== LG 03-09 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)
 
-Software architects are able to:
+==== LG 03-09 [previously LG 2-05]: Describe, Explain and Apply Important Design Patterns (R3)
 
-* explain the significance of such cross-cutting concerns
-* identify such cross-cutting concerns
-* design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
-* identify and assess potential interdependencies.
+Software architects know the difference between architectural and design patterns.
+They can explain several of the following design patterns, explain their relevance for
+concrete systems, and provide examples. (R3)
 
-Software architects know that such cross-cutting concerns may be re-used across systems.
+* {glossary_url}combinator[Combinator]
+* Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
+  and {glossary_url}proxy[Proxy].
+  Architects should know that these patterns can be used
+  independently of a particular programming language or framework.
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}remote-procedure-call[Remote procedure call]
+* {glossary_url}template-method[Template Method] and {glossary_url}Strategy[strategy]
+* {glossary_url}visitor[Visitor]
+
+Software architects know essential sources for design patterns, such as
+<<gof,GOF>> and <<buschmanna,POSA>>. (R3)
+
+They know (R3):
+
+* that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.
+* that there are different categories of patterns.
+* additional sources of patterns that relate to their specific technical or application domain.
 
 // end::EN[]
