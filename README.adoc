@@ -40,7 +40,7 @@ You found a bug in one of the published versions, have remarks, comments or prop
 
 == How to build the documents
 
-Prerequisite: You need a Java Runtime(tm) installed.
+Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
 
 You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
 
