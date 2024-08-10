@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-05-02]]
-==== LZ 05-02 [ehemaliges LZ 04-02]: Qualitäten eines Softwaresystems analysieren (R1, R3)
+==== LZ 05-02 [ehemaliges LZ 4-3 und 4-4]: Qualitäten eines Softwaresystems analysieren (R1, R3)
 
 Softwarearchitekt:innen
 
@@ -34,7 +34,7 @@ Softwarearchitekt:innen
 
 // tag::EN[]
 [[LG-05-02]]
-==== LG 05-02 [previously LG 4-02]: Analyze the Qualities of a Software System (R1, R3)
+==== LG 05-02 [previously LG 4-3 and 4-4]: Analyze the Qualities of a Software System (R1, R3)
 
 Software architects
 
