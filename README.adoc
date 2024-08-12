@@ -76,6 +76,18 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 --
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
 
+== On Writing Good Learning Goals
+
+The following rules should hold for every learning goal, especially for all R1-goals:
+
+* **Specificity**: Each learning goal should be clear and specific, avoiding vagueness. This means stating what the learner will know or be able to do in precise terms. For software architects, this could involve specifying particular design patterns, architectural styles, or technologies they will master.
+
+* **Measurability**: Goals must be measurable so that both the learner and the educator can assess progress. This involves defining criteria for success, which can be quantified or qualified. For instance, a learning goal might include being able to design a complete software architecture that meets defined performance metrics or adhering to specific architectural principles.
+
+* **Achievability**: While learning goals should be challenging, they must also be attainable within the scope of the course or program. This requires considering the learners' current skill levels and the resources available to support their learning. Goals that are too ambitious may discourage learners, while those that are too easy may not lead to significant learning or skill development.
+
+* **Relevance**: Learning goals should be directly relevant to the roles and responsibilities of a software architect. This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture. Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
+
 == On writing style
 
 === Heading Capitalization
