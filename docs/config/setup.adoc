@@ -14,11 +14,11 @@
 :language: DE
 
 ifeval::["{language}" == "DE"]
-:curriculum-header-title: iSAQB-Curriculum für Foundation Level
+:curriculum-header-title: iSAQB Curriculum für Foundation Level
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-header-title: iSAQB curriculum for Foundation Level
+:curriculum-header-title: iSAQB Curriculum for Foundation Level
 endif::[]
 
 
