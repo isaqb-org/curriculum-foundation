@@ -1,0 +1,84 @@
+
+We follow a standardized update and release process for the curriculum and the associated examination questions.
+
+Please note the semantics of several terms:
+
+Version-Identifier::
+    Official versions of the curriculum are identified using a specific version-string.
+    `V-{Release-Year}-{Update}-{Language}-{timestamp}`, for example V-2023.1-EN.
+    In preparation for releases (see below), release-candidates are produced and labelled with RC1, RC2 etc.
+
+Revision::
+  In case of typos or other minor grammatical changes, we will release revisions (aka patches) without increasing the minor version. 
+  They will be tagged as revisions (e.g. `2021.1-rev2``) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: `2021.1-EN-20210502`` (revision update on Mai 2, 2021).
+We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of revision updates.
+
+Update::
+    In case of  errors or omissions (e.g. translation issues, required updates for certain references, clarification of certain wordings or similar), an updated (aka _fixed_ or _repaired_) version of the curriculum is produced.
+    For such updates we increase the second part (minor version id) of the curriculum (e.g. going from `2021.1` to `2021.2`).
+
+Release::
+    Every two years the FLWG releases a new version of the curriculum. 
+    Releases usually contain major changes to the content of the curriculum.
+    For example, learning goals might be re-formulated, deleted or new content might be added.
+    
+
+[IMPORTANT] 
+.Releases impact training material
+==== 
+_Releases_ will impact structure and content of training material. 
+Therefore, training providers, translation agencies and the examination commission will be notified about these releases, so they can adjust their trainings, translations or the exam questions, respectively.
+====
+
+If you <<build, build>> the curriculum locally, the version string will be set to `local build`.
+
+==== Overview of release process
+image:./release-process/release-process-2025.drawio.png[graphical overview of release process]
+
+[cols="1,6a,2,2"]
+|===
+| Nr | Activity  | Duration  | Schedule/deadline
+| 1  | Collect change requests | continuously
+| for 2025, CRs are accepted until June 15th 2024
+| 2  | We hope to get (anonymous) statistical evaluation of examinations and examination questions from certification providers.  | continuously | none
+| 3 | FLWG maintains the curriculum and associated information within this public Github repository | |
+| 4 | FLWG decides internally, which changes to accept for the upcoming release.| | RD - 9M, July 1st 2024
+| 5 | The list of accepted changes is given to all training providers (TP) for review and request-for-comments. From that time, TP can begin to update their training material. Several accepted changes are already included in main-branch.
+    | | **RD - 9M, July 1st 2024**
+| 6 | FLWG incorporates the accepted changes in main-branch in the Github repo. Contributors from FLWG create understandable commit messages to strive for maximum transparency. **All issues with "accepted" state shall be included until this date.**
+    | 8 weeks | RD - 7M, Sept 1st 2024
+| 7 | When all changes are included and finalized, a new version of the curriculum is generated (in both EN and DE language) - but not yet made mandatory! All training providers and trainers shall be notified of this update.
+
+**This new version is published as _draft_ on the isaqb-org.github.io website.**
+    | 4 weeks | RD - 6M, Oct 1st 2024
+| 4, 6 & 7 | Minor corrections, hotfixes | continuously |
+| 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 8 weeks |
+| 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
+EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| RD - 3M, Jan 15th 2025|
+| 10 | iSAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
+     | 4 weeks|
+| 11 | For every target language there need to be an expert group who can handle review of translation
+     | 4-6 weeks |
+| 12 | **EN + DE release of curriculum and examination question: Usage of new version is mandatory in all trainings given in DE or EN.**
+
+ * **All training providers and trainers need to have their complete training material updated to this release**
+ * **All examination providers EP need to have completed their transition to new questions. Use of old version is NOT permitted from hereon.**
+   | | **RD, April 1st 2025**
+| 13 | International release of curriculum and examination questions.
+Usage of new version is mandatory in all trainings given in any language.
+   | | RD + max 12 weeks
+
+|===
+
+* **RD**: Release-Date (next: April 1st 2025)
+* **EP**: Examination Provider
+
+=== New major versions of the curriculum
+* Announcements: major versions (2019.x, 2021.x) are announced to training providers at least 3-4 month in advance--usually at the iSAQB members meeting.
+* RC1: About 4-6 month prior to release, training providers receive the first release candidate (RC1) for review and comments.
+* RC2: 6-8 weeks prior to release they receive the final release candidate RC2, which is _feature frozen_ (meaning neither learning goals nor priorities will substantially change, only bugs and typos will be fixed).
+* Final version (e.g. 2021.1) will be made public on iSAQB.org and iSAQB.com
+* Released versions will be tagged in git.
+
+All languages (e.g. DE and EN) will be released at the same time.
+

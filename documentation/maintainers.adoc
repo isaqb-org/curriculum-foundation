@@ -1,0 +1,29 @@
+
+
+image::FLWG-logo.png[width=200,float="left"]
+The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG).
+The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions. Major version updates are reviewed and discussed with the board and the members association prior to publication.
+
+The current (2024/2025) FLWG members are:
+
+* Dr. Ulrich Becker
+* Mahbouba Gharbi
+* Dr. Peter Hruschka
+* Dr. Alexander Lorz
+* Falk Sippach
+* Bert Jan Schrijver
+* Dr. Michael Sperber
+* Dr. Gernot Starke (FLWG chair)
+* Roger Rhoades
+* Prof. Dr. Stefan Wehr
+* Benjamin Wolf
+
+==== Previous Contributors
+
+Work on this curriculum started way back in 2007/2008 - and numerous people contributed - either by proposing, crafting and writing content.
+
+(alphabetical order, current FLWG members excluded)
+
+Wolfgang Fahl, Philip Ghadir, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, Mischa Soujon, Bettina Tacke, Holger Tiemeyer
+
+[.small]#In case we forgot your name here, please let us know#!

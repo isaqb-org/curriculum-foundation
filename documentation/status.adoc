@@ -1,0 +1,7 @@
+
+image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+["Total commits"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
