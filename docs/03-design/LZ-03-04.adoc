@@ -15,7 +15,7 @@ Softwarearchitekt:innen sind in der Lage:
 * Quellcode und Architektur zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
 
 
-**Abstraktion** (R1)
+**Abstraktion** (R2)
 
 * im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
 * als eine Entwurfstechnik, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
@@ -75,7 +75,7 @@ Software architects are able to:
 * explain the impact of design principles on the implementation
 * analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 
-**Abstraction** (R1)
+**Abstraction** (R2)
 
 * in the sense of a means for deriving useful generalizations
 * as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
