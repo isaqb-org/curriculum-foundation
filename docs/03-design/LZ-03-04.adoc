@@ -15,7 +15,7 @@ Softwarearchitekt:innen sind in der Lage:
 * Quellcode und Architektur zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten
 
 
-**Abstraktion** (R1)
+**Abstraktion** (R2)
 
 * im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen
 * als eine Entwurfstechnik, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen
@@ -29,34 +29,22 @@ Softwarearchitekt:innen sind in der Lage:
 * Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen
 //, siehe <<LZ-2-7, Lernziel 2-7>>
 * Hohe Kohäsion (R1)
-* SOLID-Prinzipien (R1-R3), soweit sie auf architektonischer Ebene von Relevanz sind:
-** S: Single-Responsibility-Prinzip (R1) und seine Beziehung zu SoC
-** O: Offen/geschlossen-Prinzip (R1)
-** L: Liskov'sches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
-** I: Interface-Segregation-Prinzip (R2)
-// und seine Beziehung zu <<LZ-2-9, Lernziel 2-9 "Schnittstellen entwerfen und festlegen">>
-** D: Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten (R1) durch Schnittstellen oder ähnlichen Abstraktionen
+* Offen/geschlossen-Prinzip (R1)
+* Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnlichen Abstraktionen
 
 **Konzeptionelle Integrität** (R2)
 
 * bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
 * als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (principle of least surprise) (R3)
 
+**Reduktion von Komplexität** (R3)
 
-**Einfachheit** (R1)
+* als Motiv der Prinzipien KISS, YAGNI und CUPID <<north-cupid>>
 
-* als Mittel zur Verringerung von Komplexität (R1)
-* als Motiv der Prinzipien KISS (R1) und YAGNI (R2)
+**Erwarte Fehler** (R2-R3)
 
-
-**Erwarte Fehler** (R1-R2)
-
-* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
+* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
-
-**Weitere Prinzipien** (R3)
-
-Softwarearchitekt:innen kennen weitere Prinzipien (etwa CUPID, siehe <<north-cupid>>) und können diese anwenden.
 // end::DE[]
 
 // tag::EN[]
@@ -75,7 +63,7 @@ Software architects are able to:
 * explain the impact of design principles on the implementation
 * analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 
-**Abstraction** (R1)
+**Abstraction** (R2)
 
 * in the sense of a means for deriving useful generalizations
 * as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
@@ -88,30 +76,20 @@ Software architects are able to:
 * loose, but functionally sufficient, coupling (R1) of building blocks
 //, refer to <<LG-2-7, LG 2-7>>
 * high cohesion (R1)
-* SOLID principles (R1-R3), which have, to a certain extent, relevance at the architectural level
-** S: Single responsibility principle (R1) and its relation to SoC
-** O: Open/closed principle (R1)
-** L: Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
-** I: Interface segregation principle (R2)
-//, including its relation to <<LG-2-9, LG 2-9>>
-** D: Dependency inversion principle (R1) by means of interfaces or similar abstractions
+* Open/closed principle (R1)
+* Dependency inversion principle (R1) by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
 
 * meaning uniformity (homogeneity, consistency) of solutions for similar problems (R2)
 * as a means to achieve the principle of least surprise (R3)
 
-**Simplicity** (R1-R2)
+**Complexity reduction** (R3)
 
-* as a means to reduce complexity (R1)
-* as the driving factor behind KISS (R3) and YAGNI (R3)
+* as the driving factor behind KISS, YAGNI, and CUPID <<north-cupid>>
 
-**Expect errors** (R1-R2)
+**Expect errors** (R2-R3)
 
-* as a means to design for robust and resilient systems (R1)
+* as a means to design for robust and resilient systems (R3)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
-
-**Other principles** (R3)
-
-Software architects know other principles (such as CUPID, see <<north-cupid>>), and can apply them.
 // end::EN[]
