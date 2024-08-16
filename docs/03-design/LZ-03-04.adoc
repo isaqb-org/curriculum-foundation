@@ -45,9 +45,9 @@ Softwarearchitekt:innen sind in der Lage:
 * als Motiv der Prinzipien KISS (R1) und YAGNI (R2)
 
 
-**Erwarte Fehler** (R1-R2)
+**Erwarte Fehler** (R2-R3)
 
-* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R1)
+* als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
 
 **Weitere Prinzipien** (R3)
@@ -98,9 +98,9 @@ Software architects are able to:
 * as a means to reduce complexity (R1)
 * as the driving factor behind KISS (R3) and YAGNI (R3)
 
-**Expect errors** (R1-R2)
+**Expect errors** (R2-R3)
 
-* as a means to design for robust and resilient systems (R1)
+* as a means to design for robust and resilient systems (R3)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
 
 **Other principles** (R3)
