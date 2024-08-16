@@ -30,7 +30,6 @@ Softwarearchitekt:innen sind in der Lage:
 //, siehe <<LZ-2-7, Lernziel 2-7>>
 * Hohe Kohäsion (R1)
 * Offen/geschlossen-Prinzip (R1)
-* Liskov'sches Substitutionsprinzip (R3) als eine Möglichkeit, Konsistenz und konzeptionelle Integrität beim objektorientierten Design zu erreichen
 * Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnlichen Abstraktionen
 
 **Konzeptionelle Integrität** (R2)
@@ -78,7 +77,6 @@ Software architects are able to:
 //, refer to <<LG-2-7, LG 2-7>>
 * high cohesion (R1)
 * Open/closed principle (R1)
-* Liskov substitution principle (R3) as a way to achieve consistency and conceptual integrity in OO design
 * Dependency inversion principle (R1) by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
