@@ -14,24 +14,137 @@ endif::[]
 toc::[]
 
 == What's CPSA-Foundation?
-include::documentation/about-foundation.adoc[]
+
+Education based upon the _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ shall provide participants with the knowledge and skills required to design, specify and document software architectures adequate to fulfil the respective requirements for small and medium-sized systems.
+
+
+=== What does "Foundation Level" cover?
+
+As stated above, _Foundation Level_ covers small to medium-sized software systems.
+
+Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
+CPSA-F trainings teach methods, principles and patterns for design, communication, documentation and evaluation of software architectures, independent of specific development processes.
+The CPSA-F curriculum is technology-neutral, therefore applicable to a borad range or
+
+Focus is education and training of the following skills:
+
+* Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
+* understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
+* document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
+
+In addition, such trainings cover
+
+* the tasks and responsibilities of software architect
+* the term software architecture and its meaning
+* the roles of software architects within development
+* state-of-the-art methods and techniques for developing software architectures
+
+[WARNING]
+====
+This is <<copyrighted,copyrighted work>>.
+====
 
 == Goals and Requirements
 
 === Content Requirements
-include::documentation/content-requirements.adoc[]
+==== What Constitutes _Good Learning Goals_
+
+The following requirements should be fulfilled by every learning goal, especially for all R1-goals:
+
+Specific and Clear:: 
+  Each learning goal should be clear and specific, avoiding vagueness. 
+This means stating what the learner will know or be able to do in precise terms. 
+For software architects, this could involve specifying particular architectural styles, patterns, methods and practices they will need to learn and apply.
+
+Relevant:: 
+  Learning goals should be directly relevant to the roles and responsibilities of software architects. 
+  This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture. 
+  Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
+
+Authoritative:: 
+  Learning goals should be based on established content, industry best practices, and proven research. 
+  They should begrounded in established knowledge and industry practices.
+  This ensures that the curriculum is aligned with recognized standards and that students are learning concepts that are widely accepted and validated in the field of software architecture.
+  Where possible and adequate, authorative sources shall be referenced.
+
+Measurable::
+  Goals must be measurable so that both the learner and the educator can assess progress. This involves defining criteria for success, which can be quantified or qualified. For instance, a learning goal might include being able to design a complete software architecture that meets defined performance metrics or adhering to specific architectural principles.
+
+Achievable::
+  While learning goals should be challenging, they must also be attainable within the scope of the course or program. This requires considering the learners' current skill levels and the resources available to support their learning. Goals that are too ambitious may discourage learners, while those that are too easy may not lead to significant learning or skill development.
+
+
+=== Important Terms Defined in Glossary
+
+All _important terms_ from the curriculum shall be defined in the (freely available) glossary. 
+
+Where useful, the curriculum shall contain hyperlinks from these terms to the online version of this glossary.
+
 
 === Process Requirements
-include::documentation/process-requirements.adoc[]
 
+==== Open and Transparent Development
+
+Maintenance of this content shall be open and transparent, done on a public platform (like GitHub):
+
+Open::
+  We encourage contributions from a broad community. 
+  This can include reporting issues or change-requests, submitting changes, or suggesting new content.
+
+Transparent::
+   The processes, decisions, and discussions surrounding the development of this curriculum are open for public viewing. 
+   These transparen practices ensure that contributors and maintainers are accountable for their actions. 
+   Readers, consumers and contributors can see who made specific changes, when they were made, and why.
+
+Together, openness and transparency shall ensure that the development of this curriculum is inclusive, collaborative, and accountable.
+That shall lead to a trust and acceptance of the whole content. 
 
 == Organizational
 
 === Status
-include::documentation/status.adoc[]
+
+image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+["Total commits"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 === Repository Organization
-include::documentation/repo-orga.adoc[]
+
+
+This section  provides an overview of the repository structure, detailing the contents and purpose of each directory and file.
+
+==== Root 
+
+*README.adoc*: This main documentation file, providing an introduction and overview of the project.
+
+*LICENSE*: The licensing information for the project.
+
+*build.gradle*: The build configuration file for Gradle projects.
+
+==== /build
+Contains the files generated by the (gradle) build process. 
+
+==== /docs
+This folder contains the learning goals and everything else needed to build (_generate_) the final curriculum.
+
+
+==== /html-theme
+
+t.b.d
+
+==== license-copyright
+
+t.b.d.
+
+==== /pdf-theme
+
+t.b.d.
+
+==== /release-docs
+
+Summaries of changes of previous releases.
 
 === The Foundation-Level Working Group (FLWG)
 The FLWG (Foundation Level Working Group) consists of volunteer members of iSAQB who take up the responsibility of maintaining the curriculum plus the corresponding examination (including questions, question-formats and examination rules).
@@ -41,7 +154,13 @@ Currently the FLWG consists of >10 maintainers from industry and academia, with 
 
 
 === Version History
-include::documentation/versions.adoc[]
+
+This repository contains the *curriculum* for CPSA-F in the following versions:
+
+* **(upcoming) version 2025 (will become mandatory from April 1^st^ 2025)**
+* Version 2023 (mandatory from April 1^st^ 2023)
+* Version 2021.1 (mandatory from April 1^st^ 2021)
+* Version 5 (mandatory from September 1^st^ 2019 until March 31^st^ 2021)
 
 
 === Update and Release Process
@@ -61,7 +180,7 @@ include::documentation/maintainers.adoc[]
 ====
 The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
 
-See link:documentation/LICENSE.adoc[the license] and link:documentation/copyright.adoc[copyright] for details.
+See link:license-copyright/LICENSE.adoc[the license] and link:license-copyricht/copyright.adoc[copyright] for details.
 
 
 
