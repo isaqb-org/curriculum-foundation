@@ -4,7 +4,7 @@ If you consider the status of the curriculum worthy of a new release or release 
 The format for a release candidate tag is as follows: +
 `2021.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
 This tag will create a GitHub _pre-release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML. +
-**ATTENTION:** You have to also append the current RC version to the version stored in the `document.version` file. If you forget to do that, the RC information will NOT be part of the document's version.
+
 
 The format for a release tag is as follows: +
 `2021.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
