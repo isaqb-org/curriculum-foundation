@@ -1,6 +1,6 @@
 
 // tag::DE[]
-== Grundbegriffe
+== Grundbegriffe von Softwarearchitektur
 
 |===
 | Dauer: 120 Min. | Übungszeit: Keine
