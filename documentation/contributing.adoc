@@ -1,9 +1,0 @@
-
-== How to contribute or participate
-You found a bug in one of the published versions, have remarks, comments or proposals?
-
-1. Please search the existing (open and closed) issues, before creating a new one. 
-Maybe your topic has already been discussed.
-2. If you don't find anything: Open an issue here.
-A member of the working-group will contact you!
-

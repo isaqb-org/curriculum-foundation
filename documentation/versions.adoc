@@ -1,7 +1,0 @@
-
-This repository contains the *curriculum* for CPSA-F in the following versions:
-
-* **(upcoming) version 2025 (will become mandatory from April 1^st^ 2025)**
-* Version 2023 (mandatory from April 1^st^ 2023)
-* Version 2021.1 (mandatory from April 1^st^ 2021)
-* Version 5 (mandatory from September 1^st^ 2019 until March 31^st^ 2021)
