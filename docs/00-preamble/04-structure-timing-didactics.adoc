@@ -47,7 +47,7 @@ The types (domains and technologies) of examples and exercises can be determined
 
 | 1. Basic Concepts of Software Architecture | 120
 
-| 2. Requirements and Contraints | 60
+| 2. Requirements and Constraints | 60
 
 | 3. Design and Development | 420
 
