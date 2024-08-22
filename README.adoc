@@ -139,8 +139,8 @@ This section  provides an overview of the repository structure, detailing the co
 
 * `build.gradle`: The build configuration file for Gradle projects.
 * `CHANGELOG.md`: Changelog for the most current version of the curriculum (currently: V.2025). Older changelogs under `documentation/changelogs`
-* `document.validity`: t.b.d.
-* `gradle.properties`: t.b.d.
+* `document.validity`: Contains the date from which the current version of the curriculum is valid. Accredited trainings have to comply to this version from the date given here.
+* `gradle.properties`: JVM args for the gradle build. Do NOT change, unless you are sure what you are doing.
 * `LICENSE`: The licensing information for the project.
 * `README.adoc`: This main documentation file, providing an introduction and overview of the project.
 
@@ -163,15 +163,15 @@ The most current changelog is `CHANGELOG.md` under `/`
 
 ==== `/html-theme``
 
-t.b.d
+A git submodule, containing theme the style/layout definitions for rendering the curriculum in html format.
 
 ==== `license-copyright``
 
-t.b.d.
+A git submodule, containing the _official_ copyright and license definitions. 
 
 ==== `/pdf-theme``
 
-t.b.d.
+A git submodule, containing theme the style/layout definitions for rendering the curriculum in pdf format.
 
 ==== `/release-docs``
 
