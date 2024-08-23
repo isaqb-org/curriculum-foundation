@@ -114,9 +114,12 @@ That shall lead to a trust and acceptance of the whole content.
 === Status
 
 image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
-image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2023.1-rev0[GitHub commits since tagged version]
-
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2023.1-rev0[GitHub commits since tagged version]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2021.1-rev0[GitHub commits since tagged version]
+
+
 
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
 
