@@ -10,15 +10,200 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-== Status
+
+toc::[]
+
+== What's CPSA-Foundation?
+
+Education based upon the _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ shall provide participants with the knowledge and skills required to design, specify and document software architectures adequate to fulfil the respective requirements for small and medium-sized systems.
 
 
+=== What does "Foundation Level" cover?
 
-image:https://github.com/isaqb-org/curriculum-foundation/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI"]
+As stated above, _Foundation Level_ covers small to medium-sized software systems.
+
+Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
+CPSA-F trainings teach methods, principles and patterns for design, communication, documentation and evaluation of software architectures, independent of specific development processes.
+The CPSA-F curriculum is technology-neutral, therefore applicable to a borad range or
+
+Focus is education and training of the following skills:
+
+* Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
+* understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
+* document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
+
+In addition, such trainings cover
+
+* the tasks and responsibilities of software architect
+* the term software architecture and its meaning
+* the roles of software architects within development
+* state-of-the-art methods and techniques for developing software architectures
+
+[WARNING]
+====
+This is <<copyrighted,copyrighted work>>.
+====
+
+=== What constitutes a _Curriculum_
+
+
+> A curriculum, in contrast to a _syllabus_, is oriented towards teaching objectives and the course of the teaching and learning process. 
+> In addition to the teaching content, the urriculum should include regulations and options for learning processes and the organization of learning.
+>
+> Freely translated from the https://de.wikipedia.org/wiki/Curriculum_(P%C3%A4dagogik)[German Wikipedia],
+> 
+
+
+== Goals and Requirements
+
+=== Content Requirements
+==== What Constitutes _Good Learning Goals_
+
+The following requirements should be fulfilled by every learning goal, especially for all R1-goals:
+
+Specific and Clear:: 
+  Each learning goal should be clear and specific, avoiding vagueness. 
+This means stating what the learner will know or be able to do in precise terms. 
+For software architects, this could involve specifying particular architectural styles, patterns, methods and practices they will need to learn and apply.
+
+Relevant:: 
+  Learning goals should be directly relevant to the roles and responsibilities of software architects. 
+  This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture. 
+  Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
+
+Authoritative:: 
+  Learning goals should be based on established content, industry best practices, and proven research. 
+  They should begrounded in established knowledge and industry practices.
+  This ensures that the curriculum is aligned with recognized standards and that students are learning concepts that are widely accepted and validated in the field of software architecture.
+  Where possible and adequate, authorative sources shall be referenced.
+
+Measurable::
+  Goals must be measurable so that both the learner and the educator can assess progress. This involves defining criteria for success, which can be quantified or qualified. For instance, a learning goal might include being able to design a complete software architecture that meets defined performance metrics or adhering to specific architectural principles.
+
+Achievable::
+  While learning goals should be challenging, they must also be attainable within the scope of the course or program. This requires considering the learners' current skill levels and the resources available to support their learning. Goals that are too ambitious may discourage learners, while those that are too easy may not lead to significant learning or skill development.
+
+
+=== Important Terms Defined in Glossary
+
+All _important terms_ from the curriculum shall be defined in the (freely available) glossary. 
+
+Where useful, the curriculum shall contain hyperlinks from these terms to the online version of this glossary.
+
+
+=== Process Requirements
+
+==== Open and Transparent Development
+
+Maintenance of this content shall be open and transparent, done on a public platform (like GitHub):
+
+Open::
+  We encourage contributions from a broad community. 
+  This can include reporting issues or change-requests, submitting changes, or suggesting new content.
+
+Transparent::
+   The processes, decisions, and discussions surrounding the development of this curriculum are open for public viewing. 
+   These transparen practices ensure that contributors and maintainers are accountable for their actions. 
+   Readers, consumers and contributors can see who made specific changes, when they were made, and why.
+
+Together, openness and transparency shall ensure that the development of this curriculum is inclusive, collaborative, and accountable.
+That shall lead to a trust and acceptance of the whole content. 
+
+== Organizational
+
+=== Status
+
+image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2023.1-rev0[GitHub commits since tagged version]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2021.1-rev0[GitHub commits since tagged version]
+
+
+
 image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+
+
+=== Official Languages
+
+This curriculum is maintained in both English and German.
+
+Additional translations are available, which are usually done by professional translators in the respective countries.
+Most of these translations are organized and managed by the iSAQB GmbH.
+
+Results of these translations are stored under `/docs-ext` in this repository.
+`
+=== Repository Organization
+
+
+This section  provides an overview of the repository structure, detailing the contents and purpose of each directory and file.
+
+==== Root 
+
+* `build.gradle`: The build configuration file for Gradle projects.
+* `CHANGELOG.md`: Changelog for the most current version of the curriculum (currently: V.2025). Older changelogs under `documentation/changelogs`
+* `document.validity`: Contains the date from which the current version of the curriculum is valid. Accredited trainings have to comply to this version from the date given here.
+* `gradle.properties`: JVM args for the gradle build. Do NOT change, unless you are sure what you are doing.
+* `LICENSE`: The licensing information for the project.
+* `README.adoc`: This main documentation file, providing an introduction and overview of the project.
+
+==== `/build``
+Contains the files generated by the (gradle) build process. 
+
+==== `/docs``
+This folder contains the learning goals and everything else needed to <<build,build>> (_generate_) the final curriculum.
+
+==== `/docs-ext`
+Contains translations of the curriculum, into e.g. Spanish (ES), Italian (IT) and Portugese (PT).
+
+Please be advised that intensive quality assurance by the FLWG and other reviewers is only performed on the English and German versions.
+
+==== `/documentation`
+
+* `/changelogs`: (old) changelogs. 
+The most current changelog is `CHANGELOG.md` under `/` 
+* `/release-proces`: the documentation of our release process, plus a graphical version.
+
+==== `/html-theme``
+
+A git submodule, containing theme the style/layout definitions for rendering the curriculum in html format.
+
+==== `license-copyright``
+
+A git submodule, containing the _official_ copyright and license definitions. 
+
+==== `/pdf-theme``
+
+A git submodule, containing theme the style/layout definitions for rendering the curriculum in pdf format.
+
+==== `/release-docs``
+
+Summaries of changes of previous releases.
+
+
+==== `/scripts`
+
+Contains a small `Groovy` application to collect all learning goals (LGs) and prepare an asciidoc table of these LGs.
+
+==== `/src` 
+
+t.b.d.
+
+
+=== The Foundation-Level Working Group (FLWG)
+
+image::documentation/FLWG-logo.png[]
+
+The FLWG (Foundation Level Working Group) consists of volunteer members of iSAQB who take up the responsibility of maintaining the curriculum plus the corresponding examination (including questions, question-formats and examination rules).
+
+
+Currently the FLWG consists of >10 <<maintainers,maintainers>> from industry and academia, with a background from many kinds of software systems.
+
+
+=== Version History
 
 This repository contains the *curriculum* for CPSA-F in the following versions:
 
@@ -27,95 +212,44 @@ This repository contains the *curriculum* for CPSA-F in the following versions:
 * Version 2021.1 (mandatory from April 1^st^ 2021)
 * Version 5 (mandatory from September 1^st^ 2019 until March 31^st^ 2021)
 
-This is <<copyrighted,copyrighted work>>.
 
-== Contents
-toc::[]
-
-== What's CPSA-Foundation?
-Licensed trainings for _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
-
-== How to contribute or participate
-You found a bug in one of the published versions, have remarks, comments or proposals?
-
-== How to build the documents
-
-Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
-
-You build the output documents with gradle. That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
+=== Update and Release Process
 
 
-`./gradlew buildDocs`
+We follow a standardized update and release process for the curriculum and the associated examination questions.
 
-In case you want to change the configuration, adjust the following part of `build.gradle`:
+Please note the semantics of several terms:
 
-[source,groovy]
-----
-task buildDocs {
-	group 'Documentation'
-	description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderDE", "renderEN"
-}
-----
+Version-Identifier::
+    Official versions of the curriculum are identified using a specific version-string.
+    `V-{Release-Year}-{Update}-{Language}-{timestamp}`, for example V-2023.1-EN.
+    In preparation for releases (see below), release-candidates are produced and labelled with RC1, RC2 etc.
 
-In the "renderDE" certain attributes (aka variables) are defined that configure the corresponding output.
+Revision::
+  In case of typos or other minor grammatical changes, we will release revisions (aka patches) without increasing the minor version. 
+  They will be tagged as revisions (e.g. `2021.1-rev2``) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: `2021.1-EN-20210502`` (revision update on Mai 2, 2021).
+We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of revision updates.
 
-Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following commands:
+Update::
+    In case of  errors or omissions (e.g. translation issues, required updates for certain references, clarification of certain wordings or similar), an updated (aka _fixed_ or _repaired_) version of the curriculum is produced.
+    For such updates we increase the second part (minor version id) of the curriculum (e.g. going from `2021.1` to `2021.2`).
 
-. Clone the repository - including the submodule:
-+
---
-[source,shell]
-----
-Via SSH:
-git clone git@github.com:isaqb-org/curriculum-foundation.git --recursive
+Release::
+    Every two years the FLWG releases a new version of the curriculum. 
+    Releases usually contain major changes to the content of the curriculum.
+    For example, learning goals might be re-formulated, deleted or new content might be added.
+    
 
-Via HTTPS:
-git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
-----
---
-. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
+[IMPORTANT] 
+.Releases impact training material
+==== 
+_Releases_ will impact structure and content of training material. 
+Therefore, training providers, translation agencies and the examination commission will be notified about these releases, so they can adjust their trainings, translations or the exam questions, respectively.
+====
 
-== On Writing Good Learning Goals
+If you <<build, build>> the curriculum locally, the version string will be set to `local build`.
 
-The following rules should hold for every learning goal, especially for all R1-goals:
-
-* **Specificity**: Each learning goal should be clear and specific, avoiding vagueness. This means stating what the learner will know or be able to do in precise terms. For software architects, this could involve specifying particular design patterns, architectural styles, or technologies they will master.
-
-* **Measurability**: Goals must be measurable so that both the learner and the educator can assess progress. This involves defining criteria for success, which can be quantified or qualified. For instance, a learning goal might include being able to design a complete software architecture that meets defined performance metrics or adhering to specific architectural principles.
-
-* **Achievability**: While learning goals should be challenging, they must also be attainable within the scope of the course or program. This requires considering the learners' current skill levels and the resources available to support their learning. Goals that are too ambitious may discourage learners, while those that are too easy may not lead to significant learning or skill development.
-
-* **Relevance**: Learning goals should be directly relevant to the roles and responsibilities of a software architect. This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture. Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
-
-== On writing style
-
-=== Heading Capitalization
-
-In https://github.com/isaqb-org/curriculum-foundation/issues/246 we decided to use title case for all headings:
-
-* capitalize: first and last word, nouns, pronouns, adjectives, verbs
-* lowercase: articles and prepositions
-
-When in doubt, opt for https://capitalizemytitle.com/style/Chicago/[Chicago Style].
-
-=== Bullet Point Lists
-
-To unify upper/lowercase within the (EN) version, we use the _Chicago manual of style proposal_":
-
-* short bullet items don't get a full-stop
-* next one starts lowercase
-* if bullets are phrases or fragments, dont use punctuation
-* if and only if an item is a really long sentence which deserves a full stop, or consists of several sentences, then we use it.
-* Only then does an item start with uppercase.
-
-For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
-
-== Release process
-
-We have a standardized release process for the curriculum and the associated examination questions.
-
-=== Overview of release process
+==== Overview of release process
 image:./release-process/release-process-2025.drawio.png[graphical overview of release process]
 
 [cols="1,6a,2,2"]
@@ -165,37 +299,26 @@ Usage of new version is mandatory in all trainings given in any language.
 
 All languages (e.g. DE and EN) will be released at the same time.
 
-=== Updates
-In case of typos or other minor grammatical changes, we will release updates without increasing the minor version. They will be tagged as
-revisions (e.g. 2021.1-rev2) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: 2021.1-EN-20210502 (revision update on Mai 2, 2021).
-We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of revision updates.
+=== Contributing
+You found a bug in one of the published versions, have remarks, comments or proposals? 
+Ideas for improvement?
 
-In case of bigger adjustments, for example the addition of more text to a learning goal, or the removal of text, we will increase the minor version of the curriculum (e.g. 2021.2).
-Training providers, translation agencies and the examination commission will be notified about such a release so that they can adjust their trainings, translations or the exam questions, respectively.
+We use Github issues to collect and discuss such proposals.
 
-=== Technical Steps for Releases and Release Candidates
-If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with Git.
+1. Please search the existing (open and closed) issues, before creating a new one. 
+Maybe your topic has already been discussed.
+2. If you don't find anything: Open an issue here.
+A member of the working-group will contact you!
 
-The format for a release candidate tag is as follows: +
-`2021.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
-This tag will create a GitHub _pre-release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML. +
-**ATTENTION:** You have to also append the current RC version to the version stored in the `document.version` file. If you forget to do that, the RC information will NOT be part of the document's version.
 
-The format for a release tag is as follows: +
-`2021.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
-This tag will create a GitHub _Release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML.
-In addition, the released curriculum will be published on GitHub Pages. +
-**ATTENTION:** You have to make sure to define the correct version in the `document.version` file. If you forget to do that, the document's version will be wrong.
+[[maintainers]]
+=== Maintainers
 
-The particular language as well as the timestamp will be added automatically.
 
-Example for a full version in the English curriculum PDF: `2021.1-EN-20210401`
-
-== Maintainers
-
-image::FLWG-logo.png[width=200,float="left"]
+image::documentation/FLWG-logo.png[width=200,float="left"]
 The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG).
-The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions. Major version updates are reviewed and discussed with the board and the members association prior to publication.
+The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions. 
+Major version updates are reviewed and discussed with the board and the members association prior to publication.
 
 The current (2024/2025) FLWG members are:
 
@@ -209,40 +332,120 @@ The current (2024/2025) FLWG members are:
 * Dr. Gernot Starke (FLWG chair)
 * Roger Rhoades
 * Prof. Dr. Stefan Wehr
+* (Benjamin Wolf)
 
+==== Previous Contributors
 
-== What does "Foundation Level" cover?
-
-As stated above, _Foundation Level_ covers small to medium-sized software systems.
-
-Based upon their individual practical experience and existing skills, participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
-CPSA-F trainings teach methods and principles for design, communication, documentation and evaluation of software architectures, independent of specific development processes.
-
-Focus is education and training of the following skills:
-
-* Discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test,
-* understand the essential activities of software architecture, and carry out those for small- to medium sized systems,
-* document and communicate software architectures based upon architectural views, architecture patterns and technical concepts
-
-In addition, such trainings cover
-
-* the tasks and responsibilities of software architect
-* the term software architecture and its meaning
-* the roles of software architects within development
-* state-of-the-art methods and techniques for developing software architectures
-
-== Additional translations/languages
-include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
-
-== Contributors
-Work on this curriculum started way back in 2007/2008 - and numerous people contributed - either by proposing, crafting and writing content or by commenting, reviewing and otherwise helping to improve.
+Work on this curriculum started way back in 2007/2008 - and numerous people contributed - either by proposing, crafting and writing content.
 
 (alphabetical order, current FLWG members excluded)
 
 Wolfgang Fahl, Philip Ghadir, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. Andreas Rausch, Mischa Soujon, Bettina Tacke, Holger Tiemeyer
 
+[.small]#In case we forgot your name here, please let us know#!
 
 [[copyrighted]]
-== Licensing and Copyright
+=== Licensing and Copyright
 
-include::license-copyright/LICENSE.adoc[]
+[IMPORTANT] 
+.Copyrighted work
+==== 
+**We would like to emphasise, as a matter of principle, that this curriculum is protected by copyright.**
+====
+The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
+
+See link:license-copyright/LICENSE.adoc[the license] and link:license-copyricht/copyright.adoc[copyright] for details.
+
+
+
+== Technical Information
+
+[[build]]
+=== How to Build (aka: Generate) the Documents
+
+
+Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
+
+You build the output documents with https://gradle.org[gradle]. 
+That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. 
+Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
+
+
+`./gradlew buildDocs`
+
+In case you want to change the configuration, adjust the following part of `build.gradle`:
+
+[source,groovy]
+----
+task buildDocs {
+	group 'Documentation'
+	description 'Grouping task for generating all languages in several formats'
+  dependsOn "renderDE", "renderEN"
+}
+----
+
+In the "renderDE" certain attributes (aka variables) are defined that configure the corresponding output.
+
+Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following commands:
+
+. Clone the repository - including the submodule:
++
+--
+[source,shell]
+----
+Via SSH:
+git clone git@github.com:isaqb-org/curriculum-foundation.git --recursive
+
+Via HTTPS:
+git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
+----
+--
+. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
+
+=== How to Create an Official Version (by tagging in Git)
+
+
+If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with Git.
+
+The format for a release candidate tag is as follows: +
+`2021.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
+This tag will create a GitHub _pre-release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML. +
+
+
+The format for a release tag is as follows: +
+`2021.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
+This tag will create a GitHub _Release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML.
+In addition, the released curriculum will be published on GitHub Pages. +
+
+The particular language as well as the timestamp will be added automatically.
+
+Example for a full version in the English curriculum PDF: `2021.1-EN-20210401`
+
+
+== Content and Style
+
+=== Writing Style
+
+==== Heading Capitalization
+
+In https://github.com/isaqb-org/curriculum-foundation/issues/246 we decided to use title case for all headings:
+
+* capitalize: first and last word, nouns, pronouns, adjectives, verbs
+* lowercase: articles and prepositions
+
+When in doubt, opt for https://capitalizemytitle.com/style/Chicago/[Chicago Style].
+
+==== Bullet Point Lists
+
+To unify upper/lowercase within the (EN) version, we use the _Chicago manual of style proposal_":
+
+* short bullet items don't get a full-stop
+* next one starts lowercase
+* if bullets are phrases or fragments, dont use punctuation
+* if and only if an item is a really long sentence which deserves a full stop, or consists of several sentences, then we use it.
+* Only then does an item start with uppercase.
+
+For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
+
+
+

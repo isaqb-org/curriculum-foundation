@@ -1,4 +1,16 @@
 // tag::DE[]
+=== Was dieser Lehrplan enthält
+Dieser Lehrplan für den _Certified Professional for Software Architecture - Foundation Level_ (CPSA-F) beinhaltet die  Lernziele, die man beherrschen sollte, um die Rolle Softwarearchitekt:in zu übernehmen. 
+
+Seine Struktur orientiert sich an den grundlegenden Aktivitäten und Verantwortlichkeiten der Softwarearchitektur als Rolle:
+
+* Anforderungen und Randbedingungen klären
+* Entwurf und Entwicklung von Softwarearchitekturen, dabei strukturelle und konzeptionelle Entscheidungen treffen
+* Beschreiben und Kommunizieren von Softwarearchitekturen für verschiedene Stakeholder
+* Analysieren und Bewerten von Softwarearchitekturen
+
+
+
 === Was vermittelt eine Foundation-Level-Schulung?
 Lizenzierte Schulungen zum _Certified Professional for Software Architecture – Foundation Level_ (CPSA-F) vermitteln grundlegende Kenntnisse und Fertigkeiten für den Entwurf einer angemessenen Softwarearchitektur für kleine und mittlere IT-Systeme.
 Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung, um relevante Vorgehensweisen, Methoden und Prinzipien für die Entwicklung von Softwarearchitekturen.
@@ -22,6 +34,17 @@ Weiterhin behandeln CPSA-F-Schulungen:
 // end::DE[]
 
 // tag::EN[]
+=== What Does this Curriculum Contain 
+This curriculum for the Certified Professional for Software Architecture – Foundation Level (CPSA-F) outlines the essential learning goals that should be mastered to take up the role of software architect. 
+
+It is structured along the fundamental activities and responsibilities of software architecture as a role:
+
+* Clarifying stakeholder requirements and constraints
+* Designing and developing software architectures, thereby taking structural and conceptual decisions
+* Communicating and documenting the architecture for various stakeholders
+* Analyzing and assessing software architectures
+
+
 === What Does a Foundation Level Training Convey?
 Licensed Certified Professional for Software Architecture – Foundation Level (CPSA-F) trainings will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
 Based upon their individual practical experience and existing skills participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
@@ -41,3 +64,4 @@ In addition, such trainings cover:
 * state-of-the-art methods and techniques for developing software architectures.
 
 // end::EN[]
+
