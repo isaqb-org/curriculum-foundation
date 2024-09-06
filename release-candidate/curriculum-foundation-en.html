@@ -1,0 +1,4321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.20">
+<title>Curriculum forCertified Professional forSoftware Architecture (CPSA)&#174;: Foundation Level</title>
+<style>
+/* normalize.css v2.1.1 | MIT License | git.io/normalize */
+/* ========================================================================== HTML5 display definitions ========================================================================== */
+/** Correct `block` display not defined in IE 8/9. */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+/** Correct `inline-block` display not defined in IE 8/9. */
+audio, canvas, video {
+  display: inline-block;
+}
+
+/** Prevent modern browsers from displaying `audio` without controls. Remove excess height in iOS 5 devices. */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/** Address styling not present in IE 8/9. */
+[hidden] {
+  display: none;
+}
+
+/* ========================================================================== Base ========================================================================== */
+/** 1. Prevent system color scheme's background color being used in Firefox, IE, and Opera. 2. Prevent system color scheme's text color being used in Firefox, IE, and Opera. 3. Set default font family to sans-serif. 4. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
+html {
+  background: #fff; /* 1 */
+  color: #000; /* 2 */
+  font-family: sans-serif; /* 3 */
+}
+
+/** Remove default margin. */
+body {
+  margin: 0;
+}
+
+/* ========================================================================== Links ========================================================================== */
+/** Address `outline` inconsistency between Chrome and other browsers. */
+a:focus {
+  outline: thin dotted;
+}
+
+/** Improve readability when focused and also mouse hovered in all browsers. */
+a:active, a:hover {
+  outline: 0;
+}
+
+/* ========================================================================== Typography ========================================================================== */
+/** Address variable `h1` font-size and margin within `section` and `article` contexts in Firefox 4+, Safari 5, and Chrome. */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/** Address styling not present in IE 8/9, Safari 5, and Chrome. */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/** Address style set to `bolder` in Firefox 4+, Safari 5, and Chrome. */
+b, strong {
+  font-weight: bold;
+}
+
+/** Address styling not present in Safari 5 and Chrome. */
+dfn {
+  font-style: italic;
+}
+
+/** Address differences between Firefox and other browsers. */
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+/** Address styling not present in IE 8/9. */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/** Correct font family set oddly in Safari 5 and Chrome. */
+code, kbd, pre, samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+/** Improve readability of pre-formatted text in all browsers. */
+pre {
+  white-space: pre-wrap;
+}
+
+/** Set consistent quote types. */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+/** Address inconsistent and variable font size in all browsers. */
+small {
+  font-size: 80%;
+}
+
+/** Prevent `sub` and `sup` affecting `line-height` in all browsers. */
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/* ========================================================================== Embedded content ========================================================================== */
+/** Remove border when inside `a` element in IE 8/9. */
+img {
+  border: 0;
+}
+
+/** Correct overflow displayed oddly in IE 9. */
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/* ========================================================================== Figures ========================================================================== */
+/** Address margin not present in IE 8/9 and Safari 5. */
+figure {
+  margin: 0;
+}
+
+/* ========================================================================== Forms ========================================================================== */
+/** Define consistent border, margin, and padding. */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/** 1. Correct `color` not being inherited in IE 8/9. 2. Remove padding so people aren't caught out if they zero out fieldsets. */
+legend {
+  border: 0; /* 1 */
+  padding: 0; /* 2 */
+}
+
+/** 1. Correct font family not being inherited in all browsers. 2. Correct font size not being inherited in all browsers. 3. Address margins set differently in Firefox 4+, Safari 5, and Chrome. */
+button, input, select, textarea {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 2 */
+  margin: 0; /* 3 */
+}
+
+/** Address Firefox 4+ setting `line-height` on `input` using `!important` in the UA stylesheet. */
+button, input {
+  line-height: normal;
+}
+
+/** Address inconsistent `text-transform` inheritance for `button` and `select`. All other form control elements do not inherit `text-transform` values. Correct `button` style inheritance in Chrome, Safari 5+, and IE 8+. Correct `select` style inheritance in Firefox 4+ and Opera. */
+button, select {
+  text-transform: none;
+}
+
+/** 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio` and `video` controls. 2. Correct inability to style clickable `input` types in iOS. 3. Improve usability and consistency of cursor style between image-type `input` and others. */
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+  -webkit-appearance: button; /* 2 */
+  cursor: pointer; /* 3 */
+}
+
+/** Re-set default cursor for disabled elements. */
+button[disabled], html input[disabled] {
+  cursor: default;
+}
+
+/** 1. Address box sizing set to `content-box` in IE 8/9. 2. Remove excess padding in IE 8/9. */
+input[type="checkbox"], input[type="radio"] {
+  box-sizing: border-box; /* 1 */
+  padding: 0; /* 2 */
+}
+
+/** 1. Address `appearance` set to `searchfield` in Safari 5 and Chrome. 2. Address `box-sizing` set to `border-box` in Safari 5 and Chrome (include `-moz` to future-proof). */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  box-sizing: content-box;
+}
+
+/** Remove inner padding and search cancel button in Safari 5 and Chrome on OS X. */
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+/** Remove inner padding and border in Firefox 4+. */
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/** 1. Remove default vertical scrollbar in IE 8/9. 2. Improve readability and alignment in all browsers. */
+textarea {
+  overflow: auto; /* 1 */
+  vertical-align: top; /* 2 */
+}
+
+/* ========================================================================== Tables ========================================================================== */
+/** Remove most spacing between table cells. */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-size: 15px;
+}
+
+body {
+  background: white;
+  color: #174a6a;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: auto;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+a:focus {
+  outline: none;
+}
+
+img, object, embed {
+  max-width: 100%;
+  height: auto;
+}
+
+object, embed {
+  height: 100%;
+}
+
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+#map_canvas img, #map_canvas embed, #map_canvas object, .map_canvas img, .map_canvas embed, .map_canvas object {
+  max-width: none !important;
+}
+
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+.hide {
+  display: none;
+}
+
+.antialiased, body {
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+textarea {
+  height: auto;
+  min-height: 50px;
+}
+
+select {
+  width: 100%;
+}
+
+p.lead, .paragraph.lead > p, #preamble > .sectionbody > .paragraph:first-of-type p {
+  font-size: 1.23333em;
+  line-height: 1.6;
+}
+
+.subheader, #content #toctitle, .admonitionblock td.content > .title, .exampleblock > .title, .imageblock > .title, .videoblock > .title, .listingblock > .title, .literalblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, .sidebarblock > .title, .tableblock > .title, .verseblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title, .tableblock > caption {
+  line-height: 1.4;
+  color: #777a7b;
+  font-weight: 300;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+}
+
+/* Typography resets */
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6, pre, form, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+  direction: ltr;
+}
+
+/* Default Link Styles */
+a {
+  color: #f39200;
+  text-decoration: none;
+  line-height: inherit;
+}
+
+a:hover, a:focus {
+  color: #fe670a;
+}
+
+a img {
+  border: none;
+}
+
+/* Default paragraph styles */
+p {
+  font-family: helvetica, arial, freesans, clean, sans-serif;
+  font-weight: normal;
+  font-size: 1em;
+  line-height: 1.4;
+  margin-bottom: 1em;
+  text-rendering: optimizeLegibility;
+}
+
+p aside {
+  font-size: 0.93333em;
+  line-height: 1.35;
+  font-style: italic;
+}
+
+/* Default header styles */
+h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
+  font-family: "Roboto", helvetica, arial, freesans, clean, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  color: #263e4d;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+}
+
+h1 small, h2 small, h3 small, #toctitle small, .sidebarblock > .content > .title small, h4 small, h5 small, h6 small {
+  font-size: 60%;
+  color: gray;
+  line-height: 0;
+}
+
+h1 {
+  font-size: 2.33333em;
+}
+
+h2 {
+  font-size: 1.33333em;
+}
+
+h3, #toctitle, .sidebarblock > .content > .title {
+  font-size: 1.0em;
+}
+
+h4 {
+  font-size: 0.86667em;
+}
+
+h5 {
+  font-size: 0.66667em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+hr {
+  border: solid #dddddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 1.33333em 0 1.26667em;
+  height: 0;
+}
+
+/* Helpful Typography Defaults */
+em, i {
+  font-style: italic;
+  line-height: inherit;
+}
+
+strong, b {
+  font-weight: bold;
+  line-height: inherit;
+}
+
+small {
+  font-size: 60%;
+  line-height: inherit;
+}
+
+code {
+  font-family: Monaco, "DejaVu Sans Mono", "Courier New", monospace;
+  font-weight: normal;
+  color: #666666;
+}
+
+/* Lists */
+ul, ol, dl {
+  font-size: 1em;
+  line-height: 1.4;
+  margin-bottom: 1em;
+  list-style-position: outside;
+  font-family: "Roboto", helvetica, arial, freesans, clean, sans-serif;
+}
+
+ul, ol {
+  margin-left: 0.7em;
+}
+
+/* Unordered Lists */
+ul li ul, ul li ol {
+  margin-left: 1.33333em;
+  margin-bottom: 0;
+  font-size: 1em; /* Override nested font-size change */
+}
+
+ul.square li ul, ul.circle li ul, ul.disc li ul {
+  list-style: inherit;
+}
+
+ul.square {
+  list-style-type: square;
+}
+
+ul.circle {
+  list-style-type: circle;
+}
+
+ul.disc {
+  list-style-type: disc;
+}
+
+ul.no-bullet {
+  list-style: none;
+}
+
+/* Ordered Lists */
+ol li ul, ol li ol {
+  margin-left: 1.33333em;
+  margin-bottom: 0;
+}
+
+/* Definition Lists */
+dl dt {
+  margin-bottom: 0.33333em;
+  font-weight: bold;
+}
+
+dl dd {
+  margin-bottom: 1.33333em;
+}
+
+/* Abbreviations */
+abbr, acronym {
+  text-transform: uppercase;
+  font-size: 90%;
+  color: #333333;
+  border-bottom: 1px dotted #dddddd;
+  cursor: help;
+}
+
+abbr {
+  text-transform: none;
+}
+
+/* Blockquotes */
+blockquote {
+  margin: 0 0 1em;
+  padding: 0;
+  border-left: none;
+}
+
+blockquote cite {
+  display: block;
+  font-size: 0.86667em;
+  color: #777a7b;
+}
+
+blockquote cite:before {
+  content: "\2014 \0020";
+}
+
+blockquote cite a, blockquote cite a:visited {
+  color: #777a7b;
+}
+
+blockquote, blockquote p {
+  line-height: 1.4;
+  color: #777a7b;
+}
+
+/* Microformats */
+.vcard {
+  display: inline-block;
+  margin: 0 0 1.33333em 0;
+  border: 1px solid #dddddd;
+  padding: 0.66667em 0.8em;
+}
+
+.vcard li {
+  margin: 0;
+  display: block;
+}
+
+.vcard .fn {
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.vevent .summary {
+  font-weight: bold;
+}
+
+.vevent abbr {
+  cursor: auto;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+  padding: 0 0.06667em;
+}
+
+@media only screen and (min-width: 768px) {
+  h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
+    line-height: 1.4;
+  }
+
+  h1 {
+    font-size: 2.2em;
+  }
+
+  h2 {
+    font-size: 2em;
+  }
+
+  h3, #toctitle, .sidebarblock > .content > .title {
+    font-size: 1.6em;
+  }
+
+  h4 {
+    font-size: 1.2em;
+  }
+
+  h5 {
+    font-size: 1.0em
+  }
+}
+
+/* Print styles.  Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/ Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
+*/
+.print-only {
+  display: none !important;
+}
+
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important; /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a, a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+    content: "";
+  }
+
+  pre, blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group; /* h5bp.com/t */
+  }
+
+  tr, img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+  }
+
+  p, h2, h3, #toctitle, .sidebarblock > .content > .title {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2, h3, #toctitle, .sidebarblock > .content > .title {
+    page-break-after: avoid;
+  }
+
+  .hide-on-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .hide-for-print {
+    display: none !important;
+  }
+
+  .show-for-print {
+    display: inherit !important;
+  }
+}
+
+/* Tables */
+table {
+  background: white;
+  margin-bottom: 1.33333em;
+  border: solid 1px #dddddd;
+}
+
+table thead, table tfoot {
+  background: #1D313E;
+  color: white;
+  font-weight: bold;
+}
+
+table thead tr th, table thead tr td, table tfoot tr th, table tfoot tr td {
+  padding: 0.53333em 0.66667em 0.66667em;
+  font-size: 0.93333em;
+  color: white;
+  text-align: left;
+}
+
+table tr th, table tr td {
+  padding: 0.6em 0.66667em;
+  font-size: 0.8em;
+  color: #174a6a;
+}
+
+table tr.even, table tr.alt, table tr:nth-of-type(even) {
+  background: #f0f4f8;
+}
+
+table thead tr th, table tfoot tr th, table tbody tr td, table tr td, table tfoot tr td {
+  display: table-cell;
+  line-height: 1.4;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+.clearfix:before, .clearfix:after, .float-group:before, .float-group:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after, .float-group:after {
+  clear: both;
+}
+
+*:not(pre) > code {
+  font-size: 0.86667em;
+  padding: 1px 5px 1px 5px;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  text-shadow: none;
+}
+
+pre, pre > code {
+  line-height: 1.6;
+  color: white;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-weight: normal;
+}
+
+kbd.keyseq {
+  color: #666666;
+}
+
+kbd:not(.keyseq) {
+  display: inline-block;
+  color: #333333;
+  font-size: 0.8em;
+  line-height: 1.4;
+  background-color: #F7F7F7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 2px white inset;
+  margin: -0.15em 0.15em 0 0.15em;
+  padding: 0.2em 0.6em 0.2em 0.5em;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+kbd kbd:first-child {
+  margin-left: 0;
+}
+
+kbd kbd:last-child {
+  margin-right: 0;
+}
+
+.menuseq, .menu {
+  color: #1a1a1a;
+}
+
+#header, #content, #footnotes, #footer {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 82.5em;
+  *zoom: 1;
+  position: relative;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+#header:before, #header:after, #content:before, #content:after, #footnotes:before, #footnotes:after, #footer:before, #footer:after {
+  content: " ";
+  display: table;
+}
+
+#header:after, #content:after, #footnotes:after, #footer:after {
+  clear: both;
+}
+
+#header {
+  margin-bottom: 2.66667em;
+}
+
+#header > h1 {
+  color: #263e4d;
+  font-weight: 300;
+  border-bottom: 1px solid #dddddd;
+  margin-bottom: -28px;
+  padding-bottom: 32px;
+}
+
+#header span {
+  color: #777a7b;
+}
+
+#header #revnumber {
+  text-transform: capitalize;
+}
+
+#header br + span {
+  padding-left: 3px;
+}
+
+#header br + span:before {
+  content: "\2013 \0020";
+}
+
+#header br + span.author {
+  padding-left: 0;
+}
+
+#header br + span.author:before {
+  content: ", ";
+}
+
+div .details br {
+  display: none
+}
+
+#toc {
+  border-bottom: 0 solid #dddddd;
+  padding-bottom: 1.33333em;
+}
+
+#toc > ul {
+  margin-left: 0.26667em;
+}
+
+#toc ul.sectlevel0 > li > a {
+  font-style: italic;
+}
+
+#toc ul.sectlevel0 ul.sectlevel1 {
+  margin-left: 0;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#toc ul {
+  list-style-type: none;
+}
+
+#toctitle {
+  color: #777a7b;
+}
+
+@media only screen and (min-width: 1280px) {
+  body.toc2 {
+    padding-left: 20em;
+  }
+
+  #toc.toc2 {
+    position: fixed;
+    width: 20em;
+    left: 0;
+    top: 0;
+    border-right: 1px solid #dddddd;
+    border-bottom: 0;
+    z-index: 1000;
+    padding: 1em;
+    height: 100%;
+    overflow: auto;
+  }
+
+  #toc.toc2 #toctitle {
+    margin-top: 0;
+  }
+
+  #toc.toc2 > ul {
+    font-size: .95em;
+  }
+
+  #toc.toc2 ul ul {
+    margin-left: 0;
+    padding-left: 1.33333em;
+  }
+
+  #toc.toc2 ul.sectlevel0 ul.sectlevel1 {
+    padding-left: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  body.toc2.toc-right {
+    padding-left: 0;
+    padding-right: 20em;
+  }
+
+  body.toc2.toc-right #toc.toc2 {
+    border-right: 0;
+    border-left: 1px solid #dddddd;
+    left: auto;
+    right: 0;
+  }
+}
+
+#content #toc {
+  border-style: solid;
+  border-color: #e6e6e6;
+  margin-bottom: 1.33333em;
+  padding: 1.33333em;
+  background: white;
+  border-width: 0;
+  border-radius: 3px;
+}
+
+#content #toc > :first-child {
+  margin-top: 0;
+}
+
+#content #toc > :last-child {
+  margin-bottom: 0;
+}
+
+#content #toc a {
+  text-decoration: none;
+}
+
+#content #toctitle {
+  font-weight: bold;
+  font-family: "Roboto", helvetica, arial, freesans, clean, sans-serif;
+  font-size: 1.06667em;
+  padding-left: 0.13333em;
+}
+
+#footer {
+  max-width: 100%;
+  background-color: whitesmoke;
+  padding: 1.33333em;
+}
+
+#footer-text {
+  color: #174a6a;
+  line-height: 1.26;
+}
+
+.sect1 {
+  padding-bottom: 1.33333em;
+}
+
+.sect1 + .sect1 {
+  border-top: 0 solid #dddddd;
+}
+
+#content h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, #toctitle > a.anchor, .sidebarblock > .content > .title > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor {
+  position: absolute;
+  width: 1em;
+  margin-left: -1em;
+  display: block;
+  text-decoration: none;
+  visibility: hidden;
+  text-align: center;
+  font-weight: normal;
+}
+
+#content h1 > a.anchor:before, h2 > a.anchor:before, h3 > a.anchor:before, #toctitle > a.anchor:before, .sidebarblock > .content > .title > a.anchor:before, h4 > a.anchor:before, h5 > a.anchor:before, h6 > a.anchor:before {
+  content: '\00A7';
+  font-size: .85em;
+  vertical-align: text-top;
+  display: block;
+  margin-top: 0.05em;
+}
+
+#content h1:hover > a.anchor, #content h1 > a.anchor:hover, h2:hover > a.anchor, h2 > a.anchor:hover, h3:hover > a.anchor, #toctitle:hover > a.anchor, .sidebarblock > .content > .title:hover > a.anchor, h3 > a.anchor:hover, #toctitle > a.anchor:hover, .sidebarblock > .content > .title > a.anchor:hover, h4:hover > a.anchor, h4 > a.anchor:hover, h5:hover > a.anchor, h5 > a.anchor:hover, h6:hover > a.anchor, h6 > a.anchor:hover {
+  visibility: visible;
+}
+
+#content h1 > a.link, h2 > a.link, h3 > a.link, #toctitle > a.link, .sidebarblock > .content > .title > a.link, h4 > a.link, h5 > a.link, h6 > a.link {
+  color: #263e4d;
+  text-decoration: none;
+}
+
+#content h1 > a.link:hover, h2 > a.link:hover, h3 > a.link:hover, #toctitle > a.link:hover, .sidebarblock > .content > .title > a.link:hover, h4 > a.link:hover, h5 > a.link:hover, h6 > a.link:hover {
+  color: #262626;
+}
+
+.imageblock, .literalblock, .listingblock, .verseblock, .videoblock {
+  margin-bottom: 1.33333em;
+}
+
+.admonitionblock td.content > .title, .exampleblock > .title, .imageblock > .title, .videoblock > .title, .listingblock > .title, .literalblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, .sidebarblock > .title, .tableblock > .title, .verseblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title {
+  text-align: left;
+  font-weight: bold;
+}
+
+.admonitionblock td.content, .admonitionblock td.icon {
+  font-size: 1em;
+}
+
+.tableblock > caption {
+  text-align: left;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: visible;
+  max-width: 0;
+}
+
+table {
+  width: 100%
+}
+
+table.tableblock #preamble > .sectionbody > .paragraph:first-of-type p {
+  font-size: inherit;
+}
+
+.admonitionblock > table {
+  border: 0;
+  background: none;
+  width: 100%;
+}
+
+.admonitionblock > table td.icon {
+  text-align: center;
+  width: 80px;
+}
+
+.admonitionblock > table td.icon img {
+  max-width: none;
+}
+
+.admonitionblock > table td.icon .title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.admonitionblock > table td.content {
+  padding-left: 1.2em;
+  padding-right: 1.33333em;
+  border-left: 1px solid #dddddd;
+  color: #666666;
+}
+
+.admonitionblock > table td.content > :last-child > :last-child {
+  margin-bottom: 0;
+}
+
+.exampleblock > .content {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e6e6e6;
+  margin-bottom: 1.33333em;
+  padding: 1.33333em;
+  background: white;
+  border-radius: 3px;
+}
+
+.exampleblock > .content > :first-child {
+  margin-top: 0;
+}
+
+.exampleblock > .content > :last-child {
+  margin-bottom: 0;
+}
+
+.exampleblock > .content h1, .exampleblock > .content h2, .exampleblock > .content h3, .exampleblock > .content #toctitle, .sidebarblock.exampleblock > .content > .title, .exampleblock > .content h4, .exampleblock > .content h5, .exampleblock > .content h6, .exampleblock > .content p {
+  color: #333333;
+}
+
+.exampleblock > .content h1, .exampleblock > .content h2, .exampleblock > .content h3, .exampleblock > .content #toctitle, .sidebarblock.exampleblock > .content > .title, .exampleblock > .content h4, .exampleblock > .content h5, .exampleblock > .content h6 {
+  line-height: 1;
+  margin-bottom: 0.66667em;
+}
+
+.exampleblock > .content h1.subheader, .exampleblock > .content h2.subheader, .exampleblock > .content h3.subheader, .exampleblock > .content .subheader#toctitle, .sidebarblock.exampleblock > .content > .subheader.title, .exampleblock > .content h4.subheader, .exampleblock > .content h5.subheader, .exampleblock > .content h6.subheader {
+  line-height: 1.4;
+}
+
+.exampleblock.result > .content {
+  box-shadow: 0 1px 8px #eaeaea;
+}
+
+.sidebarblock {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e6e6e6;
+  margin-bottom: 1.33333em;
+  padding: 1.33333em;
+  background: white;
+  border-radius: 3px;
+}
+
+.sidebarblock > :first-child {
+  margin-top: 0;
+}
+
+.sidebarblock > :last-child {
+  margin-bottom: 0;
+}
+
+.sidebarblock h1, .sidebarblock h2, .sidebarblock h3, .sidebarblock #toctitle, .sidebarblock > .content > .title, .sidebarblock h4, .sidebarblock h5, .sidebarblock h6, .sidebarblock p {
+  color: #333333;
+}
+
+.sidebarblock h1, .sidebarblock h2, .sidebarblock h3, .sidebarblock #toctitle, .sidebarblock > .content > .title, .sidebarblock h4, .sidebarblock h5, .sidebarblock h6 {
+  line-height: 1;
+  margin-bottom: 0.66667em;
+}
+
+.sidebarblock h1.subheader, .sidebarblock h2.subheader, .sidebarblock h3.subheader, .sidebarblock .subheader#toctitle, .sidebarblock > .content > .subheader.title, .sidebarblock h4.subheader, .sidebarblock h5.subheader, .sidebarblock h6.subheader {
+  line-height: 1.4;
+}
+
+.sidebarblock > .content > .title {
+  color: #777a7b;
+  margin-top: 0;
+  line-height: 1.4;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #cacaca;
+}
+
+.exampleblock > .content > :last-child > :last-child, .exampleblock > .content .olist > ol > li:last-child > :last-child, .exampleblock > .content .ulist > ul > li:last-child > :last-child, .exampleblock > .content .qlist > ol > li:last-child > :last-child, .sidebarblock > .content > :last-child > :last-child, .sidebarblock > .content .olist > ol > li:last-child > :last-child, .sidebarblock > .content .ulist > ul > li:last-child > :last-child, .sidebarblock > .content .qlist > ol > li:last-child > :last-child {
+  margin-bottom: 0;
+}
+
+.literalblock > .content pre, .listingblock > .content pre {
+  background: #333333;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #dddddd;
+  border-radius: 3px;
+  padding: 0.66667em;
+  word-wrap: break-word;
+}
+
+.literalblock > .content pre.nowrap, .listingblock > .content pre.nowrap {
+  overflow-x: auto;
+  white-space: pre;
+  word-wrap: normal;
+}
+
+.literalblock > .content pre > code, .listingblock > .content pre > code {
+  display: block;
+}
+
+@media only screen {
+  .literalblock > .content pre, .listingblock > .content pre {
+    font-size: 0.69333em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .literalblock > .content pre, .listingblock > .content pre {
+    font-size: 0.78em;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .literalblock > .content pre, .listingblock > .content pre {
+    font-size: 0.86667em;
+  }
+}
+
+.listingblock > .content {
+  position: relative;
+}
+
+.listingblock:hover code[class*=" language-"]:before {
+  text-transform: uppercase;
+  font-size: 0.9em;
+  color: #999;
+  position: absolute;
+  top: 0.4em;
+  right: 0.4em;
+}
+
+.listingblock:hover code.asciidoc:before {
+  content: "asciidoc";
+}
+
+.listingblock:hover code.clojure:before {
+  content: "clojure";
+}
+
+.listingblock:hover code.css:before {
+  content: "css";
+}
+
+.listingblock:hover code.groovy:before {
+  content: "groovy";
+}
+
+.listingblock:hover code.html:before {
+  content: "html";
+}
+
+.listingblock:hover code.java:before {
+  content: "java";
+}
+
+.listingblock:hover code.javascript:before {
+  content: "javascript";
+}
+
+.listingblock:hover code.python:before {
+  content: "python";
+}
+
+.listingblock:hover code.ruby:before {
+  content: "ruby";
+}
+
+.listingblock:hover code.scss:before {
+  content: "scss";
+}
+
+.listingblock:hover code.xml:before {
+  content: "xml";
+}
+
+.listingblock:hover code.yaml:before {
+  content: "yaml";
+}
+
+.listingblock.terminal pre .command:before {
+  content: attr(data-prompt);
+  padding-right: 0.5em;
+  color: #999;
+}
+
+.listingblock.terminal pre .command:not([data-prompt]):before {
+  content: '$';
+}
+
+table.pyhltable {
+  border: 0;
+  margin-bottom: 0;
+}
+
+table.pyhltable td {
+  vertical-align: top;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+table.pyhltable td.code {
+  padding-left: .75em;
+  padding-right: 0;
+}
+
+.highlight.pygments .lineno, table.pyhltable td:not(.code) {
+  color: #999;
+  padding-left: 0;
+  padding-right: .5em;
+  border-right: 1px solid #dddddd;
+}
+
+.highlight.pygments .lineno {
+  display: inline-block;
+  margin-right: .25em;
+}
+
+table.pyhltable .linenodiv {
+  background-color: transparent !important;
+  padding-right: 0 !important;
+}
+
+.quoteblock {
+  margin: 0 0 1em;
+  padding: 0;
+  border-left: none;
+}
+
+.quoteblock blockquote {
+  margin: 0 0 1em 0;
+  padding: 0 0 0.6em 0;
+  border: 0;
+}
+
+.quoteblock blockquote > .paragraph:last-child p {
+  margin-bottom: 0;
+}
+
+.quoteblock .attribution {
+  margin-top: -.25em;
+  padding-bottom: 0.6em;
+  font-size: 0.86667em;
+  color: #666666;
+}
+
+.quoteblock .attribution br {
+  display: none;
+}
+
+.quoteblock .attribution cite {
+  display: block;
+  margin-bottom: 0.66667em;
+}
+
+table thead th, table tfoot th {
+  font-weight: bold;
+}
+
+table.tableblock.grid-all {
+  border-collapse: separate;
+  border-spacing: 1px;
+  border-radius: 3px;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+table.tableblock.frame-topbot, table.tableblock.frame-none {
+  border-left: 0;
+  border-right: 0;
+}
+
+table.tableblock.frame-sides, table.tableblock.frame-none {
+  border-top: 0;
+  border-bottom: 0;
+}
+
+table.tableblock td .paragraph:last-child p, table.tableblock td > p:last-child {
+  margin-bottom: 0;
+}
+
+th.tableblock.halign-left, td.tableblock.halign-left {
+  text-align: left;
+}
+
+th.tableblock.halign-right, td.tableblock.halign-right {
+  text-align: right;
+}
+
+th.tableblock.halign-center, td.tableblock.halign-center {
+  text-align: center;
+}
+
+th.tableblock.valign-top, td.tableblock.valign-top {
+  vertical-align: top;
+}
+
+th.tableblock.valign-bottom, td.tableblock.valign-bottom {
+  vertical-align: bottom;
+}
+
+th.tableblock.valign-middle, td.tableblock.valign-middle {
+  vertical-align: middle;
+}
+
+p.tableblock.header {
+  color: #263e4d;
+  font-weight: bold;
+}
+
+td > div.verse {
+  white-space: pre;
+}
+
+ol {
+  margin-left: 0.96667em;
+}
+
+ul li ol {
+  margin-left: 0.7em;
+}
+
+dl dd {
+  margin-left: 1.125em;
+}
+
+dl dd:last-child, dl dd:last-child > :last-child {
+  margin-bottom: 0;
+}
+
+ol > li p, ul > li p, ul dd, ol dd, .olist .olist, .ulist .ulist, .ulist .olist, .olist .ulist {
+  margin-bottom: 0.5em;
+}
+
+ul.unstyled, ol.unnumbered, ul.checklist, ul.none {
+  list-style-type: none;
+}
+
+ul.unstyled, ol.unnumbered, ul.checklist {
+  margin-left: 0.66667em;
+}
+
+ul.checklist li > p:first-child > i[class^="icon-check"]:first-child, ul.checklist li > p:first-child > input[type="checkbox"]:first-child {
+  margin-right: 0.25em;
+}
+
+ul.checklist li > p:first-child > input[type="checkbox"]:first-child {
+  position: relative;
+  top: 1px;
+}
+
+ul.inline {
+  margin: 0 auto 0.5em auto;
+  margin-left: -1.46667em;
+  margin-right: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+}
+
+ul.inline > li {
+  list-style: none;
+  float: left;
+  margin-left: 1.46667em;
+  display: block;
+}
+
+ul.inline > li > * {
+  display: block;
+}
+
+.unstyled dl dt {
+  font-weight: normal;
+  font-style: normal;
+}
+
+ol.arabic {
+  list-style-type: decimal;
+}
+
+ol.decimal {
+  list-style-type: decimal-leading-zero;
+}
+
+ol.loweralpha {
+  list-style-type: lower-alpha;
+}
+
+ol.upperalpha {
+  list-style-type: upper-alpha;
+}
+
+ol.lowerroman {
+  list-style-type: lower-roman;
+}
+
+ol.upperroman {
+  list-style-type: upper-roman;
+}
+
+ol.lowergreek {
+  list-style-type: lower-greek;
+}
+
+.hdlist > table, .colist > table {
+  border: 0;
+  background: none;
+}
+
+.hdlist > table > tbody > tr, .colist > table > tbody > tr {
+  background: none;
+}
+
+td.hdlist1 {
+  padding-right: .8em;
+  font-weight: bold;
+}
+
+td.hdlist1, td.hdlist2 {
+  vertical-align: top;
+}
+
+.literalblock + .colist, .listingblock + .colist {
+  margin-top: -0.5em;
+}
+
+.colist > table tr > td:first-of-type {
+  padding: 0 .8em;
+  line-height: 1;
+}
+
+.colist > table tr > td:last-of-type {
+  padding: 0.26667em 0;
+}
+
+.qanda > ol > li > p > em:only-child {
+  color: #3876b4;
+}
+
+.thumb, .th {
+  line-height: 0;
+  display: inline-block;
+  border: solid 4px white;
+  box-shadow: 0 0 0 1px #dddddd;
+}
+
+.imageblock.left, .imageblock[style*="float: left"] {
+  margin: 0.26667em 0.66667em 1.33333em 0;
+}
+
+.imageblock.right, .imageblock[style*="float: right"] {
+  margin: 0.26667em 0 1.33333em 0.66667em;
+}
+
+.imageblock > .title {
+  margin-bottom: 0;
+}
+
+.imageblock.thumb, .imageblock.th {
+  border-width: 6px;
+}
+
+.imageblock.thumb > .title, .imageblock.th > .title {
+  padding: 0 0.13333em;
+}
+
+.image.left, .image.right {
+  margin-top: 0.26667em;
+  margin-bottom: 0.26667em;
+  display: inline-block;
+  line-height: 0;
+}
+
+.image.left {
+  margin-right: 0.66667em;
+}
+
+.image.right {
+  margin-left: 0.66667em;
+}
+
+a.image {
+  text-decoration: none;
+}
+
+span.footnote, span.footnoteref {
+  vertical-align: super;
+  font-size: 0.93333em;
+}
+
+span.footnote a, span.footnoteref a {
+  text-decoration: none;
+}
+
+#footnotes {
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+  margin-bottom: 0.66667em;
+}
+
+#footnotes hr {
+  width: 20%;
+  min-width: 6.66667em;
+  margin: -.25em 0 .75em 0;
+  border-width: 1px 0 0 0;
+}
+
+#footnotes .footnote {
+  padding: 0 0.4em;
+  line-height: 1.3;
+  font-size: 0.93333em;
+  margin-left: 1.2em;
+  text-indent: -1.2em;
+  margin-bottom: .2em;
+}
+
+#footnotes .footnote a:first-of-type {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#footnotes .footnote:last-of-type {
+  margin-bottom: 0;
+}
+
+#content #footnotes {
+  margin-top: -0.66667em;
+  margin-bottom: 0;
+  padding: 0.8em 0;
+}
+
+.gist .file-data > table {
+  border: none;
+  background: #fff;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.gist .file-data > table td.line-data {
+  width: 99%;
+}
+
+div.unbreakable {
+  page-break-inside: avoid;
+}
+
+.big {
+  font-size: larger;
+}
+
+.small {
+  font-size: smaller;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.aqua {
+  color: #00bfbf;
+}
+
+.aqua-background {
+  background-color: #00fafa;
+}
+
+.black {
+  color: black;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.blue {
+  color: #0000bf;
+}
+
+.blue-background {
+  background-color: #0000fa;
+}
+
+.fuchsia {
+  color: #bf00bf;
+}
+
+.fuchsia-background {
+  background-color: #fa00fa;
+}
+
+.gray {
+  color: #606060;
+}
+
+.gray-background {
+  background-color: #7d7d7d;
+}
+
+.green {
+  color: #006000;
+}
+
+.green-background {
+  background-color: #007d00;
+}
+
+.lime {
+  color: #00bf00;
+}
+
+.lime-background {
+  background-color: #00fa00;
+}
+
+.maroon {
+  color: #600000;
+}
+
+.maroon-background {
+  background-color: #7d0000;
+}
+
+.navy {
+  color: #000060;
+}
+
+.navy-background {
+  background-color: #00007d;
+}
+
+.olive {
+  color: #606000;
+}
+
+.olive-background {
+  background-color: #7d7d00;
+}
+
+.purple {
+  color: #600060;
+}
+
+.purple-background {
+  background-color: #7d007d;
+}
+
+.red {
+  color: #bf0000;
+}
+
+.red-background {
+  background-color: #fa0000;
+}
+
+.silver {
+  color: #909090;
+}
+
+.silver-background {
+  background-color: #bcbcbc;
+}
+
+.teal {
+  color: #006060;
+}
+
+.teal-background {
+  background-color: #007d7d;
+}
+
+.white {
+  color: #bfbfbf;
+}
+
+.white-background {
+  background-color: #fafafa;
+}
+
+.yellow {
+  color: #bfbf00;
+}
+
+.yellow-background {
+  background-color: #fafa00;
+}
+
+span.icon > [class^="icon-"], span.icon > [class*=" icon-"] {
+  cursor: default;
+}
+
+.admonitionblock td.icon [class^="icon-"]:before {
+  font-size: 2.5em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  cursor: default;
+}
+
+.admonitionblock td.icon .icon-note:before {
+  content: "\f05a";
+  color: #2e6295;
+}
+
+.admonitionblock td.icon .icon-tip:before {
+  content: "\f0eb";
+  text-shadow: 1px 1px 2px rgba(155, 155, 0, 0.8);
+  color: #111;
+}
+
+.admonitionblock td.icon .icon-warning:before {
+  content: "\f071";
+  color: #bf6900;
+}
+
+.admonitionblock td.icon .icon-caution:before {
+  content: "\f06d";
+  color: #bf3400;
+}
+
+.admonitionblock td.icon .icon-important:before {
+  content: "\f06a";
+  color: #bf0000;
+}
+
+.conum {
+  display: inline-block;
+  color: white !important;
+  background-color: #333333;
+  border-radius: 100px;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  position: relative;
+  top: -2px;
+  letter-spacing: -1px;
+}
+
+.conum * {
+  color: white !important;
+}
+
+.conum + b {
+  display: none;
+}
+
+.conum:after {
+  content: attr(data-value);
+}
+
+.conum:not([data-value]):empty {
+  display: none;
+}
+
+p.lead, .paragraph.lead > p, #preamble > .sectionbody > .paragraph:first-of-type p {
+  font-size: 1em;
+  color: #666666;
+}
+
+h2 {
+  color: #263e4d;
+  border-bottom: 1px solid #dddddd;
+}
+
+#content h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, #toctitle > a.anchor, .sidebarblock > .content > .title > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor {
+  color: #f39200;
+}
+
+#header, #content, #footnotes {
+  max-width: 800px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#content ul {
+  list-style-type: none;
+}
+
+#content ul li {
+  background: url('../html-theme/images/isaqb/li-chevron.png') 0 0.4em no-repeat;
+  padding-left: .7em;
+}
+
+.olist.procedure > ol {
+  counter-reset: li;
+  list-style: none;
+  position: relative;
+}
+
+.olist.procedure > ol > li {
+  position: relative;
+  padding: 5px 0 5px 55px;
+  margin-bottom: 5px;
+}
+
+.olist.procedure > ol > li:before {
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 30px;
+  padding: 0 10px 0 0;
+  color: #999;
+  font-size: 1.46667em;
+  font-weight: bold;
+  line-height: 1.6;
+  text-align: right;
+  border-right: 1px solid #ddd;
+}
+
+.quoteblock blockquote {
+  background: url('../html-theme/images/github/blockquote-arrow.png') 0 2px no-repeat;
+  padding-left: 1em;
+}
+
+.sidebarblock > .content > .title {
+  margin: -20px -20px 20px;
+  padding: 1em;
+  font-size: 0.8em;
+  background: #eaeaea;
+}
+
+
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="book toc2 toc-left">
+<div id="header">
+<h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
+<div class="details">
+<span id="revnumber"> 2025.1-RC1-EN,</span>
+<span id="revdate">20240906</span>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_list_of_learning_goals">List of Learning Goals</a></li>
+<li><a href="#_introduction">Introduction</a>
+<ul class="sectlevel2">
+<li><a href="#_what_does_this_curriculum_contain">What Does this Curriculum Contain</a></li>
+<li><a href="#_what_does_a_foundation_level_training_convey">What Does a Foundation Level Training Convey?</a></li>
+<li><a href="#_out_of_scope">Out of Scope</a></li>
+<li><a href="#_prerequisites">Prerequisites</a></li>
+<li><a href="#_structure_duration_and_teaching_methods">Structure, Duration and Teaching Methods</a></li>
+<li><a href="#_learning_goals_and_relevance_for_the_examination">Learning Goals and Relevance for the Examination</a></li>
+<li><a href="#_current_version_and_public_repository">Current Version and Public Repository</a></li>
+</ul>
+</li>
+<li><a href="#_basic_concepts_of_software_architecture">1. Basic Concepts of Software Architecture</a>
+<ul class="sectlevel2">
+<li><a href="#_purpose">Purpose</a></li>
+<li><a href="#_relevant_terms">Relevant Terms</a></li>
+<li><a href="#_learning_goals">Learning Goals</a></li>
+<li><a href="#_references">References</a></li>
+</ul>
+</li>
+<li><a href="#_requirements_and_constraints">2. Requirements and Constraints</a>
+<ul class="sectlevel2">
+<li><a href="#_purpose_2">Purpose</a></li>
+<li><a href="#_relevant_terms_2">Relevant Terms</a></li>
+<li><a href="#_learning_goals_2">Learning Goals</a></li>
+<li><a href="#_references_2">References</a></li>
+</ul>
+</li>
+<li><a href="#_design_and_development_of_software_architectures">3. Design and Development of Software Architectures</a>
+<ul class="sectlevel2">
+<li><a href="#_purpose_3">Purpose</a></li>
+<li><a href="#_relevant_terms_3">Relevant Terms</a></li>
+<li><a href="#_learning_goals_3">Learning Goals</a></li>
+<li><a href="#_references_3">References</a></li>
+</ul>
+</li>
+<li><a href="#_specification_and_communication_of_software_architectures">4. Specification and Communication of Software Architectures</a>
+<ul class="sectlevel2">
+<li><a href="#_relevant_terms_4">Relevant Terms</a></li>
+<li><a href="#_learning_goals_4">Learning Goals</a></li>
+<li><a href="#_references_4">References</a></li>
+</ul>
+</li>
+<li><a href="#_analysis_and_assessment_of_software_architectures">5. Analysis and Assessment of Software Architectures</a>
+<ul class="sectlevel2">
+<li><a href="#_relevant_terms_5">Relevant Terms</a></li>
+<li><a href="#_learning_goals_5">Learning Goals</a></li>
+<li><a href="#_references_5">References</a></li>
+</ul>
+</li>
+<li><a href="#_examples_of_software_architectures">6. Examples of Software Architectures</a>
+<ul class="sectlevel2">
+<li><a href="#_learning_goals_6">Learning Goals</a></li>
+</ul>
+</li>
+<li><a href="#_references_6">References</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div style="page-break-after: always;"></div>
+<div class="paragraph">
+<p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
+(iSAQB<sup>&#174;</sup> e. V.) 2023</strong></p>
+</div>
+<div class="paragraph">
+<p>The curriculum may only be used subject to the following conditions:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>You wish to obtain the CPSA Certified Professional for Software Architecture Foundation Level<sup>&#174;</sup> certificate or the CPSA Certified Professional for Software Architecture Advanced Level<sup>&#174;</sup> certificate. For the purpose of obtaining the certificate, it shall be permitted to use these text documents and/or curricula by creating working copies for your own computer. If any other use of documents and/or curricula is intended, for instance for their dissemination to third parties, for advertising etc., please write to <a href="mailto:info@isaqb.org">info@isaqb.org</a> to enquire whether this is permitted. A separate license agreement would then have to be entered into.</p>
+</li>
+<li>
+<p>If you are a trainer or training provider, it shall be possible for you to use the documents and/or curricula once you have obtained a usage license.
+Please address any enquiries to <a href="mailto:info@isaqb.org">info@isaqb.org</a>. License agreements with comprehensive provisions for all aspects exist.</p>
+</li>
+<li>
+<p>If you fall neither into category 1 nor category 2, but would like to use these documents and/or curricula nonetheless, please also contact the iSAQB e. V. by writing to <a href="mailto:info@isaqb.org">info@isaqb.org</a>. You will then be informed about the possibility of acquiring relevant licenses through existing license agreements, allowing you to obtain your desired usage authorizations.</p>
+</li>
+</ol>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Important Notice</div>
+<div class="paragraph">
+<p><strong>We stress that, as a matter of principle, this curriculum is protected by copyright.
+The International Software Architecture Qualification Board e. V. (iSAQB<sup>&#174;</sup> e. V.) has exclusive entitlement to these copyrights.</strong></p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>The abbreviation "e. V." is part of the iSAQB&#8217;s official name and stands for "eingetragener Verein" (registered association), which describes its status as a legal entity according to German law.
+For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSAQB without the use of said abbreviation.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<!-- toc disabled -->
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_list_of_learning_goals">List of Learning Goals</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="#LG-01-01">LG 01-01: Discuss Definitions of Software Architecture (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-02">LG 01-02: Understand and Explain the Goals and Benefits of Software Architecture (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-03">LG 01-03 [ehemaliges LG 1-4]: Understand the Tasks and Responsibilities of Software Architects (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-04">LG 01-04 [previously LG 1-09]: Classify Responsibilities of Software Architects within the Greater Architectural Context (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-05">LG 01-05 [previously LG 01-05]: Relate the Role of Software Architects to Other Stakeholders (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-06">LG 01-06: Importance and Design of Data Models (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-01">LG 02-01: Unterstand Stakeholder Concerns (R1 - R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-02">LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-03">LG 02-03 [previously LG 4-1]: Understand and Explain Software System Qualities (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-04">LG 02-04 [previously LG 04-03]: Understand the Importance of Requirements for Software Architecture (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-05">LG 02-05 [previously LG 1-08]: Prefer Explicit Statements over Implicit Assumptions (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-01">LG 03-01 [previously LG 4-04]: Fulfilling Requirements through Architecture (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-02">LG 03-02 [previously LG 2-02]: Design Software Architectures (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-03">LG 03-03 [previously LG 2-01]: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-04">LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-05">LG 03-05 [previously LG 1-06]: Correlation between Feedback Loops and Risks (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-06">LG 03-06 [previously LG 2-07]: Manage Dependencies between Building Blocks (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-07">LG 03-07 [previously LG 2-09]: Design and Define Interfaces (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-08">LG 03-08 [previously LG 2-05]: Describe, Explain and Apply Important Architectural Patterns (R1, R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-09">LG 03-09 [previously LG 2-05]: Describe, Explain and Apply Important Design Patterns (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-10">LG 03-10 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-11">LG 03-11 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-12">LG 03-12 [previously LG 1-11]: Know the Challenges of Distributed Systems (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-01">LG 04-01 [previously LG 3-01]: Explain and Consider the Requirements of Technical Documentation (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-02">LG 04-02 [previously LG 3-02]: Describe and Communicate Software Architectures (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-03">LG 04-03 [previously LG 3-03]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-04">LG 04-04 [new]: Learning Goal not Found (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-05">LG 04-05 [previously LG 3-04]: Explain and Use Architectural Views (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-06">LG 04-06 [previously LG 3-07]: Document Interfaces (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-07">LG 04-07 [previously LG 3-06]: Document and Communicate Cross-Cutting Concerns (R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-08">LG 04-08 [previously LG 3-08]: Explain and Document Architectural Decisions (R1-R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-09">LG 04-09 [previously LG 3-09]: Know Additional Resources and Tools for Documentation (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-05-01">LG 05-01: Know the Reasons for Architecture Analysis (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-05-02">LG 05-02 [previously LG 4-3 and 4-4]: Analyze the Qualities of a Software System (R1, R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-06-01">LG 06-01: Know the Relation between Requirements, Constraints, and Solutions (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-06-02">LG 06-02: Understand the technical implementation of a solution (R3)</a></p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_introduction">Introduction</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_what_does_this_curriculum_contain">What Does this Curriculum Contain</h3>
+<div class="paragraph">
+<p>This curriculum for the Certified Professional for Software Architecture – Foundation Level (CPSA-F) outlines the essential learning goals that should be mastered to take up the role of software architect.</p>
+</div>
+<div class="paragraph">
+<p>It is structured along the fundamental activities and responsibilities of software architecture as a role:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Clarifying stakeholder requirements and constraints</p>
+</li>
+<li>
+<p>Designing and developing software architectures, thereby taking structural and conceptual decisions</p>
+</li>
+<li>
+<p>Communicating and documenting the architecture for various stakeholders</p>
+</li>
+<li>
+<p>Analyzing and assessing software architectures</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_what_does_a_foundation_level_training_convey">What Does a Foundation Level Training Convey?</h3>
+<div class="paragraph">
+<p>Licensed Certified Professional for Software Architecture – Foundation Level (CPSA-F) trainings will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
+Based upon their individual practical experience and existing skills participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
+CPSA-F trainings teach methods and principles for design, documentation and evaluation of software architectures, independent of specific development processes.</p>
+</div>
+<div class="paragraph">
+<p>Focus is education and training of the following skills:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>discuss and reconcile fundamental architectural decisions with stakeholders from requirements, management, development, operations and test</p>
+</li>
+<li>
+<p>understand the essential activities of software architecture, and carry out those for small- to medium sized systems</p>
+</li>
+<li>
+<p>document and communicate software architectures based upon architectural views, architecture patterns and technical concepts.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>In addition, such trainings cover:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the term software architecture and its meaning</p>
+</li>
+<li>
+<p>the tasks and responsibilities of software architects</p>
+</li>
+<li>
+<p>the roles of software architects within development projects</p>
+</li>
+<li>
+<p>state-of-the-art methods and techniques for developing software architectures.</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_out_of_scope">Out of Scope</h3>
+<div class="paragraph">
+<p>This curriculum reflects the contents currently considered by the iSAQB members to be necessary and useful for achieving the learning goals of CPSA-F. It is not a comprehensive description of the entire domain of 'software architecture'.</p>
+</div>
+<div class="paragraph">
+<p>The following topics or concepts are not part of CPSA-F:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>specific implementation technologies, frameworks or libraries</p>
+</li>
+<li>
+<p>programming or programming languages</p>
+</li>
+<li>
+<p>specific process models</p>
+</li>
+<li>
+<p>fundamentals of modelling notations (such as UML) or fundamentals of modelling itself</p>
+</li>
+<li>
+<p>system analysis and requirements engineering (please refer to the education and certification program by IREB e. V., <a href="https://ireb.org" class="bare">https://ireb.org</a>, International Requirements Engineering Board)</p>
+</li>
+<li>
+<p>software testing (please refer to the education and certification program by ISTQB e.V., <a href="https://istqb.org" class="bare">https://istqb.org</a>, International Software Testing Qualification Board)</p>
+</li>
+<li>
+<p>project or product management</p>
+</li>
+<li>
+<p>introduction to specific software tools.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The aim of the training is to provide the basics for acquiring the advanced knowledge and skills required for the respective application.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_prerequisites">Prerequisites</h3>
+<div class="paragraph">
+<p>The iSAQB e. V. may check the following prerequisites in certification examinations via corresponding questions.</p>
+</div>
+<div class="paragraph">
+<p>Participants should have the following knowledge and/or experience.
+In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>more than 18 months of practical experience with software development, gained through team-based development of several systems outside of formal education</p>
+</li>
+<li>
+<p>knowledge of and practical experience with at least one higher programming language, especially:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>concepts of</p>
+<div class="ulist">
+<ul>
+<li>
+<p>modularization (packages, namespaces, etc.)</p>
+</li>
+<li>
+<p>parameter-passing (<em>call-by-value, call-by-reference</em>)</p>
+</li>
+<li>
+<p><em>scope</em>, i.e. of type and variable declaration and definition</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>basics of type systems (static vs. dynamic typing, generic data types)</p>
+</li>
+<li>
+<p>error and exception handling in software</p>
+</li>
+<li>
+<p>potential problems of global state and global variables</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Basic knowledge of:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>modelling and abstraction</p>
+</li>
+<li>
+<p>algorithms and data structures (i.e. Lists, Trees, HashTable, Dictionary, Map)</p>
+</li>
+<li>
+<p>UML (class, package, component and sequence diagrams) and their relation to source code</p>
+</li>
+<li>
+<p>approaches to testing of software (e.g. unit- and acceptance testing)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Furthermore, the following will be useful for understanding several concepts:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>basics and differences of imperative, declarative, object-oriented and functional programming</p>
+</li>
+<li>
+<p>practical experience in</p>
+<div class="ulist">
+<ul>
+<li>
+<p>a higher level programming language</p>
+</li>
+<li>
+<p>designing and implementing distributed applications, such as client-server systems or web applications</p>
+</li>
+<li>
+<p>technical documentation, especially documenting source code, system design or technical concepts</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_structure_duration_and_teaching_methods">Structure, Duration and Teaching Methods</h3>
+<div class="paragraph">
+<p>Study times given in the following sections of the curriculum are just recommendations.
+The duration of a training course should be at least three days, but may as well be longer.
+Providers may vary in their approach to duration, teaching methods, the type and structure of exercises as well as the detailed course outline.
+The types (domains and technologies) of examples and exercises can be determined individually by training providers.</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Content</th>
+<th class="tableblock halign-right valign-top">Recommended Duration (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1. Basic Concepts of Software Architecture</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2. Requirements and Constraints</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">3. Design and Development</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">420</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4. Specification and Communication</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">240</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">5. Analysis and Assessment</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">6. Examples</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-right valign-top"></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Total</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">990</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_and_relevance_for_the_examination">Learning Goals and Relevance for the Examination</h3>
+<div class="paragraph">
+<p>The structure of the curriculum&#8217;s chapters follows a set of prioritized learning goals.
+For each learning goal, relevance for the examination of this learning goal or its sub-elements is clearly stated (by the R1, R2, R3 classification, see the table below).
+Every learning goal describes the contents to be taught including their key terms and concepts.</p>
+</div>
+<div class="paragraph">
+<p>Regarding relevance for the examination, the following categories are used in this curriculum:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 9.0909%;">
+<col style="width: 18.1818%;">
+<col style="width: 54.5454%;">
+<col style="width: 18.1819%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">ID</th>
+<th class="tableblock halign-left valign-top">Learning-goal category</th>
+<th class="tableblock halign-left valign-top">Meaning</th>
+<th class="tableblock halign-left valign-top">Relevance for examination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Being able to</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">These are the contents participants will be expected to be able to put into practice independently upon completion of the course. Within the course, these contents will be covered through exercises and discussions.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Contents <strong>will be</strong> part of the examination.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Understanding</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">These are the contents participants are expected to understand in principle.
+They will normally not be the primary focus of exercises in training.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Contents <strong>may be</strong> part of the examination.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knowing</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">These contents (terms, concepts, methods, practices or similar) can enhance understanding and motivate the topic.
+They may be covered in training if required.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Contents will <strong>not be</strong> part of examination.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>If required, the learning goals include references to further reading, standards or other sources.
+The sections "Terms and Concepts" of each chapter list words that are associated with the contents of the chapter.
+Some of them are used in the descriptions of learning goals.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_current_version_and_public_repository">Current Version and Public Repository</h3>
+<div class="paragraph">
+<p>You find the most current version of this document on the official <a href="https://public.isaqb.org/curriculum-foundation/">download page</a> on <a href="https://isaqb-org.github.io/" class="bare">https://isaqb-org.github.io/</a>.</p>
+</div>
+<div class="paragraph">
+<p>The document is maintained in a <a href="https://github.com/isaqb-org/curriculum-foundation">public repository</a> at <a href="https://github.com/isaqb-org/curriculum-foundation" class="bare">https://github.com/isaqb-org/curriculum-foundation</a>, all changes and modifications are public.</p>
+</div>
+<div class="paragraph">
+<p>Please report any issues in our <a href="https://github.com/isaqb-org/curriculum-foundation/issues">public issue tracker</a> on <a href="https://github.com/isaqb-org/curriculum-foundation/issues" class="bare">https://github.com/isaqb-org/curriculum-foundation/issues</a>.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_basic_concepts_of_software_architecture">1. Basic Concepts of Software Architecture</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 120 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Exercises: none</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_purpose">Purpose</h3>
+<div class="paragraph">
+<p>The purpose of this section is to equip training participants with a foundational understanding of key terms and concepts in software architecture.
+They become familiar with various definitions and their commonalities, understand the essential goals and benefits of software architecture and can communicate these to other stakeholders.
+Furthermore, they will be able to name and explain the most important tasks and responsibilities of software architects.
+Additionally, the section explores the role of software architects in the broader architectural context and their interactions with other stakeholders, preparing participants to effectively contribute to diverse software development projects.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_relevant_terms">Relevant Terms</h3>
+<div class="paragraph">
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-software-architecture">Software architecture</a>;
+architecture domains; <a href="https://public.isaqb.org/glossary/glossary-en.html#term-structure">structure</a>;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-building-block">building blocks</a>;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-component">components</a>;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-interface">interfaces</a>;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-relationship">relationships</a>;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-cross-cutting-concerns">cross-cutting-concerns</a>;
+software architects and their responsibilities;
+tasks and required skills;
+stakeholders and their concerns;
+requirements;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-constraints">constraints</a>;
+influencing factors;
+types of IT systems (embedded systems; real-time systems; information systems etc.)</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-01-01">LG 01-01: Discuss Definitions of Software Architecture (R1)</h4>
+<div class="paragraph">
+<p>Software architects know the commonalities of many definitions of
+software architecture <a href="#iso42010">[ISO 42010]</a> <a href="#bass">[Bass+ 2021]</a> <a href="#kruchten">[Kruchten 2004]</a>:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>components/building blocks with interfaces and relationships</p>
+</li>
+<li>
+<p>building blocks as a general term, components as a special form thereof</p>
+</li>
+<li>
+<p>structures, cross-cutting concerns, principles</p>
+</li>
+<li>
+<p>architecture decisions and their consequences on the entire systems and its lifecycle</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-02">LG 01-02: Understand and Explain the Goals and Benefits of Software Architecture (R1)</h4>
+<div class="paragraph">
+<p>Software architects can justify the following essential goals and benefits of software architecture:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>support the design, implementation, maintenance, and operation of systems</p>
+</li>
+<li>
+<p>achieve functional requirements or ensure that they can be met</p>
+</li>
+<li>
+<p>achieve requirements such as reliability, maintainability, changeability, security, energy efficiency etc.</p>
+</li>
+<li>
+<p>ensure that the system&#8217;s structures and concepts are understood by all relevant stakeholders</p>
+</li>
+<li>
+<p>systematically reduce complexity</p>
+</li>
+<li>
+<p>specify architecturally relevant guidelines for implementation and operation</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-03">LG 01-03 [ehemaliges LG 1-4]: Understand the Tasks and Responsibilities of Software Architects (R1)</h4>
+<div class="paragraph">
+<p>Software architects are responsible for meeting requirements and creating the architecture design of a solution.
+Depending on the actual approach or process model used, they must align this responsibility with the overall responsibilities of project management and/or other roles.</p>
+</div>
+<div class="paragraph">
+<p>Tasks and responsibilities of software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>clarify and scrutinize requirements and constraints, and refine them if necessary,
+including <em>required features</em> and <em>required constraints</em></p>
+</li>
+<li>
+<p>decide how to decompose the system into building blocks, while determining dependencies and interfaces between the building blocks</p>
+</li>
+<li>
+<p>decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)</p>
+</li>
+<li>
+<p>communicate and document software architecture based on views, architectural patterns, cross-cutting concerns, and technical concerns</p>
+</li>
+<li>
+<p>accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture</p>
+</li>
+<li>
+<p>analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements.</p>
+</li>
+<li>
+<p>identify, highlight, and justify the consequences of architectural decisions to other stakeholders</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-04">LG 01-04 [previously LG 1-09]: Classify Responsibilities of Software Architects within the Greater Architectural Context (R3)</h4>
+<div class="paragraph">
+<p>The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.</p>
+</div>
+<div class="paragraph">
+<p>In addition, software architects are familiar with other architectural domains, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>enterprise IT architecture: Structure of application landscapes</p>
+</li>
+<li>
+<p>business and process architecture: Structure of, among other things, business processes</p>
+</li>
+<li>
+<p>information architecture: cross-system structure and use of information and data</p>
+</li>
+<li>
+<p>data architecture: semantics and organization of data</p>
+</li>
+<li>
+<p>infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
+networks, etc.</p>
+</li>
+<li>
+<p>hardware or processor architecture (for hardware-related systems)</p>
+</li>
+<li>
+<p>system architecture (can have various semantics, depending on the definition of "system")</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>These architectural domains are not the content focus of CPSA-F.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-05">LG 01-05 [previously LG 01-05]: Relate the Role of Software Architects to Other Stakeholders (R1)</h4>
+<div class="paragraph">
+<p>Software architects are able to explain their role.
+They should adapt their contribution to a software development in a specific context and in relation to other stakeholders and organizational units, in particular to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>product management and product owners</p>
+</li>
+<li>
+<p>project managers</p>
+</li>
+<li>
+<p>requirement engineers (requirements- or business analysts, requirements managers, system analysts, business owners, subject-matter experts, etc.)</p>
+</li>
+<li>
+<p>developers</p>
+</li>
+<li>
+<p>quality assurance and testers</p>
+</li>
+<li>
+<p>IT operators and administrators (applies primarily to production environment or data centers for information systems),</p>
+</li>
+<li>
+<p>hardware developers</p>
+</li>
+<li>
+<p>enterprise architects and architecture board members</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-06">LG 01-06: Importance and Design of Data Models (R1, R2)</h4>
+<div class="paragraph">
+<p>Software architects understand the importance of data models for
+the architecture.  They</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>can identify data models that have significant impact on the
+architecture. (R2)</p>
+</li>
+<li>
+<p>can design such data models systematically. (R2)</p>
+</li>
+<li>
+<p>understand the difference between products and sums in data
+modelling. (R1)</p>
+</li>
+<li>
+<p>understand the importance of decoupling data models from their
+representation in databases, files, and transmission protocols.
+(R1)</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references">References</h3>
+<div class="paragraph">
+<p><a href="#bass">[Bass+ 2021]</a>, <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#isaqbreferences">[iSAQB References]</a>, <a href="#starkelorz">[Starke+2021]</a>, <a href="#starke">[Starke 2024]</a>, <a href="#distributedsystems">[vanSteen+Tanenbaum]</a>, <a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+Klaeren]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_requirements_and_constraints">2. Requirements and Constraints</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 60 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Exercises: 60 min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_purpose_2">Purpose</h3>
+<div class="paragraph">
+<p>This section deepens participants' understanding of stakeholder concerns, requirements, and system qualities in software architecture.
+Participants learn to identify stakeholders and their influence on architectural decisions, discerning conflicts and synergies in the context of development projects.
+By exploring diverse requirements and constraints, they gain insight into effectively addressing stakeholders' needs and project constraints.
+Additionally, they recognize the significance of software system qualities as drivers for architectural design.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_relevant_terms_2">Relevant Terms</h3>
+<div class="paragraph">
+<p>Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; quality scenarios; quality tree; trade-offs between quality characteristics; qualitative architecture analysis; metrics and quantitative analysis</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_2">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-02-01">LG 02-01: Unterstand Stakeholder Concerns (R1 - R3)</h4>
+<div class="paragraph">
+<p>Architects can identify stakeholders and their concerns, as well as their impact on the
+software architecture or the design and development process. (R2)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Examples of stakeholders and concerns:</p>
+</li>
+</ul>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Stakeholder</th>
+<th class="tableblock halign-left valign-top">Stakeholder Concern</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">product management and product owners</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., required time for the implementation of the requirements</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">project managers</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., required time and budget for the implementation, associated risks of the chosen
+architectural approach</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">requirement engineers</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., fulfillment of the requirements</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">developers</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., components and interfaces to be implemented, protocols, technology constraints</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">quality assurance and testers</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., isolated testing of components</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">operations</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">e.g., infrastructure requirements related to operating the system</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Software architects can explain potential conflicts between short-term and long-term goals,
+in order to resolve potential conflicts (e.g., business and project goals vs. architecture
+and maintainability goals). (R1)</p>
+</div>
+<div class="paragraph">
+<p>Architects understand that not all stakeholder concerns can or will be translated into
+requirements, but may nevertheless need to be considered. (R3)</p>
+</div>
+<div class="paragraph">
+<p>Architects can use stakeholder concerns to discover missing or conflicting requirements
+and/or validate requirements and constraints on the architecture, e.g., in stakeholder
+interviews. (R3)</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-02">LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)</h4>
+<div class="paragraph">
+<p>Software architects are able to clarify and consider requirements and constraints that impact
+the architecture being designed or the design and development process.
+They understand that their decisions can lead to additional requirements.</p>
+</div>
+<div class="paragraph">
+<p>They should recognize and account for the impact of:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>product-related requirements such as (R1)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>functional requirements</p>
+</li>
+<li>
+<p>quality requirements</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>technological constraints such as</p>
+<div class="ulist">
+<ul>
+<li>
+<p>existing or planned hardware and software infrastructure (R1)</p>
+</li>
+<li>
+<p>technological constraints on data structures and interfaces (R2)</p>
+</li>
+<li>
+<p>reference architectures, libraries, components, and frameworks (R1)</p>
+</li>
+<li>
+<p>programming languages (R2)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>organizational constraints such as</p>
+<div class="ulist">
+<ul>
+<li>
+<p>organizational structure of the development team and of the customer (R1), in particular Conway&#8217;s law (R2).</p>
+</li>
+<li>
+<p>company and team cultures (R3)</p>
+</li>
+<li>
+<p>partnerships and cooperation agreements (R2)</p>
+</li>
+<li>
+<p>standards, guidelines, and process models (e.g. approval and release processes) (R2)</p>
+</li>
+<li>
+<p>available resources like budget, time, and staff (R1)</p>
+</li>
+<li>
+<p>availability, skill set, and commitment of staff (R1)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>regulatory constraints such as (R2)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>local and international legal constraints</p>
+</li>
+<li>
+<p>contract and liability issues</p>
+</li>
+<li>
+<p>data protection and privacy laws</p>
+</li>
+<li>
+<p>compliance issues or obligations to provide burden of proof</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>trends such as (R3)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>market trends</p>
+</li>
+<li>
+<p>technology trends (Blockchain, Microservices)</p>
+</li>
+<li>
+<p>methodology trends (Agile)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects are able to describe how those factors can influence
+design decisions and can elaborate on the consequences of changing
+influencing factors by providing examples for some of them (R2).</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-03">LG 02-03 [previously LG 4-1]: Understand and Explain Software System Qualities (R1)</h4>
+<div class="paragraph">
+<p>Software architects can explain:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>that the term "quality" is used differently in different contexts -
+referring to "excellence" in the context of quality management, and
+referring to a specific property (of a software system) in others
+(and in this section)</p>
+</li>
+<li>
+<p>that several taxonomies categorizing qualities of software systems
+exist (such as <a href="#iso25010">[ISO 25010]</a>, <a href="#bass">[Bass+ 2021]</a>, or <a href="#q42">[Q42]</a>)</p>
+</li>
+<li>
+<p>that some categorizations distinguish between functionality and quality</p>
+</li>
+<li>
+<p>that software architecture can impact a software system&#8217;s qualities,</p>
+</li>
+<li>
+<p>that impacting one quality can impact others, necessitating
+trade-offs, such as:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>configurability versus reliability</p>
+</li>
+<li>
+<p>memory requirements versus performance efficiency</p>
+</li>
+<li>
+<p>security versus usability</p>
+</li>
+<li>
+<p>runtime flexibility versus maintainability.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-04">LG 02-04 [previously LG 04-03]: Understand the Importance of Requirements for Software Architecture (R1-R3)</h4>
+<div class="paragraph">
+<p>Software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>understand that a requirement for a given quality should
+specify a method of analysis (see <a href="#LG-05-02">LG 05-02 [previously LG 4-3 and 4-4]: Analyze the Qualities of a Software System (R1, R3)</a>) (R1)</p>
+</li>
+<li>
+<p>understand that some categorizations distinguish between "quality
+requirements" and functional requirements, e.g. IREB <a href="#IREBFoundation">[IREB Foundation]</a> (R1)</p>
+</li>
+<li>
+<p>understand that a single requirement might pertain to several
+qualities  (R1)</p>
+</li>
+<li>
+<p>know that the use of a metric as a target can lead to its
+invalidation (R2), as described, e.g., by Goodhart&#8217;s law (R3)</p>
+</li>
+<li>
+<p>understand that regardless if a differentiation between requirements
+and constraints is made or not, it is important to determine their
+impact on the architecture or the architecture work (R2)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-05">LG 02-05 [previously LG 1-08]: Prefer Explicit Statements over Implicit Assumptions (R1)</h4>
+<div class="paragraph">
+<p>Software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>know that implicit assumptions can lead to misunderstandings between stakeholders</p>
+</li>
+<li>
+<p>assumptions should be made explicit</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_2">References</h3>
+<div class="paragraph">
+<p><a href="#bass">[Bass+ 2021]</a>, <a href="#clementseval">[Clements+ 2002]</a>, <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#starkelorz">[Starke+2021]</a>, <a href="#starke">[Starke 2024]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_design_and_development_of_software_architectures">3. Design and Development of Software Architectures</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 330 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Excercises: 90 min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_purpose_3">Purpose</h3>
+<div class="paragraph">
+<p>This section aims to enable participants to take architectural decisions in a way that fulfills stakeholder requirements while respecting the given constraints of the system context.
+They will learn to develop architectural designs, make informed decisions on system decomposition and shape dependencies between building blocks.
+To this end, they learn to apply basic approaches and heuristics in architecture development.
+They recognize the importance of design principles and solution patterns and are able to apply them.
+In addition, this section addresses the management of cross-cutting concerns, the principles of software deployment and the challenges of distributed systems.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_relevant_terms_3">Relevant Terms</h3>
+<div class="paragraph">
+<p>Design; design approach; design decision; views;
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-interface">interfaces</a>;
+technical and
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-cross-cutting-concerns">cross-cutting concerns</a>;
+architectural patterns;
+pattern languages;
+design principles;
+dependencies;
+coupling;
+cohesion;
+top-down and bottom-up approaches;
+model-based design;
+iterative/incremental design;
+domain-driven design</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_3">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-03-01">LG 03-01 [previously LG 4-04]: Fulfilling Requirements through Architecture (R1)</h4>
+<div class="paragraph">
+<p>Software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>understand that architectural activities should be driven by the need
+to improve specific qualities</p>
+</li>
+<li>
+<p>can propose an architecture design suitable for fulfilling
+requirements</p>
+</li>
+<li>
+<p>can assess which qualities they improve through a specific
+architectural activity</p>
+</li>
+<li>
+<p>can identify and communicate possible trade-offs between designs
+and their associated risks</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-02">LG 03-02 [previously LG 2-02]: Design Software Architectures (R1)</h4>
+<div class="paragraph">
+<p>Software architects are able to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical</p>
+</li>
+<li>
+<p>make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks</p>
+</li>
+<li>
+<p>recognize and justify interdependencies and trade-offs of design decisions</p>
+</li>
+<li>
+<p>explain the terms <em>black box</em> and <em>white box</em> and apply them purposefully</p>
+</li>
+<li>
+<p>apply stepwise refinement and specify building blocks</p>
+</li>
+<li>
+<p>design architecture views, especially building-block view, runtime view and deployment view</p>
+</li>
+<li>
+<p>explain the consequences of these decisions on the corresponding source code</p>
+</li>
+<li>
+<p>separate technical and domain-related elements of architectures and justify these decisions</p>
+</li>
+<li>
+<p>identify risks related to architecture decisions.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-03">LG 03-03 [previously LG 2-01]: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)</h4>
+<div class="paragraph">
+<p>Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>top-down and bottom-up approaches to design (R1)</p>
+</li>
+<li>
+<p>view-based architecture development, see <a href="#rozanskiwoods">[Rozanski+11]</a>, <a href="#kruchten95">[Kruchten 1995]</a> (R1)</p>
+</li>
+<li>
+<p>domain-driven design, see <a href="#evans">[Evans 2004]</a> (R3)</p>
+</li>
+<li>
+<p>evolutionary architecture, see <a href="#ford">[Ford 2017]</a> (R3)</p>
+</li>
+<li>
+<p>global analysis, see <a href="#hofmeister">[Hofmeister et. al 1999]</a> (R3)</p>
+</li>
+<li>
+<p>model-driven architecture (R3)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-04">LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R1-R3)</h4>
+<div class="paragraph">
+<p>Software architects are able to explain what design principles are.
+They can outline their general objectives and applications with regard to software architecture. (R2)</p>
+</div>
+<div class="paragraph">
+<p>Software architects are able to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>explain the design principles listed below and can illustrate them with examples</p>
+</li>
+<li>
+<p>explain how those principles are to be applied</p>
+</li>
+<li>
+<p>explain how the requirements determine which principles should be applied</p>
+</li>
+<li>
+<p>explain the impact of design principles on the implementation</p>
+</li>
+<li>
+<p>analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Abstraction</strong> (R2)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>in the sense of a means for deriving useful generalizations</p>
+</li>
+<li>
+<p>as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations</p>
+</li>
+<li>
+<p>interfaces as abstractions</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Modularization</strong> (R1-R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>information hiding and encapsulation (R1)</p>
+</li>
+<li>
+<p>separation of concerns - SoC (R1)</p>
+</li>
+<li>
+<p>loose, but functionally sufficient, coupling (R1) of building blocks</p>
+</li>
+<li>
+<p>high cohesion (R1)</p>
+</li>
+<li>
+<p>Open/closed principle (R1)</p>
+</li>
+<li>
+<p>Dependency inversion principle (R1) by means of interfaces or similar abstractions</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Conceptual integrity</strong> (R2)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>meaning uniformity (homogeneity, consistency) of solutions for similar problems (R2)</p>
+</li>
+<li>
+<p>as a means to achieve the principle of least surprise (R3)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Complexity reduction</strong> (R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>as the driving factor behind KISS, YAGNI, and CUPID <a href="#north-cupid">[Terhorst-North 2022]</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Expect errors</strong> (R2-R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>as a means to design for robust and resilient systems (R3)</p>
+</li>
+<li>
+<p>as a generalization of the robustness principle (<em>Postel&#8217;s law</em>) (R2)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-05">LG 03-05 [previously LG 1-06]: Correlation between Feedback Loops and Risks (R1, R2)</h4>
+<div class="paragraph">
+<p>Software architects understand the necessity of iterations, especially
+when decision-making is affected by uncertainties. They</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>are able to explain the influence of iterative approaches on
+architectural decisions (with regard to risks and
+predictability). (R1)</p>
+</li>
+<li>
+<p>can work and make decisions incrementally and iteratively. (R1)</p>
+</li>
+<li>
+<p>understand the necessity for feedback on design decisions. (R1)</p>
+</li>
+<li>
+<p>can systematically obtain feedback from other stakeholders. (R2)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-06">LG 03-06 [previously LG 2-07]: Manage Dependencies between Building Blocks (R1)</h4>
+<div class="paragraph">
+<p>Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>know and understand different types of dependencies of building blocks (e.g. coupling via use/delegation, messaging/events, composition, creation, inheritance, temporal coupling, coupling via data, data types or hardware)</p>
+</li>
+<li>
+<p>understand how dependencies increase coupling</p>
+</li>
+<li>
+<p>can differentiate between at least the following categories of coupling:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>static and dynamic coupling <a href="#fordhardparts">[Ford+2021]</a></p>
+</li>
+<li>
+<p>efferent and afferent coupling <a href="#fordhardparts">[Ford+2021]</a></p>
+</li>
+<li>
+<p>other types of coupling (e.g. hardware/infrastructure, temporal,
+data, data structure etc.)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>know that forgoing static dependencies in favor of dynamic
+dependencies does not necessarily reduce the underlying coupling</p>
+</li>
+<li>
+<p>can use such types of coupling in a targeted manner and can assess the consequences of such dependencies</p>
+</li>
+<li>
+<p>know and can apply possibilities to reduce or eliminate coupling, for example:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>patterns</p>
+</li>
+<li>
+<p>fundamental design principles</p>
+</li>
+<li>
+<p>externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-dependency-injection">Dependency Injection</a>.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-07">LG 03-07 [previously LG 2-09]: Design and Define Interfaces (R1-R3)</h4>
+<div class="paragraph">
+<p>Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.</p>
+</div>
+<div class="paragraph">
+<p>They know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>desired characteristics of interfaces and can use them in the design:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>easy to learn, easy to use, easy to extend</p>
+</li>
+<li>
+<p>hard to misuse</p>
+</li>
+<li>
+<p>functionally complete from the perspective of users or building blocks using them.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>the necessity to treat internal and external interfaces differently</p>
+</li>
+<li>
+<p>the distinction between interface and implementation:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>implementations can be exchanged if required.</p>
+</li>
+<li>
+<p>Liskov&#8217;s substitution principle <a href="#liskov">[Liskov 1994]</a> as a way to achieve consistency and conceptual integrity (R3).</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>different approaches for implementing interfaces (R3):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>resource oriented approach (REST, Representational State Transfer)</p>
+</li>
+<li>
+<p>service oriented approach (see WS-*/SOAP-based web services.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-08">LG 03-08 [previously LG 2-05]: Describe, Explain and Apply Important Architectural Patterns (R1, R3)</h4>
+<div class="paragraph">
+<p>Software architects can explain and provide examples for the following architectural patterns (R1):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-layer">Layer</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-pipes-and-filters">Pipes and Filters</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-microservice">Microservice</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects can explain several of the following architectural patterns,
+explain their relevance for concrete systems, and provide examples. (R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-blackboard">Blackboard</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-broker">Broker</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-cqrs">CQRS (Command-Query-Responsibility-Segregation)</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-event-sourcing">Event sourcing</a></p>
+</li>
+<li>
+<p>Integration and messaging patterns (e.g. from <a href="#hohpe">[Hohpe+2004]</a>)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-model-view-controller">MVC</a> (Model View Controller),
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-model-view-viewmodel">MVVM</a> (Model View ViewModel),
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-model-view-update">MVU</a> (Model View Update),
+<a href="https://public.isaqb.org/glossary/glossary-en.html#term-presentation-abstraction-control">PAC</a> (Presentation Abstraction Control)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-plugin">Plugin</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-ports-and-adapters">Ports and Adapters</a> (synonyms: Onion Architecture, Hexagonal Architecture, Clean Architecture)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-service-oriented-architecture">SOA</a> (Service-Oriented Architecture)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know essential sources for architectural patterns, such as POSA (e.g. <a href="#buschmanna">[Buschmann+ 1996]</a>) and PoEAA (<a href="#fowler">[Fowler 2002]</a>) (for information systems). (R3)</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-09">LG 03-09 [previously LG 2-05]: Describe, Explain and Apply Important Design Patterns (R3)</h4>
+<div class="paragraph">
+<p>Software architects know the difference between architectural and design patterns.
+They can explain several of the following design patterns, explain their relevance for
+concrete systems, and provide examples. (R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-combinator">Combinator</a></p>
+</li>
+<li>
+<p>Interfacing patterns like <a href="https://public.isaqb.org/glossary/glossary-en.html#term-adapter">Adapter</a>, <a href="https://public.isaqb.org/glossary/glossary-en.html#term-facade">Facade</a>,
+and <a href="https://public.isaqb.org/glossary/glossary-en.html#term-proxy">Proxy</a>.
+Architects should know that these patterns can be used
+independently of a particular programming language or framework.</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-interpreter">Interpreter</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-observer">Observer</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-remote-procedure-call">Remote procedure call</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-template-method">Template Method</a> and <a href="https://public.isaqb.org/glossary/glossary-en.html#term-Strategy">strategy</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-en.html#term-visitor">Visitor</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know essential sources for design patterns, such as
+<a href="#gof">GOF</a> and <a href="#buschmanna">POSA</a>. (R3)</p>
+</div>
+<div class="paragraph">
+<p>They know (R3):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.</p>
+</li>
+<li>
+<p>that there are different categories of patterns.</p>
+</li>
+<li>
+<p>additional sources of patterns that relate to their specific technical or application domain.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-10">LG 03-10 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)</h4>
+<div class="paragraph">
+<p>Software architects are able to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>explain the significance of such cross-cutting concerns</p>
+</li>
+<li>
+<p>identify such cross-cutting concerns</p>
+</li>
+<li>
+<p>design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency</p>
+</li>
+<li>
+<p>identify and assess potential interdependencies.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know that such cross-cutting concerns may be re-used across systems.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-11">LG 03-11 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)</h4>
+<div class="paragraph">
+<p>Software architects:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>know that software deployment is the process of making new or updated software available to its users</p>
+</li>
+<li>
+<p>are able to name and explain fundamental concepts of software deployment, for example:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>automated deployments</p>
+</li>
+<li>
+<p>repeatable builds</p>
+</li>
+<li>
+<p>consistent environments (e.g. use immutable and disposable infrastructure)</p>
+</li>
+<li>
+<p>put everything under version-control</p>
+</li>
+<li>
+<p>releases are easy-to-undo</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-12">LG 03-12 [previously LG 1-11]: Know the Challenges of Distributed Systems (R3)</h4>
+<div class="paragraph">
+<p>Software architects are able to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>identify distribution in a given software architecture</p>
+</li>
+<li>
+<p>analyze consistency criteria for a given business problem</p>
+</li>
+<li>
+<p>explain causality of events in a distributed system</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>communication may fail in a distributed system</p>
+</li>
+<li>
+<p>limitations regarding consistency in real-world databases</p>
+</li>
+<li>
+<p>what the "split-brain" problem is and why it is difficult</p>
+</li>
+<li>
+<p>that it is impossible to determine the temporal order of events in a distributed system</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_3">References</h3>
+<div class="paragraph">
+<p><a href="#bass">[Bass+ 2021]</a>, <a href="#fowler">[Fowler 2002]</a>, <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#gof">[Gamma+94]</a>, <a href="#hohpe">[Hohpe+2004]</a>, <a href="#buschmanna">[Buschmann+ 1996]</a>, <a href="#buschmannb">[Buschmann+ 2007]</a>, <a href="#starke">[Starke 2024]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#starkelorz">[Starke+2021]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_specification_and_communication_of_software_architectures">4. Specification and Communication of Software Architectures</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 180 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Exercises: 60 min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_relevant_terms_4">Relevant Terms</h3>
+<div class="paragraph">
+<p>(Architectural) Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment artifacts; mapping building blocks onto deployment artifacts; description of interfaces and design decisions; UML, tools for documentation</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_4">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-04-01">LG 04-01 [previously LG 3-01]: Explain and Consider the Requirements of Technical Documentation (R1)</h4>
+<div class="paragraph">
+<p>Software architects know the requirements of technical documentation and can consider and fulfil them when documenting systems:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>understandability, correctness, efficiency, appropriateness, maintainability</p>
+</li>
+<li>
+<p>form, content, and level of detail tailored to the stakeholders</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>They know that only the target audiences can assess the understandability of technical documentation.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-02">LG 04-02 [previously LG 3-02]: Describe and Communicate Software Architectures (R1-R3)</h4>
+<div class="paragraph">
+<p>Software architects use documentation to support the design, implementation and further development (also called <em>maintenance</em> or <em>evolution</em>) of systems (R2)</p>
+</div>
+<div class="paragraph">
+<p>Software architects are able to (R1):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>document and communicate architectures for corresponding stakeholder concerns, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders</p>
+</li>
+<li>
+<p>consolidate and harmonise the style and content of contributions from different groups of authors</p>
+</li>
+<li>
+<p>develop and implement measures to support the convergence of written and verbal communication, and balance one against the other appropriately</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know (R1):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the benefits of template-based documentation</p>
+</li>
+<li>
+<p>that various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>For example, software architects can adjust the following documentation characteristics according to the situation (R3):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the amount and level of detail of documentation needed</p>
+</li>
+<li>
+<p>the documentation format</p>
+</li>
+<li>
+<p>the accessibility of the documentation</p>
+</li>
+<li>
+<p>formality of documentation (e.g. diagrams compliant to a meta model or simple drawings)</p>
+</li>
+<li>
+<p>formal reviews and sign-off processes for documentation</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-03">LG 04-03 [previously LG 3-03]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)</h4>
+<div class="paragraph">
+<p>Software architects know at least the following UML (see <a href="#uml">[UML]</a>) diagrams to describe architectural views:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>class, package, component (all R2) and composite-structure diagrams (R3)</p>
+</li>
+<li>
+<p>deployment diagrams (R2)</p>
+</li>
+<li>
+<p>sequence and activity diagrams (R2)</p>
+</li>
+<li>
+<p>state machine diagrams (R3)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know alternative notations to UML diagrams, for example: (R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Archimate, see <a href="#archimate">[Archimate]</a></p>
+</li>
+<li>
+<p>SysML, see <a href="#sysml">[SysML]</a></p>
+</li>
+<li>
+<p>C4, see <a href="#brownc4">[Brown]</a></p>
+</li>
+<li>
+<p>for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-04">LG 04-04 [new]: Learning Goal not Found (R3)</h4>
+<div class="paragraph">
+<p>Software architects are able to gracefully deal with unexpected situations.</p>
+</div>
+<div class="paragraph">
+<p>(See <a href="#ietf-http">[IETF HTTP]</a>)</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-05">LG 04-05 [previously LG 3-04]: Explain and Use Architectural Views (R1)</h4>
+<div class="paragraph">
+<p>Software architects are able to use the following architectural views  (see <a href="#kruchten95">[Kruchten 1995]</a>, <a href="#rozanskiwoods">[Rozanski+11]</a>, <a href="#starkelorz">[Starke+2021]</a>, <a href="#arc42">[arc42]</a>, <a href="#brownc4">[Brown]</a>):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>context view</p>
+<div class="ulist">
+<ul>
+<li>
+<p>depict the context of systems, e.g. in the form of context diagrams with explanations</p>
+</li>
+<li>
+<p>represent external interfaces of systems in the context view</p>
+</li>
+<li>
+<p>differentiate business and technical context</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>building block or component view (composition of software building blocks)</p>
+</li>
+<li>
+<p>runtime view (dynamic view, interaction between software building blocks at runtime, state machines)</p>
+</li>
+<li>
+<p>deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-06">LG 04-06 [previously LG 3-07]: Document Interfaces (R1)</h4>
+<div class="paragraph">
+<p>Software architects are able to document and specify both internal and external interfaces.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-07">LG 04-07 [previously LG 3-06]: Document and Communicate Cross-Cutting Concerns (R2)</h4>
+<div class="paragraph">
+<p>Software architects are able to adequately document and communicate
+typical cross-cutting concerns (synonym: <em>cross-cutting concepts</em>, <em>aspects</em>),
+e. g., persistence, workflow management, UI, deployment/integration, logging.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-08">LG 04-08 [previously LG 3-08]: Explain and Document Architectural Decisions (R1-R2)</h4>
+<div class="paragraph">
+<p>Software architects are able to:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>systematically make, justify, communicate, and document architectural decisions</p>
+</li>
+<li>
+<p>identify, communicate, and document interdependencies between design decisions</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects know about Architecture-Decision-Records (ADR, see <a href="#nygard">[Nygard 2011]</a>) and can apply these to document decisions (R2).</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-09">LG 04-09 [previously LG 3-09]: Know Additional Resources and Tools for Documentation (R3)</h4>
+<div class="paragraph">
+<p>Software architects know:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>basics of several published frameworks for the description of software architectures, for example:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>ISO/IEC/IEEE 42010, see <a href="#iso42010">[ISO 42010]</a></p>
+</li>
+<li>
+<p>arc42, see <a href="#arc42">[arc42]</a></p>
+</li>
+<li>
+<p>C4, see <a href="#brownc4">[Brown]</a></p>
+</li>
+<li>
+<p>FMC, see <a href="#fmc">[FMC]</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>ideas and examples of checklists for the creation, documentation, and testing of software architectures</p>
+</li>
+<li>
+<p>possible tools for creating and maintaining architectural documentation</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_4">References</h3>
+<div class="paragraph">
+<p><a href="#arc42">[arc42]</a>, <a href="#archimate">[Archimate]</a>, <a href="#bass">[Bass+ 2021]</a>, <a href="#brownc4">[Brown]</a>, <a href="#clementsdoc">[Clements+ 2010]</a>, <a href="#fmc">[FMC]</a>, <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#kruchten95">[Kruchten 1995]</a>, <a href="#starkelorz">[Starke+2021]</a>, <a href="#nygard">[Nygard 2011]</a>, <a href="#starke">[Starke 2024]</a>, <a href="#uml">[UML]</a>, <a href="#zoerner">[Zörner 2021]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_analysis_and_assessment_of_software_architectures">5. Analysis and Assessment of Software Architectures</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 180 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Exercises: 60 min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_relevant_terms_5">Relevant Terms</h3>
+<div class="paragraph">
+<p>????????????</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_5">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-05-01">LG 05-01: Know the Reasons for Architecture Analysis (R1)</h4>
+<div class="paragraph">
+<p>Software architects understand that there are different possible
+reasons for performing architecture analysis, for example:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>identify risks and possible improvements in the architecture
+design (before, during, or after implementation)</p>
+</li>
+<li>
+<p>determine if the architecture design fulfills, or will fulfill, the
+requirements</p>
+</li>
+<li>
+<p>assess conformance of the implementation to the architecture
+decisions and design</p>
+</li>
+<li>
+<p>address stakeholder concerns regarding the architecture</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-05-02">LG 05-02 [previously LG 4-3 and 4-4]: Analyze the Qualities of a Software System (R1, R3)</h4>
+<div class="paragraph">
+<p>Software architects</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>understand that, for any given quality, different analysis methods
+might be available for a particular software system, such as</p>
+<div class="ulist">
+<ul>
+<li>
+<p>analysis of the results of acceptance testing (R1)</p>
+</li>
+<li>
+<p>quantitative measurement of run-time behaviour (R1)</p>
+</li>
+<li>
+<p>qualitative evaluation via interviews, surveys, penetration tests etc. (R1)</p>
+</li>
+<li>
+<p>scenarios (R1)</p>
+</li>
+<li>
+<p>architecture metrics for coupling such as the degree of
+inbound and outbound dependencies (R1)</p>
+</li>
+<li>
+<p>cost-benefit analysis (R3)</p>
+</li>
+<li>
+<p>Architecture Trade-Off Analysis Method <a href="#bass">[Bass+ 2021]</a> (R3)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>know sources of information for a quality analysis (R2):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>requirements documentation (R1)</p>
+</li>
+<li>
+<p>architecture documentation (R1)</p>
+</li>
+<li>
+<p>architecture and design models (R1)</p>
+</li>
+<li>
+<p>source code (R1)</p>
+</li>
+<li>
+<p>source-code-related metrics such as lines of code, (cyclomatic)
+complexity (R1)</p>
+</li>
+<li>
+<p>test cases and test results (R1)</p>
+</li>
+<li>
+<p>errors and their locations in the source code, especially error clusters (R1)</p>
+</li>
+<li>
+<p>other documentation of the system, such as operational or test (R1)
+documentation (R1)</p>
+</li>
+<li>
+<p>run-time event logs and metrics (R1)</p>
+</li>
+<li>
+<p>revision history, such as the rate of change per component (R3)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-05-03">LZ 05-03: Formulate Quality Scenarios and Describe Quality Trees (R2, R3)</h4>
+<div class="paragraph">
+<p>Software architects</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>can formulate a scenario for a given quality containing context,
+stimulus and reaction or method of measurement (R2)</p>
+</li>
+<li>
+<p>can describe the analysis of the qualities of a software systems
+with a quality tree (R3)</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_references_5">References</h3>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_examples_of_software_architectures">6. Examples of Software Architectures</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Duration: 90 min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Exercises: none</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>This section is not relevant for for the exam.</p>
+</div>
+<div class="sect2">
+<h3 id="_learning_goals_6">Learning Goals</h3>
+<div class="sect3">
+<h4 id="LG-06-01">LG 06-01: Know the Relation between Requirements, Constraints, and Solutions (R3)</h4>
+<div class="paragraph">
+<p>Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-06-02">LG 06-02: Understand the technical implementation of a solution (R3)</h4>
+<div class="paragraph">
+<p>Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one solution.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_references_6">References</h2>
+<div class="sectionbody">
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="arc42"></a>[arc42] arc42, the open-source template for software architecture communication, online: <a href="https://arc42.org" class="bare">https://arc42.org</a>. Maintained on <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a></p>
+</li>
+<li>
+<p><a id="archimate"></a>[Archimate] The ArchiMate® Enterprise Architecture Modeling Language, online: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="bass"></a>[Bass+ 2021] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4<sup>th</sup> Edition, Addison Wesley 2021.</p>
+</li>
+<li>
+<p><a id="brownc4"></a>[Brown] Simon Brown: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
+</li>
+<li>
+<p><a id="IREBFoundation"></a>[IREB Foundation] Stan Bühne, Martin Glinz, Hans van Loen, Stefan Staal: Certified Professional for Requirements Engineering - Foundation Level - Syllabus - Version 3.2.0, IREB, 2024.</p>
+</li>
+<li>
+<p><a id="buschmanna"></a>[Buschmann+ 1996] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.</p>
+</li>
+<li>
+<p><a id="buschmannb"></a>[Buschmann+ 2007] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="clementseval"></a>[Clements+ 2002] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.</p>
+</li>
+<li>
+<p><a id="clementsdoc"></a>[Clements+ 2010] Paul Clements,  Felix Bachmann, Len Bass, David Garlan, David, James Ivers, Reed Little, Paulo Merson and Robert Nord. <em>Documenting Software Architectures: Views and Beyond</em>, 2nd edition, Addison Wesley, 2010</p>
+</li>
+<li>
+<p><a id="cncf"></a>[Cloud-Native] The Cloud Native Computing Foundation, online: <a href="https://www.cncf.io/" class="bare">https://www.cncf.io/</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="eilebrecht"></a>[Eilebrecht+2024] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 6th Edition Springer Verlag 2024.</p>
+</li>
+<li>
+<p><a id="evans"></a>[Evans 2004] Eric Evans: <em>Domain-Driven Design: Tackling Complexity in the Heart of Software,</em> Addison-Wesley, 2004.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="felleisenetal"></a>[Felleisen+2014] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <a href="https://htdp.org/" class="bare">https://htdp.org/</a></p>
+</li>
+<li>
+<p><a id="fmc"></a>[FMC] Siegfried Wendt: Fundamental Modeling Concepts, online: <a href="http://www.fmc-modeling.org/" class="bare">http://www.fmc-modeling.org/</a></p>
+</li>
+<li>
+<p><a id="ford"></a>[Ford 2017] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017</p>
+</li>
+<li>
+<p><a id="fordhardparts"></a>[Ford+2021] Neal Ford, Mark Richards, Pramod Sadalage und Zhamak Dehghani: Software Architecture: The Hard Parts. Modern Trade-Off Analyses for Distributed Architectures. OReilly 2021.</p>
+</li>
+<li>
+<p><a id="fowler"></a>[Fowler 2002] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="gof"></a>[Gamma+94] Erich Gamma, Richard Helm, Ralph Johnson &amp; John Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.</p>
+</li>
+<li>
+<p><a id="geewax"></a>[Geewax 2021] J. Geewax. API Design Patterns. Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs.</p>
+</li>
+<li>
+<p><a id="geirhos"></a>[Geirhos 2015] Matthias Geirhos. Entwurfsmuster: Das umfassende Handbuch (in German). Rheinwerk Computing Verlag. 2015</p>
+</li>
+<li>
+<p><a id="gharbietal"></a>[Gharbi+2024] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 5. Auflage, dpunkt Verlag, Heidelberg 2024.</p>
+</li>
+<li>
+<p><a id="Goll"></a>[Goll 2014] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="hofmeister"></a>[Hofmeister et. al 1999] Christine Hofmeister, Robert Nord, Dilip Soni: <em>Applied Software Architecture</em>, Addison-Wesley, 1999</p>
+</li>
+<li>
+<p><a id="hohpe"></a>[Hohpe+2004] Hohpe, G. and WOOLF, B.A.: <em>Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions</em>, Addison-Wesley Professional, 2004</p>
+</li>
+<li>
+<p><a id="hombergs"></a>[Hombergs 2024] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ietf-http"></a>[IETF HTTP] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: <a href="https://www.rfc-editor.org/rfc/rfc9110.html" class="bare">https://www.rfc-editor.org/rfc/rfc9110.html</a></p>
+</li>
+<li>
+<p><a id="isaqbdownloads"></a>[iSAQB Downloads] iSAQB public download site.  <a href="https://public.isaqb.org" class="bare">https://public.isaqb.org</a>. Contains curricula and mock-examination.</p>
+</li>
+<li>
+<p><a id="isaqbglossary"></a>[iSAQB Glossary] Gernot Starke et. al. iSAQB Glossary of Software Architecture Terminology. Freely available from <a href="https://leanpub.com/isaqbglossary" class="bare">https://leanpub.com/isaqbglossary</a> or its source repository <a href="https://github.com/isaqb-org/glossary/releases" class="bare">https://github.com/isaqb-org/glossary/releases</a></p>
+</li>
+<li>
+<p><a id="isaqbreferences"></a>[iSAQB References] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available <a href="https://leanpub.com/isaqbreferences" class="bare">https://leanpub.com/isaqbreferences</a>.</p>
+</li>
+<li>
+<p><a id="iso25010"></a>[ISO 25010] ISO/IEC 25010:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en" class="bare">https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en</a></p>
+</li>
+<li>
+<p><a id="iso25019"></a>[ISO 25019] ISO/IEC 25019:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model. Terms and definitions online: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en" class="bare">https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en</a></p>
+</li>
+<li>
+<p><a id="iso42010"></a>[ISO 42010] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <a href="https://www.iso.org/standard/74393.html" class="bare">https://www.iso.org/standard/74393.html</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="keeling"></a>[Keeling 2017] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.</p>
+</li>
+<li>
+<p><a id="kruchten95"></a>[Kruchten 1995] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50</p>
+</li>
+<li>
+<p><a id="kruchten"></a>[Kruchten 2004] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="lange21"></a>[Lange 2021] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <a href="https://www.kennethlange.com/functional-core-imperative-shell/" class="bare">https://www.kennethlange.com/functional-core-imperative-shell/</a></p>
+</li>
+<li>
+<p><a id="lilienthal"></a>[Lilienthal 2024] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.</p>
+</li>
+<li>
+<p><a id="lilienthal-en"></a>[Lilienthal 2019] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.</p>
+</li>
+<li>
+<p><a id="liskov"></a>[Liskov 1994] Barbara H. Liskov, Jeannette M. Wing: A behavioral notion of subtyping. ACM Transactions on Programming Languages and Systems, Volume 16, Issue 6, 1994. &lt;doi:10.1145/197320.197383&gt;</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="maguire"></a>[Maguire 2019] Sandy Maguire: Algebra-Driven Design:  Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.</p>
+</li>
+<li>
+<p><a id="miller-distributed"></a>[Miller et. al] Heather Miller, Nat Dempkowski, James Larisch, Christopher Meiklejohn:  Distributed Programming (to appear, but content-complete) <a href="https://github.com/heathermiller/dist-prog-book" class="bare">https://github.com/heathermiller/dist-prog-book</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="newman"></a>[Newman 2021] Sam Newman. Building Microservices: Designing Fine-Grained Systems. O&#8217;Reilly 2nd edition 2021.</p>
+</li>
+<li>
+<p><a id="north-cupid"></a>[Terhorst-North 2022] Daniel Terhorst-North: CUPID - for joyful coding. See <a href="https://dannorth.net/2022/02/10/cupid-for-joyful-coding/" class="bare">https://dannorth.net/2022/02/10/cupid-for-joyful-coding/</a>.</p>
+</li>
+<li>
+<p><a id="nygard"></a>[Nygard 2011] Michael Nygard: Documenting Architecture Decision. <a href="https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions" class="bare">https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions</a>. See also <a href="https://adr.github.io/" class="bare">https://adr.github.io/</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="pethuru"></a>[Pethuru 2017] Raj Pethuru et. al: Architectural Patterns. Packt 2017.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="q42"></a>[Q42] arc42 Quality Model, online: <a href="https://quality.arc42.org" class="bare">https://quality.arc42.org</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="richardsfundamentals"></a>[Richards+20] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.</p>
+</li>
+<li>
+<p><a id="rozanskiwoods"></a>[Rozanski+11] Nick Rozanski, Eoin Woods: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.</p>
+</li>
+<li>
+<p><a id="sperberklaeren"></a>[Sperber+Klaeren] Michael Sperber, Herbert
+Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <a href="https://www.deinprogramm.de/sdp/" class="bare">https://www.deinprogramm.de/sdp/</a>.</p>
+</li>
+<li>
+<p><a id="starke"></a>[Starke 2024] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
+</li>
+<li>
+<p><a id="starkelorz"></a>[Starke+2021] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.</p>
+</li>
+<li>
+<p><a id="starkeetalarc42"></a>[Starke+2023] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example: Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. <a href="https://leanpub.com/arc42byexample" class="bare">https://leanpub.com/arc42byexample</a></p>
+</li>
+<li>
+<p><a id="sysml"></a>[SysML] What is SysML <a href="https://sysml.org/" class="bare">https://sysml.org/</a>. For diagrams, see also <a href="https://sysml.org/tutorials/sysml-diagram-tutorial/" class="bare">https://sysml.org/tutorials/sysml-diagram-tutorial/</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="distributedsystems"></a>[vanSteen+Tanenbaum] Andrew Tanenbaum, Maarten van Steen: Distributed Systems, Principles and Paradigms. <a href="https://www.distributed-systems.net/" class="bare">https://www.distributed-systems.net/</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="uml"></a>[UML] The UML reading room, collection of UML resources <a href="https://www.omg.org/technology/readingroom/UML.htm" class="bare">https://www.omg.org/technology/readingroom/UML.htm</a>. See also <a href="https://www.uml-diagrams.org/" class="bare">https://www.uml-diagrams.org/</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="yorgey"></a>[Yorgey 2012] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <a href="https://doi.org/10.1145/2364506.2364520" class="bare">https://doi.org/10.1145/2364506.2364520</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="zimmermann-api"></a>[Zimmermann+2022] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso: Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges. Addison-Wesley, 2022.</p>
+</li>
+<li>
+<p><a id="zoerner"></a>[Zörner 2021] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+ 2025.1-RC1-EN<br>
+Last updated 2024-09-06 09:48:11 UTC
+</div>
+</div>
+</body>
+</html>
