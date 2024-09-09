@@ -6,6 +6,11 @@
 | Dauer: 180 Min. | Übungszeit: 60 Min.
 |===
 
+=== Zielsetzung
+Ziel dieses Abschnitts ist es, die Teilnehmer:innen in die Lage zu versetzen, Softwarearchitekturen so zu dokumentieren und zu kommunizieren, dass sie den Bedürfnissen wichtiger Stakeholder gerecht werden und den Entwicklungsprozess unterstützen.
+Der Schwerpunkt liegt auf dem Verständnis der grundlegenden Anforderungen an technische Dokumentationen, der Verwendung geeigneter Modelle und Notationen zur Beschreibung von Architekturen und der Anwendung wichtiger Architekturansichten.
+Außerdem lernen die Teilnehmer/innen, wichtige Architekturentscheidungen, Schnittstellen und übergreifende Belange zu dokumentieren, um eine klare, korrekte und für die Stakeholder relevante Dokumentation zu gewährleisten.
+
 ===	Wesentliche Begriffe
 
 (Architektur-)Sichten; Strukturen; (technische) Konzepte; Dokumentation; Kommunikation; Beschreibung; zielgruppen- oder stakeholdergerecht; Meta-Strukturen und Templates zur Beschreibung und Kommunikation; Kontextabgrenzung; Bausteine; Bausteinsicht; Laufzeitsicht; Verteilungssicht; Knoten; Kanal; Verteilungsartefakte; Mapping von Bausteinen auf Verteilungsartefakte; Beschreibung von Schnittstellen und Entwurfsentscheidungen; UML; Werkzeuge zur Dokumentation
@@ -18,6 +23,11 @@
 |===
 | Duration: 180 min. | Exercises: 60 min.
 |===
+
+=== Purpose
+The purpose of this section is to enable participants to document and communicate software architectures in a way that meets the needs of important stakeholders and supports the development process.
+The focus is on understanding the essential requirements of technical documentation, using appropriate models and notations to describe architectures, and applying key architectural views.
+Additionally, participants will learn to document key architectural decisions, interfaces, and cross-cutting concerns, ensuring clear, correct, and stakeholder-relevant documentation.
 
 === Relevant Terms
 (Architectural) Views; structures; (technical) concepts; documentation; communication; description; stakeholder-oriented, meta structures and templates for description and communication; system context; building blocks; building-block view; runtime view; deployment view; node; channel; deployment artifacts; mapping building blocks onto deployment artifacts; description of interfaces and design decisions; UML, tools for documentation
