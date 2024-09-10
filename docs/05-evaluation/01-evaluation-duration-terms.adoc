@@ -8,7 +8,8 @@
 
 ===	Wesentliche Begriffe
 
-????????????????
+Architekturanalyse; Risikoidentifikation; Qualitätsanalysemethoden; Szenarien; Metriken; Tool-gestützte Analyse
+
 
 // end::DE[]
 
@@ -20,5 +21,6 @@
 |===
 
 === Relevant Terms
-????????????
+
+Architecture analysis; Risk identification; Quality analysis methods; Scenarios; Metrics; Tool-supported analysis
 // end::EN[]
