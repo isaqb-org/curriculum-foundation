@@ -1,5 +1,16 @@
 package org.isaqb.asciidoc;
 
+/****
+Comment from Ben Wolf + Gernot Starke
+Dieses Skript baut die Lehrpläne
+
+> Wir mussten das komplett umbauen, weil das Gradle Plugin ca. 12 Monate nicht funktioniert hat.
+> Nächster Schritt ist, das zurückzubauen und in ein Submodule zu verpacken.
+> Damit wir bei Anpassungen von Gradle-Versionen usw. nicht jedes Repo anfassen müssen, sondern einfach das submodule aktualisieren können.
+
+******/
+
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
