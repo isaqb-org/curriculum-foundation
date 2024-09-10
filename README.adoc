@@ -165,7 +165,9 @@ Please be advised that intensive quality assurance by the FLWG and other reviewe
 
 * `/changelogs`: (old) changelogs. 
 The most current changelog is `CHANGELOG.md` under `/` 
+* /decisions: contains our decision-log (started only September-2024, so not complete)
 * `/release-proces`: the documentation of our release process, plus a graphical version.
+
 
 ==== `/html-theme``
 
@@ -190,7 +192,7 @@ Contains a small `Groovy` application to collect all learning goals (LGs) and pr
 
 ==== `/src` 
 
-t.b.d.
+contains a `Main.java` to build the curriculum pdf and html from the asciidoc sources.
 
 
 === The Foundation-Level Working Group (FLWG)
