@@ -9,7 +9,7 @@
 === Zielsetzung
 Ziel dieses Abschnitts ist es, die Teilnehmer:innen in die Lage zu versetzen, Softwarearchitekturen so zu dokumentieren und zu kommunizieren, dass sie den Bedürfnissen wichtiger Stakeholder gerecht werden und den Entwicklungsprozess unterstützen.
 Der Schwerpunkt liegt auf dem Verständnis der grundlegenden Anforderungen an technische Dokumentationen, der Verwendung geeigneter Modelle und Notationen zur Beschreibung von Architekturen und der Anwendung wichtiger Architekturansichten.
-Außerdem lernen die Teilnehmer/innen, wichtige Architekturentscheidungen, Schnittstellen und übergreifende Belange zu dokumentieren, um eine klare, korrekte und für die Stakeholder relevante Dokumentation zu gewährleisten.
+Außerdem lernen die Teilnehmer:innen, wichtige Architekturentscheidungen, Schnittstellen und übergreifende Belange zu dokumentieren, um eine klare, korrekte und für die Stakeholder relevante Dokumentation zu gewährleisten.
 
 ===	Wesentliche Begriffe
 
