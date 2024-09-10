@@ -7,13 +7,7 @@ Softwarearchitekt:innen:
 
 * verstehen, dass eine Anforderung für eine gegebene Qualität
   eine Analysemethode spezifizieren sollte (siehe <<LZ-05-02>>) (R1)
-* verstehen, dass manche Kategorisierungen zwischen
-  "Qualitätsanforderungen" und funktionalen Anforderungen
-  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1)
-* verstehen, dass eine einzelne Anforderung sich auf mehrere
-  Qualitäten beziehen kann (R1)
-* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
-  kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
+* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
 
 // end::DE[]
 
@@ -25,10 +19,7 @@ Software architects:
 
 * understand that a requirement for a given quality should 
   specify a method of analysis (see <<LG-05-02>>) (R1)
-* understand that some categorizations distinguish between "quality
-  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
-* understand that a single requirement might pertain to several
-  qualities  (R1)
+
 * know that the use of a metric as a target can lead to its
   invalidation (R2), as described, e.g., by Goodhart's law (R3)
 
