@@ -6,6 +6,12 @@
 | Dauer: 180 Min. | Übungszeit: 60 Min.
 |===
 
+=== Zielsetzung
+In diesem Abschnitt sollen Softwarearchitekt:innen die Fähigkeiten und Kenntnisse vermittelt werden, die sie für eine effektive Architekturanalyse benötigen.
+Sie lernen, Risiken zu erkennen, die Konformität mit Architekturentscheidungen zu bewerten und die Gesamtqualität eines Systems auf der Grundlage seines Designs und seiner Implementierung zu beurteilen.
+Durch das Verständnis verschiedener Analysemethoden wie Abnahmetests, Architekturmetriken und Kosten-Nutzen-Analysen können Architekt:innen sicherstellen, dass eine Softwarearchitektur den Anforderungen der Stakeholder entspricht und mit dem beabsichtigten Design übereinstimmt.
+
+
 ===	Wesentliche Begriffe
 
 ????????????????
@@ -18,6 +24,11 @@
 |===
 | Duration: 180 min. | Exercises: 60 min.
 |===
+
+=== Purpose
+The purpose of this section is to equip software architects with the skills and knowledge needed to effectively perform architecture analysis.
+They learn to identify risks, evaluate conformance to architectural decisions, and assess the overall quality of a system based on its design and implementation.
+By understanding various analysis methods, such as acceptance testing, architecture metrics, and cost-benefit analysis, architects can ensure that a software architecture meets stakeholder requirements and is aligned with the intended design.
 
 === Relevant Terms
 ????????????
