@@ -49,6 +49,7 @@ Software architects can explain:
 ** runtime flexibility versus maintainability.
 
 They understand that
+
 * some categorizations distinguish between "quality
   requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
 * a single requirement might pertain to several qualities  (R1)
