@@ -1,22 +1,16 @@
 // tag::DE[]
 [[LZ-05-03]]
-==== LZ 05-03: To be done (R2, R3)
+==== LZ 05-03: Konformität mit Architekturentscheidungen bewerten (R2)
 
-Softwarearchitekt:innen
+Softwarearchitekt:innen können beurteilen, ob die Systemimplementierung mit dem Architekturentwurf und den Entscheidungen übereinstimmt, indem sie Methoden wie Code- und Architekturreviews oder toolgestützte Analysen einsetzen.
 
-* können die Analyse der Qualitäten eines Softwaresystems mit einem
-  Qualitätsbaum beschreiben (R3)
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-05-03]]
-==== LZ 05-03: To be done (R2, R3)
+==== LZ 05-03: Evaluate Conformance to Architectural Decisions (R2)
 
-Software architects
-
-
-* can describe the analysis of the qualities of a software systems
-  with a quality tree (R3)
+Software architects are able to assess whether the system’s implementation aligns with the architectural design and decisions, using methods such as code and architecture reviews or tool-supported analysis.
 
 // end::EN[]
