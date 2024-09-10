@@ -3,11 +3,9 @@
 [[LZ-02-01]]
 ==== LZ 02-01: Stakeholder-Anliegen verstehen
 
-Architekten können Stakeholder und deren Anliegen sowie deren
-Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und
-Entwicklungsprozess identifizieren. (R2)
+Architekten können Stakeholder und deren Anliegen sowie deren Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und Entwicklungsprozess identifizieren. (R2)
 
-* Beispiele für Stakeholder und ihre Anliegen:
+Beispiele für Stakeholder und ihre Anliegen (R3):
 
 |===
 |Interessengruppe |Anliegen der Interessengruppe
@@ -48,7 +46,7 @@ Architekt:innen können die Anliegen der Stakeholder nutzen, um fehlende oder wi
 Architects can identify stakeholders and their concerns, as well as their impact on the
 software architecture or the design and development process. (R2)
 
-* Examples of stakeholders and concerns:
+Examples of stakeholders and concerns (R3):
 
 |===
 |Stakeholder |Stakeholder Concern
