@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LZ-03-01]]
-==== LZ 03-01 [ehemaliges LZ 4-04]: Anforderungen durch Architektur erreichen (R1)
+==== LZ 03-01 [ehemaliges LZ 2-8, neue Inhalte]: Anforderungen durch Architektur erreichen (R1)
 
 Softwarearchitekt:innen:
 
@@ -17,7 +17,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-03-01]]
-==== LG 03-01 [previously LG 4-04]: Fulfilling Requirements through Architecture (R1)
+==== LG 03-01 [previously LG 2-8, new content]: Fulfilling Requirements through Architecture (R1)
 
 Software architects:
 
