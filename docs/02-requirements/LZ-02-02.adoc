@@ -3,9 +3,10 @@
 [[LZ-02-02]]
 ==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)
 
-Softwarearchitekt:innen sind in der Lage, Anforderungen und Randbedingungen zu klären und zu berücksichtigen, die sich
-auf die zu entwerfende Architektur oder den Entwurfs- und Entwicklungsprozess auswirken.
+Softwarearchitekt:innen verstehen, dass sowohl Anforderungen als auch Randbedingungen Auswirkungen auf die Architektur und die Architekturarbeit haben können (R2).
+Sie sind in der Lage, Anforderungen und Randbedingungen zu klären und beim Architekturentwurf und im Entwicklungsprozess zu berücksichtigen.
 Sie wissen, dass ihre Entscheidungen zu zusätzlichen Anforderungen führen können.
+
 
 Sie erkennen und berücksichtigen den Einfluss von:
 
@@ -38,15 +39,17 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Technologietrends (z.{nbsp}B. Blockchain, Microservices)
 ** Methodik-Trends (z.{nbsp}B. Agilität)
 ** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen 
+
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-02-02]]
 ==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)
 
-Software architects are able to clarify and consider requirements and constraints that impact
-the architecture being designed or the design and development process.
-They understand that their decisions can lead to additional requirements.
+Software architects understand that both requirements and constraints can have an impact on the architecture and the architecture work (R2).
+They are able to clarify requirements and constraints and take them into account in the architectural design and development process.
+They know that their decisions can lead to additional requirements.
 
 They should recognize and account for the impact of:
 
