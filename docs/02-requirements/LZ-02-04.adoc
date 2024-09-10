@@ -1,42 +1,25 @@
 
 // tag::DE[]
 [[LZ-02-04]]
-==== LZ 02-04 [ehemaliges LZ 04-03]: Bedeutung von Anforderungen für die Softwarearchitektur verstehen (R1-R3)
+==== LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen an Qualitäten formulieren (R1-R3)
 
 Softwarearchitekt:innen:
 
+* können Szenarien für gegebene Qualitäten mit Kontext, Stimulus und Reaktion oder Messmethode formulieren (R1)
 * verstehen, dass eine Anforderung für eine gegebene Qualität
   eine Analysemethode spezifizieren sollte (siehe <<LZ-05-02>>) (R1)
-* verstehen, dass manche Kategorisierungen zwischen
-  "Qualitätsanforderungen" und funktionalen Anforderungen
-  unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1)
-* verstehen, dass eine einzelne Anforderung sich auf mehrere
-  Qualitäten beziehen kann (R1)
-* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren
-  kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
-* verstehen, dass unabhängig davon, ob zwischen Anforderungen und
-  Rahmenbedingungen unterschieden wird, es wichtig ist, deren
-  Auswirkungen auf die Architektur oder die Architekturarbeit zu
-  bestimmen (R2)
+* wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 04-03]: Understand the Importance of Requirements for Software Architecture (R1-R3)
+==== LG 02-04 [previously LG 04-03]: Formulate Requirements on Qualities (R1-R3)
 
 Software architects:
 
-* understand that a requirement for a given quality should 
-  specify a method of analysis (see <<LG-05-02>>) (R1)
-* understand that some categorizations distinguish between "quality
-  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
-* understand that a single requirement might pertain to several
-  qualities  (R1)
-* know that the use of a metric as a target can lead to its
-  invalidation (R2), as described, e.g., by Goodhart's law (R3)
-* understand that regardless if a differentiation between requirements
-  and constraints is made or not, it is important to determine their
-  impact on the architecture or the architecture work (R2)
+* can formulate scenarios for given qualities containing context, stimulus, and reaction or method of measurement (R1)
+* understand that a requirement for a given quality should specify a method of analysis (see <<LG-05-02>>) (R1)
+* know that the use of a metric as a target can lead to its  invalidation (R2), as described, e.g., by Goodhart's law (R3)
 
 // end::EN[]

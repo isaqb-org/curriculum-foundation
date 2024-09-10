@@ -13,15 +13,18 @@ Softwarearchitekt:innen können erklären:
   Softwaresystemen kategorisieren (wie z.{nbsp}B. <<iso25010>>,
   <<bass>> oder <<q42>>)
 * dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
-* dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems
-  beeinflussen können
-* dass die Veränderung einer Qualität andere so beeinflussen kann,
-  dass Abwägungen notwendig werden, wie z.{nbsp}B.
+* dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems beeinflussen können
+* dass die Veränderung einer Qualität andere so beeinflussen kann, dass Abwägungen notwendig werden, wie z.{nbsp}B.
 ** Konfigurierbarkeit versus Zuverlässigkeit
 ** Speicherbedarf versus Leistungseffizienz
 ** Sicherheit versus Benutzbarkeit
 ** Laufzeitflexibilität versus Wartbarkeit.
 
+
+Sie verstehen, dass 
+
+* manche Kategorisierungen zwischen "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1).
+* eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann (R1).
 // end::DE[]
 
 // tag::EN[]
@@ -45,4 +48,8 @@ Software architects can explain:
 ** security versus usability
 ** runtime flexibility versus maintainability.
 
+They understand that
+* some categorizations distinguish between "quality
+  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
+* a single requirement might pertain to several qualities  (R1)
 // end::EN[]
