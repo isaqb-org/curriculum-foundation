@@ -1,37 +1,31 @@
 
 // tag::DE[]
 [[LZ-01-06]]
-==== LZ 01-06: Bedeutung und Entwurf von Datenmodellen (R1, R2)
+==== LZ 01-06: Bedeutung und Entwurf von Datenmodellen (R2)
 
 Softwarearchitekt:innen verstehen die Bedeutung von Datenmodellen für
 die Architektur.  Sie
 
-* können Datenmodelle identifizieren, die maßgeblichen Einfluss auf
-  die Architektur haben. (R2)
-* können solche Datenmodelle systematisch entwerfen. (R2)
-* verstehen den Unterschied zwischen Produkten und Summen in der
-  Datenmodellierung. (R1)
-* verstehen die Bedeutung der Entkopplung von Datenmodellen und
-  ihrer Repräsentation in Datenbanken, Dateien und
-  Übertragungsprotokollen. (R1)
+* können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
+* können solche Datenmodelle systematisch entwerfen. 
+* verstehen den Unterschied zwischen Produkten und Summen in der Datenmodellierung. 
+* verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen. 
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-06]]
-==== LG 01-06: Importance and Design of Data Models (R1, R2)
+==== LG 01-06: Importance and Design of Data Models (R2)
 
 Software architects understand the importance of data models for
 the architecture.  They
 
 * can identify data models that have significant impact on the
-  architecture. (R2)
-* can design such data models systematically. (R2)
-* understand the difference between products and sums in data
-  modelling. (R1)
-* understand the importance of decoupling data models from their
-  representation in databases, files, and transmission protocols.
-  (R1)
+  architecture. 
+* can design such data models systematically. 
+* understand the difference between products and sums in data modelling. 
+* understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
+
 
 // end::EN[]
 
