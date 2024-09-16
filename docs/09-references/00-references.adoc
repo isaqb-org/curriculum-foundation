@@ -60,6 +60,7 @@
 
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
+- [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
 - [[[kruchten95, Kruchten 1995]]] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50
 - [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
 
