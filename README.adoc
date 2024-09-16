@@ -168,7 +168,7 @@ Please be advised that intensive quality assurance by the FLWG and other reviewe
 * `/changelogs`: (old) changelogs. 
 The most current changelog is `CHANGELOG.md` under `/` 
 * /decisions: contains our decision-log (started only September-2024, so not complete)
-* `/release-proces`: the documentation of our release process, plus a graphical version.
+* `/release-process`: the documentation of our release process, plus a graphical version.
 
 
 ==== `/html-theme``
@@ -243,6 +243,10 @@ Release::
     Releases usually contain major changes to the content of the curriculum.
     For example, learning goals might be re-formulated, deleted or new content might be added.
     
+>### How to create a new release/version
+>
+> t.b.d.
+
 
 [IMPORTANT] 
 .Releases impact training material
