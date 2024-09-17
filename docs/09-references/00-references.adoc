@@ -94,7 +94,7 @@
 - [[[sperberklaeren, Sperber+Klaeren]]] Michael Sperber, Herbert
   Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
 - [[[starke,Starke 2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
-- [[[starkelorz, Starke+2021]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2021.
+- [[[starkelorz, Starke-Lorz-2023]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2023.
 - [[[starkeetalarc42, Starke+2023]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example: Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
 
