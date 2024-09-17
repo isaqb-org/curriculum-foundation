@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
 
-* Top-down- und Bottom-up-Vorgehen beim Entwurf (R1)
+* Top-down- und Bottom-up-Vorgehen beim Entwurf, siehe <<gharbietal>>, <<starke>> (R1)
 * Sichtenbasierte Architekturentwicklung, siehe <<rozanskiwoods>>, <<kruchten95>> (R1)
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
@@ -19,7 +19,7 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 ==== LG 03-03 [previously LG 2-01]: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)
 Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
 
-* top-down and bottom-up approaches to design (R1)
+* top-down and bottom-up approaches to design, see <<gharbietal>>, <<starke>> (R1)
 * view-based architecture development, see <<rozanskiwoods>>, <<kruchten95>> (R1)
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
