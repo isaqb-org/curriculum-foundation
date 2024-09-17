@@ -245,7 +245,7 @@ Release::
     
 >### How to create a new release/version
 >
-> t.b.d.
+> You find a [detailed explanation here](https://github.com/isaqb-org/github-readme?tab=readme-ov-file#how-to-create-a-new-release-of-a-curriculum)
 
 
 [IMPORTANT] 
