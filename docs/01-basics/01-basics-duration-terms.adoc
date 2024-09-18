@@ -28,7 +28,7 @@ Rolle;
 Aufgaben;
 {glossary_url}stakeholder[Stakeholder];
 Anforderungen; 
-{glossary_url}constraints[Randbedingungen]
+{glossary_url}constraint[Randbedingungen]
 
 // end::DE[]
 
@@ -54,14 +54,14 @@ architecture domains;
 {glossary_url}component[components]; 
 {glossary_url}interface[interfaces]; 
 {glossary_url}relationship[relationships]; 
-{glossary_url}cross-cutting-concerns[cross-cutting-concerns];
+{glossary_url}cross-cutting-concern[cross-cutting-concerns];
 benefits of software architecture
 software architects and their responsibilities;
 role;
 tasks;
 {glossary_url}stakeholder[stakeholders and their concerns];
 requirements;
-{glossary_url}constraints[constraints]; 
+{glossary_url}constraint[constraints];
 
 // end::EN[]
 
