@@ -20,17 +20,15 @@ Architekturdomänen;
 {glossary_url}building-block[Bausteine]; 
 {glossary_url}component[Komponenten]; 
 {glossary_url}interface[Schnittstellen]; 
-{glossary_url}relationship[Beziehungen]; 
-Querschnittsthemen; 
+{glossary_url}relationship[Beziehungen];
+{glossary_url}cross-cutting-concern[Querschnittsthemen];
 Nutzen von Softwarearchitektur; 
 Softwarearchitekt:innen und deren Verantwortlichkeiten; 
 Rolle; 
-Aufgaben und benötigte Fähigkeiten; 
-Stakeholder und deren Anliegen; 
+Aufgaben;
+{glossary_url}stakeholder[Stakeholder];
 Anforderungen; 
-{glossary_url}constraints[Randbedingungen]; 
-Einflussfaktoren; 
-Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssysteme etc.)
+{glossary_url}constraints[Randbedingungen]
 
 // end::DE[]
 
@@ -50,19 +48,20 @@ Additionally, the section explores the role of software architects in the broade
 
 === Relevant Terms
 {glossary_url}software-architecture[Software architecture]; 
-architecture domains; {glossary_url}structure[structure]; 
+architecture domains;
+{glossary_url}structure[structure];
 {glossary_url}building-block[building blocks]; 
 {glossary_url}component[components]; 
 {glossary_url}interface[interfaces]; 
 {glossary_url}relationship[relationships]; 
-{glossary_url}cross-cutting-concerns[cross-cutting-concerns]; 
-software architects and their responsibilities; 
-tasks and required skills; 
-stakeholders and their concerns; 
+{glossary_url}cross-cutting-concerns[cross-cutting-concerns];
+benefits of software architecture
+software architects and their responsibilities;
+role;
+tasks;
+{glossary_url}stakeholder[stakeholders and their concerns];
 requirements;
 {glossary_url}constraints[constraints]; 
-influencing factors; 
-types of IT systems (embedded systems; real-time systems; information systems etc.)
 
 // end::EN[]
 
