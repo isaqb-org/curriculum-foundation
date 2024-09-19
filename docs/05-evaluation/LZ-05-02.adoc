@@ -30,6 +30,7 @@ Softwarearchitekt:innen
 ** Revisionshistorie, wie z.{nbsp}B. wie Änderungsrate pro Komponente
    (R3)
 
+Siehe auch <<LG-02-03>>, <<LG-02-04>>.
 // end::DE[]
 
 // tag::EN[]
@@ -62,5 +63,7 @@ Software architects
    documentation (R1)
 ** run-time event logs and metrics (R1)
 ** revision history, such as the rate of change per component (R3)
+
+See also <<LG-02-03>>, <<LG-02-04>>.
 
 // end::EN[]
