@@ -21,6 +21,7 @@ Sie kennen:
 ** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
 
+Siehe auch <<LG-04-06>>.
 // end::DE[]
 
 // tag::EN[]
@@ -42,5 +43,7 @@ They know:
 * different approaches for implementing interfaces (R3):
 ** resource oriented approach (REST, Representational State Transfer)
 ** service oriented approach (see WS-*/SOAP-based web services.
+
+See also <<LG-04-06>>.
 
 // end::EN[]

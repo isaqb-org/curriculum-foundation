@@ -8,6 +8,8 @@ Softwarearchitekt:innen können typische Querschnittsthemen (synonym
 _Querschnittskonzepte_, _Aspekte_) adäquat dokumentieren und kommunizieren,
 z.{nbsp}B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
 
+Siehe auch <<LG-03-10>>.
+
 // end::DE[]
 
 // tag::EN[]
@@ -18,4 +20,5 @@ Software architects are able to adequately document and communicate
 typical cross-cutting concerns (synonym: _cross-cutting concepts_, _aspects_),
 e. g., persistence, workflow management, UI, deployment/integration, logging.
 
+See also <<LG-03-10>>
 // end::EN[]
