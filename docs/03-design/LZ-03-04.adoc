@@ -26,8 +26,7 @@ Softwarearchitekt:innen sind in der Lage:
 
 * Geheimnisprinzip (Information Hiding) und Kapselung (R1)
 * Trennung von Verantwortlichkeiten (Separation of Concerns - SoC) (R1)
-* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen
-//, siehe <<LZ-2-7, Lernziel 2-7>>
+* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen, siehe <<LG-03-06>>
 * Hohe Kohäsion (R1)
 * Offen/geschlossen-Prinzip (R1)
 * Dependency-Inversion-Prinzip (R1) - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnlichen Abstraktionen
@@ -73,8 +72,7 @@ Software architects are able to:
 
 * information hiding and encapsulation (R1)
 * separation of concerns - SoC (R1)
-* loose, but functionally sufficient, coupling (R1) of building blocks
-//, refer to <<LG-2-7, LG 2-7>>
+* loose, but functionally sufficient, coupling (R1) of building blocks, see <<LG-03-06>>
 * high cohesion (R1)
 * Open/closed principle (R1)
 * Dependency inversion principle (R1) by means of interfaces or similar abstractions

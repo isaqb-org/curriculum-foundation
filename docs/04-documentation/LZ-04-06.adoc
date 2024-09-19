@@ -3,7 +3,9 @@
 [[LZ-04-06]]
 ==== LZ 04-06 [ehemaliges LZ 3-07]: Schnittstellen dokumentieren (R1)
 
-Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen dokumentieren und spezifizieren.
+Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen dokumentieren.
+
+Siehe auch <<LG-03-07>>.
 
 // end::DE[]
 
@@ -13,4 +15,5 @@ Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen d
 
 Software architects are able to document and specify both internal and external interfaces.
 
+See also <<LG-03-07>>.
 // end::EN[]

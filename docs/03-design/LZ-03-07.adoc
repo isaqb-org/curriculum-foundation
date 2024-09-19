@@ -21,7 +21,7 @@ Sie kennen:
 ** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
 
-Siehe auch <<LZ-04-06>>.
+Siehe auch <<LG-04-06>>.
 // end::DE[]
 
 // tag::EN[]
