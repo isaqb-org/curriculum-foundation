@@ -8,8 +8,7 @@ Softwarearchitekt:innen:
   sollten, spezifische Qualitäten zu verbessern
 * können einen Architekturentwurf vorschlagen, der geeignet ist, 
   Anforderungen zu erfüllen
-* können einschätzen, welche Qualitäten sie durch eine bestimmte
-  gegebene Aktivität verbessern
+* können einschätzen, welche Qualitäten sie durch bestimmte Aktivitäten oder Entscheidungen verbessern
 * können mögliche Abwägungen zwischen Entwürfen
   sowie den entsprechenden Risiken identifizieren und kommunizieren
 
@@ -25,8 +24,7 @@ Software architects:
   to improve specific qualities
 * can propose an architecture design suitable for fulfilling 
   requirements
-* can assess which qualities they improve through a specific
-  architectural activity
+* can assess which qualities they improve through specific architectural activities or decisions
 * can identify and communicate possible trade-offs between designs
   and their associated risks
 
