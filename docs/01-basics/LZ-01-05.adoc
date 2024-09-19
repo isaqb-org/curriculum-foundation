@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-01-05]]
+[[LG-01-05]]
 ==== LZ 01-05 [ehemaliges LZ 01-05]: Rolle von Softwarearchitekt:innen mit anderen Stakeholdern in Beziehung setzen (R1)
 Softwarearchitekt:innen können ihre Rolle erklären. 
 Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:

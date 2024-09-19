@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-04-03]]
+[[LG-04-03]]
 ==== LZ 04-03 [ehemaliges LZ 3-03]: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
 Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme (siehe <<uml>>) zur Notation von Architektursichten:

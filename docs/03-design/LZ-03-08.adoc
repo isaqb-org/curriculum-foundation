@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-08]]
+[[LG-03-08]]
 ==== LZ 03-08 [ehemaliges LZ 2-05]: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1, R3)
 
 Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Beispiele dafür liefern (R1):

@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-06-02]]
+[[LG-06-02]]
 ==== LZ 06-02: Technische Umsetzung einer Lösung nachvollziehen (R3)
 
 Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.

@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-05]]
+[[LG-03-05]]
 ==== LZ 03-05 [ehemaliges LZ 1-06]: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)
 
 Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen,

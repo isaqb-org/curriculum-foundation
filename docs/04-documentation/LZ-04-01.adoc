@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-04-01]]
+[[LG-04-01]]
 ==== LZ 04-01 [ehemaliges LZ 3-01]: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)
 
 Softwarearchitekt:innen kennen die wesentlichen Anforderungen an technische Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:

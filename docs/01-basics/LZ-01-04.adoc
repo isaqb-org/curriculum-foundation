@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-01-04]]
+[[LG-01-04]]
 ==== LZ 01-04 [ehemaliges LZ 1-09]: Abgrenzung zu anderen Architekturdomänen (R3)
 
 Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.

@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-09]]
+[[LG-03-09]]
 ==== LZ 03-09 [ehemaliges LZ 2-05]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
 
 Softwarearchitekt:innen kennen den Unterschied zwischen Architektur- und Entwurfsmustern.

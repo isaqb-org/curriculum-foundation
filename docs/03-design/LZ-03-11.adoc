@@ -1,7 +1,7 @@
 
 // tag::DE[]
 
-[[LZ-03-11]]
+[[LG-03-11]]
 ==== LZ 03-11 [ehemaliges LZ 2-10]: Grundlegende Prinzipien von Software-Deployments kennen (R3)
 Softwarearchitekt:innen:
 

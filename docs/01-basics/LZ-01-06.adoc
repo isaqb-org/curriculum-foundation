@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-01-06]]
+[[LG-01-06]]
 ==== LZ 01-06: Bedeutung und Entwurf von Datenmodellen (R2)
 
 Softwarearchitekt:innen verstehen die Bedeutung von Datenmodellen für

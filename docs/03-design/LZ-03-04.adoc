@@ -1,6 +1,6 @@
 // tag::DE[]
 
-[[LZ-03-04]]
+[[LG-03-04]]
 ==== LZ 03-04 [ehemaliges LZ 2-06]: Entwurfsprinzipien erläutern und anwenden (R1-R3)
 
 Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind.

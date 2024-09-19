@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-05-03]]
+[[LG-05-03]]
 ==== LZ 05-03: Konformität mit Architekturentscheidungen bewerten (R2)
 
 Softwarearchitekt:innen können beurteilen, ob die Systemimplementierung mit dem Architekturentwurf und den Entscheidungen übereinstimmt, indem sie Methoden wie Code- und Architekturreviews oder toolgestützte Analysen einsetzen.

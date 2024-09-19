@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-01-01]]
+[[LG-01-01]]
 ==== LZ 01-01: Definitionen von Softwarearchitektur diskutieren (R1)
 Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen
 von Softwarearchitektur <<iso42010>> <<bass>> <<kruchten>>:

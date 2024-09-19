@@ -1,7 +1,7 @@
 
 
 // tag::DE[]
-[[LZ-04-07]]
+[[LG-04-07]]
 ==== LZ 04-07 [ehemaliges LZ 3-06]: Querschnittsthemen dokumentieren und kommunizieren (R2)
 
 Softwarearchitekt:innen können typische Querschnittsthemen (synonym

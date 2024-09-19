@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-02-03]]
+[[LG-02-03]]
 ==== LZ 02-03 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)
 
 Softwarearchitekt:innen können erklären:

@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-02-01]]
+[[LG-02-01]]
 ==== LZ 02-01: Stakeholder-Anliegen verstehen
 
 Architekten können Stakeholder und deren Anliegen sowie deren Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und Entwicklungsprozess identifizieren. (R2)

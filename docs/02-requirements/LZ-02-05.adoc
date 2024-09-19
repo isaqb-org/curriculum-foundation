@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-02-05]]
+[[LG-02-05]]
 ==== LZ 02-05 [ehemaliges LZ 1-08]: Explizite Aussagen vor impliziten Annahmen bevorzugen (R1)
 
 Softwarearchitekt:innen:

@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-02-02]]
+[[LG-02-02]]
 ==== LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)
 
 Softwarearchitekt:innen verstehen, dass sowohl Anforderungen als auch Randbedingungen Auswirkungen auf die Architektur und die Architekturarbeit haben können (R2).

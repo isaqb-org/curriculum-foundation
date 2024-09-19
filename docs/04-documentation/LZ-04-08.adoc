@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-04-08]]
+[[LG-04-08]]
 ==== LZ 04-08 [ehemaliges LZ 3-08]: Architekturentscheidungen erläutern und dokumentieren (R1-R2)
 
 Softwarearchitekt:innen können:

@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-04-05]]
+[[LG-04-05]]
 ==== LZ 04-05 [ehemaliges LZ 3-04]: Architektursichten erläutern und anwenden (R1)
 Softwarearchitekt:innen können folgende Architektursichten anwenden (siehe <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
 

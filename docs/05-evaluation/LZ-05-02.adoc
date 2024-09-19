@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-05-02]]
+[[LG-05-02]]
 ==== LZ 05-02 [ehemaliges LZ 4-3 und 4-4]: Qualitäten eines Softwaresystems analysieren (R1, R3)
 
 Softwarearchitekt:innen

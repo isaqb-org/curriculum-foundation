@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-12]]
+[[LG-03-12]]
 ==== LZ 03-12 [ehemaliges LZ 1-11]: Herausforderungen verteilter Systeme kennen (R3)
 
 Softwarearchitekt:innen können:

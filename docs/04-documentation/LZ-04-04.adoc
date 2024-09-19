@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-04-04]]
+[[LG-04-04]]
 ==== LZ 04-04 [new]: Lernziel nicht gefunden (R3)
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.

@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-05-01]]
+[[LG-05-01]]
 ==== LZ 05-01: Gründe für Architekturanalyse kennen (R1)
 
 Softwarearchitekt:innen verstehen, dass es verschiedene mögliche

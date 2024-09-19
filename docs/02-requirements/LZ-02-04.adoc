@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-02-04]]
+[[LG-02-04]]
 ==== LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen an Qualitäten formulieren (R1-R3)
 
 Softwarearchitekt:innen:

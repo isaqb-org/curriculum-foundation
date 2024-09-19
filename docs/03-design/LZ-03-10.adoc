@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-10]]
+[[LG-03-10]]
 ==== LZ 03-10 [ehemaliges LZ 2-04]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
 
 Softwarearchitekt:innen können:
