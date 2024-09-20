@@ -1,7 +1,7 @@
 
 // tag::DE[]
 
-[[LZ-03-07]]
+[[LG-03-07]]
 ==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und festlegen (R1-R3)
 
 Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.

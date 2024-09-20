@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-04-06]]
+[[LG-04-06]]
 ==== LZ 04-06 [ehemaliges LZ 3-07]: Schnittstellen dokumentieren (R1)
 
 Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen dokumentieren.

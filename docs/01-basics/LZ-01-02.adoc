@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-01-02]]
+[[LG-01-02]]
 ==== LZ 01-02: Ziele und Nutzen von Softwarearchitektur verstehen und erläutern (R1)
 
 Softwarearchitekt:innen können die folgenden wesentlichen Ziele und Nutzen der Softwarearchitektur begründen:

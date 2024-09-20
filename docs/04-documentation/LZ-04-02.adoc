@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-04-02]]
+[[LG-04-02]]
 ==== LZ 04-02 [ehemaliges LZ 3-02]: Softwarearchitekturen beschreiben und kommunizieren (R1-R3)
 
 Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen. (R2)

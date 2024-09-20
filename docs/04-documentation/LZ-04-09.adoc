@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-04-09]]
+[[LG-04-09]]
 ==== LZ 04-09 [ehemaliges LZ 3-09]: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
 Softwarearchitekt:innen kennen:

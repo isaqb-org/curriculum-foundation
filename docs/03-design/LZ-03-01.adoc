@@ -1,5 +1,5 @@
 // tag::DE[]
-[[LZ-03-01]]
+[[LG-03-01]]
 ==== LZ 03-01 [ehemaliges LZ 2-8, neue Inhalte]: Anforderungen durch Architektur erreichen (R1)
 
 Softwarearchitekt:innen:

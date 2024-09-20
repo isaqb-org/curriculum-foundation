@@ -1,6 +1,6 @@
 // tag::DE[]
 
-[[LZ-03-06]]
+[[LG-03-06]]
 ==== LZ 03-06 [ehemaliges LZ 2-07]: Abhängigkeiten von Bausteinen managen (R1)
 
 Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen.

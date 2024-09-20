@@ -1,6 +1,6 @@
 
 // tag::DE[]
-[[LZ-03-02]]
+[[LG-03-02]]
 ==== LZ 03-02 [ehemaliges LZ 2-02]: Softwarearchitekturen entwerfen (R1)
 
 Softwarearchitekt:innen können:
