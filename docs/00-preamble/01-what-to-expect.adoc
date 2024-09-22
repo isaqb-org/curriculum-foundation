@@ -46,7 +46,7 @@ It is structured along the fundamental activities and responsibilities of softwa
 
 
 === What Does a Foundation Level Training Convey?
-Licensed Certified Professional for Software Architecture – Foundation Level (CPSA-F) trainings will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small and medium-sized systems.
+Licensed Certified Professional for Software Architecture – Foundation Level (CPSA-F) trainings will provide participants with the knowledge and skills required to design, specify and document a software architecture adequate to fulfil the respective requirements for small- and medium-sized systems.
 Based upon their individual practical experience and existing skills participants will learn to derive architectural decisions from an existing system vision and adequately detailed requirements.
 CPSA-F trainings teach methods and principles for design, documentation and evaluation of software architectures, independent of specific development processes.
 
