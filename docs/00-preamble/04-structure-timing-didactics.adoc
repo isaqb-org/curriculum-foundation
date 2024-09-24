@@ -13,19 +13,19 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 | 1. Grundlagen | 120
 
-| 2. Anforderungen und Randbedingungen | 60
+| 2. Anforderungen und Randbedingungen | 180
 
-| 3. Entwurf und Entwicklung | 420
+| 3. Entwurf und Entwicklung | 360
 
 | 4. Beschreibung und Kommunikation | 240
 
-| 5. Analyse und Bewertung | 60
+| 5. Analyse und Bewertung | 90
 
 | 6. Beispiele | 90
 
 | |
 
-| Summe | 990
+| Summe | 1080
 
 |===
 
@@ -47,19 +47,19 @@ The types (domains and technologies) of examples and exercises can be determined
 
 | 1. Basic Concepts of Software Architecture | 120
 
-| 2. Requirements and Constraints | 60
+| 2. Requirements and Constraints | 180
 
-| 3. Design and Development | 420
+| 3. Design and Development | 360
 
 | 4. Specification and Communication | 240
 
-| 5. Analysis and Assessment | 60
+| 5. Analysis and Assessment | 90
 
 | 6. Examples | 90
 
 | |
 
-| Total | 990
+| Total | 1080
 
 |===
 // end::EN[]
