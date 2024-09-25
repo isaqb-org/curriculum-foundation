@@ -29,7 +29,7 @@ Sie verstehen, dass
 
 // tag::EN[]
 [[LG-02-03]]
-==== LG 02-03 [previously LG 4-1]: Understand and Explain Software System Qualities (R1)
+==== LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)
 
 Software architects can explain:
 
