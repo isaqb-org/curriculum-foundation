@@ -8,7 +8,7 @@ die Architektur.  Sie
 
 * können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
 * können solche Datenmodelle systematisch entwerfen. 
-* verstehen den Unterschied zwischen Produkten und Summen in der
+* verstehen den Unterschied zwischen {glossary_url}product[Produkten] und {glossary_url}sum[Summen] in der
   Datenmodellierung <<felleisenetal>> <<sperberklaeren>>. 
 * verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen. 
 
@@ -24,7 +24,7 @@ the architecture.  They
 * can identify data models that have significant impact on the
   architecture. 
 * can design such data models systematically. 
-* understand the difference between products and sums in data
+* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data
   modelling <<felleisenetal>> <<sperberklaeren>>. 
 * understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
 

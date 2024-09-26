@@ -12,7 +12,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 * produktbezogenen Anforderungen wie (R1)
 ** funktionale Anforderungen
-** Qualitätsanforderungen
+** {glossary_url}quality-requirement[Qualitätsanforderungen]
 
 * Technologische Randbedingungen wie 
 ** bestehende oder geplante Hardware- und Software-Infrastruktur (R1)
@@ -55,7 +55,7 @@ They should recognize and account for the impact of:
 
 * product-related requirements such as (R1)
 ** functional requirements
-** quality requirements
+** {glossary_url}quality-requirement[quality requirements]
 
 * technological constraints such as 
 ** existing or planned hardware and software infrastructure (R1)
