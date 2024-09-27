@@ -48,6 +48,7 @@
 - [[[hofmeister,Hofmeister et. al 1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
+- [[[humble,Humble et. al 2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
 
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html

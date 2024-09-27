@@ -10,7 +10,7 @@ Softwarearchitekt:innen können:
 * gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
 * Begriffe _Blackbox_ und _Whitebox_ erklären und zielgerichtet anwenden
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
-* Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht (siehe <<LG-04-05>>)
+* Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht (siehe <<LG-04-05>>, <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>)
 * die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
 * domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
 * Risiken von Entwurfsentscheidungen identifizieren.
@@ -28,7 +28,7 @@ Software architects are able to:
 * recognize and justify interdependencies and trade-offs of design decisions
 * explain the terms _black box_ and _white box_ and apply them purposefully
 * apply stepwise refinement and specify building blocks
-* design architecture views, especially building-block view, runtime view and deployment view (see <<LG-04-05>>)
+* design architecture views, especially building-block view, runtime view and deployment view (see <<LG-04-05>>, <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>)
 * explain the consequences of these decisions on the corresponding source code
 * separate technical and domain-related elements of architectures and justify these decisions
 * identify risks related to architecture decisions.
