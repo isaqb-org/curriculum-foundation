@@ -54,7 +54,7 @@ In addition, this section addresses the management of cross-cutting concerns, th
 Design; design approach; design decision; views; 
 {glossary_url}interface[interfaces];  
 technical and 
-{glossary_url}cross-cutting-concerns[cross-cutting concerns]; 
+{glossary_url}cross-cutting-concern[cross-cutting concerns];
 architectural patterns; 
 pattern languages; 
 design principles; 

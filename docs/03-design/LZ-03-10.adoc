@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen können:
 
-* die Bedeutung von Querschnittsthemen (synonym: Belange, Anliegen) erklären
+* die Bedeutung von {glossary_url}cross-cutting-concern[Querschnittsthemen] (synonym: Belange, Anliegen) erklären
 * solche Querschnittsthemen identifizieren
 * Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
 * mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.
@@ -21,7 +21,7 @@ Siehe auch <<LG-04-07>>.
 
 Software architects are able to:
 
-* explain the significance of such cross-cutting concerns
+* explain the significance of such {glossary_url}cross-cutting-concern[cross-cutting concerns]
 * identify such cross-cutting concerns
 * design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
 * identify and assess potential interdependencies.

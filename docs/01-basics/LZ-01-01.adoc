@@ -5,9 +5,9 @@
 Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen
 von Softwarearchitektur <<iso42010>> <<bass>> <<kruchten>>:
 
-* Komponenten/Bausteine mit Schnittstellen und Beziehungen
+* {glossary_url}building-block[Komponenten/Bausteine] mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
-* Strukturen, Querschnittsthemen, Prinzipien
+* Strukturen, {glossary_url}cross-cutting-concern[Querschnittsthemen], Prinzipien
 * Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und
   seinen Lebenszyklus
 
@@ -20,9 +20,9 @@ von Softwarearchitektur <<iso42010>> <<bass>> <<kruchten>>:
 Software architects know the commonalities of many definitions of
 software architecture <<iso42010>> <<bass>> <<kruchten>>:
 
-* components/building blocks with interfaces and relationships
+* {glossary_url}building-block[components/building blocks] with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
-* structures, cross-cutting concerns, principles
+* structures, {glossary_url}cross-cutting-concern[cross-cutting concerns], principles
 * architecture decisions and their consequences on the entire systems and its lifecycle
 
 // end::EN[]
