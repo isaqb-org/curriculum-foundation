@@ -50,7 +50,7 @@ The new version is structured along the fundamental activities and responsibilit
 #### The following topics are new in V2025:
 
 * Data models
-* Stakeholder concerns + -interviews
+* Stakeholder concerns + interviews
 * Static and dynamic coupling
 * Efferent and afferent coupling
 * SysML, C4
