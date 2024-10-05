@@ -1,7 +1,7 @@
 :doctype: book
 :icons: font
 :sectnumlevels: 1
-:chapter-label: 
+:!chapter-signifier:
 :imagesdir: ./images
 :figure-caption!:
 
