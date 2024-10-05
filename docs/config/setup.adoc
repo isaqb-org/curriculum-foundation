@@ -39,18 +39,6 @@ endif::[]
 // but the "BIB_REFS" tag.
 :bibrefs: BIB_REFS
 
-// you might want to output some internal information...
-ifdef::debug_adoc[]
-[NOTE]
-====
-Current configuration:
-
-* Language(s): {language}
-* Document version: {document-version}
-* Include-configuration: {include_configuration}
-====
-endif::debug_adoc[]
-
 // glossary definitions
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
 // on github (https://public.isaqb.org/glossary)
