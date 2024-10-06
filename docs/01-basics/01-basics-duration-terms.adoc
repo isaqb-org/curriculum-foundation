@@ -29,8 +29,7 @@ Aufgaben und benötigte Fähigkeiten;
 Stakeholder und deren Anliegen; 
 Anforderungen; 
 {glossary_url}constraints[Randbedingungen]; 
-Einflussfaktoren; 
-Typen von IT-Systemen (eingebettete Systeme; Echtzeitsysteme; Informationssysteme etc.)
+Einflussfaktoren
 
 // end::DE[]
 
@@ -61,8 +60,7 @@ tasks and required skills;
 stakeholders and their concerns; 
 requirements;
 {glossary_url}constraints[constraints]; 
-influencing factors; 
-types of IT systems (embedded systems; real-time systems; information systems etc.)
+influencing factors
 
 // end::EN[]
 
