@@ -7,7 +7,7 @@ Softwarearchitekt:innen:
 
 * können Szenarien für gegebene Qualitäten mit Kontext, Stimulus und Reaktion oder Messmethode formulieren <<bass>> (R1)
 * verstehen, dass eine Anforderung für eine gegebene Qualität
-  eine Analysemethode spezifizieren sollte (siehe <<LZ-05-02>>) (R1)
+  eine Analysemethode spezifizieren sollte (siehe <<LG-05-02>>) (R1)
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
 
 // end::DE[]
