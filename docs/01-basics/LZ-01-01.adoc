@@ -2,7 +2,7 @@
 [[LG-01-01]]
 ==== LZ 01-01: Definitionen von Softwarearchitektur diskutieren (R1)
 
-Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen von Softwarearchitektur :
+Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen von Softwarearchitektur:
 
 * {glossary_url}building-block[Komponenten/Bausteine] mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
