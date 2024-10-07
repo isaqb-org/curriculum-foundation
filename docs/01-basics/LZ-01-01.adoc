@@ -1,4 +1,3 @@
-
 // tag::DE[]
 [[LG-01-01]]
 ==== LZ 01-01: Definitionen von Softwarearchitektur diskutieren (R1)
@@ -11,17 +10,13 @@ Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen von Softw
 * Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und
   seinen Lebenszyklus
 
-===== Quellen
-<<iso42010>> <<bass>> <<kruchten>>
-
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-01]]
 ==== LG 01-01: Discuss Definitions of Software Architecture (R1)
 
-Software architects know the commonalities of many definitions of
-software architecture <<iso42010>> <<bass>> <<kruchten>>:
+Software architects know the commonalities of many definitions of software architecture:
 
 * {glossary_url}building-block[components/building blocks] with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
@@ -29,3 +24,6 @@ software architecture <<iso42010>> <<bass>> <<kruchten>>:
 * architecture decisions and their consequences on the entire systems and its lifecycle
 
 // end::EN[]
+
+===== {references}
+<<iso42010>>, <<bass>>, <<kruchten>>
