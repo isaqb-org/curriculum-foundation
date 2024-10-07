@@ -31,7 +31,7 @@ endif::[]
 
 // ":include_configuration:" always consists of the language,
 // additional markers might be configured here!
-:include_configuration: tags={language}
+:include_configuration: tags=!*;{language}
 
 
 // ":bibrefs:" (bibliography entries) are single language, to avoid redundancy.
