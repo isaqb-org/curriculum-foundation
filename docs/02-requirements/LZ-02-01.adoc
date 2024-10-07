@@ -32,7 +32,7 @@ technologische Einschränkungen
 
 |===
 
-Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R1)
+Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R2)
 
 Architekt:innen verstehen, dass nicht alle Anliegen der Stakeholder in Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt werden müssen. (R3)
 
@@ -43,8 +43,7 @@ Architekt:innen können die Anliegen der Stakeholder nutzen, um fehlende oder wi
 [[LG-02-01]]
 ==== LG 02-01: Understand Stakeholder Concerns (R1-R3)
 
-Architects can identify stakeholders and their concerns, as well as their impact on the
-software architecture or the design and development process. (R2)
+Architects can identify stakeholders and their concerns, as well as their impact on the software architecture or the design and development process. (R2)
 
 Examples of stakeholders and concerns (R3):
 
@@ -55,8 +54,7 @@ Examples of stakeholders and concerns (R3):
 | e.g., required time for the implementation of the requirements
 
 | project managers
-| e.g., required time and budget for the implementation, associated risks of the chosen
-architectural approach
+| e.g., required time and budget for the implementation, associated risks of the chosen architectural approach
 
 | requirement engineers
 | e.g., fulfillment of the requirements
@@ -72,15 +70,10 @@ architectural approach
 
 |===
 
-Software architects can explain potential conflicts between short-term and long-term goals,
-in order to resolve potential conflicts (e.g., business and project goals vs. architecture
-and maintainability goals). (R1)
+Software architects can explain potential conflicts between short-term and long-term goals, in order to resolve potential conflicts (e.g., business and project goals vs. architecture and maintainability goals). (R2)
 
-Architects understand that not all stakeholder concerns can or will be translated into
-requirements, but may nevertheless need to be considered. (R3)
+Architects understand that not all stakeholder concerns can or will be translated into requirements, but may nevertheless need to be considered. (R3)
 
-Architects can use stakeholder concerns to discover missing or conflicting requirements
-and/or validate requirements and constraints on the architecture, e.g., in stakeholder
-interviews. (R3)
+Architects can use stakeholder concerns to discover missing or conflicting requirements and/or validate requirements and constraints on the architecture, e.g., in stakeholder interviews. (R3)
 
 // end::EN[]
