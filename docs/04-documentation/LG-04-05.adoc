@@ -11,13 +11,13 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden:
 * Laufzeitsicht (dynamische Sicht, Zusammenwirken der Softwarebausteine zur Laufzeit, Zustandsmodelle)
 * Verteilungs-/Deploymentsicht (Hardware und technische Infrastruktur sowie Abbildung von Softwarebausteinen auf diese Infrastruktur)
 
-Zusätzliche Sichten können nach Bedarf verwendet werden, um zusätzliche Anliegen oder Anforderungen von Stakeholden zu berücksichtigen, z. B. Funktions-, Informations-, Betriebs- oder User-Interface Sichten (R3).
+Zusätzliche Sichten können nach Bedarf verwendet werden, um weitere Anliegen oder Anforderungen von Stakeholden zu berücksichtigen, z. B. Funktionale Sicherheit, Informations-, Betriebs- oder User-Interface Sicht (R3).
 // end::DE[]
 
 // tag::EN[]
 [[LG-04-05]]
 ==== LG 04-05 [previously LG 3-04]: Explain and Use Architectural Views (R1)
-Software architects are able to use the following architectural views  (see <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
+Software architects are able to use the following architectural views:
 
 * context view
   ** contains the external interfaces of systems 
@@ -27,7 +27,7 @@ Software architects are able to use the following architectural views  (see <<kr
 * runtime view (dynamic view, interaction between software building blocks at runtime, state machines)
 * deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)
 
-Additional views might be used as needed to address additional stakeholder concerns and requirements, such as functional-, information-,  operational- or user-interface views (R3).
+Additional views might be used as needed to address further stakeholder concerns and requirements, such as functional safety, information view,  operational view or user-interface view (R3).
 // end::EN[]
 
 ===== {references}
