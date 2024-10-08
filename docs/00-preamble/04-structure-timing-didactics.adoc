@@ -6,7 +6,7 @@ Die Dauer einer Schulung sollte mindestens 3 Tage betragen, kann aber durchaus l
 Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übungen können die jeweiligen Schulungsanbieter individuell festlegen.
 
-[cols="<,>", options="header"]
+[cols="<,>", options="header,footer"]
 |===
 
 | Inhalt | Empfohlene Dauer (min)
@@ -23,8 +23,6 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 | 6. Beispiele | 90
 
-| |
-
 | Summe | 1080
 
 |===
@@ -40,7 +38,7 @@ Providers may vary in their approach to duration, teaching methods, the type and
 The types (domains and technologies) of examples and exercises can be determined individually by training providers.
 
 
-[cols="<,>", options="header"]
+[cols="<,>", options="header,footer"]
 |===
 
 | Content | Recommended Duration (min)
@@ -56,8 +54,6 @@ The types (domains and technologies) of examples and exercises can be determined
 | 5. Analysis and Assessment | 90
 
 | 6. Examples | 90
-
-| |
 
 | Total | 1080
 
