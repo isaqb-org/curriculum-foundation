@@ -3,7 +3,7 @@
 == Analyse und Bewertung von Softwarearchitekturen
 
 |===
-| Dauer: 180 Min. | Übungszeit: 60 Min.
+| Dauer: 60 Min. | Übungszeit: 30 Min.
 |===
 
 === Zielsetzung
@@ -23,7 +23,7 @@ Architekturanalyse; Risikoidentifikation; Qualitätsanalysemethoden; Szenarien; 
 == Analysis and Assessment of Software Architectures
 
 |===
-| Duration: 180 min. | Exercises: 60 min.
+| Duration: 60 min. | Exercises: 30 min.
 |===
 
 === Purpose

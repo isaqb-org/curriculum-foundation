@@ -3,7 +3,7 @@
 == Anforderungen und Randbedingungen
 
 |===
-| Dauer: 60 Min. | Übungszeit: 60 Min.
+| Dauer: 90 Min. | Übungszeit: 90 Min.
 |===
 
 === Zielsetzung
@@ -23,7 +23,7 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Q42; Qualitätsszenarien; Kompromi
 == Requirements and Constraints
 
 |===
-| Duration: 60 min. | Exercises: 60 min.
+| Duration: 90 min. | Exercises: 90 min.
 |===
 
 === Purpose
