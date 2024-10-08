@@ -1,8 +1,0 @@
-
-// tag::BIB_REFS[] 
-
-=== {references}
-
-<<bass>>, <<clementseval>>, <<gharbietal>>, <<starkelorz>>, <<starke>>
-
-// end::BIB_REFS[]

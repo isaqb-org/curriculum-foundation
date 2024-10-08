@@ -26,7 +26,7 @@ Softwarearchitekt:innen können erklären:
 
 Sie verstehen, dass 
 
-* manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1).
+* manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB (R1).
 * eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann (R1).
 // end::DE[]
 
@@ -54,6 +54,10 @@ They can explain
 
 They understand that
 
-* some categorizations distinguish between quality requirements and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
+* some categorizations distinguish between quality requirements and functional requirements, e.g. IREB  (R1)
 * a single requirement might pertain to several qualities  (R1)
 // end::EN[]
+
+===== {references}
+
+<<IREBFoundation>>
