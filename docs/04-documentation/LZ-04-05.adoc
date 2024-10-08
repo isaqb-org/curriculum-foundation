@@ -1,17 +1,17 @@
 // tag::DE[]
 [[LG-04-05]]
 ==== LZ 04-05 [ehemaliges LZ 3-04]: Architektursichten erläutern und anwenden (R1)
-Softwarearchitekt:innen können folgende Architektursichten anwenden (siehe <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
+Softwarearchitekt:innen können folgende Architektursichten anwenden:
 
 * Kontextsicht (auch genannt Kontextabgrenzung)
-  ** z.{nbsp}B. in Form von Kontextdiagrammen mit Erläuterungen darstellen
-  ** externe Schnittstellen von Systemen in der Kontextabgrenzung darstellen
-  ** fachlichen und technischen Kontext differenzieren
+  ** enthält die externen Schnittstellen von Systemen
+  ** bei Bedarf differenziert nach fachlichem und technischem Kontext
 
 * Baustein- oder Komponentensicht (Aufbau des Systems aus Softwarebausteinen)
 * Laufzeitsicht (dynamische Sicht, Zusammenwirken der Softwarebausteine zur Laufzeit, Zustandsmodelle)
 * Verteilungs-/Deploymentsicht (Hardware und technische Infrastruktur sowie Abbildung von Softwarebausteinen auf diese Infrastruktur)
 
+Zusätzliche Sichten können nach Bedarf verwendet werden, um zusätzliche Anliegen oder Anforderungen von Stakeholden zu berücksichtigen, z. B. Funktions-, Informations-, Betriebs- oder User-Interface Sichten (R3).
 // end::DE[]
 
 // tag::EN[]
@@ -20,12 +20,17 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden (siehe <<kr
 Software architects are able to use the following architectural views  (see <<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>):
 
 * context view
-  ** depict the context of systems, e.g. in the form of context diagrams with explanations
-  ** represent external interfaces of systems in the context view
-  ** differentiate business and technical context
+  ** contains the external interfaces of systems 
+  ** when appropriate differentiated according to business and technical context
+
 * building block or component view (composition of software building blocks)
 * runtime view (dynamic view, interaction between software building blocks at runtime, state machines)
 * deployment view (hardware and technical infrastructure as well as the mapping of software building blocks onto the infrastructure)
 
+Additional views might be used as needed to address additional stakeholder concerns and requirements, such as functional-, information-,  operational- or user-interface views (R3).
 // end::EN[]
+
+===== {references}
+<<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>
+
 
