@@ -15,6 +15,7 @@ Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 * ArchiMate, siehe <<archimate>> 
 * SysML, siehe <<sysml>>
 * C4, siehe <<brownc4>>
+* Entity-Relationship Diagramme, siehe <<erd>>
 * für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
 
 // end::DE[]
@@ -34,6 +35,7 @@ Software architects know alternative notations to UML diagrams, for example: (R3
 
 * Archimate, see <<archimate>>
 * SysML, see <<sysml>>
+* Entity-relationship diagrams, see <<erd>>
 * C4, see <<brownc4>>
 
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
