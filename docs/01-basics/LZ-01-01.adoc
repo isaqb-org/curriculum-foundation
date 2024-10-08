@@ -26,4 +26,5 @@ Software architects know the commonalities of many definitions of software archi
 // end::EN[]
 
 ===== {references}
-<<iso42010>>, <<bass>>, <<kruchten>>
+<<iso42010>>, <<bass>>, <<kruchten>>, <<starkelorz>>
+

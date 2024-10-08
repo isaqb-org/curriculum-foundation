@@ -3,14 +3,14 @@
 [[LG-01-06]]
 ==== LZ 01-06: Bedeutung und Entwurf von Datenmodellen (R2)
 
-Softwarearchitekt:innen verstehen die Bedeutung von Datenmodellen für
-die Architektur.  Sie
+Softwarearchitekt:innen verstehen die Bedeutung von Datenmodellen für die Architektur.  
+Sie
 
 * können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
 * können solche Datenmodelle systematisch entwerfen. 
-* verstehen den Unterschied zwischen {glossary_url}product[Produkten] und {glossary_url}sum[Summen] in der
-  Datenmodellierung <<felleisenetal>> <<sperberklaeren>>. 
+* verstehen den Unterschied zwischen {glossary_url}product[Produkten] und {glossary_url}sum[Summen] in der Datenmodellierung <<felleisenetal>> <<sperberklaeren>>. 
 * verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen. 
+
 
 // end::DE[]
 
@@ -18,16 +18,16 @@ die Architektur.  Sie
 [[LG-01-06]]
 ==== LG 01-06: Importance and Design of Data Models (R2)
 
-Software architects understand the importance of data models for
-the architecture.  They
+Software architects understand the importance of data models for the architecture.  
+They
 
-* can identify data models that have significant impact on the
-  architecture. 
+* can identify data models that have significant impact on the  architecture. 
 * can design such data models systematically. 
-* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data
-  modelling <<felleisenetal>> <<sperberklaeren>>. 
+* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data modelling <<felleisenetal>> <<sperberklaeren>>. 
 * understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
 
 
 // end::EN[]
 
+===== {references}
+<<felleisenetal>>, <<sperberklaeren>>, <<kleppmann>>
