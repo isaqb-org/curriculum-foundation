@@ -3,12 +3,15 @@
 [[LG-02-03]]
 ==== LZ 02-03 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)
 
+Softwarearchitekt:innen wissen dass der Begriff "Qualität" in verschiedenen Kontexten unterschiedlich benutzt wird: 
+
+* im Kontext von Qualitätsmanagement im Sinne von "Güte" und 
+* im Sinne spezifischer Eigenschaften (eines Softwaresystems). 
+
+In diesem Lernziel geht es um letzteres.
+
 Softwarearchitekt:innen können erklären:
 
-* dass der Begriff "Qualität" in verschiedenen Kontexten
-  unterschiedlich benutzt wird - im Kontext von Qualitätsmanagement im
-  Sinne von "Güte" und im Sinne spezifischer Eigenschaften
-  (eines Softwaresystems) in anderen (und in diesem Abschnitt)
 * dass es unterschiedliche Taxonomien gibt, die Qualitäten von
   Softwaresystemen kategorisieren (wie z.{nbsp}B. <<iso25010>>,
   <<bass>> oder <<q42>>)
@@ -23,26 +26,27 @@ Softwarearchitekt:innen können erklären:
 
 Sie verstehen, dass 
 
-* manche Kategorisierungen zwischen "Qualitätsanforderungen" und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1).
+* manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1).
 * eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann (R1).
 // end::DE[]
+
 
 // tag::EN[]
 [[LG-02-03]]
 ==== LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)
 
-Software architects can explain:
+Software architects know that the term "quality" is used differently in different contexts: 
+* referring to "excellence" in the context of quality management, and
+* referring to a "specific property (of a software system)" in others.
 
-* that the term "quality" is used differently in different contexts -
-  referring to "excellence" in the context of quality management, and
-  referring to a specific property (of a software system) in others
-  (and in this section)
-* that several taxonomies categorizing qualities of software systems
-  exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
+This learning goal refers to the latter.
+
+They can explain
+
+* that several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
 * that some categorizations distinguish between functionality and quality
 * that software architecture can impact a software system's qualities,
-* that impacting one quality can impact others, necessitating
-  trade-offs, such as:
+* that impacting one quality can impact others, necessitating trade-offs, such as:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency
 ** security versus usability
@@ -50,7 +54,6 @@ Software architects can explain:
 
 They understand that
 
-* some categorizations distinguish between "quality
-  requirements" and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
+* some categorizations distinguish between quality requirements and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
 * a single requirement might pertain to several qualities  (R1)
 // end::EN[]

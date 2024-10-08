@@ -8,15 +8,13 @@ Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie könne
 
 Sie kennen:
 
-* wünschenswerte Eigenschaften von Schnittstellen und können diese bei
-  ihrer Entwicklung einsetzen:
+* wünschenswerte Eigenschaften von Schnittstellen und können diese bei ihrer Entwicklung einsetzen:
 ** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
 * die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
 * die Trennung zwischen Schnittstelle und Implementierung:
 ** Implementierungen können bei Bedarf ausgetauscht werden.
-** Liskov'sches Substitutionsprinzip <<liskov>> als eine Möglichkeit, Konsistenz und konzeptionelle Integrität zu erreichen (R3).
 * unterschiedliche Implementierungsansätze von Schnittstellen (R3):
 ** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
 ** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
@@ -39,7 +37,6 @@ They know:
 * the necessity to treat internal and external interfaces differently
 * the distinction between interface and implementation:
 ** implementations can be exchanged if required.
-** Liskov's substitution principle <<liskov>> as a way to achieve consistency and conceptual integrity (R3).
 * different approaches for implementing interfaces (R3):
 ** resource oriented approach (REST, Representational State Transfer)
 ** service oriented approach (see WS-*/SOAP-based web services.

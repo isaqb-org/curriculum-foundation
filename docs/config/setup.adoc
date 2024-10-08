@@ -31,13 +31,7 @@ endif::[]
 
 // ":include_configuration:" always consists of the language,
 // additional markers might be configured here!
-:include_configuration: tags={language}
-
-
-// ":bibrefs:" (bibliography entries) are single language, to avoid redundancy.
-// therefore the appropriate include statements don't contain a language,
-// but the "BIB_REFS" tag.
-:bibrefs: BIB_REFS
+:include_configuration: tags=!*;{language}
 
 // glossary definitions
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"

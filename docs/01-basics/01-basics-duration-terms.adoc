@@ -15,20 +15,20 @@ Außerdem wird deren Rolle im organisatorischen Kontext und ihre Interaktion mit
 
 === Wesentliche Begriffe
 {glossary_url}software-architecture[Softwarearchitektur];
-Architekturdomänen; 
-{glossary_url}structure[Struktur]; 
-{glossary_url}building-block[Bausteine]; 
-{glossary_url}component[Komponenten]; 
-{glossary_url}interface[Schnittstellen]; 
-{glossary_url}relationship[Beziehungen]; 
+Architekturdomänen;
+{glossary_url}structure[Struktur];
+{glossary_url}building-block[Bausteine];
+{glossary_url}component[Komponenten];
+{glossary_url}interface[Schnittstellen];
+{glossary_url}relationship[Beziehungen];
 {glossary_url}cross-cutting-concern[Querschnittsthemen];
-Nutzen von Softwarearchitektur; 
-Softwarearchitekt:innen und deren Verantwortlichkeiten; 
-Rolle; 
-Aufgaben und benötigte Fähigkeiten; 
-Stakeholder und deren Anliegen; 
-Anforderungen; 
-{glossary_url}constraints[Randbedingungen]; 
+Nutzen von Softwarearchitektur;
+Softwarearchitekt:innen und deren Verantwortlichkeiten;
+Rolle;
+Aufgaben und benötigte Fähigkeiten;
+Stakeholder und deren Anliegen;
+Anforderungen;
+{glossary_url}constraint[Randbedingungen];
 Einflussfaktoren
 
 // end::DE[]
@@ -48,18 +48,18 @@ Furthermore, they will be able to name and explain the most important tasks and 
 Additionally, the section explores the role of software architects in the broader architectural context and their interactions with other stakeholders, preparing participants to effectively contribute to diverse software development projects.
 
 === Relevant Terms
-{glossary_url}software-architecture[Software architecture]; 
-architecture domains; {glossary_url}structure[structure]; 
-{glossary_url}building-block[building blocks]; 
-{glossary_url}component[components]; 
-{glossary_url}interface[interfaces]; 
-{glossary_url}relationship[relationships]; 
+{glossary_url}software-architecture[Software architecture];
+architecture domains; {glossary_url}structure[structure];
+{glossary_url}building-block[building blocks];
+{glossary_url}component[components];
+{glossary_url}interface[interfaces];
+{glossary_url}relationship[relationships];
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
-software architects and their responsibilities; 
-tasks and required skills; 
-stakeholders and their concerns; 
+software architects and their responsibilities;
+tasks and required skills;
+stakeholders and their concerns;
 requirements;
-{glossary_url}constraints[constraints]; 
+{glossary_url}constraint[constraints];
 influencing factors
 
 // end::EN[]
