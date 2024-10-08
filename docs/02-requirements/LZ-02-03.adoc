@@ -5,8 +5,8 @@
 
 Softwarearchitekt:innen wissen dass der Begriff "Qualität" in verschiedenen Kontexten unterschiedlich benutzt wird: 
 
-** im Kontext von Qualitätsmanagement im Sinne von "Güte" und 
-** im Sinne spezifischer Eigenschaften (eines Softwaresystems). 
+* im Kontext von Qualitätsmanagement im Sinne von "Güte" und 
+* im Sinne spezifischer Eigenschaften (eines Softwaresystems). 
 
 In diesem Lernziel geht es um letzteres.
 
