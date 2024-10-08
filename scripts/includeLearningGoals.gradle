@@ -19,7 +19,7 @@ task includeLearningGoals(
         group: 'isaqb-curriculum'
 ) {
     doLast {
-        def contentDE = createLearningGoalsContent("DE", ~/\[\[(LZ-\d*-\d*)\]\]\s*==== (LZ (\d*)-(\d*).*)/, "Verzeichnis der Lernziele")
+        def contentDE = createLearningGoalsContent("DE", ~/\[\[(LG-\d*-\d*)\]\]\s*==== (LZ (\d*)-(\d*).*)/, "Verzeichnis der Lernziele")
         def contentEN = createLearningGoalsContent("EN", ~/\[\[(LG-\d*-\d*)\]\]\s*==== (LG (\d*)-(\d*).*)/, "List of Learning Goals")
 
         writeLearningGoals(contentDE, contentEN)
