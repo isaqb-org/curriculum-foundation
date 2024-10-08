@@ -3,7 +3,7 @@
 [[LG-04-03]]
 ==== LZ 04-03 [ehemaliges LZ 3-03]: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
-Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme (siehe <<uml>>) zur Notation von Architektursichten:
+Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
 
 * Klassen-, Paket-, Komponenten- (jeweils R2) und Kompositionsstrukturdiagramme (R3)
 * Verteilungsdiagramme (R2)
@@ -12,8 +12,8 @@ Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme (siehe <<uml>>)
 
 Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 
-* ArchiMate, siehe <<archimate>> 
-* SysML, siehe <<sysml>>
+* ArchiMate, 
+* SysML, 
 * C4, siehe <<brownc4>>
 * Entity-Relationship Diagramme, siehe <<erd>>
 * für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
@@ -24,7 +24,7 @@ Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 [[LG-04-03]]
 ==== LG 04-03 [previously LG 3-03]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
 
-Software architects know at least the following UML (see <<uml>>) diagrams to describe architectural views:
+Software architects know at least the following UML diagrams to describe architectural views:
 
 * class, package, component (all R2) and composite-structure diagrams (R3)
 * deployment diagrams (R2)
@@ -33,11 +33,15 @@ Software architects know at least the following UML (see <<uml>>) diagrams to de
 
 Software architects know alternative notations to UML diagrams, for example: (R3)
 
-* Archimate, see <<archimate>>
-* SysML, see <<sysml>>
+* Archimate,
+* SysML,
 * Entity-relationship diagrams, see <<erd>>
 * C4, see <<brownc4>>
 
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]
+
+
+===== {references}
+<<uml>>, <<archimate>>, <<sysml>>, <<brownc4>>, <<erd>>

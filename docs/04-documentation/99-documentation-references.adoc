@@ -1,7 +1,0 @@
-
-// tag::BIB_REFS[] 
-=== {references}
-
-<<arc42>>, <<archimate>>, <<bass>>, <<brownc4>>, <<clementsdoc>>, <<fmc>>, <<gharbietal>>, <<kruchten95>>, <<starkelorz>>, <<nygard>>, <<starke>>, <<uml>>, <<zoerner>>
-
-// end::BIB_REFS[]
