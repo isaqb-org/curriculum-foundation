@@ -6,17 +6,17 @@ include::./01-basics-duration-terms.adoc[{include_configuration}]
 
 === {learning_goals}
 
-include::./LZ-01-01.adoc[{include_configuration}]
+include::./LG-01-01.adoc[{include_configuration}]
 
-include::./LZ-01-02.adoc[{include_configuration}]
+include::./LG-01-02.adoc[{include_configuration}]
 
-include::./LZ-01-03.adoc[{include_configuration}]
+include::./LG-01-03.adoc[{include_configuration}]
 
-include::./LZ-01-04.adoc[{include_configuration}]
+include::./LG-01-04.adoc[{include_configuration}]
 
-include::./LZ-01-05.adoc[{include_configuration}]
+include::./LG-01-05.adoc[{include_configuration}]
 
-include::./LZ-01-06.adoc[{include_configuration}]
+include::./LG-01-06.adoc[{include_configuration}]
 
 include::./99-basics-references.adoc[tags={bibrefs}]
 

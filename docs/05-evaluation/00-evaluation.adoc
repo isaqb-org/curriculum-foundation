@@ -8,8 +8,8 @@ include::./01-evaluation-duration-terms.adoc[{include_configuration}]
 === {learning_goals}
 
 
-include::./LZ-05-01.adoc[{include_configuration}]
-include::./LZ-05-02.adoc[{include_configuration}]
-include::./LZ-05-03.adoc[{include_configuration}]
+include::./LG-05-01.adoc[{include_configuration}]
+include::./LG-05-02.adoc[{include_configuration}]
+include::./LG-05-03.adoc[{include_configuration}]
 
 include::./99-evaluation-references.adoc[tags={bibrefs}]

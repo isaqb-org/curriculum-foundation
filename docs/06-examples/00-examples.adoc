@@ -7,6 +7,6 @@ include::./01-examples-duration-terms.adoc[{include_configuration}]
 
 === {learning_goals}
 
-include::./LZ-06-01.adoc[{include_configuration}]
+include::./LG-06-01.adoc[{include_configuration}]
 
-include::./LZ-06-02.adoc[{include_configuration}]
+include::./LG-06-02.adoc[{include_configuration}]
