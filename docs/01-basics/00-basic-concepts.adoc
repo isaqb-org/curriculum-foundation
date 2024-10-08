@@ -20,3 +20,4 @@ include::./LG-01-06.adoc[{include_configuration}]
 
 include::./99-basics-references.adoc[tags={bibrefs}]
 
+include::./LZ-01-06.adoc[{include_configuration}]
