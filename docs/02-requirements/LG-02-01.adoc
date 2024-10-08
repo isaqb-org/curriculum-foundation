@@ -13,16 +13,15 @@ Beispiele für Stakeholder und ihre Anliegen (R3):
 | Produktmanagement
 | z.{nbsp}B. benötigte Zeit für die Umsetzung der Anforderungen
 
+| Entwicklungsteam
+| z. B. zu implementierende Komponenten und Schnittstellen, Protokolle, technische Anforderungen und Randbedingungen
+
+| Requirements Engineering, Product-Owner, Businss-Analyse, Fachbereiche
+| z. B. Erfüllung der Anforderungen
+
 | Projektmanagement
 | z. B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
 gewählten architekturellen Ansatzes
-
-| Requirements Engineering, Fachbereiche
-| z. B. Erfüllung der Anforderungen
-
-| Entwicklungsteam
-| z. B. zu implementierende Komponenten und Schnittstellen, Protokolle,
-technologische Einschränkungen
 
 | Qualitätssicherung und Test
 | z. B. isoliertes Testen von Komponenten
@@ -53,14 +52,14 @@ Examples of stakeholders and concerns (R3):
 | product management and product owners
 | e.g., required time for the implementation of the requirements
 
-| project managers
-| e.g., required time and budget for the implementation, associated risks of the chosen architectural approach
+| developers
+| e.g., components and interfaces to be implemented, protocols, technical requirements and constraints
 
-| requirement engineers
+| requirement engineers, product owners, business analysts
 | e.g., fulfillment of the requirements
 
-| developers
-| e.g., components and interfaces to be implemented, protocols, technology constraints
+| project managers
+| e.g., required time and budget for the implementation, associated risks of the chosen architectural approach
 
 | quality assurance and testers
 | e.g., isolated testing of components
