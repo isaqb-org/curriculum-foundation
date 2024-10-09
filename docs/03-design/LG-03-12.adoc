@@ -34,3 +34,6 @@ Software architects know:
 * what the "split-brain" problem is and why it is difficult
 * that it is impossible to determine the temporal order of events in a distributed system
 // end::EN[]
+
+===== {references}
+<<distributedsystems>>, <<buschmannb>>, <<fordhardparts>>, <<miller-distributed>>
