@@ -1,6 +1,0 @@
-
-// tag::BIB_REFS[] 
-=== {references}
-
-
-// end::BIB_REFS[]
