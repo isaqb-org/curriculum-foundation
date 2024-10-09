@@ -44,3 +44,6 @@ They know:
 See also <<LG-04-06>>.
 
 // end::EN[]
+
+===== {references}
+<<zimmermann-api>>, <<geewax>>
