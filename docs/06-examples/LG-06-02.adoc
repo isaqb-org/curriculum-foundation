@@ -13,3 +13,6 @@ Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische
 Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one solution.
 
 // end::EN[]
+
+===== {references}
+<<arc42>>

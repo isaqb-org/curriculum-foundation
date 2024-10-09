@@ -11,3 +11,5 @@ Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforde
 Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.
 
 // end::EN[]
+
+
