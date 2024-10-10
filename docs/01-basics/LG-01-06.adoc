@@ -23,7 +23,7 @@ They
 
 * can identify data models that have significant impact on the  architecture. 
 * can design such data models systematically. 
-* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data modelling <<felleisenetal>> <<sperberklaeren>>. 
+* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data modelling.
 * understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
 
 
