@@ -55,6 +55,7 @@ architecture domains; {glossary_url}structure[structure];
 {glossary_url}interface[interfaces];
 {glossary_url}relationship[relationships];
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
+benefits of software architecture;
 software architects and their responsibilities;
 tasks and required skills;
 stakeholders and their concerns;
