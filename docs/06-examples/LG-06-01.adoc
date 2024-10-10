@@ -12,4 +12,5 @@ Software architects are expected to recognize and comprehend the correlation bet
 
 // end::EN[]
 
-
+===== {references}
+<<arc42>>, <<starkeetalarc42>>, <<hruschkaetalarc42>>, <<zoerner>>, <<aosa>>
