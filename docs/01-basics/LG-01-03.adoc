@@ -33,7 +33,7 @@ Tasks and responsibilities of software architects:
 * clarify and scrutinize the requirements and constraints. 
 Coordinate and agree on any necessary refinements with the corresponding stakeholders.  
 * decide how to decompose the system into building blocks, while determining dependencies and interfaces between the building blocks
-* decide on cross-cutting concerns (for instance persistence, communication, GUI etc.)
+* decide on cross-cutting concerns (for instance persistence, communication, GUI)
 * communicate and document software architecture based on views, architectural patterns, cross-cutting concerns, and technical concerns
 * accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture
 * analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements.
