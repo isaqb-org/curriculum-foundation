@@ -7,7 +7,7 @@ Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Be
 
 * {glossary_url}layer[Layer]
 * {glossary_url}pipes-and-filters[Pipes und Filter]
-* {glossary_url}microservice[Microservice]
+* {glossary_url}microservices[Microservices]
 
 Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
 
@@ -35,9 +35,9 @@ Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beisp
 
 Software architects can explain and provide examples for the following architectural patterns (R1):
 
-* {glossary_url}layer[Layer]
+* {glossary_url}layers[Layers]
 * {glossary_url}pipes-and-filters[Pipes and Filters]
-* {glossary_url}microservice[Microservice]
+* {glossary_url}microservices[Microservices]
 
 Software architects can explain several of the following architectural patterns,
 explain their relevance for concrete systems, and provide examples. (R3)
