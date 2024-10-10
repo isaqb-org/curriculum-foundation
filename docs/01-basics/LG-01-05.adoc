@@ -11,7 +11,7 @@ Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeh
 * Entwicklung
 * Qualitätssicherung und Test
 * IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
-* Hardwareentwicklung
+* Hardwareentwicklung und Systemarchitektur, zutreffend primär für eingebettete und hardwarenahe Systeme
 * Unternehmensarchitektur, Architekturboard.
 
 // end::DE[]
@@ -28,7 +28,7 @@ They should adapt their contribution to a software development in a specific con
 * developers
 * quality assurance and testers
 * IT operators and administrators (applies primarily to production environment or data centers for information systems),
-* hardware developers
+* hardware developers and system architects (applies primarily to embedded and hardware-related systems)
 * enterprise architects and architecture board members
 
 // end::EN[]
