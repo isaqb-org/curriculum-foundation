@@ -15,7 +15,7 @@ Softwarearchitekt:innen können erklären:
 * dass es unterschiedliche Taxonomien gibt, die Qualitäten von
   Softwaresystemen kategorisieren (wie z.{nbsp}B. <<iso25010>>,
   <<bass>> oder <<q42>>)
-* dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
+* dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden, wie zum Beispiel IREB <<IREBFoundation>>
 * dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems beeinflussen können
 * dass die Veränderung einer Qualität andere so beeinflussen kann, dass Abwägungen notwendig werden, wie z.{nbsp}B.
 ** Konfigurierbarkeit versus Zuverlässigkeit
@@ -26,8 +26,7 @@ Softwarearchitekt:innen können erklären:
 
 Sie verstehen, dass 
 
-* manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB <<IREBFoundation>> (R1).
-* eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann (R1).
+* eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann.
 // end::DE[]
 
 
@@ -44,7 +43,7 @@ This learning goal refers to the latter.
 They can explain
 
 * that several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* that some categorizations distinguish between functionality and quality
+* that some categorizations distinguish between functionality and quality, e.g. IREB <<IREBFoundation>
 * that software architecture can impact a software system's qualities,
 * that impacting one quality can impact others, necessitating trade-offs, such as:
 ** configurability versus reliability
@@ -54,6 +53,5 @@ They can explain
 
 They understand that
 
-* some categorizations distinguish between quality requirements and functional requirements, e.g. IREB <<IREBFoundation>> (R1)
-* a single requirement might pertain to several qualities  (R1)
+* a single requirement might pertain to several qualities
 // end::EN[]
