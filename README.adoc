@@ -471,7 +471,6 @@ We use a distinct section for every learning goal:
 
 Example (abbreviated)
 ----
-/ tag::EN[]
 [[LG-01-01]]
 ==== LG 01-01: Discuss Definitions of Software Architecture (R1)
 
@@ -483,5 +482,4 @@ Software architects know the commonalities of many definitions of software archi
 ===== {references}
 <<iso42010>>, <<bass>>, <<kruchten>>, <<starkelorz>>
 
-// end::EN[]
 ----
