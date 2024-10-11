@@ -43,7 +43,7 @@ This learning goal refers to the latter.
 They can explain
 
 * that several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* that some categorizations distinguish between functionality and quality, e.g. IREB <<IREBFoundation>
+* that some categorizations distinguish between functionality and quality, e.g. IREB <<IREBFoundation>>
 * that software architecture can impact a software system's qualities,
 * that impacting one quality can impact others, necessitating trade-offs, such as:
 ** configurability versus reliability
