@@ -20,15 +20,12 @@ Softwarearchitekt:innen
 ** Architekturdokumentation (R1)
 ** Architektur- und Entwurfsmodelle (R1)
 ** Quelltext (R1)
-** Quelltext-bezogene Metriken wie z.{nbsp}B: Lines-of-Code, (zyklomatische)
-   Komplexität (R1)
+** Quelltext-bezogene Metriken wie z.{nbsp}B: Lines-of-Code, (zyklomatische) Komplexität (R1)
 ** Testfälle und ihre Testresultate (R1)
 ** Fehler und ihre Position im Quelltext, besonders Fehlercluster (R1)
-** andere Dokumentation des Systems, wie z.{nbsp}B. Betriebs- und
-   Testdokumentation (R1)
+** andere Dokumentation des Systems, wie z.{nbsp}B. Betriebs- und Testdokumentation (R1)
 ** Laufzeit-Logs und Metriken (R1)
-** Revisionshistorie, wie z.{nbsp}B. wie Änderungsrate pro Komponente
-   (R3)
+** Revisionshistorie, wie z.{nbsp}B. wie Änderungsrate pro Komponente (R3)
 
 Siehe auch <<LG-02-03>>, <<LG-02-04>>.
 // end::DE[]
@@ -39,14 +36,12 @@ Siehe auch <<LG-02-03>>, <<LG-02-04>>.
 
 Software architects
 
-* understand that, for any given quality, different analysis methods
-  might be available for a particular software system, such as
+* understand that, for any given quality, different analysis methods might be available for a particular software system, such as
 ** analysis of the results of acceptance testing (R1)
 ** quantitative measurement of run-time behaviour (R1)
 ** qualitative evaluation via interviews, surveys, penetration tests etc. (R1)
 ** scenarios (R1)
-** architecture metrics for coupling such as the degree of
-   inbound and outbound dependencies (R1)
+** architecture metrics for coupling such as the degree of inbound and outbound dependencies (R1)
 ** cost-benefit analysis (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
@@ -55,15 +50,17 @@ Software architects
 ** architecture documentation (R1)
 ** architecture and design models (R1)
 ** source code (R1)
-** source-code-related metrics such as lines of code, (cyclomatic)
-   complexity (R1)
+** source-code-related metrics such as lines of code, (cyclomatic) complexity (R1)
 ** test cases and test results (R1)
 ** errors and their locations in the source code, especially error clusters (R1)
-** other documentation of the system, such as operational or test (R1)
-   documentation (R1)
+** other documentation of the system, such as operational or test documentation (R1)
 ** run-time event logs and metrics (R1)
 ** revision history, such as the rate of change per component (R3)
 
 See also <<LG-02-03>>, <<LG-02-04>>.
 
 // end::EN[]
+
+
+===== {references}
+<<bass>>, <<starkelorz>>, <<clementseval>>, <<iso25019>>, <<lilienthal-en>>

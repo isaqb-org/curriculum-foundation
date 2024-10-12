@@ -1,9 +1,0 @@
-
-// tag::BIB_REFS[]
-
-=== {references}
-
-<<bass>>, <<fowler>>, <<gharbietal>>, <<gof>>, <<hohpe>>, <<buschmanna>>, <<buschmannb>>, <<starke>>, <<lilienthal>>, <<starkelorz>>,
-<<kruchten95>>, <<rozanskiwoods>>, <<starkelorz>>, <<arc42>>, <<brownc4>>, <<humble>>
-
-// end::BIB_REFS[]

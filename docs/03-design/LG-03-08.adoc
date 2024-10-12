@@ -58,3 +58,6 @@ explain their relevance for concrete systems, and provide examples. (R3)
 Software architects know essential sources for architectural patterns, such as POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems). (R3)
 
 // end::EN[]
+
+===== {references}
+<<buschmanna>>, <<buschmannb>>, <<eilebrecht>>, <<fowler>>, <<gof>>, <<hohpe>>, <<pethuru>>

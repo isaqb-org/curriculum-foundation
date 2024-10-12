@@ -31,3 +31,6 @@ Software architects know that such cross-cutting concerns may be re-used across 
 See also <<LG-04-07>>.
 
 // end::EN[]
+
+===== {references}
+<<starke>>, <<starkelorz>>
