@@ -1,22 +1,21 @@
 // tag::DE[]
 [[LG-01-01]]
-==== LZ 01-01: Definitionen von Softwarearchitektur diskutieren (R1)
+==== LZ 01-01: Definitionen von Softwarearchitektur verstehen (R1)
 
-Softwarearchitekt:innen kennen die Gemeinsamkeiten vieler Definitionen von Softwarearchitektur:
+Softwarearchitekt:innen kennen und verstehen die Gemeinsamkeiten vieler Definitionen von Softwarearchitektur:
 
 * {glossary_url}building-block[Komponenten/Bausteine] mit Schnittstellen und Beziehungen
 * Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon
 * Strukturen, {glossary_url}cross-cutting-concern[Querschnittsthemen], Prinzipien
-* Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und
-  seinen Lebenszyklus
+* Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und seinen Lebenszyklus
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-01]]
-==== LG 01-01: Discuss Definitions of Software Architecture (R1)
+==== LG 01-01: Understand Definitions of Software Architecture (R1)
 
-Software architects know the commonalities of many definitions of software architecture:
+Software architects know and understand the commonalities of many definitions of software architecture:
 
 * {glossary_url}building-block[components/building blocks] with interfaces and relationships
 * building blocks as a general term, components as a special form thereof
