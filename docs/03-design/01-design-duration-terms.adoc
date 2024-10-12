@@ -20,7 +20,7 @@ Entwurf;
 Vorgehen beim Entwurf; 
 Entwurfsentscheidung; 
 Sichten; 
-Schnittstellen; 
+{glossary_url}interface[Schnittstellen];
 technische Konzepte und Querschnittsthemen; 
 Architekturmuster; 
 Entwurfsmuster; 
@@ -53,9 +53,10 @@ In addition, this section addresses the management of cross-cutting concerns, th
 === Relevant Terms
 Design; design approach; design decision; views; 
 {glossary_url}interface[interfaces];  
-technical and 
+technical concepts and
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
-architectural patterns; 
+architectural patterns;
+design patterns;
 pattern languages; 
 design principles; 
 dependencies; 
