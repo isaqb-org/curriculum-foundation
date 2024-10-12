@@ -32,7 +32,8 @@ technologische Einschränkungen
 
 |===
 
-Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen erklären, um mögliche Konflikte (z.B., Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele) zu lösen. (R2)
+Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen identifizieren (z.B. Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele).
+Sie verstehen, dass sie die relevanten Stakeholder einbeziehen müssen, um diese Konflikte zu lösen. (R2)
 
 Architekt:innen verstehen, dass nicht alle Anliegen der Stakeholder in Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt werden müssen. (R3)
 
@@ -70,7 +71,9 @@ Examples of stakeholders and concerns (R3):
 
 |===
 
-Software architects can explain potential conflicts between short-term and long-term goals, in order to resolve potential conflicts (e.g., business and project goals vs. architecture and maintainability goals). (R2)
+Software architects can identify potential conflicts between short-term and long-term goals (e.g., business and project goals vs.
+architecture and maintainability goals).
+They understand that they need to involve the relevant stakeholders in order to resolve these conflicts. (R2)
 
 Architects understand that not all stakeholder concerns can or will be translated into requirements, but still need to be considered. (R3)
 
