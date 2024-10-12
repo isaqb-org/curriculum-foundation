@@ -45,7 +45,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 // tag::EN[]
 [[LG-02-02]]
-==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)
+==== LG 02-02 [previously LG 2-3]: Clarify and Consider Requirements and Constraints (R1-R3)
 
 Software architects understand that both requirements and constraints can have an impact on the architecture and the architecture work (R2).
 They are able to clarify requirements and constraints and take them into account in the architectural design and development process.

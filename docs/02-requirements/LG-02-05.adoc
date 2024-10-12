@@ -16,6 +16,6 @@ Softwarearchitekt:innen:
 
 Software architects:
 
+* can make assumptions explicit and thus avoid implicit assumptions
 * know that implicit assumptions can lead to misunderstandings between stakeholders
-* assumptions should be made explicit
 // end::EN[]

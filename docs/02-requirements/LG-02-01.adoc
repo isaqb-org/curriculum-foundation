@@ -72,7 +72,7 @@ Examples of stakeholders and concerns (R3):
 
 Software architects can explain potential conflicts between short-term and long-term goals, in order to resolve potential conflicts (e.g., business and project goals vs. architecture and maintainability goals). (R2)
 
-Architects understand that not all stakeholder concerns can or will be translated into requirements, but may nevertheless need to be considered. (R3)
+Architects understand that not all stakeholder concerns can or will be translated into requirements, but still need to be considered. (R3)
 
 Architects can use stakeholder concerns to discover missing or conflicting requirements and/or validate requirements and constraints on the architecture, e.g., in stakeholder interviews. (R3)
 
