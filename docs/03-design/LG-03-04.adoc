@@ -53,13 +53,13 @@ Softwarearchitekt:innen sind in der Lage:
 ==== LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R1-R3)
 
 Software architects are able to explain what design principles are.
-They can outline their general objectives and applications with regard to software architecture. (R2)
+They can outline their general objectives and their application with regard to software architecture. (R2)
 
 Software architects are able to:
 
 * explain the design principles listed below and can illustrate them with examples
 * explain how those principles are to be applied
-* explain how the requirements determine which principles should be applied
+* explain how requirements determine which principles should be applied
 * explain the impact of design principles on the implementation
 * analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 

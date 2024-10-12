@@ -11,7 +11,7 @@ Softwarearchitekt:innen können:
 * Begriffe {glossary_url}blockbox[Blackbox] und {glossary_url}whitebox[Whitebox] erklären und zielgerichtet anwenden
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht (siehe <<LG-04-05>>)
-* die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
+* die aus Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
 * domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
 * Risiken von Architekturentscheidungen identifizieren.
 
@@ -24,12 +24,12 @@ Softwarearchitekt:innen können:
 Software architects are able to:
 
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
-* make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks (see <<LG-03-06>>)
-* recognize and justify interdependencies and trade-offs of {glossary_url}architecture decisions[architecture decisions]
+* make structural decisions regarding system decomposition and building-block structure, thereby defining dependencies between building blocks (see <<LG-03-06>>)
+* recognize and justify interdependencies and trade-offs between {glossary_url}architecture decisions[architecture decisions]
 * explain the terms {glossary_url}blockbox[black box] and {glossary_url}whitebox[white box] and apply them purposefully
-* apply stepwise refinement and specify building blocks
+* apply stepwise refinement and specification of building blocks
 * design architecture views, especially building-block view, runtime view and deployment view (see <<LG-04-05>>)
-* explain the consequences of these decisions on the corresponding source code
+* explain the consequences of decisions on the corresponding source code
 * separate technical and domain-related elements of architectures and justify these decisions
 * identify risks related to architecture decisions.
 
