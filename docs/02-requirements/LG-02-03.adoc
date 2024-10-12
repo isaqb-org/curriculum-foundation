@@ -34,15 +34,16 @@ Sie verstehen, dass
 [[LG-02-03]]
 ==== LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)
 
-Software architects know that the term "quality" is used differently in different contexts: 
+Software architects know that the term "quality" is used differently in different contexts:
+
 * referring to "excellence" in the context of quality management, and
 * referring to a "specific property (of a software system)" in others.
 
 This learning goal refers to the latter.
 
-They can explain
+Software architects can explain
 
-* that several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
+* that several taxonomies for categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
 * that some categorizations distinguish between functionality and quality, e.g. IREB <<IREBFoundation>>
 * that software architecture can impact a software system's qualities,
 * that impacting one quality can impact others, necessitating trade-offs, such as:
