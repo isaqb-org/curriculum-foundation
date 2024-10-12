@@ -7,13 +7,13 @@ Softwarearchitekt:innen können:
 
 * Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren
 * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen (siehe <<LG-03-06>>)
-* gegenseitige Abhängigkeiten und Abwägungen bezüglich Entwurfsentscheidungen erkennen und begründen
+* gegenseitige Abhängigkeiten und Abwägungen bezüglich Architekturentscheidungen erkennen und begründen
 * Begriffe {glossary_url}blockbox[Blackbox] und {glossary_url}whitebox[Whitebox] erklären und zielgerichtet anwenden
 * schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen
 * Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht (siehe <<LG-04-05>>)
 * die aus diesen Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären
 * domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen
-* Risiken von Entwurfsentscheidungen identifizieren.
+* Risiken von Architekturentscheidungen identifizieren.
 
 // end::DE[]
 
@@ -25,7 +25,7 @@ Software architects are able to:
 
 * design and appropriately communicate and document software architectures based upon known functional and quality requirements for software systems that are neither safety- nor business-critical
 * make structure-relevant decisions regarding system decomposition and building-block structure and deliberately design dependencies between building blocks (see <<LG-03-06>>)
-* recognize and justify interdependencies and trade-offs of design decisions
+* recognize and justify interdependencies and trade-offs of {glossary_url}architecture decisions[architecture decisions]
 * explain the terms {glossary_url}blockbox[black box] and {glossary_url}whitebox[white box] and apply them purposefully
 * apply stepwise refinement and specify building blocks
 * design architecture views, especially building-block view, runtime view and deployment view (see <<LG-04-05>>)

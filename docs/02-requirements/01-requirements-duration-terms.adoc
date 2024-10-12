@@ -3,7 +3,7 @@
 == Anforderungen und Randbedingungen
 
 |===
-| Dauer: 60 Min. | Übungszeit: 60 Min.
+| Dauer: 90 Min. | Übungszeit: 90 Min.
 |===
 
 === Zielsetzung
@@ -23,12 +23,12 @@ Qualität; Qualitätsmerkmale; DIN/ISO 25010; Q42; Qualitätsszenarien; Kompromi
 == Requirements and Constraints
 
 |===
-| Duration: 60 min. | Exercises: 60 min.
+| Duration: 90 min. | Exercises: 90 min.
 |===
 
 === Purpose
-This section deepens participants' understanding of stakeholder concerns, requirements, and system qualities in software architecture.
-Participants learn to identify stakeholders and their influence on architectural decisions, discerning conflicts and synergies in the context of development projects.
+This section deepens participants' understanding of stakeholder concerns, requirements, and qualities of software architecture.
+Participants learn to identify the influence of stakeholders on architectural decisions and to assess conflicts and synergies in the context of development projects.
 By exploring diverse requirements and constraints, they gain insight into effectively addressing stakeholders' needs and project constraints.
 Additionally, they recognize the significance of software system qualities as drivers for architectural design. 
 They can formulate such requirements using scenarios.

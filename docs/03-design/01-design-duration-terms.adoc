@@ -4,7 +4,7 @@
 == Entwurf und Entwicklung von Softwarearchitekturen
 
 |===
-| Dauer: 330 Min. | Übungszeit: 90 Min.
+| Dauer: 270 Min. | Übungszeit: 90 Min.
 |===
 
 === Zielsetzung
@@ -18,9 +18,9 @@ Darüber hinaus werden in diesem Abschnitt der Umgang mit Querschnittsthemen, di
 
 Entwurf; 
 Vorgehen beim Entwurf; 
-Entwurfsentscheidung; 
+Architekturentscheidung; 
 Sichten; 
-Schnittstellen; 
+{glossary_url}interface[Schnittstellen];
 technische Konzepte und Querschnittsthemen; 
 Architekturmuster; 
 Entwurfsmuster; 
@@ -40,7 +40,7 @@ Domain-Driven Design
 == Design and Development of Software Architectures
 
 |===
-| Duration: 330 min. | Excercises: 90 min.
+| Duration: 270 min. | Excercises: 90 min.
 |===
 
 === Purpose
@@ -51,11 +51,12 @@ They recognize the importance of design principles and solution patterns and are
 In addition, this section addresses the management of cross-cutting concerns, the principles of software deployment and the challenges of distributed systems.
 
 === Relevant Terms
-Design; design approach; design decision; views; 
+Design; design approach; architecture decision; views; 
 {glossary_url}interface[interfaces];  
-technical and 
+technical concepts and
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
-architectural patterns; 
+architectural patterns;
+design patterns;
 pattern languages; 
 design principles; 
 dependencies; 

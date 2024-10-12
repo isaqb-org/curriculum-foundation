@@ -45,7 +45,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 // tag::EN[]
 [[LG-02-02]]
-==== LG 02-02 [previously LG 2-3]: Identify and Consider Requirements and Constraints (R1-R3)
+==== LG 02-02 [previously LG 2-3]: Clarify and Consider Requirements and Constraints (R1-R3)
 
 Software architects understand that both requirements and constraints can have an impact on the architecture and the architecture work (R2).
 They are able to clarify requirements and constraints and take them into account in the architectural design and development process.
@@ -82,8 +82,6 @@ They should recognize and account for the impact of:
 ** technology trends (e.g., Microservices)
 ** methodology trends (e.g., Agile)
 
-Software architects are able to describe how those factors can influence
-design decisions and can elaborate on the consequences of changing
-influencing factors by providing examples for some of them (R2).
+Software architects are able to describe how those factors can influence architecture decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
 
 // end::EN[]
