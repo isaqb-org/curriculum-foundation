@@ -7,19 +7,19 @@ Softwarearchitekt:innen verstehen, dass es verschiedene mögliche Gründe gibt, 
 * Risiken und mögliche Verbesserungen im Architekturentwurf  identifizieren (vor, während und nach der Implementierung)
 * feststellen, ob der Architekturentwurf die Anforderungen erfüllt oder erfüllen wird
 * erheben, inwiefern die Implementierung zu Architekturentscheidungen und Architekturentwurf passt
-* die Anliegen der Stakeholder bezüglich der Architektur angehen
+* überprüfen, inwiefern architekturrelevante Stakeholderanforderungen berücksichtigt sind
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-05-01]]
-==== LG 05-01: Know the Reasons for Architecture Analysis (R1)
+==== LG 05-01: Know Reasons for Architecture Analysis (R1)
 
 Software architects understand that there are different possible reasons for performing architecture analysis, for example:
 
 * identify risks and possible improvements in the architecture design (before, during, or after implementation)
 * determine if the architecture design fulfills, or will fulfill, the requirements
 * assess conformance of the implementation to the architecture decisions and design
-* address stakeholder concerns regarding the architecture
+* verify that architecturally relevant stakeholder concerns are addressed
 
 // end::EN[]
