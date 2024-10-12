@@ -9,7 +9,7 @@ Softwarearchitekt:innen können beurteilen, ob die Systemimplementierung mit dem
 
 // tag::EN[]
 [[LG-05-03]]
-==== LZ 05-03: Evaluate Conformance to Architectural Decisions (R2)
+==== LG 05-03: Evaluate Conformance to Architectural Decisions (R2)
 
 Software architects are able to assess whether the system’s implementation aligns with the architectural design and decisions, using methods such as code and architecture reviews or tool-supported analysis.
 

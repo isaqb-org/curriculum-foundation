@@ -36,7 +36,7 @@ Sie erkennen und berücksichtigen den Einfluss von:
 
 * Trends wie (R3)
 ** Markttrends
-** Technologietrends (z.{nbsp}B. Blockchain, Microservices)
+** Technologietrends (z.{nbsp}B. Microservices)
 ** Methodik-Trends (z.{nbsp}B. Agilität)
 ** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen 
 
@@ -79,8 +79,8 @@ They should recognize and account for the impact of:
 
 * trends such as (R3)
 ** market trends
-** technology trends (Blockchain, Microservices)
-** methodology trends (Agile)
+** technology trends (e.g., Microservices)
+** methodology trends (e.g., Agile)
 
 Software architects are able to describe how those factors can influence
 design decisions and can elaborate on the consequences of changing

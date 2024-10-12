@@ -14,7 +14,7 @@ Weiterhin erkennen sie die Bedeutung von Qualitäten eines Softwaresystems als e
 Sie können solche Anforderungen mit Hilfe von Szenarien formulieren.
 
 === Wesentliche Begriffe
-Qualität; Qualitätsmerkmale; DIN/ISO 25010; Q42; Qualitätsszenarien; Kompromisse/Wechselwirkungen von Qualitätseigenschaften
+Qualität; Qualitätsmerkmale; DIN/ISO 25010; Q42; Qualitätsszenarien; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; Anforderungen; Randbedingungen; Stakeholder-Anliegen
 
 
 // end::DE[]
@@ -34,6 +34,6 @@ Additionally, they recognize the significance of software system qualities as dr
 They can formulate such requirements using scenarios.
 
 === Relevant Terms
-Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; Q42; quality scenarios
+Quality; quality characteristics (also called quality attributes); DIN/ISO 25010; Q42; quality scenarios; tradeoffs and interactions between quality characteristics; requirements; constraints; stakeholder concerns
 
 // end::EN[]

@@ -72,7 +72,7 @@ Relevant::
   Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
 
 Authoritative:: 
-  Learning goals should be based on established content, industry best practices, and proven research. 
+  Learning goals should be <<handling-references, based on established content>> industry best practices, and proven research. 
   This ensures that the curriculum is aligned with recognized standards and that students are learning concepts that are widely accepted and validated in the field of software architecture.
   Where possible and adequate, authorative sources shall be referenced.
 
@@ -456,4 +456,30 @@ To unify upper/lowercase within the (EN) version, we use the _Chicago manual of 
 For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
 
 
+[[handling-references]]
+=== Based on Established Content And References
+We strive to base all content on established content by providing references to original sources.
 
+In practice, this means that we reference the original source of a learning goal, if it is based on a book, a paper, a standard or similar.
+We use a distinct section for every learning goal:
+
+ 
+```
+===== {references}
+<<starkelorz>>
+``` 
+
+Example (abbreviated)
+----
+[[LG-01-01]]
+==== LG 01-01: Discuss Definitions of Software Architecture (R1)
+
+Software architects know the commonalities of many definitions of software architecture:
+
+* ...
+* ...
+
+===== {references}
+<<iso42010>>, <<bass>>, <<kruchten>>, <<starkelorz>>
+
+----

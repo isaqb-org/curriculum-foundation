@@ -10,14 +10,14 @@ Softwarearchitekt:innen wissen dass der Begriff "Qualität" in verschiedenen Kon
 
 In diesem Lernziel geht es um letzteres.
 
-Softwarearchitekt:innen können erklären:
+Softwarearchitekt:innen können erklären dass:
 
-* dass es unterschiedliche Taxonomien gibt, die Qualitäten von
+* es unterschiedliche Taxonomien gibt, die Qualitäten von
   Softwaresystemen kategorisieren (wie z.{nbsp}B. <<iso25010>>,
   <<bass>> oder <<q42>>)
-* dass manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden
-* dass Softwarearchitekt:innen die Qualitäten eines Softwaresystems beeinflussen können
-* dass die Veränderung einer Qualität andere so beeinflussen kann, dass Abwägungen notwendig werden, wie z.{nbsp}B.
+* manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden, wie zum Beispiel IREB <<IREBFoundation>>
+* Softwarearchitekt:innen die Qualitäten eines Softwaresystems beeinflussen können
+* die Veränderung einer Qualität andere so beeinflussen kann, dass Abwägungen notwendig werden, wie z.{nbsp}B.
 ** Konfigurierbarkeit versus Zuverlässigkeit
 ** Speicherbedarf versus Leistungseffizienz
 ** Sicherheit versus Benutzbarkeit
@@ -27,7 +27,7 @@ Softwarearchitekt:innen können erklären:
 Sie verstehen, dass 
 
 * manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB (R1).
-* eine einzelne Anforderung sich auf mehrere Qualitäten beziehen kann (R1).
+* sich eine einzelne Anforderung auf mehrere Qualitäten beziehen kann.
 // end::DE[]
 
 
@@ -41,12 +41,12 @@ Software architects know that the term "quality" is used differently in differen
 
 This learning goal refers to the latter.
 
-They can explain
+They can explain that:
 
-* that several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
-* that some categorizations distinguish between functionality and quality
-* that software architecture can impact a software system's qualities,
-* that impacting one quality can impact others, necessitating trade-offs, such as:
+* several taxonomies categorizing qualities of software systems exist (such as <<iso25010>>, <<bass>>, or <<q42>>)
+* some categorizations distinguish between functionality and quality, e.g. IREB <<IREBFoundation>>
+* software architecture can impact a software system's qualities,
+* impacting one quality can impact others, necessitating trade-offs, such as:
 ** configurability versus reliability
 ** memory requirements versus performance efficiency
 ** security versus usability
