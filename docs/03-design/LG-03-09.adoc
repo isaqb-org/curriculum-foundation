@@ -4,8 +4,7 @@
 ==== LZ 03-09 [ehemaliges LZ 2-05]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
 
 Softwarearchitekt:innen kennen den Unterschied zwischen Architektur- und Entwurfsmustern.
-Sie können mehrere der folgenden Entwurfsmuster erklären, ihre Relevanz für
-konkrete Systeme erklären und Beispiele nennen.
+Sie können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für die Architektur und konkrete Systeme erklären sowie Beispiele nennen. 
 
 * {glossary_url}combinator[Combinator]
 * Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
@@ -35,8 +34,7 @@ Sie wissen:
 ==== LG 03-09 [previously LG 2-05]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
 
 Software architects know the difference between architectural and design patterns.
-They can explain several of the following design patterns, explain their relevance for
-concrete systems, and provide examples.
+They can describe several of the following design patterns, explain their relevance for the architecture and specific systems and give examples. 
 
 * {glossary_url}combinator[Combinator]
 * Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
