@@ -65,7 +65,7 @@ They should recognize and account for the impact of:
 ** programming languages (R2)
 
 * organizational constraints such as
-** organizational structure of the development team and of the customer (R1), in particular Conway's law (R2).
+** organizational structure of development teams and of the customer (R1), in particular Conway's law (R2).
 ** company and team cultures (R3)
 ** partnerships and cooperation agreements (R2)
 ** standards, guidelines, and process models (e.g. approval and release processes) (R2)
