@@ -82,8 +82,6 @@ They should recognize and account for the impact of:
 ** technology trends (e.g., Microservices)
 ** methodology trends (e.g., Agile)
 
-Software architects are able to describe how those factors can influence
-design decisions and can elaborate on the consequences of changing
-influencing factors by providing examples for some of them (R2).
+Software architects are able to describe how those factors can influence architecture decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
 
 // end::EN[]

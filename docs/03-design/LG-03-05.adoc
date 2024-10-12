@@ -3,16 +3,12 @@
 [[LG-03-05]]
 ==== LZ 03-05 [ehemaliges LZ 1-06]: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)
 
-Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen,
-insbesondere bei unter Unsicherheit getroffenen Entscheidungen.
+Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen.
 Sie
   
-* können den Einfluss von iterativem Vorgehen auf
-  Architekturentscheidungen erläutern (hinsichtlich Risiken und
-  Prognostizierbarkeit).  (R1)
-* können inkrementell und iterativ arbeiten und entscheiden. (R2)
-* verstehen die Notwendigkeit von Rückmeldungen zu
-  Entwurfsentscheidungen (R1)
+* können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit)  (R1)
+* können inkrementell und iterativ arbeiten und entscheiden (R2)
+* verstehen die Notwendigkeit von Rückmeldungen zu Architekturentscheidungen (R1)
 * können von anderen Stakeholdern systematisch Rückmeldung
   einholen. (R2)
 
@@ -22,13 +18,10 @@ Sie
 [[LG-03-05]]
 ==== LG 03-05 [previously LG 1-06]: Correlation between Feedback Loops and Risks (R1, R2)
 
-Software architects understand the necessity of iterations, especially
-when decision-making is affected by uncertainties. They
+Software architects understand the necessity of iterations, especially when decision-making is affected by uncertainties. They
 
-* are able to explain the influence of iterative approaches on
-  architectural decisions (with regard to risks and
-  predictability). (R1)
+* are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability). (R1)
 * can work and make decisions incrementally and iteratively. (R1)
-* understand the necessity for feedback on design decisions. (R1)
+* understand the necessity for feedback on architecture decisions. (R1)
 * can systematically obtain feedback from other stakeholders. (R2)
 // end::EN[]

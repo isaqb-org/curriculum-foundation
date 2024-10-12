@@ -18,7 +18,7 @@ Darüber hinaus werden in diesem Abschnitt der Umgang mit Querschnittsthemen, di
 
 Entwurf; 
 Vorgehen beim Entwurf; 
-Entwurfsentscheidung; 
+Architekturentscheidung; 
 Sichten; 
 {glossary_url}interface[Schnittstellen];
 technische Konzepte und Querschnittsthemen; 
@@ -51,7 +51,7 @@ They recognize the importance of design principles and solution patterns and are
 In addition, this section addresses the management of cross-cutting concerns, the principles of software deployment and the challenges of distributed systems.
 
 === Relevant Terms
-Design; design approach; design decision; views; 
+Design; design approach; architecture decision; views; 
 {glossary_url}interface[interfaces];  
 technical concepts and
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
