@@ -18,7 +18,7 @@ Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <<nygar
 Software architects are able to:
 
 * systematically make, justify, communicate, and document architectural decisions
-* identify, communicate, and document interdependencies between design decisions
+* identify, communicate, and document interdependencies between architecture decisions
 
 Software architects know about Architecture-Decision-Records (ADR, see <<nygard>>) and can apply these to document decisions (R2).
 
