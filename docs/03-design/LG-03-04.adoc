@@ -45,6 +45,12 @@ Softwarearchitekt:innen sind in der Lage:
 
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
+
+**SOLID Prinzipien** (R3)
+
+Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien: 
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+
 // end::DE[]
 
 // tag::EN[]
@@ -92,7 +98,14 @@ Software architects are able to:
 
 * as a means to design for robust and resilient systems (R3)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
+
+**SOLID Principles** (R3)
+
+Software architects know the benefits and limitations of the SOLID principles:
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+
+
 // end::EN[]
 
 ===== {references}
-<<liskov>>
+<<liskov>>, <<solid>>
