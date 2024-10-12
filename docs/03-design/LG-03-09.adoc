@@ -5,23 +5,23 @@
 
 Softwarearchitekt:innen kennen den Unterschied zwischen Architektur- und Entwurfsmustern.
 Sie können mehrere der folgenden Entwurfsmuster erklären, ihre Relevanz für
-konkrete Systeme erklären und Beispiele nennen. (R3)
+konkrete Systeme erklären und Beispiele nennen.
 
 * {glossary_url}combinator[Combinator]
-* {glossary_url}interpreter[Interpreter]
-* {glossary_url}observer[Observer]
-* {glossary_url}remote-procedure-call[Remote procedure call]
 * Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
   und {glossary_url}proxy[Proxy].
   Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
   Programmiersprachen oder Frameworks verwendet werden können.
-* {glossary_url}template-method[Template Method] und {glossary_url}Strategy[strategy]
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}remote-procedure-call[Remote procedure call]
+* {glossary_url}template-method[Template Method] und {glossary_url}Strategy[Strategy]
 * {glossary_url}visitor[Visitor]
 
 Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
-<<gof,GOF>> und <<buschmanna,POSA>> (R3).
+<<gof,GOF>> und <<buschmanna,POSA>>.
 
-Sie wissen (R3):
+Sie wissen:
 
 * dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.
 * dass es verschiedene Kategorien von Mustern gibt.
@@ -32,11 +32,11 @@ Sie wissen (R3):
 // tag::EN[]
 [[LG-03-09]]
 
-==== LG 03-09 [previously LG 2-05]: Describe, Explain and Apply Important Design Patterns (R3)
+==== LG 03-09 [previously LG 2-05]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
 
 Software architects know the difference between architectural and design patterns.
 They can explain several of the following design patterns, explain their relevance for
-concrete systems, and provide examples. (R3)
+concrete systems, and provide examples.
 
 * {glossary_url}combinator[Combinator]
 * Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
@@ -46,13 +46,13 @@ concrete systems, and provide examples. (R3)
 * {glossary_url}interpreter[Interpreter]
 * {glossary_url}observer[Observer]
 * {glossary_url}remote-procedure-call[Remote procedure call]
-* {glossary_url}template-method[Template Method] and {glossary_url}Strategy[strategy]
+* {glossary_url}template-method[Template Method] and {glossary_url}Strategy[Strategy]
 * {glossary_url}visitor[Visitor]
 
 Software architects know essential sources for design patterns, such as
-<<gof,GOF>> and <<buschmanna,POSA>>. (R3)
+<<gof,GOF>> and <<buschmanna,POSA>>.
 
-They know (R3):
+They know:
 
 * that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.
 * that there are different categories of patterns.

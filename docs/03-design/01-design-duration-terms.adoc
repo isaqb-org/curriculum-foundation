@@ -26,7 +26,7 @@ Architekturmuster;
 Entwurfsmuster; 
 Mustersprachen; 
 Entwurfsprinzipien; 
-Abhängigkeit; 
+Abhängigkeiten;
 Kopplung; 
 Kohäsion; 
 Top-down- und Bottom-up-Vorgehen;

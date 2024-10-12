@@ -18,7 +18,7 @@ Sie
 [[LG-03-05]]
 ==== LG 03-05 [previously LG 1-06]: Correlation between Feedback Loops and Risks (R1, R2)
 
-Software architects understand the necessity of iterations, especially when decision-making is affected by uncertainties. They
+Software architects understand the necessity of iterations, especially when decisions are made in the face of uncertainties. They
 
 * are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability). (R1)
 * can work and make decisions incrementally and iteratively. (R1)
