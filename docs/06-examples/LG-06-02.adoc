@@ -14,5 +14,6 @@ Software architects understand the technical realization (implementation, techni
 
 // end::EN[]
 
+
 ===== {references}
-<<arc42>>
+<<arc42>>, <<starkeetalarc42>>, <<hruschkaetalarc42>>, <<zoerner>>, <<aosa>>
