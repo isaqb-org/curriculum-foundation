@@ -24,12 +24,12 @@ Softwarearchitekt:innen sind in der Lage:
 
 **Modularisierung** (R1)
 
-* Geheimnisprinzip ({glossary_url}information-hiding[Information Hiding]) und {glossary_url}encapsulation[Kapselung] (R1)
-* Trennung von Verantwortlichkeiten ({glossary_url}separation-of-concern[Separation of Concerns] - SoC) (R1)
-* Lose, aber funktionell ausreichende Kopplung (R1) von Bausteinen, siehe <<LG-03-06>>
-* Hohe {glossary_url}cohesion[Kohäsion] (R1)
-* {glossary_url}open-close-principle[Offen/geschlossen-Prinzip] (R1)
-* {glossary_url}dependency-inversion[Dependency-Inversion-Prinzip] (R1) - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnlichen Abstraktionen
+* Geheimnisprinzip ({glossary_url}information-hiding[Information Hiding]) und {glossary_url}encapsulation[Kapselung]
+* Trennung von Verantwortlichkeiten ({glossary_url}separation-of-concern[Separation of Concerns] - SoC)
+* Lose, aber funktionell ausreichende Kopplung von Bausteinen, siehe <<LG-03-06>>
+* Hohe {glossary_url}cohesion[Kohäsion]
+* {glossary_url}open-close-principle[Offen/geschlossen-Prinzip]
+* {glossary_url}dependency-inversion[Dependency-Inversion-Prinzip] - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen
 
 **Konzeptionelle Integrität** (R2)
 
@@ -69,14 +69,14 @@ Software architects are able to:
 * as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
 * interfaces as abstractions
 
-**Modularization** (R1-R3)
+**Modularization** (R1)
 
-* {glossary_url}information-hiding[information hiding] and {glossary_url}encapsulation[encapsulation] (R1)
-* {glossary_url}separation-of-concern[separation of concerns] - SoC (R1)
+* {glossary_url}information-hiding[information hiding] and {glossary_url}encapsulation[encapsulation]
+* {glossary_url}separation-of-concern[separation of concerns] - SoC
 * loose, but functionally sufficient, coupling (R1) of building blocks, see <<LG-03-06>>
-* high {glossary_url}cohesion[cohesion] (R1)
-* {glossary_url}open-close-principle[Open/closed principle] (R1)
-* {glossary_url}dependency-inversion[Dependency inversion principle] (R1) by means of interfaces or similar abstractions
+* high {glossary_url}cohesion[cohesion]
+* {glossary_url}open-close-principle[Open/closed principle]
+* {glossary_url}dependency-inversion[Dependency inversion principle] by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2)
 
