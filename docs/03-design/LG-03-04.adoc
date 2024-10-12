@@ -48,9 +48,8 @@ Softwarearchitekt:innen sind in der Lage:
 
 **SOLID Prinzipien** (R3)
 
-Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien 
-
-* Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien: 
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
 
 // end::DE[]
 
@@ -102,9 +101,8 @@ Software architects are able to:
 
 **SOLID Principles** (R3)
 
-Software architects know the benefits and limitations of the SOLID principles
-
-* Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+Software architects know the benefits and limitations of the SOLID principles:
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
 
 
 // end::EN[]
