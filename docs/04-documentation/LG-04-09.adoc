@@ -9,7 +9,6 @@ Softwarearchitekt:innen kennen:
 ** ISO/IEC/IEEE 42010, 
 ** arc42,
 ** C4, siehe <<brownc4>>
-** FMC, siehe <<fmc>>
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
 * mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation
 
@@ -25,7 +24,6 @@ Software architects know:
 ** ISO/IEC/IEEE 42010, 
 ** arc42,
 ** C4, see <<brownc4>>
-** FMC, see <<fmc>>
 * ideas and examples of checklists for the creation, documentation, and testing of software architectures
 * possible tools for creating and maintaining architectural documentation
 
