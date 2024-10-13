@@ -16,7 +16,7 @@ Beispiele für Stakeholder und ihre Anliegen (R3):
 | Entwicklungsteam
 | z. B. zu implementierende Komponenten und Schnittstellen, Protokolle, technische Anforderungen und Randbedingungen
 
-| Requirements Engineering, Product-Owner, Businss-Analyse, Fachbereiche
+| Requirements Engineering, Product-Owner, Business-Analyst, Fachbereiche
 | z. B. Erfüllung der Anforderungen
 
 | Projektmanagement
