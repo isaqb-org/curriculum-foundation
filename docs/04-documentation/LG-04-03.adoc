@@ -35,9 +35,8 @@ Software architects know alternative notations to UML diagrams, for example: (R3
 
 * Archimate
 * SysML
-* Entity-relationship diagrams, see <<erd>>
 * C4, see <<brownc4>>
-
+* Entity-relationship diagrams, see <<erd>>
 * for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
 
 // end::EN[]

@@ -24,7 +24,7 @@ Software architects know:
 ** ISO/IEC/IEEE 42010, 
 ** arc42,
 ** C4, see <<brownc4>>
-* ideas and examples of checklists for the creation, documentation, and testing of software architectures
+* ideas and examples of checklists for the creation, documentation, and review of software architectures
 * possible tools for creating and maintaining architectural documentation
 
 // end::EN[]
