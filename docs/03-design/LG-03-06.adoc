@@ -37,7 +37,6 @@ Software architects understand dependencies and coupling between building blocks
 ** static and dynamic coupling 
 ** efferent and afferent coupling 
 * know that forgoing static dependencies in favor of dynamic dependencies does not necessarily reduce the underlying coupling
-* can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * can identify coupling and assess its consequences
 * can make justified decisions whether a dependency is appropriate or should be removed in view of the requirements and constraints
 * know and can apply possibilities to reduce or eliminate coupling, for example:
