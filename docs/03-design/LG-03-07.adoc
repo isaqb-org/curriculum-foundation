@@ -39,8 +39,11 @@ They know:
 ** implementations can be exchanged if required.
 * different approaches for implementing interfaces (R3):
 ** resource oriented approach (REST, Representational State Transfer)
-** service oriented approach (see WS-*/SOAP-based web services.
+** service oriented approach (see WS-*/SOAP-based web services).
 
 See also <<LG-04-06>>.
 
 // end::EN[]
+
+===== {references}
+<<zimmermann-api>>, <<geewax>>

@@ -21,13 +21,16 @@ Siehe auch <<LG-04-07>>.
 
 Software architects are able to:
 
-* explain the significance of such {glossary_url}cross-cutting-concern[cross-cutting concerns]
-* identify such cross-cutting concerns
+* explain the significance of {glossary_url}cross-cutting-concern[cross-cutting concerns]
+* identify cross-cutting concerns
 * design cross-cutting concepts, for example persistence, communication, GUI, error handling, concurrency, energy efficiency
 * identify and assess potential interdependencies.
 
-Software architects know that such cross-cutting concerns may be re-used across systems.
+Software architects know that such cross-cutting concepts may be re-used across systems.
 
 See also <<LG-04-07>>.
 
 // end::EN[]
+
+===== {references}
+<<starke>>, <<starkelorz>>

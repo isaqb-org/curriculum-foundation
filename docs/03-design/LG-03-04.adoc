@@ -24,18 +24,18 @@ Softwarearchitekt:innen sind in der Lage:
 
 **Modularisierung** (R1)
 
-* Geheimnisprinzip ({glossary_url}information-hiding[Information Hiding]) und {glossary_url}encapsulation[Kapselung] 
-* Trennung von Verantwortlichkeiten ({glossary_url}separation-of-concern[Separation of Concerns] - SoC) 
+* Geheimnisprinzip ({glossary_url}information-hiding[Information Hiding]) und {glossary_url}encapsulation[Kapselung]
+* Trennung von Verantwortlichkeiten ({glossary_url}separation-of-concern[Separation of Concerns] - SoC)
 * Lose, aber funktionell ausreichende Kopplung von Bausteinen, siehe <<LG-03-06>>
-* Hohe {glossary_url}cohesion[Kohäsion] 
-* {glossary_url}open-close-principle[Offen/geschlossen-Prinzip] 
-* {glossary_url}dependency-inversion[Dependency-Inversion-Prinzip] - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnlichen Abstraktionen
+* Hohe {glossary_url}cohesion[Kohäsion]
+* {glossary_url}open-close-principle[Offen/geschlossen-Prinzip]
+* {glossary_url}dependency-inversion[Dependency-Inversion-Prinzip] - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen
 
 **Konzeptionelle Integrität** (R2-R3)
 
 * bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
-* als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (principle of least surprise) (R3)
-* Liskov'sches Substitutionsprinzip <<liskov>> als eine Möglichkeit, Konsistenz und konzeptionelle Integrität zu erreichen (R3).
+* als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (_principle of least surprise_ oder _principle of least astonishment_ (POLA)) (R3)
+* Liskov'sches Substitutionsprinzip als eine Möglichkeit, Konsistenz und konzeptionelle Integrität zu erreichen (R3).
 
 **Reduktion von Komplexität** (R3)
 
@@ -46,6 +46,12 @@ Softwarearchitekt:innen sind in der Lage:
 
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
+
+**SOLID Prinzipien** (R3)
+
+Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien: 
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+
 // end::DE[]
 
 // tag::EN[]
@@ -54,13 +60,13 @@ Softwarearchitekt:innen sind in der Lage:
 ==== LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R2)
 
 Software architects are able to explain what design principles are.
-They can outline their general objectives and applications with regard to software architecture. (R2)
+They can outline their general objectives and their application with regard to software architecture. (R2)
 
 Software architects are able to:
 
 * explain the design principles listed below and can illustrate them with examples
 * explain how those principles are to be applied
-* explain how the requirements determine which principles should be applied
+* explain how requirements determine which principles should be applied
 * explain the impact of design principles on the implementation
 * analyze source code and architecture designs to evaluate whether these design principles have been applied or should be applied
 
@@ -70,20 +76,20 @@ Software architects are able to:
 * as a design technique, where building blocks are dependent on the abstractions rather than depending on implementations
 * interfaces as abstractions
 
-**Modularization** (R1-R3)
+**Modularization** (R1)
 
-* {glossary_url}information-hiding[information hiding] and {glossary_url}encapsulation[encapsulation] (R1)
-* {glossary_url}separation-of-concern[separation of concerns] - SoC (R1)
+* {glossary_url}information-hiding[information hiding] and {glossary_url}encapsulation[encapsulation]
+* {glossary_url}separation-of-concern[separation of concerns] - SoC
 * loose, but functionally sufficient, coupling (R1) of building blocks, see <<LG-03-06>>
-* high {glossary_url}cohesion[cohesion] (R1)
-* {glossary_url}open-close-principle[Open/closed principle] (R1)
-* {glossary_url}dependency-inversion[Dependency inversion principle] (R1) by means of interfaces or similar abstractions
+* high {glossary_url}cohesion[cohesion]
+* {glossary_url}open-close-principle[Open/closed principle]
+* {glossary_url}dependency-inversion[Dependency inversion principle] by means of interfaces or similar abstractions
 
 **Conceptual integrity** (R2-R3)
 
 * meaning uniformity (homogeneity, consistency) of solutions for similar problems (R2)
-* as a means to achieve the principle of least surprise (R3)
-* Liskov's substitution principle <<liskov>> as a way to achieve consistency and conceptual integrity (R3).
+* as a means to achieve the principle of least surprise (aka  _principle of least astonishment_, POLA) (R3)
+* Liskov's substitution principle as a way to achieve consistency and conceptual integrity (R3).
 
 **Complexity reduction** (R3)
 
@@ -94,4 +100,14 @@ Software architects are able to:
 
 * as a means to design for robust and resilient systems (R3)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
+
+**SOLID Principles** (R3)
+
+Software architects know the benefits and limitations of the SOLID principles:
+Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
+
+
 // end::EN[]
+
+===== {references}
+<<liskov>>, <<solid>>

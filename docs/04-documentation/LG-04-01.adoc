@@ -22,3 +22,7 @@ Software architects know the requirements of technical documentation and can con
 They know that only the target audiences can assess the understandability of technical documentation.
 
 // end::EN[]
+
+
+===== {references}
+<<starkelorz>>, <<zoerner>>, <<clementsdoc>>

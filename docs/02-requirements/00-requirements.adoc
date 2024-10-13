@@ -18,4 +18,3 @@ include::./LG-02-04.adoc[{include_configuration}]
 
 include::./LG-02-05.adoc[{include_configuration}]
 
-include::./99-requirements-references.adoc[tags={bibrefs}]

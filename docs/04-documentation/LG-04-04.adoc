@@ -4,7 +4,6 @@
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
-(Siehe <<ietf-http>>)
 // end::DE[]
 
 // tag::EN[]
@@ -13,5 +12,8 @@ Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
 Software architects are able to gracefully deal with unexpected situations.
 
-(See <<ietf-http>>)
 // end::EN[]
+
+
+===== {references}
+<<ietf-http>>

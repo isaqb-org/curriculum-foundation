@@ -10,7 +10,7 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
 * Globale Analyse, siehe <<hofmeister>> (R3) 
-* Modellgetriebene Architektur (R3)
+* Modellbasierter Entwurf (R3)
 
 // end::DE[]
 
@@ -24,6 +24,6 @@ Software architects are able to name, explain, and use fundamental approaches of
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
 * global analysis, see <<hofmeister>> (R3) 
-* model-driven architecture (R3)
+* model-based design (R3)
 
 // end::EN[]

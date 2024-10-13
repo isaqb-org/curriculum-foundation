@@ -4,13 +4,10 @@
 
 Softwarearchitekt:innen:
 
-* verstehen, dass architektonische Aktivitäten davon geleitet werden
-  sollten, spezifische Qualitäten zu verbessern
-* können einen Architekturentwurf vorschlagen, der geeignet ist, 
-  Anforderungen zu erfüllen
+* verstehen, dass architektonische Aktivitäten davon geleitet werden sollten, spezifische Qualitäten zu erreichen oder zu verbessern
+* können einen Architekturentwurf vorschlagen, der geeignet ist, Anforderungen zu erfüllen
 * können einschätzen, welche Qualitäten sie durch bestimmte Aktivitäten oder Entscheidungen verbessern
-* können mögliche Abwägungen zwischen Entwürfen
-  sowie den entsprechenden Risiken identifizieren und kommunizieren
+* können mögliche Abwägungen zwischen Entwürfen sowie den entsprechenden Risiken identifizieren und kommunizieren
 
 // end::DE[]
 
@@ -20,12 +17,9 @@ Softwarearchitekt:innen:
 
 Software architects:
 
-* understand that architectural activities should be driven by the need
-  to improve specific qualities
-* can propose an architecture design suitable for fulfilling 
-  requirements
+* understand that architectural activities should be driven by the need to achieve or improve specific qualities
+* can propose an architecture design suitable for fulfilling requirements
 * can assess which qualities they improve through specific architectural activities or decisions
-* can identify and communicate possible trade-offs between designs
-  and their associated risks
+* can identify and communicate possible trade-offs between designs and their associated risks
 
 // end::EN[]
