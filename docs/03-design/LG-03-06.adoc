@@ -12,9 +12,7 @@ Sie:
 ** statische und dynamische Kopplung 
 ** efferente und afferente Kopplung 
 ** andere Arten von Kopplung (z.B. Hardware/Infrastruktur, temporal, Daten, Datenstruktur etc.)
-* wissen, dass auf statische Kopplung zu verzichten und stattdessen
-  dynamische Kopplung einzusetzen, die zugrundeliegende Kopplung
-  nicht notwendigerweise reduziert
+* wissen, dass auf statische Kopplung zu verzichten und stattdessen dynamische Kopplung einzusetzen, die zugrundeliegende Kopplung nicht notwendigerweise reduziert
 * können solche Arten der Kopplung gezielt einsetzen und die Konsequenzen solcher Abhängigkeiten einschätzen
 * kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:
 ** Muster
@@ -22,7 +20,7 @@ Sie:
 ** Grundlegende Entwurfsprinzipien
 // (siehe <<LZ-2-6, LZ 2-6>>)
 ** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von
-{glossary_url}dependency-injection[Dependency Injection].
+{glossary_url}dependency-injection[Dependency Injection] (siehe auch <<LG-03-08>>).
 
 
 // end::DE[]
@@ -40,8 +38,7 @@ Software architects understand dependencies and coupling between building blocks
 ** efferent and afferent coupling 
 ** other types of coupling (e.g. hardware/infrastructure, temporal,
    data, data structure etc.)
-* know that forgoing static dependencies in favor of dynamic
-  dependencies does not necessarily reduce the underlying coupling
+* know that forgoing static dependencies in favor of dynamic dependencies does not necessarily reduce the underlying coupling
 * can use such types of coupling in a targeted manner and can assess the consequences of such dependencies
 * know and can apply possibilities to reduce or eliminate coupling, for example:
 ** patterns
@@ -49,7 +46,7 @@ Software architects understand dependencies and coupling between building blocks
 ** fundamental design principles
 // (refer to <<LG-2-6, LG 2-6>>)
 ** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using
-{glossary_url}dependency-injection[Dependency Injection].
+{glossary_url}dependency-injection[Dependency Injection] (see also <<LG-03-08>>).
 
 // end::EN[]
 
