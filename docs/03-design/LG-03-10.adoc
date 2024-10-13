@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen können:
 
-* die Bedeutung von {glossary_url}cross-cutting-concern[Querschnittsthemen] (synonym: Belange, Anliegen) erklären
+* die Bedeutung von {glossary_url}cross-cutting-concern[Querschnittsthemen] erklären
 * solche Querschnittsthemen identifizieren
 * Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz
 * mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.
