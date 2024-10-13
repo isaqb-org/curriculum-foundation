@@ -33,7 +33,7 @@ Software architects are able to (R1):
 
 * document and communicate architectures for corresponding stakeholder concerns, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
 * consolidate and harmonise the style and content of contributions from different groups of authors
-* develop and implement measures to support the convergence of written and verbal communication, and balance one against the other appropriately
+* develop and implement measures to support the consistency of written and verbal communication, and balance one against the other appropriately
 
 Software architects know (R1):
 

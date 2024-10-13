@@ -14,10 +14,10 @@ Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielg
 // tag::EN[]
 [[LG-04-01]]
 ==== LG 04-01 [previously LG 3-01]: Explain and Consider the Requirements of Technical Documentation (R1)
-Software architects know the requirements of technical documentation and can consider and fulfil them when documenting systems:
+Software architects know the essential requirements for technical documentation and can consider and fulfil them when documenting systems:
 
 * understandability, correctness, efficiency, appropriateness, maintainability
-* form, content, and level of detail tailored to the stakeholders
+* form, content, and level of detail tailored to the target group of the documentation
 
 They know that only the target audiences can assess the understandability of technical documentation.
 
