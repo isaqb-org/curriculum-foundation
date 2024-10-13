@@ -7,7 +7,7 @@ Softwarearchitekt:innen verstehen, dass es verschiedene mögliche Gründe gibt, 
 * Risiken und mögliche Verbesserungen im Architekturentwurf  identifizieren (vor, während und nach der Implementierung)
 * feststellen, ob der Architekturentwurf die Anforderungen erfüllt oder erfüllen wird
 * erheben, inwiefern die Implementierung zu Architekturentscheidungen und Architekturentwurf passt
-* überprüfen, inwiefern architekturrelevante Stakeholderanliegen berücksichtigt sind
+* überprüfen, inwiefern architekturrelevante Anliegen der Stakeholder berücksichtigt sind
 
 // end::DE[]
 
