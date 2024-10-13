@@ -20,7 +20,7 @@ Sie:
 ** Grundlegende Entwurfsprinzipien
 // (siehe <<LZ-2-6, LZ 2-6>>)
 ** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von
-{glossary_url}dependency-injection[Dependency Injection] (siehe auch <<LG-03-08>>).
+{glossary_url}dependency-injection[Dependency Injection] (R3) (siehe auch <<LG-03-08>>).
 
 
 // end::DE[]
@@ -46,7 +46,7 @@ Software architects understand dependencies and coupling between building blocks
 ** fundamental design principles
 // (refer to <<LG-2-6, LG 2-6>>)
 ** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using
-{glossary_url}dependency-injection[Dependency Injection] (see also <<LG-03-08>>).
+{glossary_url}dependency-injection[Dependency Injection] (R3) (see also <<LG-03-08>>).
 
 // end::EN[]
 
