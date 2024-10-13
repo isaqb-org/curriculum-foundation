@@ -31,4 +31,4 @@ Software architects know:
 
 
 ===== {references}
-<<iso42010>>, <<arc42>>, <<brownc4>>, <<fmc>>
+<<iso42010>>, <<arc42>>, <<brownc4>>

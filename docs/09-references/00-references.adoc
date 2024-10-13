@@ -33,7 +33,6 @@
 
 // F
 - [[[felleisenetal, Felleisen+2014]]] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <https://htdp.org/>
-- [[[fmc,FMC]]] Siegfried Wendt: Fundamental Modeling Concepts, online: <http://www.fmc-modeling.org/>
 
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017
 
