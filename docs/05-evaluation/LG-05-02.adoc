@@ -10,7 +10,7 @@ Softwarearchitekt:innen
 ** Analyse der Ergebnisse von Akzeptanztests (R1)
 ** quantitative Messung von Laufzeitverhalten (R1)
 ** qualitative Auswertung durch Interviews, Umfragen, Penetrationstests etc. (R1)
-** Szenarien (R1)
+** szenariobasierte Analyse (R1)
 ** Architektur-Metriken für Kopplung wie der Grad eingehender und
    ausgehender Abhängigkeiten (R1)
 ** Kosten-Nutzen-Analyse (R3)
@@ -40,7 +40,7 @@ Software architects
 ** analysis of the results of acceptance testing (R1)
 ** quantitative measurement of run-time behaviour (R1)
 ** qualitative evaluation via interviews, surveys, penetration tests etc. (R1)
-** scenarios (R1)
+** scenario-based analysis (R1)
 ** architecture metrics for coupling such as the degree of inbound and outbound dependencies (R1)
 ** cost-benefit analysis (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)

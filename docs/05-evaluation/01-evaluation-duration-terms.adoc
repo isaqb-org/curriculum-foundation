@@ -14,7 +14,7 @@ Durch das Verständnis verschiedener Analysemethoden wie Abnahmetests, Architekt
 
 ===	Wesentliche Begriffe
 
-Architekturanalyse; Risikoidentifikation; Qualitätsanalysemethoden; Szenarien; Metriken; Tool-gestützte Analyse
+Architekturanalyse; Risikoidentifikation; Qualitätsanalysemethoden; Szenarien; szenariobasierte Analyse; Metriken; Tool-gestützte Analyse
 
 
 // end::DE[]
@@ -33,5 +33,5 @@ By understanding various analysis methods, such as acceptance testing, architect
 
 === Relevant Terms
 
-Architecture analysis; Risk identification; Quality analysis methods; Scenarios; Metrics; Tool-supported analysis
+Architecture analysis; Risk identification; Quality analysis methods; Scenarios; Scenario-based analysis; Metrics; Tool-supported analysis
 // end::EN[]
