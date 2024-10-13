@@ -40,6 +40,7 @@ Softwarearchitekt:innen sind in der Lage:
 **Reduktion von Komplexität** (R3)
 
 * als Motiv der Prinzipien KISS, YAGNI und CUPID <<north-cupid>>
+* DRY (Don't Repeat Yourself) als eine Möglichkeit, Wiederholungen zu vermeiden 
 
 **Erwarte Fehler** (R2-R3)
 
@@ -56,7 +57,7 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 // tag::EN[]
 
 [[LG-03-04]]
-==== LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R1-R3)
+==== LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R2)
 
 Software architects are able to explain what design principles are.
 They can outline their general objectives and their application with regard to software architecture. (R2)
@@ -93,6 +94,7 @@ Software architects are able to:
 **Complexity reduction** (R3)
 
 * as the driving factor behind KISS, YAGNI, and CUPID <<north-cupid>>
+* DRY (Don't Repeat Yourself) as one option to avoid repetitions
 
 **Expect errors** (R2-R3)
 
