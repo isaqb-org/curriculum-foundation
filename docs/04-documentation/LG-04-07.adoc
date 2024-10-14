@@ -4,9 +4,7 @@
 [[LG-04-07]]
 ==== LZ 04-07 [ehemaliges LZ 3-06]: Querschnittsthemen dokumentieren und kommunizieren (R2)
 
-Softwarearchitekt:innen können typische Querschnittsthemen (synonym
-_Querschnittskonzepte_, _Aspekte_) adäquat dokumentieren und kommunizieren,
-z.{nbsp}B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
+Softwarearchitekt:innen können typische Querschnittsthemen und die dazugehörigen Lösungskonzepte (Querschnittskonzepte) adäquat dokumentieren und kommunizieren, z.{nbsp}B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.
 
 Siehe auch <<LG-03-10>>.
 
@@ -16,9 +14,7 @@ Siehe auch <<LG-03-10>>.
 [[LG-04-07]]
 ==== LG 04-07 [previously LG 3-06]: Document and Communicate Cross-Cutting Concerns (R2)
 
-Software architects are able to adequately document and communicate
-typical cross-cutting concerns (synonym: _cross-cutting concepts_, _aspects_),
-e. g., persistence, workflow management, UI, deployment/integration, logging.
+Software architects are able to adequately document and communicate typical cross-cutting concerns and the corresponding solution concepts (cross-cutting concepts), e.g., persistence, workflow management, UI, deployment/integration, logging.
 
 See also <<LG-03-10>>
 // end::EN[]
