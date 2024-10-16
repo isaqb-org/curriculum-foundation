@@ -38,7 +38,8 @@ Sie erkennen und berücksichtigen den Einfluss von:
 ** Markttrends
 ** Technologietrends (z.{nbsp}B. Cloud, Microservices, Container, generative KI oder LLMs)
 ** Methodik-Trends (z.{nbsp}B. Agilität)
-** (potenzielle) Auswirkungen weiterer Stakeholderinteressen und vorgegebener oder extern festgelegter Designentscheidungen 
+
+Softwarearchitekt:innen können beschreiben, wie diese Einflüsse auf Architekturentscheidungen wirken, und sie können die Konsequenzen einer Änderung der Einflussfaktoren anhand von Beispielen erläutern (R2).
 
 
 // end::DE[]
