@@ -2,14 +2,14 @@
 // tag::DE[]
 
 [[LG-03-07]]
-==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und festlegen (R1-R3)
+==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und spezifizieren (R1-R3)
 
-Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. 
-Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
+Softwarearchitekt:innen kennen die kritische Bedeutung von Schnittstellen für die Interaktion zwischen Architekturbausteinen oder zwischen dem System und externen Elementen. 
+Sie können solche Schnittstellen entwerfen und spezifizieren.
 
 Sie kennen:
 
-* wünschenswerte Eigenschaften von Schnittstellen und können diese bei ihrer Entwicklung einsetzen (R1):
+* wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf erreichen (R1):
 ** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
@@ -32,7 +32,7 @@ Sie kennen:
 
 * unterschiedliche Implementierungsansätze von Schnittstellen, etwa (R3):
 ** ressourcenorientiert (REST, REpresentational State Transfer)
-** graphenartiger (etwa: GraphQL)
+** graphenartig (etwa: GraphQL)
 ** serviceorientiert (etwa: WS-*/SOAP-basierte Webservices)
 
 Siehe auch <<LG-04-06>>.
@@ -42,12 +42,12 @@ Siehe auch <<LG-04-06>>.
 [[LG-03-07]]
 ==== LG 03-07 [previously LG 2-09]: Design and Define Interfaces (R1-R3)
 
-Software architects know about the importance of interfaces. 
-They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
+Software architects know the critical importance of interfaces for the interaction between architectural building blocks or between the system and external elements. 
+They can design and specify such interfaces.
 
 They know:
 
-* desired characteristics of interfaces and can use them in the design (R1):
+* desired characteristics of interfaces and can achieve them in the design (R1):
 ** easy to learn, easy to use, easy to extend
 ** hard to misuse
 ** functionally complete from the perspective of users or building blocks using them.
@@ -58,7 +58,7 @@ They know:
 ** implementations can be exchanged if required.
 
 * different characteristics of interfaces, for example (R3):
-** Transport channels (for example: the OSI 7-layer model or TCP/IP)
+** Transport channels (for example: TCP/IP as part of the OSI-7 layer model, shared memory)
 ** internal or external
 ** local or remote
 ** synchronous or asynchronous
