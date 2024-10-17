@@ -18,5 +18,5 @@ Conclusion is:
 
 We discussed this topic within GitHub issues:
 
-* [#597](https://github.com/isaqb-org/curriculum-foundation/issues/597) proposed a somewhat weaker formulation (_know how to formulate scenarios..._). We decided to keep the existing "_are able to_".
+* [#597](https://github.com/isaqb-org/curriculum-foundation/issues/597) proposed a somewhat weaker formulation (_know how to formulate scenarios..._). We decided to "_can formulate scenarios..._".
 * In [#501](https://github.com/isaqb-org/curriculum-foundation/issues/501) we decided to elevate quality scenarios to R1.  

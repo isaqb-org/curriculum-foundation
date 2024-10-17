@@ -5,7 +5,8 @@
 
 Softwarearchitekt:innen:
 
-* können Szenarien für gegebene Qualitäten mit Kontext, Stimulus und Reaktion oder Messmethode formulieren  (R1)
+* können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für veschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)
+
 * verstehen, dass eine Anforderung für eine gegebene Qualität
   eine Analysemethode spezifizieren sollte (siehe <<LG-05-02>>) (R1)
 * wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren kann (R2), wie z.{nbsp}B. in Goodhart's Law (R3) beschrieben
@@ -18,7 +19,7 @@ Softwarearchitekt:innen:
 
 Software architects:
 
-* can formulate scenarios for given qualities containing context, stimulus, and reaction or method of measurement  (R1)
+* can formulate scenarios for given qualities with context, stimulus, response, and measurement for a variety of purposes, e.g., to clarify requirements, provide input for architecture assessments, etc. (R1)
 * understand that a requirement for a given quality should specify a method of analysis (see <<LG-05-02>>) (R1)
 * know that the use of a metric as a target can lead to its  invalidation (R2), as described, e.g., by Goodhart's law (R3)
 
