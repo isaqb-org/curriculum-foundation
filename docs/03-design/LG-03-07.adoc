@@ -2,22 +2,38 @@
 // tag::DE[]
 
 [[LG-03-07]]
-==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und festlegen (R1-R3)
+==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und spezifizieren (R1-R3)
 
-Softwarearchitekt:innen kennen die hohe Bedeutung von Schnittstellen. Sie können Schnittstellen zwischen Architekturbausteinen sowie externe Schnittstellen zwischen dem System und Elementen außerhalb des Systems entwerfen bzw. festlegen.
+Softwarearchitekt:innen kennen die kritische Bedeutung von Schnittstellen für die Interaktion zwischen Architekturbausteinen oder zwischen dem System und externen Elementen. 
+Sie können solche Schnittstellen entwerfen und spezifizieren.
 
 Sie kennen:
 
-* wünschenswerte Eigenschaften von Schnittstellen und können diese bei ihrer Entwicklung einsetzen:
+* wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf erreichen (R1):
 ** einfach zu erlernen, einfach zu benutzen, einfach zu erweitern
 ** schwer zu missbrauchen
 ** funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.
-* die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen
-* die Trennung zwischen Schnittstelle und Implementierung:
+
+* die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen (R2)
+
+* die Trennung zwischen Schnittstelle und Implementierung (R1):
 ** Implementierungen können bei Bedarf ausgetauscht werden.
-* unterschiedliche Implementierungsansätze von Schnittstellen (R3):
-** ressourcenorientierter Ansatz (REST, REpresentational State Transfer)
-** serviceorientierter Ansatz (wie bei WS-*/SOAP-basierten Webservices).
+
+* unterschiedliche Charakteristika von Schnittstellen, beispielsweise (R3):
+** Transportkanäle (etwa: das OSI-7-Schichtenmodell oder TCP/IP)
+** Intern oder extern
+** lokal oder remote
+** synchron oder asynchron
+** binär (nur maschinenlesbar) oder textuell (auch menschenlesbar)
+** zustandslos oder zustandsbehaftet
+** Punkt-zu-Punkt oder Multipunkt (broadcast oder multicast)
+** Funktionsaufruf (etwa: Remote Procedure Call) oder Nachrichtenaustausch
+** Batch, Request/Response oder Streaming
+
+* unterschiedliche Implementierungsansätze von Schnittstellen, etwa (R3):
+** ressourcenorientiert (REST, REpresentational State Transfer)
+** graphenartig (etwa: GraphQL)
+** serviceorientiert (etwa: WS-*/SOAP-basierte Webservices)
 
 Siehe auch <<LG-04-06>>.
 // end::DE[]
@@ -26,20 +42,36 @@ Siehe auch <<LG-04-06>>.
 [[LG-03-07]]
 ==== LG 03-07 [previously LG 2-09]: Design and Define Interfaces (R1-R3)
 
-Software architects know about the importance of interfaces. They are able to design or specify interfaces between architectural building blocks as well as external interfaces between the system and elements outside of the system.
+Software architects know the critical importance of interfaces for the interaction between architectural building blocks or between the system and external elements. 
+They can design and specify such interfaces.
 
 They know:
 
-* desired characteristics of interfaces and can use them in the design:
+* desired characteristics of interfaces and can achieve them in the design (R1):
 ** easy to learn, easy to use, easy to extend
 ** hard to misuse
 ** functionally complete from the perspective of users or building blocks using them.
-* the necessity to treat internal and external interfaces differently
-* the distinction between interface and implementation:
+
+* the necessity to treat internal and external interfaces differently (R2)
+
+* the distinction between interface and implementation (R1):
 ** implementations can be exchanged if required.
-* different approaches for implementing interfaces (R3):
-** resource oriented approach (REST, Representational State Transfer)
-** service oriented approach (see WS-*/SOAP-based web services).
+
+* different characteristics of interfaces, for example (R3):
+** Transport channels (for example: TCP/IP as part of the OSI-7 layer model, shared memory)
+** internal or external
+** local or remote
+** synchronous or asynchronous
+** Binary (only machine-readable) or textual (also human-readable)
+** stateless or stateful
+** point-to-point or multipoint (broadcast or multicast)
+** Function call (e.g. remote procedure call) or message exchange
+** Batch, request/response or streaming
+
+* Different implementation approaches for interfaces, such as (R3:)
+** resource-oriented (REST, REpresentational State Transfer)
+** graph-oriented (e.g. GraphQL)
+** service-oriented (e.g. WS-*/SOAP-based web services)
 
 See also <<LG-04-06>>.
 
