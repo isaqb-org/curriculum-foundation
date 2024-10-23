@@ -20,8 +20,8 @@ Sie kennen:
 ** Implementierungen können bei Bedarf ausgetauscht werden.
 
 * unterschiedliche Charakteristika von Schnittstellen, beispielsweise (R3):
-** Transportkanäle (etwa: das OSI-7-Schichtenmodell oder TCP/IP)
-** Intern oder extern
+** Transportkanäle (etwa: TCP/IP als Teil des OSI 7-Schichten Modells)
+** intern oder extern
 ** lokal oder remote
 ** synchron oder asynchron
 ** binär (nur maschinenlesbar) oder textuell (auch menschenlesbar)
@@ -58,11 +58,11 @@ They know:
 ** implementations can be exchanged if required.
 
 * different characteristics of interfaces, for example (R3):
-** Transport channels (for example: TCP/IP as part of the OSI-7 layer model, shared memory)
+** Transport channels (for example: TCP/IP as part of the OSI 7-layer model, shared memory)
 ** internal or external
 ** local or remote
 ** synchronous or asynchronous
-** Binary (only machine-readable) or textual (also human-readable)
+** binary (only machine-readable) or textual (also human-readable)
 ** stateless or stateful
 ** point-to-point or multipoint (broadcast or multicast)
 ** Function call (e.g. remote procedure call) or message exchange
