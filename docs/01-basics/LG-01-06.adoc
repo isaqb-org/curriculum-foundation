@@ -1,9 +1,9 @@
 
 // tag::DE[]
 [[LG-01-06]]
-==== LZ 01-06: Bedeutung und Entwurf von Datenmodellen (R2)
+==== LZ 01-06: Bedeutung und Entwurf von Daten und Datenmodellen (R2)
 
-Softwarearchitekt:innen verstehen die Bedeutung von Datenmodellen für die Architektur.  
+Softwarearchitekt:innen verstehen die Bedeutung von Data and Datenmodellen für die Architektur.  
 Sie
 
 * können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
@@ -16,9 +16,9 @@ Sie
 
 // tag::EN[]
 [[LG-01-06]]
-==== LG 01-06: Importance and Design of Data Models (R2)
+==== LG 01-06: Importance and Design of Data and Data Models (R2)
 
-Software architects understand the importance of data models for the architecture.  
+Software architects understand the importance of data and data models for the architecture.  
 They
 
 * can identify data models that have significant impact on the  architecture. 
@@ -30,4 +30,4 @@ They
 // end::EN[]
 
 ===== {references}
-<<felleisenetal>>, <<sperberklaeren>>, <<kleppmann>>
+<<felleisenetal>>, <<sperberklaeren>>, <<kleppmann>>, <<fordhardparts>>
