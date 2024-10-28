@@ -1,40 +1,45 @@
 
 // tag::DE[]
 [[LG-01-04]]
-==== LZ 01-04 [ehemaliges LZ 1-09]: Abgrenzung zu anderen Architekturdomänen (R3)
+==== LZ 01-04: Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen (R1)
+Softwarearchitekt:innen tragen die Verantwortung für die Erreichung der Anforderungen und die Entwicklung der Architektur der Lösung.
+Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.
 
-Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
+Aufgaben und Verantwortung von Softwarearchitekt:innen:
 
-Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beispielsweise:
+* Anforderungen und Randbedingungen klären und hinterfragen. 
+Notwendige Verfeinerungen mit den entsprechenden Stakeholdern koordinieren und abstimmen.
+* Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen
+* Querschnittsthemen entscheiden (beispielsweise Persistenz, Kommunikation, GUI)
+* Softwarearchitektur auf Basis von Sichten, Architekturmustern sowie technischen und Querschnittsthemen kommunizieren und dokumentieren
+* Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen
+* Softwarearchitektur analysieren und bewerten, insbesondere hinsichtlich Risiken bezüglich der Erreichung von Anforderungen. 
+//Siehe <<LZ-4-3>> und <<LZ-4-4>>.
+* Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren
 
-* Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften
-* Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen
-* Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten
-* Datenarchitektur: Semantik und Organization von Daten
-* Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
-* Systemarchitektur (verschiedene Bedeutungen, abhängig von der Definition des Begriffs "System")
-
-Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
+Sie sollen selbstständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-04]]
-==== LG 01-04 [previously LG 1-09]: Distinction between Software Architecture and other Architectural Domains (R3)
+==== LG 01-04: Understand the Tasks and Responsibilities of Software Architects (R1)
 
-The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
+Software architects are responsible for meeting requirements and creating the architecture design of a solution.
+Depending on the actual approach or process model used, they must align this responsibility with the overall project responsibility of project management or other roles.
 
-In addition, software architects are familiar with other architectural domains, for example:
+Tasks and responsibilities of software architects:
 
-* enterprise IT architecture: Structure of application landscapes
-* business and process architecture: Structure of, among other things, business processes
-* information architecture: cross-system structure and use of information and data
-* data architecture: semantics and organization of data
-* infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
-  networks, etc.
-* hardware or processor architecture (for hardware-related systems)
-* system architecture (can have various semantics, depending on the definition of "system")
+* clarify and scrutinize the requirements and constraints. 
+Coordinate and agree on any necessary refinements with the corresponding stakeholders.  
+* decide how to decompose the system into building blocks, while determining dependencies and interfaces between the building blocks
+* decide on cross-cutting concerns (for instance persistence, communication, GUI)
+* communicate and document software architecture based on views, architectural patterns, cross-cutting concerns, and technical concerns
+* accompany the realization and implementation of the architecture; integrate feedback from relevant stakeholders into the architecture if necessary; review and ensure the consistency of source code and software architecture
+* analyze and evaluate software architecture, especially with respect to risks that involve meeting the requirements.
+//Refer to <<LG-4-3>> and <<LG-4-4>>,
+* identify, highlight, and justify the consequences of architectural decisions to other stakeholders
 
-These architectural domains are not the content focus of CPSA-F.
+They should independently recognize the necessity of iterations in all tasks and point out possibilities for appropriate and relevant feedback.
+
 // end::EN[]
