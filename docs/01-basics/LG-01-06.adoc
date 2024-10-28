@@ -3,7 +3,7 @@
 [[LG-01-06]]
 ==== LZ 01-06: Bedeutung und Entwurf von Daten und Datenmodellen (R2)
 
-Softwarearchitekt:innen verstehen die Bedeutung von Data and Datenmodellen für die Architektur.  
+Softwarearchitekt:innen verstehen die Bedeutung von Daten and Datenmodellen für die Architektur.  
 Sie
 
 * können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
