@@ -72,6 +72,8 @@
 
 // L
 - [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
+- [[[lehman,Lehman 1980]]] Meir M. Lehman: Programs, Life Cycles, and Laws of Software Evolution. Proceedings of the IEEE, 68(9), 1060-1076, 1980.
+- [[[lehmanwiki,Lehman's Laws]]] Laws of Software Evolution. <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
 - [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
 - [[[liskov,Liskov 1994]]] Barbara H. Liskov, Jeannette M. Wing: A behavioral notion of subtyping. ACM Transactions on Programming Languages and Systems, Volume 16, Issue 6, 1994. <doi:10.1145/197320.197383>
@@ -94,6 +96,7 @@
 - [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
 
 // R
+- [[[rajlich,Rajlich+2000]]] Václav T. Rajlich, Keith H. Bennett: A Staged Model for the Software Life Cycle. IEEE Computer 33(7): 66-71, 2000.
 - [[[readcommunication,Read 2023]]] Jacqui Read: Communication Patterns - An Engineering Approach. A Guide for Developers and Architects. OReilly 2023.
 - [[[richardsfundamentals,Richards+20]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
 - [[[rozanskiwoods, Rozanski+11]]] Nick Rozanski, Eoin Woods: Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.

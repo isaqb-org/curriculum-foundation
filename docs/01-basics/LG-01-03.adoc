@@ -1,21 +1,32 @@
 
 // tag::DE[]
 [[LG-01-03]]
-==== LZ 01-03:  (R3)
+==== LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur verstehen (R3)
 
-(Siehe <<LG-01-04>>)
+Softwarearchitekt:innen können:
+
+* die Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems analysieren
+* den Zusammenhang zwischen Architekturentscheidungen und der zukünftigen Anpassbarkeit und Wartbarkeit des Systems erläutern
+* einschätzen, wie sich Änderungen von Anforderungen, Technologien oder Systemumgebung auf bestehende Architekturentscheidungen auswirken
+* die langfristigen Konsequenzen von Architekturentscheidungen auf verschiedene Qualitätsmerkmale des Systems erkennen
+* die Wechselwirkungen zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen erläutern
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-03]]
-==== LG 01-03: Understand Long-Term Impact of Software Architecture (R3)
+==== LG 01-03: Understand Long-term Impact of Software Architecture (R3)
 
+Software architects can:
 
-(See <<LG-01-04>>)
-
+* analyze the impact of architectural decisions on the long-term evolution of a system
+* explain the relationship between architectural decisions and the future adaptability and maintainability of the system
+* assess how changes in requirements, technologies, or system environment affect existing architectural decisions
+* recognize the long-term consequences of architectural decisions on various quality characteristics of the system
+* explain the interdependencies between IT systems and the supported business and operational processes
 
 // end::EN[]
 
 ===== {references}
 
+<<bass>>, <<lehman>>, <<lehmanwiki>>, <<lilienthal>>, <<ford>>, <<rajlich>>, <<richardsfundamentals>>
