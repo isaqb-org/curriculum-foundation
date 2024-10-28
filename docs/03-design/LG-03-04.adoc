@@ -35,7 +35,7 @@ Softwarearchitekt:innen sind in der Lage:
 
 * bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)
 * als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (_principle of least surprise_ oder _principle of least astonishment_ (POLA)) (R3)
-* Liskov'sches Substitutionsprinzip als eine Möglichkeit, Konsistenz und konzeptionelle Integrität zu erreichen (R3).
+* Liskov’sches Substitutionsprinzip als eine Möglichkeit, Konsistenz, konzeptionelle Integrität und Robustheit (im Sinne von Typsicherheit) zu erreichen (R3).
 
 **Reduktion von Komplexität** (R3)
 
@@ -89,7 +89,7 @@ Software architects are able to:
 
 * meaning uniformity (homogeneity, consistency) of solutions for similar problems (R2)
 * as a means to achieve the principle of least surprise (aka  _principle of least astonishment_, POLA) (R3)
-* Liskov's substitution principle as a way to achieve consistency and conceptual integrity (R3).
+* Liskov's substitution principle as a way to achieve consistency, conceptual integrity and robustness (in the sense of type safety) (R3).
 
 **Complexity reduction** (R3)
 
