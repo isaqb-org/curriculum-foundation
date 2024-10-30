@@ -1,4 +1,4 @@
-# 012: Define and Explain Terms AND Give References in Glossary 
+# 012: Define and Explain Terms in Glossary AND Give References in Glossary 
 
 ## Status: Accepted
 
