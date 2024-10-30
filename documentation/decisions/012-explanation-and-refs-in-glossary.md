@@ -6,6 +6,8 @@
 
 In [issue 577](https://github.com/isaqb-org/curriculum-foundation/issues/577) we discussed our usage of the _Glossary_ as a means to define or explain terms.
 
+## Decision
+
 We decided to:
 
 1. give a understandable ("good") explanation in the glossary
