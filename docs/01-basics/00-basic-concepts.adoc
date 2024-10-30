@@ -17,3 +17,5 @@ include::./LG-01-04.adoc[{include_configuration}]
 include::./LG-01-05.adoc[{include_configuration}]
 
 include::./LG-01-06.adoc[{include_configuration}]
+
+include::./LG-01-07.adoc[{include_configuration}]

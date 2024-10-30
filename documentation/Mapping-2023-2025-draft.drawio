@@ -1,17 +1,17 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Seite-1" id="O8GddWhcbF4NDvKM5EmY">
-    <mxGraphModel dx="1665" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-4" value="removed" style="whiteSpace=wrap;strokeWidth=2;align=center;spacingLeft=20;verticalAlign=top;fontStyle=0;fontSize=21;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="541.5" width="380" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-11" value="" style="whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;fontSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="95" width="270" height="3115" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-2" value="Structure of V 2023.1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;horizontal=1;verticalAlign=top;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="-440" y="120" width="380" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="wD6HdIPCGLci8Dcnv06h-1" value="removed" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;horizontal=1;verticalAlign=top;fontSize=21;fillColor=#ffcccc;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="601" width="380" height="380" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-138" value="LG 1-1: Discuss Definitions of Software Architecture" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="44" y="160" width="456.5" height="51" as="geometry" />
@@ -20,94 +20,94 @@
           <mxGeometry x="44" y="240" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-140" value="LG 1-4: Understand Software Architects&#39; Tasks and Responsibilities" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="320" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="386.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-141" value="LG 1-5: Relate the Role of Software Architects to Other Stakeholders" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="460" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="526.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-142" value="LG 1-6: Explain the Correlation between Development Approaches and Software Architecture" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1356" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1453" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-143" value="LG 1-7: Differentiate between Short- and Long-Term Goals" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="601.5" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="694.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-144" value="LG 1-8: Distinguish Explicit Statements and Implicit Assumptions" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="674" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="767" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-145" value="LG 1-9: Responsibilities of Software Architects within the Greater Architectural Context" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="390" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="456.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-146" value="LG 1-11: Challenges of Distributed Systems" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1940" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="2035" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-147" value="LG 2-1: Select and Use Approaches and Heuristics for Architecture Development" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1285" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1382" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-148" value="LG 2-2: Design Software Architectures" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1215" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1312" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-149" value="LG 2-3: Identify and Consider Factors Influencing Software Architecture" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="772.5" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="865.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-150" value="LG 2-4: Design and Implement Cross-Cutting Concepts" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1790" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1887" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-151" value="LG 2-5: Describe, Explain and Appropriately Apply Important Solution Patterns" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1670" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1767" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-152" value="LG 2-6: Explain and Use Design Principles" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1430" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1527" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-153" value="LG 2-7: Manage Dependencies between Building Blocks" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="43" y="1501.5" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="1598.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-154" value="LG 2-9: Design and Define Interfaces" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1570" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1667" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-155" value="LG 2-10: Know Fundamental Principles of Software Deployment" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1870" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1965" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-156" value="LG 3-1: Explain and Consider the Requirements of Technical Documentation" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="44" y="2060" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="2155" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-157" value="LG 3-2: Describe and Communicate Software Architectures" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="44" y="2130" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="2225" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-158" value="LG 3-3: Explain and Apply Notations/Models to Describe Software Architecture" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2203" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2298" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-159" value="LG 3-4: Explain and Use Architectural Views" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2275" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2370" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-160" value="LG 3-6: Document and Communicate Cross-Cutting Concepts" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2515" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2610" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-161" value="LG 3-7: Describe Interfaces" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2435" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2530" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-162" value="LG 3-8: Explain and Document Architectural Decisions" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2585" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2680" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-163" value="LG 3-9: Know Additional Resources and Tools for Documentation" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2665" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="43" y="2754" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-164" value="LG 4-1: Discuss Quality Models and Quality Characteristics" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="44" y="850" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="943" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-165" value="LG 4-2: Clarify Quality Requirements for Software Architectures" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="44" y="920" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1018" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-166" value="LG 4-3: Qualitative Analysis of Software Architectures (part)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2814" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2868" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-167" value="LG 4-4: Quantitative Evaluation of Software Architectures (part)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1071" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1169" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-168" value="LG 5-1: Know the Relation between Requirements, Constraints, and Solutions" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="43" y="3070" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="3074" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-169" value="LG 5-2: Know the Rationale of a Solution&#39;s Technical Implementation" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="43" y="3150" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="3154" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-170" value="LG 01-01: Discuss Definitions of Software Architecture" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
           <mxGeometry x="911" y="160" width="456.5" height="51" as="geometry" />
@@ -115,140 +115,137 @@
         <mxCell id="lPej12Bno3lJLsPGT7YB-171" value="LG 01-02: Understand and Explain the Goals and Benefits of Software Architecture" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
           <mxGeometry x="911" y="240" width="456.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-172" value="LG 01-03: Understand the Tasks and Responsibilities of Software Architects" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="320" width="456.5" height="51" as="geometry" />
+        <mxCell id="lPej12Bno3lJLsPGT7YB-172" value="LG 01-04: Understand the Tasks and Responsibilities of Software Architects" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="912" y="386.5" width="456.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-173" value="LG 01-04: Distinction between Software Architecture and other Architectural Domains" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="390" width="456.5" height="51" as="geometry" />
+        <mxCell id="lPej12Bno3lJLsPGT7YB-173" value="LG 01-05: Distinction between Software Architecture and other Architectural Domains" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="912" y="456.5" width="456.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-174" value="LG 01-05: Relate the Role of Software Architects to Other Stakeholders" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="460" width="456.5" height="51" as="geometry" />
+        <mxCell id="lPej12Bno3lJLsPGT7YB-174" value="LG 01-06: Relate the Role of Software Architects to Other Stakeholders" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="912" y="526.5" width="456.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-175" value="LG 01-06: Importance and Design of Data Models" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="540" width="456.5" height="51" as="geometry" />
+        <mxCell id="lPej12Bno3lJLsPGT7YB-175" value="LG 01-07: Importance and Design of Data Models" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
+          <mxGeometry x="912" y="599.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-176" value="LG 02-01: Understand Stakeholder Concerns" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="601" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="694" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-177" value="LG 02-02: Identify and Consider Requirements and Constraints" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="775" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="868" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-178" value="LG 02-03: Understand and Explain Software System Qualities" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="850" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="943" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-179" value="LG 02-04: Formulate Requirements on Qualities" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="960" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1058" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-180" value="LG 02-05: Prefer Explicit Statements over Implicit Assumptions" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="674" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="767" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-181" value="LG 03-01: Fulfilling Requirements through Architecture" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1070" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1168" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-182" value="LG 03-02: Design Software Architectures" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1214" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1311" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-183" value="LG 03-03: Select and Use Approaches and Heuristics for Architecture Development" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1284" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1381" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-184" value="LG 03-04: Explain and Use Design Principles" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1430" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1527" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-185" value="LG 03-05: Correlation between Feedback Loops and Risks" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1353" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1450" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-186" value="LG 03-06: Manage Dependencies between Building Blocks" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1500" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1597" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-187" value="LG 03-07: Design and Define Interfaces" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1570" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1667" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-188" value="LG 03-08: Describe, Explain and Apply Important Architectural Patterns" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1636" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1733" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-189" value="LG 03-09: Describe, Explain and Apply Important Design Patterns" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1710" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1807" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-190" value="LG 03-10: Identify, Design and Implement Cross-Cutting Concerns" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1790" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1887" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-191" value="LG 03-11: Know Fundamental Principles of Software Deployment" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1870" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="1965" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-192" value="LG 03-12: Know the Challenges of Distributed Systems" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1940" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="2035" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-193" value="LG 04-01: Explain and Consider the Requirements of Technical Documentation" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2056" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="2151" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-194" value="LG 04-02: Describe and Communicate Software Architectures" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2130" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="912" y="2225" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-195" value="LG 04-03: Explain and Apply Notations/Models to Describe Software Architecture" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2213" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2308" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-196" value="LG 04-04: Learning Goal not Found" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2295" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2390" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-197" value="LG 04-05: Explain and Use Architectural Views" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2365" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2460" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-198" value="LG 04-06: Document Interfaces" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2435" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2530" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-199" value="LG 04-07: Document and Communicate Cross-Cutting Concerns" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2515" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2610" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-200" value="LG 04-08: Explain and Document Architectural Decisions" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2585" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2680" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-201" value="LG 04-09: Know Additional Resources and Tools for Documentation" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2670.5" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="910" y="2752.5" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-203" value="LG 05-02: Analyze the Qualities of a Software System" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2860" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2914" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-205" value="LG 06-01: Know the Relation between Requirements, Constraints, and Solutions" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="3070" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="3074" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-206" value="LG 06-02: Understand the technical implementation of a solution" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="3150" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="3154" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-207" value="Data models" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="410" width="175" height="34" as="geometry" />
+          <mxGeometry x="1456" y="495" width="175" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-208" value="Products and sums in data modelling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="460" width="175" height="44" as="geometry" />
+          <mxGeometry x="1456" y="545" width="175" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-209" value="Decoupling data models" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="531" width="175" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-210" value="System architecture" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="590" width="175" height="34" as="geometry" />
+          <mxGeometry x="1456" y="605" width="175" height="39" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-211" value="Stakeholder concerns" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="652.5" width="175" height="34" as="geometry" />
+          <mxGeometry x="1456" y="722" width="175" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-212" value="Stakeholder interviews" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="703" width="175" height="34" as="geometry" />
+          <mxGeometry x="1456" y="783" width="175" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-213" value="Static and dynamic coupling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1521" y="1457.5" width="123" height="44" as="geometry" />
+          <mxGeometry x="1522" y="1554.5" width="123" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-214" value="Efferent and afferent coupling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1521" y="1520" width="120" height="50" as="geometry" />
+          <mxGeometry x="1522" y="1617" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-216" value="SysML" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1494" y="2190" width="73" height="23" as="geometry" />
+          <mxGeometry x="1495" y="2285" width="73" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-217" value="C4" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1494" y="2225.5" width="73" height="26" as="geometry" />
+          <mxGeometry x="1495" y="2320.5" width="73" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-218" value="Unexpected situations" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="2303.5" width="174" height="34" as="geometry" />
+          <mxGeometry x="1461" y="2398.5" width="174" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-221" value="LG 1-3: Software Architecture as Part of the Software Lifecycle" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="659" width="270" height="44" as="geometry" />
+        <mxCell id="lPej12Bno3lJLsPGT7YB-221" value="LG 1-3: Software Architecture as Part of the Software Lifecycle" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="1" vertex="1">
+          <mxGeometry x="43" y="319" width="457" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-225" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-138" target="lPej12Bno3lJLsPGT7YB-170" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -280,21 +277,18 @@
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-231" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-208" target="lPej12Bno3lJLsPGT7YB-175" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1372" y="574" as="targetPoint" />
+            <mxPoint x="1373" y="640.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-232" value="" style="startArrow=none;endArrow=block;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lPej12Bno3lJLsPGT7YB-175" edge="1">
+        <mxCell id="lPej12Bno3lJLsPGT7YB-232" value="" style="startArrow=none;endArrow=block;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="lPej12Bno3lJLsPGT7YB-175" edge="1" source="lPej12Bno3lJLsPGT7YB-209">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1462" y="574" as="sourcePoint" />
-            <mxPoint x="1372" y="579" as="targetPoint" />
+            <mxPoint x="1463" y="640.5" as="sourcePoint" />
+            <mxPoint x="1373" y="645.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-233" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-210" target="lPej12Bno3lJLsPGT7YB-175" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-234" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-211" target="lPej12Bno3lJLsPGT7YB-176" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="724" as="sourcePoint" />
+            <mxPoint x="1450" y="758" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-235" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-212" target="lPej12Bno3lJLsPGT7YB-176" edge="1">
@@ -411,8 +405,8 @@
         <mxCell id="lPej12Bno3lJLsPGT7YB-263" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#808080;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-218" target="lPej12Bno3lJLsPGT7YB-196" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1330" y="2423" as="sourcePoint" />
-            <mxPoint x="1480.909090909091" y="2480" as="targetPoint" />
+            <mxPoint x="1330" y="2382" as="sourcePoint" />
+            <mxPoint x="1480.909090909091" y="2439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-264" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-159" target="lPej12Bno3lJLsPGT7YB-197" edge="1">
@@ -435,9 +429,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPej12Bno3lJLsPGT7YB-268" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-163" target="lPej12Bno3lJLsPGT7YB-201" edge="1">
+        <mxCell id="lPej12Bno3lJLsPGT7YB-268" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-163" target="wD6HdIPCGLci8Dcnv06h-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="499.50000000000045" y="2703.4799999999996" as="sourcePoint" />
+            <mxPoint x="910" y="2708.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-270" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0;entryY=0.32;rounded=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-166" target="lPej12Bno3lJLsPGT7YB-203" edge="1">
@@ -457,53 +453,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-276" value="LG 1-10: Differentiate Types of IT Systems" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-399" y="727" width="270" height="40" as="geometry" />
+          <mxGeometry x="-389.5" y="585" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-280" target="lPej12Bno3lJLsPGT7YB-197" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="889" y="2304.9999999999995" as="targetPoint" />
+            <mxPoint x="889" y="2263.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-280" value="LG 3-5: Explain and Apply Context View of Systems" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2345" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2440" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-284" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lPej12Bno3lJLsPGT7YB-181" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="1429.9999999999995" as="targetPoint" />
-            <mxPoint x="500" y="1166" as="sourcePoint" />
+            <mxPoint x="650" y="1391.9999999999995" as="targetPoint" />
+            <mxPoint x="500" y="1128" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-282" value="LG 2-8: Achieve Quality Requirements with Appropriate Approaches and Techniques" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="44" y="1140" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1238" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-283" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-282" target="lPej12Bno3lJLsPGT7YB-179" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="763" y="1658" as="targetPoint" />
+            <mxPoint x="763" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-285" value="New: Reasons for Architecture Analysis" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="2784.75" width="142" height="41.5" as="geometry" />
+          <mxGeometry x="1481" y="2838.75" width="142" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-286" value="LG 05-01: Know the Reasons for Architecture Analysis" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2780" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2834" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-287" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-285" target="lPej12Bno3lJLsPGT7YB-286" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1330" y="3057" as="targetPoint" />
+            <mxPoint x="1330" y="2975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-288" value="New: Evaluate Conformance to Architectural Decisions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="2935" width="142" height="61" as="geometry" />
+          <mxGeometry x="1481" y="2989" width="142" height="61" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-289" value="LG 05-03: Evaluate Conformance to Architectural Decisions" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2940" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="911" y="2994" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-290" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lPej12Bno3lJLsPGT7YB-288" target="lPej12Bno3lJLsPGT7YB-289" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1330" y="4520" as="sourcePoint" />
-            <mxPoint x="1140" y="4517" as="targetPoint" />
+            <mxPoint x="1330" y="4438" as="sourcePoint" />
+            <mxPoint x="1140" y="4435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lPej12Bno3lJLsPGT7YB-294" value="V 2023.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
@@ -525,12 +521,12 @@
           <mxGeometry x="-364.5" y="425" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kNLLdn3Lz1MCtUCLmeeq-8" value="LG 4-3: Qualitative Analysis of Software Architectures (part)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="44" y="990" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="45" y="1088" width="456.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="kNLLdn3Lz1MCtUCLmeeq-9" value="LG 4-4: Quantitative Evaluation of Software Architectures (part)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="43" y="2906" width="456.5" height="51" as="geometry" />
+          <mxGeometry x="44" y="2960" width="456.5" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="kNLLdn3Lz1MCtUCLmeeq-10" value="V 2025.RC3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
+        <mxCell id="kNLLdn3Lz1MCtUCLmeeq-10" value="V 2025.RC4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="933.25" y="40" width="403" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-3" value="Structure of V 2025.RC3" style="whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;fontSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -582,109 +578,131 @@
           <mxGeometry x="911" y="241" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="911" y="320.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="387" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="911" y="390.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="457" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="911" y="460" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="526.5" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="911" y="539" width="17" height="53" as="geometry" />
+          <mxGeometry x="912" y="598.5" width="17" height="53" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="911" y="601" width="17" height="49" as="geometry" />
+          <mxGeometry x="912" y="694" width="17" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="911" y="676" width="17" height="49" as="geometry" />
+          <mxGeometry x="912" y="769" width="17" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="911" y="776" width="17" height="49" as="geometry" />
+          <mxGeometry x="912" y="869" width="17" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="911" y="851" width="17" height="49" as="geometry" />
+          <mxGeometry x="912" y="944" width="17" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="911" y="960" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1058" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1070" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1168" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1214" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1311" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1284" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1381" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1353" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1450" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1430.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1527.5" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1500" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1597" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1570" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1667" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1637" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1734" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1711" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1808" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1790.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1887.5" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1871" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="1966" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="911" y="1940" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2035" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2055" width="17" height="55" as="geometry" />
+          <mxGeometry x="912" y="2150" width="17" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2130" width="17" height="50" as="geometry" />
+          <mxGeometry x="911" y="2225" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2213" width="17" height="50" as="geometry" />
+          <mxGeometry x="911" y="2308" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2295" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2390" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2365" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2460" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2435" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2530" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2515" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2610" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2586" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2681" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2670.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="910" y="2752.5" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2860" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2914" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="911" y="2780.5" width="17" height="50" as="geometry" />
+          <mxGeometry x="912" y="2834.5" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2941" width="17" height="50" as="geometry" />
+          <mxGeometry x="911" y="2995" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="910" y="3070" width="17" height="50" as="geometry" />
+          <mxGeometry x="911" y="3074" width="17" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wD6HdIPCGLci8Dcnv06h-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="910" y="3150" width="17" height="50" as="geometry" />
+          <mxGeometry x="911" y="3154" width="17" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-1" value="LG 01-03: Understand the Long-Term Impact of Software Architecture" style="whiteSpace=wrap;strokeWidth=2;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="911" y="314" width="456.5" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="912" y="314" width="17" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-3" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="913" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-5" value="Data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1456" y="655" width="175" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="hMvtFYx8mkaiVF-YGMAp-6" value="" style="startArrow=none;endArrow=block;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hMvtFYx8mkaiVF-YGMAp-5" target="lPej12Bno3lJLsPGT7YB-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1466" y="700" as="sourcePoint" />
+            <mxPoint x="1379" y="635" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

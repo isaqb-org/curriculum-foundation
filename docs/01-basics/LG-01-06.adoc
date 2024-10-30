@@ -1,33 +1,34 @@
 
 // tag::DE[]
 [[LG-01-06]]
-==== LZ 01-06: Bedeutung von Daten und Datenmodellen (R2)
+==== LZ 01-06: Rolle von Softwarearchitekt:innen mit anderen Stakeholdern in Beziehung setzen (R1)
+Softwarearchitekt:innen können ihre Rolle erklären. 
+Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:
 
-Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen für die Architektur.  
-Sie
-
-* können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
-* können solche Datenmodelle systematisch entwerfen. 
-* verstehen den Unterschied zwischen {glossary_url}product[Produkten] und {glossary_url}sum[Summen] in der Datenmodellierung.
-* verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen. 
-* können die Auswirkungen von Daten auf Architekturentscheidungen z.B. in Bezug auf Speicherung, Sicherheit, Skalierbarkeit, Zuverlässigkeit, Performance usw. erläutern. 
+* Produktmanagement, Product-Owner
+* Projektleitung und -management
+* Anforderungsanalytiker:innen (System-/Businessanalyse, Anforderungsmanagement, Fachbereich)
+* Entwicklung
+* Qualitätssicherung und Test
+* IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme
+* Hardwareentwicklung und Systemarchitektur, zutreffend primär für eingebettete und hardwarenahe Systeme
+* Unternehmensarchitektur, Architekturboard.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-06]]
-==== LG 01-06: Importance of Data and Data Models (R2)
+==== LG 01-06: Relate the Role of Software Architects to Other Stakeholders (R1)
+Software architects are able to explain their role. 
+They should adapt their contribution to system development depending on the specific context and in relation to other stakeholders and organizational units, in particular to:
 
-Software architects understand the importance of data and data models for the architecture.  
-They
-
-* can identify data models that have significant impact on the  architecture. 
-* can design such data models systematically. 
-* understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data modelling.
-* understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
-* can explain the impact of data on architecture decisions regarding e.g. storage, security, scalability, reliability, performance etc.
+* product management and product owners
+* project managers
+* requirement engineers (requirements- or business analysts, requirements managers, system analysts, business owners, subject-matter experts, etc.)
+* developers
+* quality assurance and testers
+* IT operators and administrators (applies primarily to production environment or data centers for information systems),
+* hardware developers and system architects (applies primarily to embedded and hardware-related systems)
+* enterprise architects and architecture board members
 
 // end::EN[]
-
-===== {references}
-<<felleisenetal>>, <<sperberklaeren>>, <<kleppmann>>, <<fordhardparts>>
