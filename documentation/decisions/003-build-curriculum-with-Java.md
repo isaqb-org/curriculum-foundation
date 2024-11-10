@@ -1,4 +1,4 @@
-# Decision ID: 003 
+# 003: Use Java to build the Curriculum 
 We use a Java program to build the curricula.
 
 ## Status:  Accepted
