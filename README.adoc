@@ -455,6 +455,16 @@ To unify upper/lowercase within the (EN) version, we use the _Chicago manual of 
 
 For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
 
+==== Citation Keys
+
+We follow standardized citation keys:
+
+* Single author: `[lastname YYYY]`, e.g. `[Starke 2024]`
+* Multiple authors: `[lastname+ YYYY]`, e.g. `[Bass+ 2021]`
+* Standards: `[standard-id]`, e.g. `[ISO 25010:2023]`
+* Known terms/products: `[abbreviation]`, e.g. `[arc42]`
+
+See ADR-012 for complete guidelines and special cases.
 
 [[handling-references]]
 === Based on Established Content And References
