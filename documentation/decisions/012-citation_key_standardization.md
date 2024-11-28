@@ -1,6 +1,8 @@
 # 012 - Citation Key Standardization
 
-## Status: Accepted
+Modified November 28th 2024.
+
+## Status: Accepted 
 
 ## Context
 
@@ -14,11 +16,17 @@ The iSAQB curricula and related documents currently (11/2024) use inconsistent c
 [Miller et. al]
 [Sperber+Klaeren]
 [Rajlich+2000]
-[Bass+ 2021] 
+[Bass+2021] 
 [Richards+20]
 ```
 
-The use of mixed styles and formats, makes maintenance difficult and potentially confuses readers. This affects readability and synchronization between different iSAQB documents, particularly when cross-referencing between curricula, glossary, and other materials.
+The use of mixed styles and formats, makes maintenance difficult and potentially confuses readers. 
+This affects readability and synchronization between different iSAQB documents, particularly when cross-referencing between curricula, glossary, and other materials.
+
+### Modification November 28th 2024
+In a previous version the key for multiple authors plus year was `[Bass+ 2023]`, having a blank between the `+` and the year.
+This additional blank looked like a typo and does not look aesthetically pleasing.
+Therefore we decided to update this decision.
 
 ## Decision
 
@@ -28,7 +36,7 @@ Standardize citation keys starting with the FL curriculum, try to implement the 
 
 ```
 [lastname YYYY]     - single author: [Starke 2024]
-[lastname+ YYYY]    - multiple authors: [Bass+ 2021]
+[lastname+YYYY]    - multiple authors: [Bass+2021]
 [lastname YYYYa]    - multiple works same year: [Buschmann 1996a]
 ```
 
@@ -38,6 +46,8 @@ Where:
 - Space between Author and Year
 - "+" indicates multiple authors
 - No space between Author and +
+- No space between + and Year.
+- 
 
 ### 2. Special Cases
 
@@ -55,7 +65,7 @@ Where:
 ### 3. Naming Rules
 1. Author Names:
    - Use surname only: "Martin Fowler" → [Fowler 2002]
-   - For multiple authors, use first author: "Gamma, Helm, Johnson, Vlissides" → [Gamma+ 1994]
+   - For multiple authors, use first author: "Gamma, Helm, Johnson, Vlissides" → [Gamma+1994]
    - Alternative known names allowed: "Gang of Four" → [GoF 1994]
    - For multiple works by same author/year, append lowercase letters (a, b, c...)
 
