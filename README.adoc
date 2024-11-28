@@ -460,7 +460,7 @@ For the German (DE) version, we don't use punctuation at the end of bullet-list 
 We follow standardized citation keys:
 
 * Single author: `[lastname YYYY]`, e.g. `[Starke 2024]`
-* Multiple authors: `[lastname+ YYYY]`, e.g. `[Bass+ 2021]`
+* Multiple authors: `[lastname+YYYY]`, e.g. `[Bass+2021]`
 * Standards: `[standard-id]`, e.g. `[ISO 25010:2023]`
 * Known terms/products: `[abbreviation]`, e.g. `[arc42]`
 
