@@ -30,3 +30,5 @@ include::./LG-03-11.adoc[{include_configuration}]
 
 include::./LG-03-12.adoc[{include_configuration}]
 
+include::./LG-03-13.adoc[{include_configuration}]
+

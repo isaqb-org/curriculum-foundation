@@ -1,37 +1,24 @@
 
 // tag::DE[]
-
 [[LG-03-11]]
-==== LZ 03-11 [ehemaliges LZ 2-10]: Grundlegende Prinzipien von Software-Deployments kennen (R3)
-Softwarearchitekt:innen:
+==== LZ 03-11: Bedeutung vom Umgang mit Daten (R2)
 
-* wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird
-* können grundlegende Konzepte des Deployments von Software benennen und erklären:
-** Automatisierung von Deployments
-** Wiederholbare Builds
-** Konsistente Umgebungen (z.{nbsp}B. durch Nutzung von unveränderlicher (_immutable_) Infrastruktur)
-** Alles liegt unter Versionskontrolle
-** Releases sind einfach zurückzunehmen
+Softwarearchitekt:innen verstehen die Bedeutung vom Umgang mit Daten für die Architektur.  
+Sie
+
+* können erläutern, wie sich Architekturentscheidungen zum Umgang mit Daten auf Qualitäten wie Integrität, Vertraulichkeit, Skalierbarkeit, Zuverlässigkeit und Performance auswirken.
+* können Architekturentscheidungen treffen, um Anforderungen an diese Qualitäten zu erfüllen.
 
 // end::DE[]
 
 // tag::EN[]
-
 [[LG-03-11]]
-==== LG 03-11 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)
+==== LG 03-11: Importance of Data Handling (R2)
 
-Software architects:
+Software architects understand the importance of the handling of data for the architecture.
+They
 
-* know that software deployment is the process of making new or updated software available to its users
-* are able to name and explain fundamental concepts of software deployment:
-** automated deployments
-** repeatable builds
-** consistent environments (e.g. use immutable and disposable infrastructure)
-** put everything under version-control
-** releases are easy-to-undo
-
+* can explain how architectural decisions regarding the handling of data impact qualities such as integrity, confidentiality, scalability, reliability, and performance.
+* can make architectural decisions to meet requirements on these properties.
 
 // end::EN[]
-
-===== {references}
-<<humble>>
