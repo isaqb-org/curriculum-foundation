@@ -22,10 +22,7 @@ Softwarearchitekt:innen können erklären dass:
 ** Laufzeitflexibilität versus Wartbarkeit.
 
 
-Sie verstehen, dass 
-
-* manche Kategorisierungen zwischen Qualitätsanforderungen und funktionalen Anforderungen unterscheiden, wie zum Beispiel IREB
-* sich eine einzelne Anforderung auf mehrere Qualitäten beziehen kann.
+Sie verstehen, dass sich eine einzelne Anforderung auf mehrere Qualitäten beziehen kann.
 // end::DE[]
 
 
@@ -51,10 +48,7 @@ Software architects can explain that:
 ** security versus usability
 ** runtime flexibility versus maintainability.
 
-They understand that
-
-* some categorizations distinguish between quality requirements and functional requirements, e.g. IREB
-* a single requirement might pertain to several qualities
+They understand that a single requirement might pertain to several qualities.
 // end::EN[]
 
 ===== {references}
