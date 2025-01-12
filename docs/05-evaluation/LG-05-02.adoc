@@ -15,6 +15,7 @@ Softwarearchitekt:innen
    ausgehender Abhängigkeiten (R1)
 ** Kosten-Nutzen-Analyse (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
+
 * kennen Informationsquellen für Qualitätsanalyse:
 ** Anforderungsdokumentation (R1)
 ** Architekturdokumentation (R1)
@@ -45,7 +46,7 @@ Software architects
 ** cost-benefit analysis (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
-* know sources of information for a quality analysis (R2):
+* know sources of information for a quality analysis:
 ** requirements documentation (R1)
 ** architecture documentation (R1)
 ** architecture and design models (R1)
