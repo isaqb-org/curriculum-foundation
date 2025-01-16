@@ -455,7 +455,7 @@ To unify upper/lowercase within the (EN) version, we use the _Chicago manual of 
 
 For the German (DE) version, we don't use punctuation at the end of bullet-list items, unless on ends-of-sentences.
 
-==== Citation Keys
+==== Citation Keys and Bibliographic Reference
 
 We follow standardized citation keys:
 
@@ -464,7 +464,15 @@ We follow standardized citation keys:
 * Standards: `[standard-id]`, e.g. `[ISO 25010:2023]`
 * Known terms/products: `[abbreviation]`, e.g. `[arc42]`
 
-See ADR-012 for complete guidelines and special cases.
+See decision 012 for complete guidelines and special cases.
+
+We follow IEEE style for bibliograpy entries:
+
+* Books: [key] A. Author, B. Author, and C. Author, _Title of Book_, nth ed. City, State: Publisher, Year.
+* Online Resources: [key] Organization, "Title of webpage." [Online]. Available: https://url.com
+* Journal/Conference Papers: [key] A. Author and B. Author, "Title of paper," _Name of Journal,_ vol. x, no. x, pp. xxx-xxx, Month Year.
+
+See decision 015 and the [IEEE style guide reference](http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) for furher details. 
 
 [[handling-references]]
 === Based on Established Content And References
