@@ -14,7 +14,7 @@
 - [[[archimate, ArchiMate]]] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: https://www.opengroup.org/archimate-forum/archimate-overview
 
 // B
-- [[[bass,Bass+2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4^th^ Edition, Addison Wesley 2021.
+- [[[bass,Bass+2021]]]  L. Bass, P. Clements, and R. Kazman, _Software Architecture in Practice_, 4th ed. Boston, MA, USA: Addison Wesley, 2021.
 - [[[brownc4,Brown]]] Simon Brown: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
 - [[[IREBFoundation, IREB Foundation]]] Stan Bühne, Martin Glinz, Hans van Loen, Stefan Staal: Certified Professional for Requirements Engineering - Foundation Level - Syllabus - Version 3.2.0, IREB, 2024.
 - [[[burnsdistributed,Burns 2018]]] Brendan Burns: Designing Distributed Systems, Patterns and Paradigms for Scalable, Reliable Services, OReilly 2018.
@@ -37,7 +37,7 @@
 
 - [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017.
 
-- [[[fordhardparts,Ford+ 2021]]] Neal Ford, Mark Richards, Pramod Sadalage und Zhamak Dehghani: Software Architecture: The Hard Parts. Modern Trade-Off Analyses for Distributed Architectures. OReilly 2021.
+- [[[fordhardparts,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
 - [[[fowler,Fowler 2002]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.
 
 // G
@@ -54,7 +54,7 @@
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 - [[[humble,Humble+2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
-- [[[hruschkaetalarc42, Hruschka+2021]]] Peter Hruschka, Ivan Kostov and Wolfgang Reimesch: arc42-by-Example Vol 2: Architecture Documentation for Embedded Systems and IoT. Leanpub, 2021. https://leanpub.com/arc42byexample-volume2
+- [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2A
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
 - [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
@@ -106,7 +106,7 @@
 - [[[solid, SOLID]]] Samuel Oloruntoba and Anish Singh Walia: SOLID: The First 5 Principles of Object Oriented Design, <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>.
 - [[[sperberklaeren, Sperber+2023]]] Michael Sperber, Herber  Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
 - [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
-- [[[starke,Starke 2024]]] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: https://esabuch.de
+- [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: https://esabuch.de
 - [[[starkelorz, Starke+2023a]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2023.
 - [[[starkeetalarc42, Starke+2023b]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example - Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
