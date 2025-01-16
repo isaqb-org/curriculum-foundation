@@ -8,10 +8,10 @@
 
 // sorting within file: last name of first author
 
-
-- [[[aosa, AOSA]]] The Architecture of Open Source Applications. Edited by Amy Brown and Greg Wilson. Online: <https://aosabook.org/en/>.
-- [[[arc42, arc42]]] arc42, the open-source template for software architecture communication, online: <https://arc42.org>. Maintained on <https://github.com/arc42>
-- [[[archimate, ArchiMate]]] The ArchiMate® Enterprise Architecture Modeling Language, online: <https://www.opengroup.org/archimate-forum/archimate-overview>
+// A
+- [[[aosa, AOSA]]] A. Brown and G. Wilson, Eds., _The Architecture of Open Source Applications_. [Online]. Available: https://aosabook.org/en/
+- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: https://arc42.org; Maintained on: https://github.com/arc42
+- [[[archimate, ArchiMate]]] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: https://www.opengroup.org/archimate-forum/archimate-overview
 
 // B
 - [[[bass,Bass+2021]]] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4^th^ Edition, Addison Wesley 2021.
