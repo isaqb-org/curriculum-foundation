@@ -33,3 +33,17 @@ While IEEE style is not necessarily the most prevalent in technical writing, we 
 The actual implementation of this decision can be done incrementally during regular document updates, but having this standard will help with synchronizing references across iSAQB documents.
 
 When introducing a new bibliography entry or updating existing ones, please use IEEE style in the FL curriculum and other iSAQB documents.
+
+## Quick Reference Examples
+
+Book:\
+[Bass+2021] L. Bass, P. Clements, and R. Kazman, _Software Architecture in Practice_, 4th ed., Addison-Wesley, 2021.
+
+For books with more than 6 authors, use the primary author’s name followed by "et al."
+
+Online Resource:\
+[isaqbFLC] International Software Architecture Qualification Board (iSAQB), "Foundation Level Curriculum." [Online]. Available: https://public.isaqb.org/curriculum-foundation/
+
+According to IEEE style guide, article titles should be in quotation marks, while book titles are in italics.
+
+The [IEEE style guide reference](http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) contains a large section of further examples.
