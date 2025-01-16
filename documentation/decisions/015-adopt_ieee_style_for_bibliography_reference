@@ -1,0 +1,35 @@
+# 015: Adopt IEEE Style for Bibliography Reference
+
+## Status: Accepted
+
+## Context:
+
+The iSAQB curricula (Foundation Level, Advanced Level) and related documents (iSAQB Glossary, exam preparation materials) currently use inconsistent bibliography styles.
+Various styles and formats are mixed, making maintenance difficult and potentially confusing readers.
+This affects readability and synchronization between different iSAQB documents.
+
+## Decision
+
+We will adopt the IEEE citation style as the desired standard format for the FL curriculum and try to introduce it for other iSAQB documentation bibliographies, with the exception of the citation keys which will be handled as described in decision 012.
+
+Each bibliography entry consists of two parts:
+
+1. Citation key (handled in decision 012)
+2. Bibliographic reference (this decision)
+
+Complete IEEE style guide reference: http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf
+
+## Rationale:
+
+As discussed in [Issue #671](https://github.com/isaqb-org/curriculum-foundation/issues/671), we considered several widely-used citation styles by comparing their handling of common reference types.
+While IEEE style is not necessarily the most prevalent in technical writing, we chose it primarily for:
+
+* Clear separation of authors using commas
+* Straightforward handling of author names (initials + last name)
+* Comprehensive guidelines for edge cases like online resources
+
+## Consequences:
+
+The actual implementation of this decision can be done incrementally during regular document updates, but having this standard will help with synchronizing references across iSAQB documents.
+
+When introducing a new bibliography entry or updating existing ones, please use IEEE style in the FL curriculum and other iSAQB documents.
