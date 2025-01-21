@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen:
 
-* können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für veschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)
+* können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für verschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)
 
 * verstehen, dass eine Anforderung für eine gegebene Qualität
   eine Analysemethode spezifizieren sollte (siehe <<LG-05-02>>) (R1)
