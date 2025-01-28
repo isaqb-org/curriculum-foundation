@@ -60,7 +60,7 @@ The new version is structured along the fundamental activities and responsibilit
 
 The mapping of V2023 to V2025 is provided in graphical format for your convenience:
 
-![Mapping V2023 to V2025](./documentation/Mapping-2023-2025-draft.drawio.png)
+![Mapping V2023 to V2025](./documentation/Mapping-2023-2025.drawio.png)
 
 
 ## Detailed Change History
