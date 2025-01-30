@@ -35,7 +35,7 @@
 // F
 - [[[felleisenetal, Felleisen+2014]]] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <https://htdp.org/>
 
-- [[[ford,Ford 2017]]] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017.
+- [[[ford,Ford+2023]]] Neil Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage: Building Evolutionary Architectures: Automated Software Governance, 2nd Edition, O'Reilly Media, 2023.
 
 - [[[fordhardparts,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
 - [[[fowler,Fowler 2002]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.
