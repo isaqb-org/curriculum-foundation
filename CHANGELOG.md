@@ -45,7 +45,6 @@ The new version is structured along the fundamental activities and responsibilit
 * Software Lifecycle
 * Differentiate types of IT systems
 * Expect-errors principle
-* SOLID principles (except Open/Closed and Dependency-Inversion)
 
 #### The following topics are new in V2025:
 
