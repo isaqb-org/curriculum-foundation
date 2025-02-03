@@ -413,7 +413,7 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 === How to Create an Official Version (by tagging in Git)
 
 
-If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with Git.
+If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with your *local* Git client (*not* via GitHub).
 
 The format for a release candidate tag is as follows: +
 `2021.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
