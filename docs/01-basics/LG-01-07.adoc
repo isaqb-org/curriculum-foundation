@@ -3,12 +3,15 @@
 [[LG-01-07]]
 ==== LZ 01-07: Bedeutung von Daten und Datenmodellen (R2)
 
-Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen für die Architektur.  
+Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen (unabhängig von ihrer physischen Repräsentation) für die Architektur. 
 Sie
 
 * können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben. 
 * können solche Datenmodelle systematisch entwerfen. 
 * verstehen den Unterschied zwischen {glossary_url}product[Produkten] und {glossary_url}sum[Summen] in der Datenmodellierung.
+
+Softwarearchitekt:innen
+
 * verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen. 
 * können die Auswirkungen von Daten auf Architekturentscheidungen z.B. in Bezug auf Speicherung, Sicherheit, Skalierbarkeit, Zuverlässigkeit, Performance usw. erläutern. 
 
@@ -18,12 +21,15 @@ Sie
 [[LG-01-07]]
 ==== LG 01-07: Importance of Data and Data Models (R2)
 
-Software architects understand the importance of data and data models for the architecture.  
+Software architects understand the importance of data and data models (independently of the physical representation) for the architecture.  
 They
 
 * can identify data models that have significant impact on the  architecture. 
 * can design such data models systematically. 
 * understand the difference between {glossary_url}product[products] and {glossary_url}sum[sums] in data modelling.
+
+Software architects
+
 * understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.
 * can explain the impact of data on architecture decisions regarding e.g. storage, security, scalability, reliability, performance etc.
 
