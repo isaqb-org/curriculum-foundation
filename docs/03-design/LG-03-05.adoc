@@ -7,10 +7,9 @@ Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen, insbesonder
 Sie
   
 * können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit)  (R1)
-* können inkrementell und iterativ arbeiten und entscheiden (R2)
+* können iterativ arbeiten und entscheiden (R1)
 * verstehen die Notwendigkeit von Rückmeldungen zu Architekturentscheidungen (R1)
-* können von anderen Stakeholdern systematisch Rückmeldung
-  einholen. (R2)
+* können von anderen Stakeholdern systematisch Rückmeldung einholen. (R2)
 
 // end::DE[]
 
@@ -21,7 +20,7 @@ Sie
 Software architects understand the necessity of iterations, especially when decisions are made in the face of uncertainties. They
 
 * are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability). (R1)
-* can work and make decisions incrementally and iteratively. (R1)
+* can work and make decisions iteratively. (R1)
 * understand the necessity for feedback on architecture decisions. (R1)
 * can systematically obtain feedback from other stakeholders. (R2)
 // end::EN[]

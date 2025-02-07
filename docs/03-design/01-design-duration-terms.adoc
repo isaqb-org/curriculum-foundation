@@ -31,7 +31,7 @@ Kopplung;
 Kohäsion; 
 Top-down- und Bottom-up-Vorgehen;
 modellbasierter Entwurf; 
-iterativer/inkrementeller Entwurf; 
+iterativer Entwurf; 
 Domain-Driven Design
 
 // end::DE[]
@@ -64,7 +64,7 @@ coupling;
 cohesion; 
 top-down and bottom-up approaches; 
 model-based design; 
-iterative/incremental design; 
+iterative design; 
 domain-driven design
 
 // end::EN[]
