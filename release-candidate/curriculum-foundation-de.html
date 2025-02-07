@@ -1878,8 +1878,8 @@ h2 {
 <div id="header">
 <h1>Curriculum für<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
 <div class="details">
-<span id="revnumber"> 2025.1-RC6-DE,</span>
-<span id="revdate">20250107</span>
+<span id="revnumber"> 2025.1-RC8-DE,</span>
+<span id="revdate">20250207</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Inhaltsverzeichnis</div>
@@ -2013,7 +2013,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LG-01-07">LZ 01-07: Bedeutung von Daten und Datenmodellen (R2)</a></p>
 </li>
 <li>
-<p><a href="#LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1-R3)</a></p>
+<p><a href="#LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1, R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-02-02">LZ 02-02 [ehemaliges LZ 2-3]: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)</a></p>
@@ -2022,7 +2022,7 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LG-02-03">LZ 02-03 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)</a></p>
 </li>
 <li>
-<p><a href="#LG-02-04">LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen an Qualitäten formulieren (R1-R3)</a></p>
+<p><a href="#LG-02-04">LZ 02-04 [ehemaliges LZ 04-02]: Anforderungen an Qualitäten formulieren (R1-R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-02-05">LZ 02-05 [ehemaliges LZ 1-08]: Explizite Aussagen vor impliziten Annahmen bevorzugen (R1)</a></p>
@@ -2100,10 +2100,10 @@ Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser 
 <p><a href="#LG-05-03">LZ 05-03: Konformität mit Architekturentscheidungen bewerten (R2)</a></p>
 </li>
 <li>
-<p><a href="#LG-06-01">LZ 06-01: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</a></p>
+<p><a href="#LG-06-01">LZ 06-01 [ehemaliges LZ 05-01]: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</a></p>
 </li>
 <li>
-<p><a href="#LG-06-02">LZ 06-02: Technische Umsetzung einer Lösung nachvollziehen (R3)</a></p>
+<p><a href="#LG-06-02">LZ 06-02  [ehemaliges LZ 05-02]: Technische Umsetzung einer Lösung nachvollziehen (R3)</a></p>
 </li>
 </ul>
 </div>
@@ -2569,7 +2569,7 @@ Einflussfaktoren</p>
 <div class="sect4">
 <h5 id="_referenzen_2">Referenzen</h5>
 <div class="paragraph">
-<p><a href="#bass">[Bass+2021]</a>, <a href="#lehman">[Lehman 1980]</a>, <a href="#lehmanwiki">[Wiki-LehmansLaws]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#ford">[Ford 2017]</a>, <a href="#rajlich">[Rajlich+2000]</a>, <a href="#richardsfundamentals">[Richards+2020]</a></p>
+<p><a href="#bass">[Bass+2021]</a>, <a href="#lehman">[Lehman 1980]</a>, <a href="#lehmanwiki">[Wiki-LehmansLaws]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#ford">[Ford+2023]</a>, <a href="#rajlich">[Rajlich+2000]</a>, <a href="#richardsfundamentals">[Richards+2020]</a></p>
 </div>
 </div>
 </div>
@@ -2632,9 +2632,6 @@ Notwendige Verfeinerungen mit den entsprechenden Stakeholdern koordinieren und a
 <p>Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten</p>
 </li>
 <li>
-<p>Datenarchitektur: Semantik und Organization von Daten</p>
-</li>
-<li>
 <p>Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.</p>
 </li>
 <li>
@@ -2687,7 +2684,7 @@ Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeh
 <div class="sect3">
 <h4 id="LG-01-07">LZ 01-07: Bedeutung von Daten und Datenmodellen (R2)</h4>
 <div class="paragraph">
-<p>Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen für die Architektur.
+<p>Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen (unabhängig von ihrer physischen Repräsentation) für die Architektur.
 Sie</p>
 </div>
 <div class="ulist">
@@ -2701,6 +2698,13 @@ Sie</p>
 <li>
 <p>verstehen den Unterschied zwischen <a href="https://public.isaqb.org/glossary/glossary-en.html#term-product">Produkten</a> und <a href="https://public.isaqb.org/glossary/glossary-en.html#term-sum">Summen</a> in der Datenmodellierung.</p>
 </li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen</p>
+</div>
+<div class="ulist">
+<ul>
 <li>
 <p>verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen.</p>
 </li>
@@ -2712,7 +2716,7 @@ Sie</p>
 <div class="sect4">
 <h5 id="_referenzen_3">Referenzen</h5>
 <div class="paragraph">
-<p><a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+2023]</a>, <a href="#sperberwehr">[Sperber+2024]</a>, <a href="#kleppmann">[Kleppmann 2017]</a>, <a href="#fordhardparts">[Ford+ 2021]</a></p>
+<p><a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+2023]</a>, <a href="#sperberwehr">[Sperber+2024]</a>, <a href="#kleppmann">[Kleppmann 2017]</a>, <a href="#fordhardparts">[Ford+2021]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2754,9 +2758,9 @@ Sie können solche Anforderungen mit Hilfe von Szenarien formulieren.</p>
 <div class="sect2">
 <h3 id="_lernziele_2">Lernziele</h3>
 <div class="sect3">
-<h4 id="LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1-R3)</h4>
+<h4 id="LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1, R3)</h4>
 <div class="paragraph">
-<p>Architekten können Stakeholder und deren Anliegen sowie deren Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und Entwicklungsprozess identifizieren. (R2)</p>
+<p>Architekten können Stakeholder und deren Anliegen sowie deren Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und Entwicklungsprozess identifizieren. (R1)</p>
 </div>
 <div class="paragraph">
 <p>Beispiele für Stakeholder und ihre Anliegen (R3):</p>
@@ -2802,7 +2806,7 @@ gewählten architekturellen Ansatzes</p></td>
 </table>
 <div class="paragraph">
 <p>Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen identifizieren (z.B. Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele).
-Sie verstehen, dass sie die relevanten Stakeholder einbeziehen müssen, um diese Konflikte zu lösen. (R2)</p>
+Sie verstehen, dass sie die relevanten Stakeholder einbeziehen müssen, um diese Konflikte zu lösen. (R1)</p>
 </div>
 <div class="paragraph">
 <p>Architekt:innen verstehen, dass nicht alle Anliegen der Stakeholder in Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt werden müssen. (R3)</p>
@@ -2991,14 +2995,14 @@ Sie verstehen, dass ihre Entscheidungen zu zusätzlichen Anforderungen führen o
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-02-04">LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen an Qualitäten formulieren (R1-R3)</h4>
+<h4 id="LG-02-04">LZ 02-04 [ehemaliges LZ 04-02]: Anforderungen an Qualitäten formulieren (R1-R3)</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen:</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für veschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)</p>
+<p>können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für verschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)</p>
 </li>
 <li>
 <p>verstehen, dass eine Anforderung für eine gegebene Qualität
@@ -3079,7 +3083,7 @@ Kopplung;
 Kohäsion;
 Top-down- und Bottom-up-Vorgehen;
 modellbasierter Entwurf;
-iterativer/inkrementeller Entwurf;
+iterativer Entwurf;
 Domain-Driven Design</p>
 </div>
 </div>
@@ -3167,7 +3171,7 @@ Domain-Driven Design</p>
 <p>Domain-Driven Design, siehe <a href="#evans">[Evans 2004]</a> (R3)</p>
 </li>
 <li>
-<p>Evolutionäre Architektur, siehe <a href="#ford">[Ford 2017]</a> (R3)</p>
+<p>Evolutionäre Architektur, siehe <a href="#ford">[Ford+2023]</a> (R3)</p>
 </li>
 <li>
 <p>Globale Analyse, siehe <a href="#hofmeister">[Hofmeister+1999]</a> (R3)</p>
@@ -3315,14 +3319,13 @@ Sie</p>
 <p>können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit)  (R1)</p>
 </li>
 <li>
-<p>können inkrementell und iterativ arbeiten und entscheiden (R2)</p>
+<p>können iterativ arbeiten und entscheiden (R1)</p>
 </li>
 <li>
 <p>verstehen die Notwendigkeit von Rückmeldungen zu Architekturentscheidungen (R1)</p>
 </li>
 <li>
-<p>können von anderen Stakeholdern systematisch Rückmeldung
-einholen. (R2)</p>
+<p>können von anderen Stakeholdern systematisch Rückmeldung einholen. (R2)</p>
 </li>
 </ul>
 </div>
@@ -3385,7 +3388,7 @@ Sie:</p>
 <div class="sect4">
 <h5 id="_referenzen_9">Referenzen</h5>
 <div class="paragraph">
-<p><a href="#fordhardparts">[Ford+ 2021]</a></p>
+<p><a href="#fordhardparts">[Ford+2021]</a></p>
 </div>
 </div>
 </div>
@@ -3735,7 +3738,7 @@ Programmiersprachen oder Frameworks verwendet werden können.</p>
 <div class="sect4">
 <h5 id="_referenzen_15">Referenzen</h5>
 <div class="paragraph">
-<p><a href="#distributedsystems">[Tanenbaum+]</a>, <a href="#buschmannb">[Buschmann+2007]</a>, <a href="#fordhardparts">[Ford+ 2021]</a>, <a href="#miller-distributed">[Miller+]</a></p>
+<p><a href="#distributedsystems">[Tanenbaum+]</a>, <a href="#buschmannb">[Buschmann+2007]</a>, <a href="#fordhardparts">[Ford+2021]</a>, <a href="#miller-distributed">[Miller+]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -4168,7 +4171,7 @@ ausgehender Abhängigkeiten (R1)</p>
 </ul>
 </div>
 <div class="paragraph">
-<p>Siehe auch <a href="#LG-02-03">LZ 02-03 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)</a>, <a href="#LG-02-04">LZ 02-04 [ehemaliges LZ 04-03]: Anforderungen an Qualitäten formulieren (R1-R3)</a>.</p>
+<p>Siehe auch <a href="#LG-02-03">LZ 02-03 [ehemaliges LZ 4-1]: Qualitäten eines Softwaresystems verstehen und erklären (R1)</a>, <a href="#LG-02-04">LZ 02-04 [ehemaliges LZ 04-02]: Anforderungen an Qualitäten formulieren (R1-R3)</a>.</p>
 </div>
 <div class="sect4">
 <h5 id="_referenzen_22">Referenzen</h5>
@@ -4208,7 +4211,7 @@ ausgehender Abhängigkeiten (R1)</p>
 <div class="sect2">
 <h3 id="_lernziele_6">Lernziele</h3>
 <div class="sect3">
-<h4 id="LG-06-01">LZ 06-01: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</h4>
+<h4 id="LG-06-01">LZ 06-01 [ehemaliges LZ 05-01]: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforderungen und Randbedingungen zu Lösungsentscheidungen erkannt und nachvollzogen.</p>
 </div>
@@ -4220,7 +4223,7 @@ ausgehender Abhängigkeiten (R1)</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-06-02">LZ 06-02: Technische Umsetzung einer Lösung nachvollziehen (R3)</h4>
+<h4 id="LG-06-02">LZ 06-02  [ehemaliges LZ 05-02]: Technische Umsetzung einer Lösung nachvollziehen (R3)</h4>
 <div class="paragraph">
 <p>Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.</p>
 </div>
@@ -4241,20 +4244,20 @@ ausgehender Abhängigkeiten (R1)</p>
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="aosa"></a>[AOSA] The Architecture of Open Source Applications. Edited by Amy Brown and Greg Wilson. Online: <a href="https://aosabook.org/en/" class="bare">https://aosabook.org/en/</a>.</p>
+<p><a id="aosa"></a>[AOSA] A. Brown and G. Wilson, Eds., <em>The Architecture of Open Source Applications</em>. [Online]. Available: <a href="https://aosabook.org/en/" class="bare">https://aosabook.org/en/</a></p>
 </li>
 <li>
-<p><a id="arc42"></a>[arc42] arc42, the open-source template for software architecture communication, online: <a href="https://arc42.org" class="bare">https://arc42.org</a>. Maintained on <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a></p>
+<p><a id="arc42"></a>[arc42] "arc42, the open-source template for software architecture communication." [Online]. Available: <a href="https://arc42.org" class="bare">https://arc42.org</a>; Maintained on: <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a></p>
 </li>
 <li>
-<p><a id="archimate"></a>[ArchiMate] The ArchiMate® Enterprise Architecture Modeling Language, online: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
+<p><a id="archimate"></a>[ArchiMate] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
 </li>
 </ul>
 </div>
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="bass"></a>[Bass+2021] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4<sup>th</sup> Edition, Addison Wesley 2021.</p>
+<p><a id="bass"></a>[Bass+2021]  L. Bass, P. Clements, and R. Kazman, <em>Software Architecture in Practice</em>, 4th ed. Boston, MA, USA: Addison Wesley, 2021.</p>
 </li>
 <li>
 <p><a id="brownc4"></a>[Brown] Simon Brown: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
@@ -4305,10 +4308,10 @@ ausgehender Abhängigkeiten (R1)</p>
 <p><a id="felleisenetal"></a>[Felleisen+2014] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <a href="https://htdp.org/" class="bare">https://htdp.org/</a></p>
 </li>
 <li>
-<p><a id="ford"></a>[Ford 2017] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017.</p>
+<p><a id="ford"></a>[Ford+2023] Neil Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage: Building Evolutionary Architectures: Automated Software Governance, 2nd Edition, O&#8217;Reilly Media, 2023.</p>
 </li>
 <li>
-<p><a id="fordhardparts"></a>[Ford+ 2021] Neal Ford, Mark Richards, Pramod Sadalage und Zhamak Dehghani: Software Architecture: The Hard Parts. Modern Trade-Off Analyses for Distributed Architectures. OReilly 2021.</p>
+<p><a id="fordhardparts"></a>[Ford+2021] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, <em>Software Architecture: The Hard Parts</em>. Sebastopol, CA, USA: O&#8217;Reilly Media, 2021.</p>
 </li>
 <li>
 <p><a id="fowler"></a>[Fowler 2002] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.</p>
@@ -4352,7 +4355,7 @@ ausgehender Abhängigkeiten (R1)</p>
 <p><a id="humble"></a>[Humble+2010] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010</p>
 </li>
 <li>
-<p><a id="hruschkaetalarc42"></a>[Hruschka+2021] Peter Hruschka, Ivan Kostov and Wolfgang Reimesch: arc42-by-Example Vol 2: Architecture Documentation for Embedded Systems and IoT. Leanpub, 2021. <a href="https://leanpub.com/arc42byexample-volume2" class="bare">https://leanpub.com/arc42byexample-volume2</a></p>
+<p><a id="hruschkaetalarc42"></a>[Hruschka+2021] P. Hruschka, I. Kostov, and W. Reimesch, <em>Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT</em>. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: <a href="https://leanpub.com/arc42byexample-volume2" class="bare">https://leanpub.com/arc42byexample-volume2</a></p>
 </li>
 <li>
 <p><a id="ietf-http"></a>[IETF HTTP] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: <a href="https://www.rfc-editor.org/rfc/rfc9110.html" class="bare">https://www.rfc-editor.org/rfc/rfc9110.html</a></p>
@@ -4483,7 +4486,7 @@ ausgehender Abhängigkeiten (R1)</p>
 <p><a id="sperberwehr"></a>[Sperber+2024] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <a href="https://funktionale-programmierung.de/2024/11/25/sums-products.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products.html</a>. (English translation: Data Modeling with Sums and Products, 2024. <a href="https://funktionale-programmierung.de/2024/11/25/sums-products-english.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products-english.html</a>)</p>
 </li>
 <li>
-<p><a id="starke"></a>[Starke 2024] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
+<p><a id="starke"></a>[Starke 2024] G. Starke, <em>Effektive Software-Architekturen - Ein praktischer Leitfaden</em>, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
 </li>
 <li>
 <p><a id="starkelorz"></a>[Starke+2023a] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2023.</p>
@@ -4532,8 +4535,8 @@ ausgehender Abhängigkeiten (R1)</p>
 </div>
 <div id="footer">
 <div id="footer-text">
- 2025.1-RC6-DE<br>
-Last updated 2025-01-07 06:42:23 UTC
+ 2025.1-RC8-DE<br>
+Last updated 2025-02-07 15:47:38 UTC
 </div>
 </div>
 </body>

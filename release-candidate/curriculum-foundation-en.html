@@ -1878,8 +1878,8 @@ h2 {
 <div id="header">
 <h1>Curriculum for<br><br>Certified Professional for<br>Software Architecture (CPSA)<sup>&#174;</sup><br><br>: <strong>Foundation Level</strong></h1>
 <div class="details">
-<span id="revnumber"> 2025.1-RC6-EN,</span>
-<span id="revdate">20250107</span>
+<span id="revnumber"> 2025.1-RC8-EN,</span>
+<span id="revdate">20250207</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -2010,7 +2010,7 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-01-07">LG 01-07: Importance of Data and Data Models (R2)</a></p>
 </li>
 <li>
-<p><a href="#LG-02-01">LG 02-01: Understand Stakeholder Concerns (R1-R3)</a></p>
+<p><a href="#LG-02-01">LG 02-01: Understand Stakeholder Concerns (R1,R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-02-02">LG 02-02 [previously LG 2-3]: Clarify and Consider Requirements and Constraints (R1-R3)</a></p>
@@ -2019,7 +2019,7 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-02-03">LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)</a></p>
 </li>
 <li>
-<p><a href="#LG-02-04">LG 02-04 [previously LG 04-03]: Formulate Requirements on Qualities (R1-R3)</a></p>
+<p><a href="#LG-02-04">LG 02-04 [previously LG 04-02]: Formulate Requirements on Qualities (R1-R3)</a></p>
 </li>
 <li>
 <p><a href="#LG-02-05">LG 02-05 [previously LG 1-08]: Prefer Explicit Statements over Implicit Assumptions (R1)</a></p>
@@ -2097,10 +2097,10 @@ For the purpose of simplicity, iSAQB e. V. shall hereafter be referred to as iSA
 <p><a href="#LG-05-03">LG 05-03: Evaluate Conformance to Architectural Decisions (R2)</a></p>
 </li>
 <li>
-<p><a href="#LG-06-01">LG 06-01: Know the Relation between Requirements, Constraints, and Solutions (R3)</a></p>
+<p><a href="#LG-06-01">LG 06-01 [previous LG 05-01]: Know the Relation between Requirements, Constraints, and Solutions (R3)</a></p>
 </li>
 <li>
-<p><a href="#LG-06-02">LG 06-02: Understand the technical implementation of a solution (R3)</a></p>
+<p><a href="#LG-06-02">LG 06-02  [previous LG 05-02]: Understand the technical implementation of a solution (R3)</a></p>
 </li>
 </ul>
 </div>
@@ -2567,7 +2567,7 @@ influencing factors</p>
 <div class="sect4">
 <h5 id="_references_2">References</h5>
 <div class="paragraph">
-<p><a href="#bass">[Bass+2021]</a>, <a href="#lehman">[Lehman 1980]</a>, <a href="#lehmanwiki">[Wiki-LehmansLaws]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#ford">[Ford 2017]</a>, <a href="#rajlich">[Rajlich+2000]</a>, <a href="#richardsfundamentals">[Richards+2020]</a></p>
+<p><a href="#bass">[Bass+2021]</a>, <a href="#lehman">[Lehman 1980]</a>, <a href="#lehmanwiki">[Wiki-LehmansLaws]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#ford">[Ford+2023]</a>, <a href="#rajlich">[Rajlich+2000]</a>, <a href="#richardsfundamentals">[Richards+2020]</a></p>
 </div>
 </div>
 </div>
@@ -2630,9 +2630,6 @@ Coordinate and agree on any necessary refinements with the corresponding stakeho
 <p>information architecture: cross-system structure and use of information and data</p>
 </li>
 <li>
-<p>data architecture: semantics and organization of data</p>
-</li>
-<li>
 <p>infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
 networks, etc.</p>
 </li>
@@ -2686,7 +2683,7 @@ They should adapt their contribution to system development depending on the spec
 <div class="sect3">
 <h4 id="LG-01-07">LG 01-07: Importance of Data and Data Models (R2)</h4>
 <div class="paragraph">
-<p>Software architects understand the importance of data and data models for the architecture.
+<p>Software architects understand the importance of data and data models (independently of the physical representation) for the architecture.
 They</p>
 </div>
 <div class="ulist">
@@ -2700,6 +2697,13 @@ They</p>
 <li>
 <p>understand the difference between <a href="https://public.isaqb.org/glossary/glossary-en.html#term-product">products</a> and <a href="https://public.isaqb.org/glossary/glossary-en.html#term-sum">sums</a> in data modelling.</p>
 </li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Software architects</p>
+</div>
+<div class="ulist">
+<ul>
 <li>
 <p>understand the importance of decoupling data models from their representation in databases, files, and transmission protocols.</p>
 </li>
@@ -2711,7 +2715,7 @@ They</p>
 <div class="sect4">
 <h5 id="_references_3">References</h5>
 <div class="paragraph">
-<p><a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+2023]</a>, <a href="#sperberwehr">[Sperber+2024]</a>, <a href="#kleppmann">[Kleppmann 2017]</a>, <a href="#fordhardparts">[Ford+ 2021]</a></p>
+<p><a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+2023]</a>, <a href="#sperberwehr">[Sperber+2024]</a>, <a href="#kleppmann">[Kleppmann 2017]</a>, <a href="#fordhardparts">[Ford+2021]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -2753,9 +2757,9 @@ They can formulate such requirements using scenarios.</p>
 <div class="sect2">
 <h3 id="_learning_goals_2">Learning Goals</h3>
 <div class="sect3">
-<h4 id="LG-02-01">LG 02-01: Understand Stakeholder Concerns (R1-R3)</h4>
+<h4 id="LG-02-01">LG 02-01: Understand Stakeholder Concerns (R1,R3)</h4>
 <div class="paragraph">
-<p>Architects can identify stakeholders and their concerns, as well as their impact on the software architecture or the design and development process. (R2)</p>
+<p>Architects can identify stakeholders and their concerns, as well as their impact on the software architecture or the design and development process. (R1)</p>
 </div>
 <div class="paragraph">
 <p>Examples of stakeholders and concerns (R3):</p>
@@ -2801,7 +2805,7 @@ They can formulate such requirements using scenarios.</p>
 <div class="paragraph">
 <p>Software architects can identify potential conflicts between short-term and long-term goals (e.g., business and project goals vs.
 architecture and maintainability goals).
-They understand that they need to involve the relevant stakeholders in order to resolve these conflicts. (R2)</p>
+They understand that they need to involve the relevant stakeholders in order to resolve these conflicts. (R1)</p>
 </div>
 <div class="paragraph">
 <p>Architects understand that not all stakeholder concerns can or will be translated into requirements, but still need to be considered. (R3)</p>
@@ -2990,7 +2994,7 @@ They understand that their decisions may introduce new requirements or necessita
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-02-04">LG 02-04 [previously LG 04-03]: Formulate Requirements on Qualities (R1-R3)</h4>
+<h4 id="LG-02-04">LG 02-04 [previously LG 04-02]: Formulate Requirements on Qualities (R1-R3)</h4>
 <div class="paragraph">
 <p>Software architects:</p>
 </div>
@@ -3075,7 +3079,7 @@ coupling;
 cohesion;
 top-down and bottom-up approaches;
 model-based design;
-iterative/incremental design;
+iterative design;
 domain-driven design</p>
 </div>
 </div>
@@ -3163,7 +3167,7 @@ domain-driven design</p>
 <p>domain-driven design, see <a href="#evans">[Evans 2004]</a> (R3)</p>
 </li>
 <li>
-<p>evolutionary architecture, see <a href="#ford">[Ford 2017]</a> (R3)</p>
+<p>evolutionary architecture, see <a href="#ford">[Ford+2023]</a> (R3)</p>
 </li>
 <li>
 <p>global analysis, see <a href="#hofmeister">[Hofmeister+1999]</a> (R3)</p>
@@ -3310,7 +3314,7 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 <p>are able to explain the influence of iterative approaches on architectural decisions (with regard to risks and predictability). (R1)</p>
 </li>
 <li>
-<p>can work and make decisions incrementally and iteratively. (R1)</p>
+<p>can work and make decisions iteratively. (R1)</p>
 </li>
 <li>
 <p>understand the necessity for feedback on architecture decisions. (R1)</p>
@@ -3378,7 +3382,7 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 <div class="sect4">
 <h5 id="_references_9">References</h5>
 <div class="paragraph">
-<p><a href="#fordhardparts">[Ford+ 2021]</a></p>
+<p><a href="#fordhardparts">[Ford+2021]</a></p>
 </div>
 </div>
 </div>
@@ -3729,7 +3733,7 @@ independently of a particular programming language or framework.</p>
 <div class="sect4">
 <h5 id="_references_15">References</h5>
 <div class="paragraph">
-<p><a href="#distributedsystems">[Tanenbaum+]</a>, <a href="#buschmannb">[Buschmann+2007]</a>, <a href="#fordhardparts">[Ford+ 2021]</a>, <a href="#miller-distributed">[Miller+]</a></p>
+<p><a href="#distributedsystems">[Tanenbaum+]</a>, <a href="#buschmannb">[Buschmann+2007]</a>, <a href="#fordhardparts">[Ford+2021]</a>, <a href="#miller-distributed">[Miller+]</a></p>
 </div>
 <div style="page-break-after: always;"></div>
 </div>
@@ -4127,7 +4131,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 </div>
 </li>
 <li>
-<p>know sources of information for a quality analysis (R2):</p>
+<p>know sources of information for a quality analysis:</p>
 <div class="ulist">
 <ul>
 <li>
@@ -4166,7 +4170,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 </ul>
 </div>
 <div class="paragraph">
-<p>See also <a href="#LG-02-03">LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)</a>, <a href="#LG-02-04">LG 02-04 [previously LG 04-03]: Formulate Requirements on Qualities (R1-R3)</a>.</p>
+<p>See also <a href="#LG-02-03">LG 02-03 [previously LG 4-1]: Understand and Explain Qualities of a Software System (R1)</a>, <a href="#LG-02-04">LG 02-04 [previously LG 04-02]: Formulate Requirements on Qualities (R1-R3)</a>.</p>
 </div>
 <div class="sect4">
 <h5 id="_references_22">References</h5>
@@ -4206,7 +4210,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 <div class="sect2">
 <h3 id="_learning_goals_6">Learning Goals</h3>
 <div class="sect3">
-<h4 id="LG-06-01">LG 06-01: Know the Relation between Requirements, Constraints, and Solutions (R3)</h4>
+<h4 id="LG-06-01">LG 06-01 [previous LG 05-01]: Know the Relation between Requirements, Constraints, and Solutions (R3)</h4>
 <div class="paragraph">
 <p>Software architects are expected to recognize and comprehend the correlation between requirements and constraints, and the chosen solutions using at least one example.</p>
 </div>
@@ -4218,7 +4222,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 </div>
 </div>
 <div class="sect3">
-<h4 id="LG-06-02">LG 06-02: Understand the technical implementation of a solution (R3)</h4>
+<h4 id="LG-06-02">LG 06-02  [previous LG 05-02]: Understand the technical implementation of a solution (R3)</h4>
 <div class="paragraph">
 <p>Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one solution.</p>
 </div>
@@ -4239,20 +4243,20 @@ By understanding various analysis methods, such as acceptance testing, architect
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="aosa"></a>[AOSA] The Architecture of Open Source Applications. Edited by Amy Brown and Greg Wilson. Online: <a href="https://aosabook.org/en/" class="bare">https://aosabook.org/en/</a>.</p>
+<p><a id="aosa"></a>[AOSA] A. Brown and G. Wilson, Eds., <em>The Architecture of Open Source Applications</em>. [Online]. Available: <a href="https://aosabook.org/en/" class="bare">https://aosabook.org/en/</a></p>
 </li>
 <li>
-<p><a id="arc42"></a>[arc42] arc42, the open-source template for software architecture communication, online: <a href="https://arc42.org" class="bare">https://arc42.org</a>. Maintained on <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a></p>
+<p><a id="arc42"></a>[arc42] "arc42, the open-source template for software architecture communication." [Online]. Available: <a href="https://arc42.org" class="bare">https://arc42.org</a>; Maintained on: <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a></p>
 </li>
 <li>
-<p><a id="archimate"></a>[ArchiMate] The ArchiMate® Enterprise Architecture Modeling Language, online: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
+<p><a id="archimate"></a>[ArchiMate] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
 </li>
 </ul>
 </div>
 <div class="ulist bibliography">
 <ul class="bibliography">
 <li>
-<p><a id="bass"></a>[Bass+2021] Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice. 4<sup>th</sup> Edition, Addison Wesley 2021.</p>
+<p><a id="bass"></a>[Bass+2021]  L. Bass, P. Clements, and R. Kazman, <em>Software Architecture in Practice</em>, 4th ed. Boston, MA, USA: Addison Wesley, 2021.</p>
 </li>
 <li>
 <p><a id="brownc4"></a>[Brown] Simon Brown: The C4 model for visualising software architecture. <a href="https://c4model.com" class="bare">https://c4model.com</a> <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a>.</p>
@@ -4303,10 +4307,10 @@ By understanding various analysis methods, such as acceptance testing, architect
 <p><a id="felleisenetal"></a>[Felleisen+2014] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <a href="https://htdp.org/" class="bare">https://htdp.org/</a></p>
 </li>
 <li>
-<p><a id="ford"></a>[Ford 2017] Neil Ford, Rebecca Parsons, Patrick Kua: Building Evolutionary Architectures: Support Constant Change. OReilly 2017.</p>
+<p><a id="ford"></a>[Ford+2023] Neil Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage: Building Evolutionary Architectures: Automated Software Governance, 2nd Edition, O&#8217;Reilly Media, 2023.</p>
 </li>
 <li>
-<p><a id="fordhardparts"></a>[Ford+ 2021] Neal Ford, Mark Richards, Pramod Sadalage und Zhamak Dehghani: Software Architecture: The Hard Parts. Modern Trade-Off Analyses for Distributed Architectures. OReilly 2021.</p>
+<p><a id="fordhardparts"></a>[Ford+2021] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, <em>Software Architecture: The Hard Parts</em>. Sebastopol, CA, USA: O&#8217;Reilly Media, 2021.</p>
 </li>
 <li>
 <p><a id="fowler"></a>[Fowler 2002] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.</p>
@@ -4350,7 +4354,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 <p><a id="humble"></a>[Humble+2010] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010</p>
 </li>
 <li>
-<p><a id="hruschkaetalarc42"></a>[Hruschka+2021] Peter Hruschka, Ivan Kostov and Wolfgang Reimesch: arc42-by-Example Vol 2: Architecture Documentation for Embedded Systems and IoT. Leanpub, 2021. <a href="https://leanpub.com/arc42byexample-volume2" class="bare">https://leanpub.com/arc42byexample-volume2</a></p>
+<p><a id="hruschkaetalarc42"></a>[Hruschka+2021] P. Hruschka, I. Kostov, and W. Reimesch, <em>Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT</em>. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: <a href="https://leanpub.com/arc42byexample-volume2" class="bare">https://leanpub.com/arc42byexample-volume2</a></p>
 </li>
 <li>
 <p><a id="ietf-http"></a>[IETF HTTP] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: <a href="https://www.rfc-editor.org/rfc/rfc9110.html" class="bare">https://www.rfc-editor.org/rfc/rfc9110.html</a></p>
@@ -4481,7 +4485,7 @@ By understanding various analysis methods, such as acceptance testing, architect
 <p><a id="sperberwehr"></a>[Sperber+2024] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <a href="https://funktionale-programmierung.de/2024/11/25/sums-products.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products.html</a>. (English translation: Data Modeling with Sums and Products, 2024. <a href="https://funktionale-programmierung.de/2024/11/25/sums-products-english.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products-english.html</a>)</p>
 </li>
 <li>
-<p><a id="starke"></a>[Starke 2024] Gernot Starke: Effektive Softwarearchitekturen - Ein praktischer Leitfaden (in German). 10. Auflage, Carl Hanser Verlag 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
+<p><a id="starke"></a>[Starke 2024] G. Starke, <em>Effektive Software-Architekturen - Ein praktischer Leitfaden</em>, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
 </li>
 <li>
 <p><a id="starkelorz"></a>[Starke+2023a] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haaren Publishing, 2nd edition, 2023.</p>
@@ -4530,8 +4534,8 @@ By understanding various analysis methods, such as acceptance testing, architect
 </div>
 <div id="footer">
 <div id="footer-text">
- 2025.1-RC6-EN<br>
-Last updated 2025-01-07 06:42:23 UTC
+ 2025.1-RC8-EN<br>
+Last updated 2025-02-07 15:47:38 UTC
 </div>
 </div>
 </body>
