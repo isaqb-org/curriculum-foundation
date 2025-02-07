@@ -10,7 +10,6 @@ Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beis
 * Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften
 * Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen
 * Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten
-* Datenarchitektur: Semantik und Organization von Daten
 * Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
 * Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
 * Systemarchitektur (verschiedene Bedeutungen, abhängig von der Definition des Begriffs "System")
@@ -30,7 +29,6 @@ In addition, software architects are familiar with other architectural domains, 
 * enterprise IT architecture: Structure of application landscapes
 * business and process architecture: Structure of, among other things, business processes
 * information architecture: cross-system structure and use of information and data
-* data architecture: semantics and organization of data
 * infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
   networks, etc.
 * hardware or processor architecture (for hardware-related systems)
