@@ -30,10 +30,9 @@ Sie kennen:
 ** Funktionsaufruf (etwa: Remote Procedure Call) oder Nachrichtenaustausch
 ** Batch, Request/Response oder Streaming
 
-* unterschiedliche Implementierungsansätze von Schnittstellen, etwa (R3):
+* Implementierungsansätze für synchrone {glossary_url}service[Remote-Service-Schnittstellen], etwa (R3):
+** prozedurorientiert (etwa: GraphQL, WS-*/SOAP-basierte Webservices)
 ** ressourcenorientiert (REST, REpresentational State Transfer)
-** graphenartig (etwa: GraphQL)
-** serviceorientiert (etwa: WS-*/SOAP-basierte Webservices)
 
 Siehe auch <<LG-04-06>>.
 // end::DE[]
@@ -68,10 +67,9 @@ They know:
 ** Function call (e.g. remote procedure call) or message exchange
 ** Batch, request/response or streaming
 
-* Different implementation approaches for interfaces, such as (R3:)
+* Implementation approaches for remote {glossary_url}service[service interfaces], such as (R3):
+** procedure-oriented (e.g. GraphQL or WS-*/SOAP-based web services)
 ** resource-oriented (REST, REpresentational State Transfer)
-** graph-oriented (e.g. GraphQL)
-** service-oriented (e.g. WS-*/SOAP-based web services)
 
 See also <<LG-04-06>>.
 
