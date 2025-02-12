@@ -80,7 +80,7 @@ They should recognize and account for the impact of:
 
 * trends such as (R3)
 ** market trends
-** technology trends (e.g. cloud, microservices, container, generative AI or LLMs))
+** technology trends (e.g. cloud, microservices, container, generative AI or LLMs)
 ** methodology trends (e.g. Agile)
 
 Software architects are able to describe how those factors can influence architecture decisions and can elaborate on the consequences of changing influencing factors by providing examples for some of them (R2).
