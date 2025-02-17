@@ -19,7 +19,7 @@ Softwarearchitekt:innen kennen:
 
 Software architects know:
 
-* analysing the impact of architectural decisions on the long-term evolution of a system
+* how to analyze the impact of architectural decisions on the long-term evolution of a system
 * the relationship between architectural decisions and the future adaptability and maintainability of the system
 * the impact of changes in requirements, technologies or system environment on existing architectural decisions
 * the long-term consequences of architectural decisions on various quality characteristics of the system
