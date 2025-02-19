@@ -4,6 +4,8 @@
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
+Note: The title of this learning goal has been chosen intentionally and is not a technical error.
+
 // end::DE[]
 
 // tag::EN[]
@@ -11,6 +13,8 @@ Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 ==== LG 04-04 [new]: Learning Goal not Found (R3)
 
 Software architects are able to gracefully deal with unexpected situations.
+
+Hinweis: Der Titel dieses Lernziels wurde bewusst gewählt und stellt keinen technischen Fehler dar.
 
 // end::EN[]
 
