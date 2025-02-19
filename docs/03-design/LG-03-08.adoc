@@ -17,6 +17,7 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * {glossary_url}event-sourcing[Event sourcing]
 * {glossary_url}dependency-injection[Dependency Injection] (siehe auch <<LG-03-06>>)
 * Integrations und Messaging-Patterns (z.B. aus <<hohpe>>)
+* {glossary_url}remote-procedure-call[Remote procedure call]
 * {glossary_url}model-view-controller[MVC] (Model View Controller),
   {glossary_url}model-view-viewmodel[MVVM] (Model View ViewModel),
   {glossary_url}model-view-update[MVU] (Model View Update),
@@ -49,6 +50,7 @@ explain their relevance for concrete systems, and provide examples. (R3)
 * {glossary_url}event-sourcing[Event sourcing]
 * {glossary_url}dependency-injection[Dependency Injection] (see also <<LG-03-06>>)
 * Integration and messaging patterns (e.g. from <<hohpe>>)
+* {glossary_url}remote-procedure-call[Remote procedure call]
 * {glossary_url}model-view-controller[MVC] (Model View Controller),
   {glossary_url}model-view-viewmodel[MVVM] (Model View ViewModel),
   {glossary_url}model-view-update[MVU] (Model View Update),
