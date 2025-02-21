@@ -29,7 +29,7 @@ toc::[]
 
 <<<
 // Auto-generated list of learning objectives
-include::learning-goals.adoc[{include_configuration}]
+include::learning-objectives.adoc[{include_configuration}]
 
 <<<
 :sectnums!:
