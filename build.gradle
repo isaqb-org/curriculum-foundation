@@ -1,46 +1,6 @@
-import java.text.SimpleDateFormat
-
-plugins {
-    id "java"
-    id "application"
+ext {
+    curriculumFileName = "curriculum-foundation"
+    languages = ["DE", "EN"]
 }
 
-def group = "org.isaqb"
-def releaseVersion = System.getenv("RELEASE_VERSION")
-def localVersion = "LocalBuild"
-project.version = releaseVersion == null ? localVersion : releaseVersion
-def curriculumFileName = "curriculum-foundation"
-def versionDate = new SimpleDateFormat("yyyyMMdd").format(new Date())
-def languages = ["DE", "EN"]
-def validity = project.file("./document.validity").text.trim()
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    implementation("org.asciidoctor:asciidoctorj:2.5.10")
-    implementation("org.asciidoctor:asciidoctorj-pdf:2.3.9")
-}
-
-application {
-    mainClass.set("org.isaqb.asciidoc.Main")
-    applicationDefaultJvmArgs = [
-        """-DprojectVersion=${project.version}""",
-        """-DcurriculumFileName=${curriculumFileName}""",
-        """-DversionDate=${versionDate}""",
-        """-Dlanguages=${languages.join(',')}""",
-        """-Dvalidity=${validity}""",
-        """--add-opens""", """java.base/sun.nio.ch=ALL-UNNAMED""",
-        """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
-}
-
-apply from: 'scripts/includeLearningGoals.gradle'
-
-tasks.register('buildDocs') {
-    description = 'Grouping task for generating all languages in several formats'
-    group = 'documentation'
-    dependsOn "includeLearningGoals", "run"
-}
-
-defaultTasks "buildDocs"
+defaultTasks 'buildDocs'
