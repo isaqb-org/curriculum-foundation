@@ -379,7 +379,7 @@ That will produce both pdf and html output in German (DE) _and_ English (EN), un
 Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
 
 
-`./gradlew buildDocs`
+`./gradle-tools/gradlew buildDocs`
 
 In case you want to change the configuration, adjust the following part of `build.gradle`:
 
