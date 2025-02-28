@@ -226,17 +226,18 @@ Please note the semantics of several terms:
 
 Version-Identifier::
     Official versions of the curriculum are identified using a specific version-string.
-    `V-{Release-Year}-{Update}-{Language}-{timestamp}`, for example V-2023.1-EN.
+    `{Release-Year}.{Update}-{Revision}-{Language}-{timestamp}`, for example `2023.1-rev2-EN-20230321`.
     In preparation for releases (see below), release-candidates are produced and labelled with RC1, RC2 etc.
 
 Revision::
   In case of typos or other minor grammatical changes, we will release revisions (aka patches) without increasing the minor version. 
-  They will be tagged as revisions (e.g. `2021.1-rev2`) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: `2021.1-EN-20210502` (revision update on Mai 2, 2021).
+  They will be tagged as revisions (e.g. `2023.1-rev3`) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: `2023.1-rev3-EN-20230928` (revision update on Sep 28, 2023).
 We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of revision updates.
 
 Update::
-    In case of  errors or omissions (e.g. translation issues, required updates for certain references, clarification of certain wordings or similar), an updated (aka _fixed_ or _repaired_) version of the curriculum is produced.
+    In case of errors or omissions (e.g. translation issues, required updates for certain references, clarification of certain wordings or similar), an updated (aka _fixed_ or _repaired_) version of the curriculum is produced.
     For such updates we increase the second part (minor version id) of the curriculum (e.g. going from `2021.1` to `2021.2`).
+    Those updates may affect multiple language versions and will reset the revision number to 0.
 
 Release::
     Every two years the FLWG releases a new version of the curriculum. 
@@ -427,7 +428,7 @@ In addition, the released curriculum will be published on GitHub Pages. +
 
 The particular language as well as the timestamp will be added automatically.
 
-Example for a full version in the English curriculum PDF: `2021.1-EN-20210401`
+Example for a full version in the English curriculum PDF: `2023.1-rev0-EN-20230301`
 
 
 == Content and Style
