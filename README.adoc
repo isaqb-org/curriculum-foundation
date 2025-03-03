@@ -259,7 +259,7 @@ Therefore, training providers, translation agencies and the examination commissi
 If you <<build, build>> the curriculum locally, the version string will be set to `local build`.
 
 ==== Overview of release process
-image:./release-process/release-process-2025.drawio.png[graphical overview of release process]
+image:./documentation/release-process/release-process-2025.drawio.png[graphical overview of release process]
 
 [cols="1,6a,2,2"]
 |===
