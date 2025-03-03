@@ -28,6 +28,13 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 
 Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.{nbsp}B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme). (R3)
 
+
+Sie wissen:
+
+* dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.
+* dass es verschiedene Kategorien von Mustern gibt.
+* zusätzliche Quellen für Muster, die sich auf ihre spezifische technische oder Anwendungsdomäne beziehen.
+
 // end::DE[]
 
 // tag::EN[]
@@ -61,6 +68,11 @@ explain their relevance for concrete systems, and provide examples. (R3)
 
 Software architects know essential sources for architectural patterns, such as POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems). (R3)
 
+They know:
+
+* that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.
+* that there are different categories of patterns.
+* additional sources of patterns that relate to their specific technical or application domain.
 // end::EN[]
 
 ===== {references}

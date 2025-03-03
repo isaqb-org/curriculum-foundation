@@ -3,8 +3,7 @@
 [[LG-03-09]]
 ==== LZ 03-09 [ehemaliges LZ 2-05]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
 
-Softwarearchitekt:innen kennen den Unterschied zwischen Architektur- und Entwurfsmustern.
-Sie können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für die Architektur und konkrete Systeme erklären sowie Beispiele nennen. 
+Softwarearchitekt:innen können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für die Architektur und konkrete Systeme erklären sowie Beispiele nennen. 
 
 * {glossary_url}combinator[Combinator]
 * Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
@@ -19,11 +18,6 @@ Sie können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für
 Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
 <<gof,GOF>> und <<buschmanna,POSA>>.
 
-Sie wissen:
-
-* dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.
-* dass es verschiedene Kategorien von Mustern gibt.
-* zusätzliche Quellen für Muster, die sich auf ihre spezifische technische oder Anwendungsdomäne beziehen.
 
 // end::DE[]
 
@@ -32,8 +26,7 @@ Sie wissen:
 
 ==== LG 03-09 [previously LG 2-05]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
 
-Software architects know the difference between architectural and design patterns.
-They can describe several of the following design patterns, explain their relevance for the architecture and specific systems and give examples. 
+Software can describe several of the following design patterns, explain their relevance for the architecture and specific systems and give examples. 
 
 * {glossary_url}combinator[Combinator]
 * Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
@@ -48,11 +41,7 @@ They can describe several of the following design patterns, explain their releva
 Software architects know essential sources for design patterns, such as
 <<gof,GOF>> and <<buschmanna,POSA>>.
 
-They know:
 
-* that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.
-* that there are different categories of patterns.
-* additional sources of patterns that relate to their specific technical or application domain.
 
 // end::EN[]
 
