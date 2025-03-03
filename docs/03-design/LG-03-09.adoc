@@ -13,8 +13,7 @@ Sie können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für
   Programmiersprachen oder Frameworks verwendet werden können.
 * {glossary_url}interpreter[Interpreter]
 * {glossary_url}observer[Observer]
-* {glossary_url}remote-procedure-call[Remote procedure call]
-* {glossary_url}template-method[Template Method] und {glossary_url}Strategy[Strategy]
+* {glossary_url}template-method[Template Method] und {glossary_url}strategy[Strategy]
 * {glossary_url}visitor[Visitor]
 
 Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
@@ -43,8 +42,7 @@ They can describe several of the following design patterns, explain their releva
   independently of a particular programming language or framework.
 * {glossary_url}interpreter[Interpreter]
 * {glossary_url}observer[Observer]
-* {glossary_url}remote-procedure-call[Remote procedure call]
-* {glossary_url}template-method[Template Method] and {glossary_url}Strategy[Strategy]
+* {glossary_url}template-method[Template Method] and {glossary_url}strategy[Strategy]
 * {glossary_url}visitor[Visitor]
 
 Software architects know essential sources for design patterns, such as
