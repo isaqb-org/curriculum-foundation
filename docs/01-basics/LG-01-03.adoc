@@ -3,14 +3,15 @@
 [[LG-01-03]]
 ==== LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur kennen (R3)
 
-Softwarearchitekt:innen kennen:
 
-* die Analyse der Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems
+Softwarearchitekt:innen kennen
+
 * den Zusammenhang zwischen Architekturentscheidungen und der zukünftigen Anpassbarkeit und Wartbarkeit des Systems
 * die Auswirkungen durch Änderungen von Anforderungen, Technologien oder Systemumgebung auf bestehende Architekturentscheidungen
 * die langfristigen Konsequenzen von Architekturentscheidungen auf verschiedene Qualitätsmerkmale des Systems
 * die Wechselwirkungen zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen
 
+Sie wissen, wie sie die Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems analysieren können.
 // end::DE[]
 
 // tag::EN[]
@@ -19,11 +20,12 @@ Softwarearchitekt:innen kennen:
 
 Software architects know:
 
-* how to analyze the impact of architectural decisions on the long-term evolution of a system
 * the relationship between architectural decisions and the future adaptability and maintainability of the system
 * the impact of changes in requirements, technologies or system environment on existing architectural decisions
 * the long-term consequences of architectural decisions on various quality characteristics of the system
 * the interdependencies between IT systems and the supported business and operational processes
+
+They know how to analyze the impact of architectural decisions on the long-term evolution of a system.
 
 // end::EN[]
 
