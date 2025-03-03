@@ -11,8 +11,7 @@ Softwarearchitekt:innen
 ** quantitative Messung von Laufzeitverhalten (R1)
 ** qualitative Auswertung durch Interviews, Umfragen, Penetrationstests etc. (R1)
 ** szenariobasierte Analyse (R1)
-** Architektur-Metriken für Kopplung wie der Grad eingehender und
-   ausgehender Abhängigkeiten (R1)
+** Architektur-Metriken für Kopplung wie der Grad eingehender und ausgehender Abhängigkeiten (R1)
 ** Kosten-Nutzen-Analyse (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
