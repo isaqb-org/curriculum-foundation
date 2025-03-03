@@ -15,7 +15,7 @@ Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegri
 
 | R1
 | Können
-| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbstständig anwenden können. Innerhalb der Schulung werden diese Inhalte durch Übungen und Diskussionen abgedeckt.
+| Diese Inhalte sollen die Teilnehmenden nach der Schulung selbstständig anwenden können. Innerhalb der Schulung sollten diese Inhalte durch Übungen und Diskussionen abgedeckt werden.
 | Inhalte *werden* geprüft.
 
 | R2
@@ -52,7 +52,7 @@ Regarding relevance for the examination, the following categories are used in th
 
 | R1
 | Being able to 
-| These are the contents participants will be expected to be able to put into practice independently upon completion of the course. Within the course, these contents will be covered through exercises and discussions.
+| These are the contents participants will be expected to be able to put into practice independently upon completion of the course. Within the course, these contents shall be covered through exercises and discussions.
 | Contents *will be* part of the examination.
 
 | R2
