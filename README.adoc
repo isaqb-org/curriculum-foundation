@@ -389,16 +389,14 @@ In case you want to change the configuration, adjust the following part of `buil
 
 [source,groovy]
 ----
-task buildDocs {
-	group 'Documentation'
-	description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderDE", "renderEN"
+ext {
+    curriculumFileName = "curriculum-foundation"
+    validity = project.file("./document.validity").text.trim()
+    languages = ["DE", "EN"]
 }
 ----
 
-In the "renderDE" certain attributes (aka variables) are defined that configure the corresponding output.
-
-Please note: You need to include the submodules "pdf-theme" and "html-theme" in your checkout, otherwise the build will fail. You can do that with the following commands:
+Please note: You need to include the submodules "pdf-theme", "html-theme", "license-copyright", and "gradle-tools" in your checkout, otherwise the build will fail. You can do that with the following commands:
 
 . Clone the repository - including the submodule:
 +
@@ -412,8 +410,8 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 ----
 --
-. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
-. Cleanup leftover files: `git clean -xdf`
+. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`. Do this also after you pulled changes that added a new submodule.
+. Cleanup leftover files (make sure to commit your changes first!): `git clean -xdf`
 . Cleanup your local repository from time to time: `git gc --aggressive`
 
 === How to Create an Official Version (by tagging in Git)
@@ -421,12 +419,12 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with your *local* Git client (*not* via GitHub).
 
 The format for a release candidate tag is as follows: +
-`2021.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
+`2025.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
 This tag will create a GitHub _pre-release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML. +
 
 
 The format for a release tag is as follows: +
-`2021.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
+`2025.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
 This tag will create a GitHub _Release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML.
 In addition, the released curriculum will be published on GitHub Pages. +
 
