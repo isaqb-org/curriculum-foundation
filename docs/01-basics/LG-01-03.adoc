@@ -1,29 +1,29 @@
 
 // tag::DE[]
 [[LG-01-03]]
-==== LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur verstehen (R3)
+==== LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur kennen (R3)
 
-Softwarearchitekt:innen können:
+Softwarearchitekt:innen kennen:
 
-* die Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems analysieren
-* den Zusammenhang zwischen Architekturentscheidungen und der zukünftigen Anpassbarkeit und Wartbarkeit des Systems erläutern
-* einschätzen, wie sich Änderungen von Anforderungen, Technologien oder Systemumgebung auf bestehende Architekturentscheidungen auswirken
-* die langfristigen Konsequenzen von Architekturentscheidungen auf verschiedene Qualitätsmerkmale des Systems erkennen
-* die Wechselwirkungen zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen erläutern
+* die Analyse der Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems
+* den Zusammenhang zwischen Architekturentscheidungen und der zukünftigen Anpassbarkeit und Wartbarkeit des Systems
+* die Auswirkungen durch Änderungen von Anforderungen, Technologien oder Systemumgebung auf bestehende Architekturentscheidungen
+* die langfristigen Konsequenzen von Architekturentscheidungen auf verschiedene Qualitätsmerkmale des Systems
+* die Wechselwirkungen zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-03]]
-==== LG 01-03: Understand Long-term Impact of Software Architecture (R3)
+==== LG 01-03: Know Long-term Impact of Software Architecture (R3)
 
-Software architects can:
+Software architects know:
 
-* analyze the impact of architectural decisions on the long-term evolution of a system
-* explain the relationship between architectural decisions and the future adaptability and maintainability of the system
-* assess how changes in requirements, technologies, or system environment affect existing architectural decisions
-* recognize the long-term consequences of architectural decisions on various quality characteristics of the system
-* explain the interdependencies between IT systems and the supported business and operational processes
+* how to analyze the impact of architectural decisions on the long-term evolution of a system
+* the relationship between architectural decisions and the future adaptability and maintainability of the system
+* the impact of changes in requirements, technologies or system environment on existing architectural decisions
+* the long-term consequences of architectural decisions on various quality characteristics of the system
+* the interdependencies between IT systems and the supported business and operational processes
 
 // end::EN[]
 
