@@ -411,7 +411,7 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 ----
 --
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`. Do this also after you pulled changes that added a new submodule.
-. Cleanup leftover files (make sure to commit your changes first!): `git clean -xdf`
+. Cleanup leftover files (make sure to commit your changes first!): `git clean -xdf` -- *Attention:* This will also delete your local IDE settings (VScode, IntelliJ, etc.)
 . Cleanup your local repository from time to time: `git gc --aggressive`
 
 === How to Create an Official Version (by tagging in Git)
