@@ -183,6 +183,9 @@ A git submodule, containing the _official_ copyright and license definitions.
 
 A git submodule, containing theme the style/layout definitions for rendering the curriculum in pdf format.
 
+==== `/gradle-tools`
+Another git submodule, containing the build tools and scripts required to build the curriculum.
+
 ==== `/release-docs`
 
 Summaries of changes of previous releases.
@@ -410,9 +413,10 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 ----
 --
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`.
+. Cleanup leftover files: `git clean -xdf`
+. Cleanup your local repository from time to time: `git gc --aggressive`
 
 === How to Create an Official Version (by tagging in Git)
-
 
 If you consider the status of the curriculum worthy of a new release or release candidate, you have to create a `tag` with your *local* Git client (*not* via GitHub).
 
