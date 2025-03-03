@@ -1,5 +1,6 @@
 ext {
     curriculumFileName = "curriculum-foundation"
+    validity = project.file("./document.validity").text.trim()
     languages = ["DE", "EN"]
 }
 
