@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-02-04]]
-==== LZ 02-04 [ehemaliges LZ 04-02]: Anforderungen an Qualitäten formulieren (R1-R3)
+==== LZ 02-04 [ehemaliges LZ 4-2]: Anforderungen an Qualitäten formulieren (R1-R3)
 
 Softwarearchitekt:innen:
 
@@ -15,7 +15,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-02-04]]
-==== LG 02-04 [previously LG 04-02]: Formulate Requirements on Qualities (R1-R3)
+==== LG 02-04 [previously LG 4-2]: Formulate Requirements on Qualities (R1-R3)
 
 Software architects:
 

@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-04-09]]
-==== LZ 04-09 [ehemaliges LZ 3-09]: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
+==== LZ 04-09 [ehemaliges LZ 3-9]: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R3)
 
 Softwarearchitekt:innen kennen:
 
@@ -16,7 +16,7 @@ Softwarearchitekt:innen kennen:
 
 // tag::EN[]
 [[LG-04-09]]
-==== LG 04-09 [previously LG 3-09]: Know Additional Resources and Tools for Documentation (R3)
+==== LG 04-09 [previously LG 3-9]: Know Additional Resources and Tools for Documentation (R3)
 
 Software architects know:
 

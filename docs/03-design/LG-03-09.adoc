@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-03-09]]
-==== LZ 03-09 [ehemaliges LZ 2-05]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
+==== LZ 03-09 [ehemaliges LZ 2-5]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
 
 Softwarearchitekt:innen können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für die Architektur und konkrete Systeme erklären sowie Beispiele nennen. 
 
@@ -24,7 +24,7 @@ Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
 // tag::EN[]
 [[LG-03-09]]
 
-==== LG 03-09 [previously LG 2-05]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
+==== LG 03-09 [previously LG 2-5]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
 
 Software can describe several of the following design patterns, explain their relevance for the architecture and specific systems and give examples. 
 

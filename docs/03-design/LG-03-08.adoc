@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-03-08]]
-==== LZ 03-08 [ehemaliges LZ 2-05]: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1, R3)
+==== LZ 03-08 [ehemaliges LZ 2-5]: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1, R3)
 
 Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Beispiele dafür liefern (R1):
 
@@ -40,7 +40,7 @@ Sie wissen:
 // tag::EN[]
 [[LG-03-08]]
 
-==== LG 03-08 [previously LG 2-05]: Describe, Explain and Apply Important Architectural Patterns (R1, R3)
+==== LG 03-08 [previously LG 2-5]: Describe, Explain and Apply Important Architectural Patterns (R1, R3)
 
 Software architects can explain and provide examples for the following architectural patterns (R1):
 
