@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-03-05]]
-==== LZ 03-05 [ehemaliges LZ 1-06]: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)
+==== LZ 03-05 [ehemaliges LZ 1-6]: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)
 
 Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen.
 Sie
@@ -15,7 +15,7 @@ Sie
 
 // tag::EN[]
 [[LG-03-05]]
-==== LG 03-05 [previously LG 1-06]: Correlation between Feedback Loops and Risks (R1, R2)
+==== LG 03-05 [previously LG 1-6]: Correlation between Feedback Loops and Risks (R1, R2)
 
 Software architects understand the necessity of iterations, especially when decisions are made in the face of uncertainties. They
 

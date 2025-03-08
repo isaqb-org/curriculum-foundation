@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-03-02]]
-==== LZ 03-02 [ehemaliges LZ 2-02]: Softwarearchitekturen entwerfen (R1)
+==== LZ 03-02 [ehemaliges LZ 2-2]: Softwarearchitekturen entwerfen (R1)
 
 Softwarearchitekt:innen können:
 
@@ -19,7 +19,7 @@ Softwarearchitekt:innen können:
 
 // tag::EN[]
 [[LG-03-02]]
-==== LG 03-02 [previously LG 2-02]: Design Software Architectures (R1)
+==== LG 03-02 [previously LG 2-2]: Design Software Architectures (R1)
 
 Software architects are able to:
 

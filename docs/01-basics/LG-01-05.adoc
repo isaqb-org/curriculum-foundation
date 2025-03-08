@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-01-05]]
-==== LZ 01-05 [ehemaliges LZ 1-09]: Abgrenzung zu anderen Architekturdomänen (R3)
+==== LZ 01-05 [ehemaliges LZ 1-9]: Abgrenzung zu anderen Architekturdomänen (R3)
 
 Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
 
@@ -20,7 +20,7 @@ Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
 
 // tag::EN[]
 [[LG-01-05]]
-==== LG 01-05 [previously LG 1-09]: Distinction between Software Architecture and other Architectural Domains (R3)
+==== LG 01-05 [previously LG 1-9]: Distinction between Software Architecture and other Architectural Domains (R3)
 
 The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
 

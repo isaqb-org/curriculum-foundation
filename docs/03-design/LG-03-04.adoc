@@ -1,7 +1,7 @@
 // tag::DE[]
 
 [[LG-03-04]]
-==== LZ 03-04 [ehemaliges LZ 2-06]: Entwurfsprinzipien erläutern und anwenden (R1-R3)
+==== LZ 03-04 [ehemaliges LZ 2-6]: Entwurfsprinzipien erläutern und anwenden (R1-R3)
 
 Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind.
 Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)
@@ -57,7 +57,7 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 // tag::EN[]
 
 [[LG-03-04]]
-==== LG 03-04 [previously LG 2-06]: Explain and Use Design Principles (R2)
+==== LG 03-04 [previously LG 2-6]: Explain and Use Design Principles (R2)
 
 Software architects are able to explain what design principles are.
 They can outline their general objectives and their application with regard to software architecture. (R2)

@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-03-10]]
-==== LZ 03-10 [ehemaliges LZ 2-04]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
+==== LZ 03-10 [ehemaliges LZ 2-4]: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)
 
 Softwarearchitekt:innen können:
 
@@ -17,7 +17,7 @@ Siehe auch <<LG-04-07>>.
 
 // tag::EN[]
 [[LG-03-10]]
-==== LG 03-10 [previously LG 2-04]: Identify, Design and Implement Cross-Cutting Concerns (R1)
+==== LG 03-10 [previously LG 2-4]: Identify, Design and Implement Cross-Cutting Concerns (R1)
 
 Software architects are able to:
 

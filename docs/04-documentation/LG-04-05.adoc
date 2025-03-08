@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LG-04-05]]
-==== LZ 04-05 [ehemaliges LZ 3-04]: Architektursichten erläutern und anwenden (R1)
+==== LZ 04-05 [ehemaliges LZ 3-4]: Architektursichten erläutern und anwenden (R1)
 Softwarearchitekt:innen können folgende Architektursichten anwenden:
 
 * Kontextsicht (auch genannt Kontextabgrenzung)
@@ -16,7 +16,7 @@ Zusätzliche Sichten können nach Bedarf verwendet werden, um weitere Anliegen o
 
 // tag::EN[]
 [[LG-04-05]]
-==== LG 04-05 [previously LG 3-04]: Explain and Use Architectural Views (R1)
+==== LG 04-05 [previously LG 3-4]: Explain and Use Architectural Views (R1)
 Software architects are able to use the following architectural views:
 
 * context view

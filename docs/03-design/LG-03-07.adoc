@@ -2,7 +2,7 @@
 // tag::DE[]
 
 [[LG-03-07]]
-==== LZ 03-07 [ehemaliges LZ 2-09]: Schnittstellen entwerfen und spezifizieren (R1-R3)
+==== LZ 03-07 [ehemaliges LZ 2-9]: Schnittstellen entwerfen und spezifizieren (R1-R3)
 
 Softwarearchitekt:innen kennen die kritische Bedeutung von Schnittstellen für die Interaktion zwischen Architekturbausteinen oder zwischen dem System und externen Elementen. 
 Sie können solche Schnittstellen entwerfen und spezifizieren.
@@ -39,7 +39,7 @@ Siehe auch <<LG-04-06>>.
 
 // tag::EN[]
 [[LG-03-07]]
-==== LG 03-07 [previously LG 2-09]: Design and Define Interfaces (R1-R3)
+==== LG 03-07 [previously LG 2-9]: Design and Define Interfaces (R1-R3)
 
 Software architects know the critical importance of interfaces for the interaction between architectural building blocks or between the system and external elements. 
 They can design and specify such interfaces.
