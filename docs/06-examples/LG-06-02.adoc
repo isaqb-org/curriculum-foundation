@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LG-06-02]]
-==== LZ 06-02  [ehemaliges LZ 05-02]: Technische Umsetzung einer Lösung nachvollziehen (R3)
+==== LZ 06-02  [ehemaliges LZ 5-2]: Technische Umsetzung einer Lösung nachvollziehen (R3)
 
 Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.
 
@@ -8,7 +8,7 @@ Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische
 
 // tag::EN[]
 [[LG-06-02]]
-==== LG 06-02  [previous LG 05-02]: Understand the technical implementation of a solution (R3)
+==== LG 06-02  [previous LG 5-2]: Understand the technical implementation of a solution (R3)
 
 Software architects understand the technical realization (implementation, technical concepts, products used, architectural decisions, solution strategies) of at least one solution.
 

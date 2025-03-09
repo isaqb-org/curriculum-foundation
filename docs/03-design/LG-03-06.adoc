@@ -1,7 +1,7 @@
 // tag::DE[]
 
 [[LG-03-06]]
-==== LZ 03-06 [ehemaliges LZ 2-07]: Abhängigkeiten von Bausteinen managen (R1)
+==== LZ 03-06 [ehemaliges LZ 2-7]: Abhängigkeiten von Bausteinen managen (R1)
 
 Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen.
 Sie:
@@ -27,7 +27,7 @@ Sie:
 
 // tag::EN[]
 [[LG-03-06]]
-==== LG 03-06 [previously LG 2-07]: Manage Dependencies between Building Blocks (R1)
+==== LG 03-06 [previously LG 2-7]: Manage Dependencies between Building Blocks (R1)
 
 Software architects understand dependencies and coupling between building blocks and can use them in a targeted manner. They:
 
