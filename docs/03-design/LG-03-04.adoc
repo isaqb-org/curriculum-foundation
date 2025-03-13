@@ -57,7 +57,7 @@ Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Prin
 // tag::EN[]
 
 [[LG-03-04]]
-==== LG 03-04 [previously LG 2-6]: Explain and Use Design Principles (R2)
+==== LG 03-04 [previously LG 2-6]: Explain and Use Design Principles (R1-R3)
 
 Software architects are able to explain what design principles are.
 They can outline their general objectives and their application with regard to software architecture. (R2)
