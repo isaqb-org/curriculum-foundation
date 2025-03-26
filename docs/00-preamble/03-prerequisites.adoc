@@ -1,7 +1,10 @@
 
 // tag::DE[]
 === Voraussetzungen
+
+====
 Der iSAQB e. V. kann in Zertifizierungsprüfungen die hier genannten Voraussetzungen durch entsprechende Fragen prüfen.
+====
 
 Teilnehmende sollten die im Nachfolgenden genannten Kenntnisse und/oder Erfahrung mitbringen. Insbesondere bilden substanzielle praktischen Erfahrungen aus der Softwareentwicklung im Team eine wichtige Voraussetzung zum Verständnis des vermittelten Lernstoffes und für eine erfolgreiche Zertifizierung.
 
@@ -35,7 +38,10 @@ Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:
 
 // tag::EN[]
 === Prerequisites
+
+====
 The iSAQB e. V. may check the following prerequisites in certification examinations via corresponding questions.
+====
 
 Participants should have the following knowledge and/or experience. 
 In particular, substantial practical experience from software development in a team is an important prerequisite for understanding the learning material and successful certification.
