@@ -249,7 +249,7 @@ Release::
     
 >### How to create a new release/version
 >
-> You find a [detailed explanation here](https://github.com/isaqb-org/github-readme?tab=readme-ov-file#how-to-create-a-new-release-of-a-curriculum)
+> You find a link:https://github.com/isaqb-org/github-readme?tab=readme-ov-file#how-to-create-a-new-release-of-a-curriculum[detailed explanation here]
 
 
 [IMPORTANT] 
@@ -420,13 +420,13 @@ If you consider the status of the curriculum worthy of a new release or release 
 
 The format for a release candidate tag is as follows: +
 `2025.1-RCX`, where x is either 1 or the current release candidate number increased by one. +
-This tag will create a GitHub _pre-release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML. +
+This tag will create a GitHub _pre-release_. They are link:https://github.com/isaqb-org/curriculum-foundation/releases[available here] and provide you with a zip archive that contains the curriculum as PDF and HTML. +
 
 
 The format for a release tag is as follows: +
 `2025.1-revX` where x is either 0 (initial release), or the current revision increased by one. +
-This tag will create a GitHub _Release_. They are [available here](https://github.com/isaqb-org/curriculum-foundation/releases) and provide you with a zip archive that contains the curriculum as PDF and HTML.
-In addition, the released curriculum will be published on GitHub Pages. +
+This tag will create a GitHub _Release_. They are link:https://github.com/isaqb-org/curriculum-foundation/releases[available here] and provide you with a zip archive that contains the curriculum as PDF and HTML.
+In addition, the released curriculum will be published on https://public.isaqb.org +
 
 The particular language as well as the timestamp will be added automatically.
 
