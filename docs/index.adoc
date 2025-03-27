@@ -9,7 +9,7 @@ The international Software Architecture Qualification Board (link:https://isaqb.
 The **Foundation Level** curriculum is currently maintained and published in both English (EN) and German (DE). Maintainers from the Foundation-Level-Working-Group and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
 
 == Available Versions
-=== Version 2023.1 (released March 1st, 2023 | valid from April 1st, 2023)
+=== Version 2025.1 (released March 27, 2025 | valid from April 1st, 2025)
 
 |===
 | Version | HTML | PDF
@@ -37,26 +37,26 @@ The **Foundation Level** curriculum is currently maintained and published in bot
 |===
 
 
-=== Version 2021.1 (released February 26, 2021)
-**ATTENTION: This version of the curriculum is only valid up to and including March 31st, 2023.**
+=== Version 2023.1 (released March 1st, 2023)
+**ATTENTION: This version of the curriculum is only valid up to and including March 31st, 2025.**
 
 |===
 | Version | PDF
 
 | German
-| https://github.com/isaqb-org/curriculum-foundation/releases/download/2021.1-rev4/curriculum-foundation-de.pdf[Download]
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2023.1-rev3/curriculum-foundation-de.pdf[Download]
 
 | English
-| https://github.com/isaqb-org/curriculum-foundation/releases/download/2021.1-rev4/foundation-curriculum-en.pdf[Download]
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2023.1-rev3/foundation-curriculum-en.pdf[Download]
 
 | Spanish
-| https://github.com/isaqb-org/curriculum-foundation/releases/download/2021.1-rev4/foundation-curriculum-es.pdf[Download]
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2023.1-rev3/foundation-curriculum-es.pdf[Download]
 
 | Italian
-| https://github.com/isaqb-org/curriculum-foundation/releases/download/2021.1-rev4/foundation-curriculum-it.pdf[Download]
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2023.1-rev3/foundation-curriculum-it.pdf[Download]
 
 | Portuguese
-| https://github.com/isaqb-org/curriculum-foundation/releases/download/2021.1-rev4/foundation-curriculum-pt.pdf[Download]
+| https://github.com/isaqb-org/curriculum-foundation/releases/download/2023.1-rev3/foundation-curriculum-pt.pdf[Download]
 
 |===
 
