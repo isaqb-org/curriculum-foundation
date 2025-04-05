@@ -1,0 +1,16 @@
+# mailmap so that people with different mail addresses can be correctly attributed
+
+Dr. Alexander Lorz <alorz@isaqb.org> <bigalex@gmx.de>
+Alexander Schramm <alexander.schramm1992@gmail.com>
+Benjamin Wolf <benjamin.wolf.de@me.com> <benjamin.wolf@innoq.com>
+Christian Franzen <13965040+cfranzen@users.noreply.github.com>
+Dr. Gernot Starke <gernotstarke@mailbox.org> <gs@gernotstarke.de>
+Falk Sippach <falk@jug-da.de> <sippsack@users.noreply.github.com>
+Dr. Mike Sperber <sperber@deinprogramm.de> <michael.sperber@active-group.de>
+Roger Rhoades <info@albion.eu> <r.rhoades@albion.eu> <r.rhoades@albion.eu>
+Prof. Stefan Wehr <stefan.wehr@hs-offenburg.de>
+
+# To these separate lines:
+Dr. Ulrich Becker <ulrich.becker@ul.com> <ulrich.becker@methodpark.de>
+Dr. Ulrich Becker <ulrich.becker@ul.com> Ulrich Becker <ulrich.becker@ul.com>
+Dr. Ulrich Becker <ulrich.becker@ul.com> Ulrich Becker <ulrichbecker@Ulrichs-MacBook-Pro-2.local>
