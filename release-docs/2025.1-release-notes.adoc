@@ -1,0 +1,219 @@
+= image:../docs/images/isaqb-logo.jpg[width=150] CPSA Certified Professional for Software Architecture^(R)^: Foundation Level Curriculum 2021
+
+====
+The newest release of the Foundation-Level syllabus was published on April 1^st^, 2025.
+From that date, using this new curriculum in both trainings and examination becomes **mandatory**.
+Please adjust your training material accordingly.
+====
+
+For all errors you find, please https://github.com/isaqb-org/curriculum-foundation/issues/[open issues on our public issue tracker].
+
+== Brief Summary of Changes Between 2021.1 amd 2025.1
+* Major changes to both the structure and the content.
+* The structure of the entire document was changed primarily to separate the topics of "Quality / Requirements" from "Architecture Assessment", which were previously in one chapter "4. Software Architecture and Quality".
+* Many of the individual learning goals were relocated to other chapters, to combine topics that logically belonged together.
+* At least 50% of the syllabus was changed
+* The exam-relevance of several learning goals were demoted or promoted.
+* Every chapter now includes a "Purpose" statement
+* References were added to each learning goal, where applicable
+* Terms were linked to a corresponding description in the iSAQB Glossary, where appropriate.
+
+== Detailed Changelog (curated)
+For the complete changelog, see the git commit history. The numbers (like #196) refer to the GitHub issues.
+
+* Introduction: 
+** A description pertaining to "What does this Curriculum Contain" was added. It explains that the focus is on the essential activities and responsibilities of software architecture as a role.
+** The fact that the prerequisites are going to be tested was emphasized.
+** The outline of the duration for each of the chapters was changed to reflect the new structure.
+
+* LG 01-00 Chapter 1: Basic Concepts of Software Architecture
+** The impacts of changes to the software architecture on other things as well as the impact of other things on software architecture is stressed.
+** "Importance of Data and Data Models" was added.
+** "Cross-cutting concepts" was renamed to "cross-cutting concerns"
+** The learning goal "Differentiate between types of IT systems" has been completely removed.
+
+* LG 01-01: 
+** The definitions of software architectures have been minimized to ISO42010/Bass/Kruchten. IEEE etc. is no longer mentioned.
+
+* LG 01-02: 
+** no changes to content
+
+* LG 01-03: 
+** New. "Know Long-term Impact of Software Architecture (R3)". 
+** Replaces LG 1-3". Demoted to R3.
+** Focus on the impact of other things (e.g., changes in requirements or technologies) on software architecture and the impact of software architecture on other things (e.g., business processes, IT systems).
+
+* LG 01-04: 
+** The differences between the German and English versions regarding “Refine requirements as needed” has been  resolved. The new syllabus states, " Coordinate and agree on any necessary refinements with the corresponding stakeholders".
+** The differences between the German and English versions regarding “Decide on cross-cutting concepts [...] and implement as needed” hase been  resolved by removed "and implement as necessary".
+** "Cross-Cutting Concepts" now referred to as "Cross-Cutting Concerns"
+
+* LG 01-05: 
+** Previously LG 1-09
+** "System Architecture" added.
+
+* LG 01-06: 
+** Previously LG 1-5.
+** Minor changes to the list of stakeholders
+
+* LG 01-07: Importance of Data and Data Models (R2)
+** New learning goal, including identifying and designing data models and understanding the difference between products and sums in data modelling, decoupling data models from their representation in databases, files, and transmission protocols, and the impact of data on architecture decisions regarding e.g. storage, security, scalability, reliability, performance etc.
+
+* LGs removed or moved: "LG 1-10: Differentiate Types of IT Systems (R3)" was completely removed
+
+*LG 02-00 Chapter 2: Requiremennts and Constraints
+** This is a new chapter. Almost all of the content has been newly created or completely changed from the previous content. Only the list of stakeholders and constraints remained mostly the same.
+** The differentiation between functional requirements, quality requirements, and constraints is not emphasized as it was in the previous syllabus."
+
+* LG 02-01: 
+** Takes parts of "LG 1-5: Relate the Role of Software Architects to other Stakeholders" and "LG 1-7: Differentiate between Short- and Long-Term Goals (R2)" (elevated to R1) and adds examples of stakeholder concerns. 
+** Emphasizes the need to identify the impacts of the stakeholder concerns on the architecture and design process.
+** Enterprise Architect and Hardware Developers were removed from the list of stakeholders (to shorten the list).
+
+* LG 02-02: 
+** Previously LG 2-3. 
+** The list of requirements and constraints hasn't changed. There is a new focus that the Software Architects understand the impact of the requirements and constraints on the architecture and that architecture decisions may necessitate new requirements or changes to existing requirements.
+
+* LG 02-03: 
+** Previously LG 4-1
+** New content. 
+** The definition of “Quality” has been refined. Defines "Quailty" as "a specific property of a software system".
+** Refers to taxonomies and categorizations of requirements.
+** Retains the necessity fo considering trade-offs.
+
+* LG 02-04:
+** Previously LG 4-2
+** New focus is on formulating scenarios (not just quality scenarios) and the use of the method analysis described in LG 05-02. The term "Quality Tree" was removed.
+
+* LG 02-05:
+** Previously LG 1-8. Reworded for clarity.
+
+* LG 03-00 Chapter 3: Design and Development of Software Architectures
+** Stresses that the architecture should fulfill the requirements.
+** Examples of quality requirements was removed.
+** Iterative design approach was reworded to emphasize the importance of feedback loops and risks.
+** Several principles were recategorized and their exam relevance demoted or promoted.
+** Types of coupling and the definition of interfaces were refined.
+** The text relating to architecture patterns was reduced considerably and instead references given to the glossary.
+** Architecture patterns and design patterns are split into different learning goals and the patterns moved accordingly.
+** There is now a differentiation between "cross-cutting concerns" and "cross-cutting concepts"."
+
+* LG 03-01: 
+** Previously LG 2-8
+** New content. Stresses that the architecture should fulfill the requirements as well as identifying trade-offs between designs and associated risks.
+
+* LG 03-02: 
+** Previously LG 2-2, No changes except:
+** Link to another chapter
+** In the German version, remove the redundant sentence, "fachliche und technische Bestandteile in Architekturen trennen und diese Trennung begründen""
+
+* LG 03-03: 
+** Previously LG 2-1
+** Iterative design approach was reworded to emphasize the importance of feedback loops and risks and moved to LG 03-05.
+
+* LG 03-04: 
+** Previously LG 2-1
+** Several principles were recategorized and their exam-relevance promoted or demoted. 
+** SOLID separated as a separate point. Interface seggregation and single responsibility are now only mentioned along with SOLID and are no longer test-relevant. 
+** YAGNI, DRY, and KISS are no longer exam-relevant.
+
+* LG 03-05:
+** Previously LG 1-6. 
+** Uses content from other learning goals and changes them accordingly.
+** Replaces iterative and incremental approach. 
+** Emphasizes the use of iterations to obtain feedback to architecture decisions.
+
+* LG 03-06: 
+** Previously LG 2-7
+** In addition to "use/delegation", "messaging/events", "composition" etc. types of coupling, additional types were added, including static vs. dynamic and efferent vs. afferent coupling.
+** Emphasizes the consequences of coupling and the decisions as to whether or not to remove the dependencies based on requirements.
+** A remark was added that, "forgoing static dependencies in favor of dynamic dependencies does not necessarily reduce the underlying coupling".
+
+* LG 03-07: 
+** Previously LG 2-9.
+** Several passages were reworded.
+** The distinction between interface and implementation was added. 
+** Multiple characteristics of interfaces were added (e.g., internal vs external, local or remote, synchronous or asynchronous).
+** GraphQL was added to the types of remote interfaces.
+
+* LG 03-08 and LG 03-09: Previously LG 2-5. 
+** The text was significantly shortened and a reference to the glossary was added instead. 
+** Architecture patterns and design patterns are split into different learning goals and the patterns were moved accordingly.
+** Dependency Injection was demoted to R3.
+
+* LG 03-10: 
+** Previously LG 2-4
+** The syllabus differentiates between "cross-cutting concerns" and the "cross-cutting concepts" that the architect designs to address the concerns.
+
+* LG 03-11: 
+** Previously LG 2-10. No changes to content
+
+* LG 03-12: 
+** Previously LG 1-11. No changes to content
+
+* LG 04-00 Chapter 4: Specification and Communication of Software Architectures
+** This chapter remains mostly unchanged. 
+** A few things were slightly reworded, a few notations were added, a couple of learning goals were combined, and a note was made to explizitely state that additional views can be used in addition to the standard views promoted by iSAQB. 
+** An IT-related joke was added. :-)
+
+* LG 04-01: 
+** Previously LG 3-1. 
+** Slight rewording to one bullet point
+
+* LG 04-02: 
+** Previously LG 3-2. 
+** In the German version, the first bullet point slightly reworded.
+
+* LG 04-03: 
+** Previously LG 3-3.
+** SysML, C4, and Entity-Relationship Diagram were added to notations.
+
+* LG 04-04: 
+** LG 04-04 is new. 
+** A serious and true point regarding software architecture is humorously described: Architects need to be able to deal with unexpected situations.
+
+* LG 04-05: 
+** Previously LG 3-4 and LG 3-5. 
+** Two chapters were combined and the text was standardized to explain both the name and purpose of the views.
+** A remark that "additional views can be used as needed to address other concerns or requirements of stakeholders" has been added.
+
+* LG 04-06: 
+** Previously LG 3-7
+** Slight rewording
+
+* LG 04-07: 
+** Previously LG 3-06. 
+** Differentiation between "cross-cutting concerns" and "cross-cutting concepts"
+
+* LG 04-08: 
+** Previously LG 3-8: no content changes
+
+* LG 04-09: 
+** Previously LG 3-9. FMC removed
+
+* LG 05-00 Chapter 5: Analysis and Assessment of Software Architectures
+** This chapter was almost completely rewritten.
+** The aspects relating to requirements were moved to another chapter. The topics of quantitative and qualitative analysis as well as code analysis were replaced with topics relating to the reasons for assessing architectures and the methods and sources of information for analyzing software architectures.
+
+* LG 05-01: 
+** This is a new learning goal that specifies the different reasons for performing architecture analysis.
+
+* LG 05-02: 
+** Previously LG 4-3 und 4-4. 
+** Topics from two chapters were consolidated, but pretty much completely rewritten to focus more on the analysis methods
+
+* LG 05-03: 
+** This is a new learning goal that focuses on assessing the conformance of the implementation to the architecture design and decisions.
+
+* LG 06-00 Chapter 6: Examples of Software Architectures
+** No content changes.
+
+* LG 06-01: 
+** Previously LG 5-1. No content changes.
+
+* LG 06-02: 
+** Previously LG 5-2. No content changes.
+
+
+== Known Issues
+* Refer to GitHub issues
