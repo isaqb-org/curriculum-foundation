@@ -4,7 +4,7 @@
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
-Note: The title of this learning goal has been chosen intentionally and is not a technical error.
+Hinweis: Der Titel dieses Lernziels wurde bewusst gewählt und stellt keinen technischen Fehler dar.
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Note: The title of this learning goal has been chosen intentionally and is not a
 
 Software architects are able to gracefully deal with unexpected situations.
 
-Hinweis: Der Titel dieses Lernziels wurde bewusst gewählt und stellt keinen technischen Fehler dar.
+Note: The title of this learning goal has been chosen intentionally and is not a technical error.
 
 // end::EN[]
 
