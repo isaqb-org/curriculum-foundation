@@ -88,4 +88,4 @@ Software architects are able to describe how those factors can influence archite
 // end::EN[]
 
 ===== {references}
-<<IREBFoundation>>, <<bass>>, <<ghandietal>>, <<starke>>, <<richardsfundamentals>>, <<pohl>>
+<<IREBFoundation>>, <<bass>>, <<gharbietal>>, <<starke>>, <<richardsfundamentals>>, <<pohl>>
