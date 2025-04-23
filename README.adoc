@@ -15,7 +15,7 @@ toc::[]
 
 == What's CPSA-Foundation?
 
-Education based upon the _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ shall provide participants with the knowledge and skills required to design, specify and document software architectures adequate to fulfil the respective requirements for small and medium-sized systems.
+Education based upon the _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ shall provide participants with the knowledge and skills required to design, specify and document software architectures adequate to fulfill the respective requirements for small and medium-sized systems.
 
 
 === What does "Foundation Level" cover?
