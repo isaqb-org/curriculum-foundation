@@ -15,10 +15,18 @@
 
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB Curriculum für Foundation Level
+
+// iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
+// on github (https://public.isaqb.org/glossary)
+:glossary_url: https://public.isaqb.org/glossary/glossary-de.html#term-
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-header-title: iSAQB Curriculum for Foundation Level
+
+// iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
+// on github (https://public.isaqb.org/glossary)
+:glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
 endif::[]
 
 
@@ -33,8 +41,4 @@ endif::[]
 // additional markers might be configured here!
 :include_configuration: tags=!*;{language}
 
-// glossary definitions
-// iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
-// on github (https://public.isaqb.org/glossary)
-// This is the fallback URL if it is not set via build.gradle
-:glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
+
