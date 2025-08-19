@@ -44,9 +44,9 @@ Sie wissen:
 
 Software architects can explain and provide examples for the following architectural patterns (R1):
 
-* {glossary_url}layers[Layers]
+* {glossary_url}layer[Layers]
 * {glossary_url}pipes-and-filters[Pipes and Filters]
-* {glossary_url}microservices[Microservices]
+* {glossary_url}microservice[Microservices]
 
 Software architects can explain several of the following architectural patterns,
 explain their relevance for concrete systems, and provide examples. (R3)
