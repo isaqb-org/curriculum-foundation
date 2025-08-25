@@ -1,0 +1,230 @@
+[
+  {
+    "learning_goal_number": "LZ 01-01",
+    "title": "Definitionen von Softwarearchitektur verstehen",
+    "short_title": "Definitionen von Softwarearchitektur",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 01-02",
+    "title": "Ziele und Nutzen von Softwarearchitektur verstehen und erläutern",
+    "short_title": "Ziele und Nutzen von Softwarearchitektur",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 01-03",
+    "title": "Langfristige Auswirkungen von Softwarearchitektur kennen",
+    "short_title": "Langfristige Auswirkungen von Softwarearchitektur",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 01-04",
+    "title": "Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen",
+    "short_title": "Aufgaben & Verantwortung von Softwarearchitekt:innen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 01-05",
+    "title": "Abgrenzung zu anderen Architekturdomänen",
+    "short_title": "Abgrenzung zu anderen Architekturdomänen",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 01-06",
+    "title": "Rolle von Softwarearchitekt:innen mit anderen Stakeholdern in Beziehung setzen",
+    "short_title": "Rolle von Softwarearchitekt:innen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 01-07",
+    "title": "Bedeutung von Daten und Datenmodellen",
+    "short_title": "Daten und Datenmodelle",
+    "relevance": ["R2"]
+  },
+  {
+    "learning_goal_number": "LZ 02-01",
+    "title": "Stakeholder-Anliegen verstehen",
+    "short_title": "Stakeholder-Anliegen",
+    "relevance": ["R1", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 02-02",
+    "title": "Anforderungen und Randbedingungen klären und berücksichtigen können",
+    "short_title": "Anforderungen & Randbedingungen klären",
+    "relevance": ["R1", "R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 02-03",
+    "title": "Qualitäten eines Softwaresystems verstehen und erklären",
+    "short_title": "Qualitäten eines Softwaresystems",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 02-04",
+    "title": "Anforderungen an Qualitäten formulieren",
+    "short_title": "Qualitätsanforderungen",
+    "relevance": ["R1", "R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 02-05",
+    "title": "Explizite Aussagen vor impliziten Annahmen bevorzugen",
+    "short_title": "Explizit statt implizit",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 03-01",
+    "title": "Anforderungen durch Architektur erreichen",
+    "short_title": "Anforderungen erreichen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 03-02",
+    "title": "Softwarearchitekturen entwerfen",
+    "short_title": "Softwarearchitekturen entwerfen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 03-03",
+    "title": "Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können",
+    "short_title": "Vorgehen und Heuristiken",
+    "relevance": ["R1", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-04",
+    "title": "Entwurfsprinzipien erläutern und anwenden",
+    "short_title": "Entwurfsprinzipien",
+    "relevance": ["R1", "R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-05",
+    "title": "Zusammenhang zwischen Feedback-Schleifen und Risiko",
+    "short_title": "Feedback",
+    "relevance": ["R1", "R2"]
+  },
+  {
+    "learning_goal_number": "LZ 03-06",
+    "title": "Abhängigkeiten von Bausteinen managen",
+    "short_title": "Abhängigkeiten von Bausteinen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 03-07",
+    "title": "Schnittstellen entwerfen und spezifizieren",
+    "short_title": "Schnittstellen",
+    "relevance": ["R1", "R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-08",
+    "title": "Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden",
+    "short_title": "Architekturmuster",
+    "relevance": ["R1", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-09",
+    "title": "Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden",
+    "short_title": "Entwurfsmuster",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-10",
+    "title": "Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen",
+    "short_title": "Querschnittsthemen",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 03-11",
+    "title": "Grundlegende Prinzipien von Software-Deployments kennen",
+    "short_title": "Prinzipien von Deployments",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 03-12",
+    "title": "Herausforderungen verteilter Systeme kennen",
+    "short_title": "Verteilte Systeme",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 04-01",
+    "title": "Anforderungen an technische Dokumentation erläutern und berücksichtigen",
+    "short_title": "Anforderungen an technische Dokumentation",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 04-02",
+    "title": "Softwarearchitekturen beschreiben und kommunizieren",
+    "short_title": "Architektur kommunizieren",
+    "relevance": ["R1", "R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 04-03",
+    "title": "Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden",
+    "short_title": "Notation & Modellierung",
+    "relevance": ["R2", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 04-04",
+    "title": "Lernziel nicht gefunden",
+    "short_title": "Lernziel nicht gefunden",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 04-05",
+    "title": "Architektursichten erläutern und anwenden",
+    "short_title": "Architektursichten",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 04-06",
+    "title": "Schnittstellen dokumentieren",
+    "short_title": "Schnittstellen dokumentieren",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 04-07",
+    "title": "Querschnittsthemen dokumentieren und kommunizieren",
+    "short_title": "Querschnittsthemen dokumentieren",
+    "relevance": ["R2"]
+  },
+  {
+    "learning_goal_number": "LZ 04-08",
+    "title": "Architekturentscheidungen erläutern und dokumentieren",
+    "short_title": "Architekturentscheidungen",
+    "relevance": ["R1", "R2"]
+  },
+  {
+    "learning_goal_number": "LZ 04-09",
+    "title": "Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen",
+    "short_title": "Dokumentationswerkzeuge",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 05-01",
+    "title": "Gründe für Architekturanalyse kennen",
+    "short_title": "Gründe für Architekturanalyse",
+    "relevance": ["R1"]
+  },
+  {
+    "learning_goal_number": "LZ 05-02",
+    "title": "Qualitäten eines Softwaresystems analysieren",
+    "short_title": "Qualitäten analysieren",
+    "relevance": ["R1", "R3"]
+  },
+  {
+    "learning_goal_number": "LZ 05-03",
+    "title": "Konformität mit Architekturentscheidungen bewerten",
+    "short_title": "Konformität bewerten",
+    "relevance": ["R2"]
+  },
+  {
+    "learning_goal_number": "LZ 06-01",
+    "title": "Bezug von Anforderungen und Randbedingungen zur Lösung erfassen",
+    "short_title": "Bezug von Anforderungen zur Lösung",
+    "relevance": ["R3"]
+  },
+  {
+    "learning_goal_number": "LZ 06-02",
+    "title": "Technische Umsetzung einer Lösung nachvollziehen",
+    "short_title": "Umsetzuzng einer Lösung nachvollziehen",
+    "relevance": ["R3"]
+  }
+]
