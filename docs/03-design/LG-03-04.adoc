@@ -47,6 +47,10 @@ Softwarearchitekt:innen sind in der Lage:
 * als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)
 * als eine Verallgemeinerung des Robustheitsgrundsatzes (_Postel's law_) (R2)
 
+**{glossary_url}make-illegal-states-unrepresentable[Make illegal states unrepresentable]** (R2)
+
+* als ein Entwurfsprinzip, um die Robustheit verbessern
+
 **SOLID Prinzipien** (R3)
 
 Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien: 
@@ -100,6 +104,10 @@ Software architects are able to:
 
 * as a means to design for robust and resilient systems (R3)
 * as a generalization of the robustness principle (_Postel's law_) (R2)
+
+**{glossary_url}make-illegal-states-unrepresentable[Make illegal states unrepresentable]** (R2)
+
+* as a design principle to improve robustness
 
 **SOLID Principles** (R3)
 
