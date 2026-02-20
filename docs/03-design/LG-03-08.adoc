@@ -5,7 +5,7 @@
 
 Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Beispiele dafür liefern (R1):
 
-* {glossary_url}layer[Layer]
+* {glossary_url}layer[Schichten (Layers)]
 * {glossary_url}pipes-and-filters[Pipes und Filter]
 * {glossary_url}microservices[Microservices]
 
