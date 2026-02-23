@@ -25,7 +25,7 @@ Softwarearchitekt:innen
 ** Fehler und ihre Position im Quelltext, besonders Fehlercluster (R1)
 ** andere Dokumentation des Systems, wie z.{nbsp}B. Betriebs- und Testdokumentation (R1)
 ** Laufzeit-Logs und Metriken (R1)
-** Revisionshistorie, wie z.{nbsp}B. wie Änderungsrate pro Komponente (R3)
+** Revisionshistorie, wie z.{nbsp}B. die Änderungsrate pro Komponente (R3)
 
 Siehe auch <<LG-02-03>>, <<LG-02-04>>.
 // end::DE[]
