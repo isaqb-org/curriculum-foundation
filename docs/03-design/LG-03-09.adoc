@@ -1,49 +1,21 @@
 
 // tag::DE[]
 [[LG-03-09]]
-==== LZ 03-09 [ehemaliges LZ 2-5]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R3)
+==== LZ 03-09
 
-Softwarearchitekt:innen können mehrere der folgenden Entwurfsmuster beschreiben, ihre Relevanz für die Architektur und konkrete Systeme erklären sowie Beispiele nennen. 
-
-* {glossary_url}combinator[Combinator]
-* Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
-  und {glossary_url}proxy[Proxy].
-  Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
-  Programmiersprachen oder Frameworks verwendet werden können.
-* {glossary_url}interpreter[Interpreter]
-* {glossary_url}observer[Observer]
-* {glossary_url}template-method[Template Method] und {glossary_url}strategy[Strategy]
-* {glossary_url}visitor[Visitor]
-
-Softwarearchitekt:innen kennen wesentliche Quellen für Entwurfsmuster, wie z.B.
-<<gof,GOF>> und <<buschmanna,POSA>>.
-
+Dieses Lernziel ist vorübergehend vakant.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-09]]
 
-==== LG 03-09 [previously LG 2-5]: Describe, Explain, and Appropriately Apply Important Design Patterns (R3)
+==== LG 03-09
 
-Software can describe several of the following design patterns, explain their relevance for the architecture and specific systems and give examples. 
-
-* {glossary_url}combinator[Combinator]
-* Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
-  and {glossary_url}proxy[Proxy].
-  Architects should know that these patterns can be used
-  independently of a particular programming language or framework.
-* {glossary_url}interpreter[Interpreter]
-* {glossary_url}observer[Observer]
-* {glossary_url}template-method[Template Method] and {glossary_url}strategy[Strategy]
-* {glossary_url}visitor[Visitor]
-
-Software architects know essential sources for design patterns, such as
-<<gof,GOF>> and <<buschmanna,POSA>>.
-
+This Learning Goal is temporarily vacant. 
 
 
 // end::EN[]
 
 ===== {references}
-<<gof>>, <<buschmanna>>
+

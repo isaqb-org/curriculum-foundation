@@ -1,9 +1,9 @@
 
 // tag::DE[]
 [[LG-03-08]]
-==== LZ 03-08 [ehemaliges LZ 2-5]: Wichtige Architekturmuster beschreiben, erklären und angemessen anwenden (R1, R3)
+==== LZ 03-08 [ehemaliges LZ 2-5]: Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden (R1, R3)
 
-Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Beispiele dafür liefern (R1):
+Softwarearchitekt:innen können die folgenden Entwurfsmuster erklären und Beispiele dafür liefern (R1):
 
 * {glossary_url}layer[Schichten (Layers)]
 * {glossary_url}pipes-and-filters[Pipes und Filter]
@@ -11,6 +11,15 @@ Softwarearchitekt:innen können die folgenden Architekturmuster erklären und Be
 
 Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
 
+* {glossary_url}combinator[Combinator]
+* Schnittstellenmuster wie {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
+  und {glossary_url}proxy[Proxy].
+  Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
+  Programmiersprachen oder Frameworks verwendet werden können.
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}template-method[Template Method] und {glossary_url}strategy[Strategy]
+* {glossary_url}visitor[Visitor]
 * {glossary_url}blackboard[Blackboard]
 * {glossary_url}broker[Broker]
 * {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
@@ -26,13 +35,12 @@ Softwarearchitekt:innen können einige der folgendene Muster erklären, ihre Rel
 * {glossary_url}ports-and-adapters[Ports and Adapters] (Synonyme: Onion Architektur, Hexagonal Architektur, Clean Architektur)
 * {glossary_url}service-oriented-architecture[SOA] (Service-Oriented Architektur)
 
-Softwarearchitekt:innen kennen wesentliche Quellen für Architekturmuster, beispielsweise die POSA-Literatur (z.{nbsp}B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme). (R3)
+Softwarearchitekt:innen kennen wesentliche Quellen für Muster, beispielsweise <<gof,GOF>> die POSA-Literatur (z.{nbsp}B. <<buschmanna>>) und PoEAA (<<fowler>>) (für Informationssysteme). (R3)
 
 
 Sie wissen:
 
 * dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.
-* dass es verschiedene Kategorien von Mustern gibt.
 * zusätzliche Quellen für Muster, die sich auf ihre spezifische technische oder Anwendungsdomäne beziehen.
 
 // end::DE[]
@@ -40,17 +48,26 @@ Sie wissen:
 // tag::EN[]
 [[LG-03-08]]
 
-==== LG 03-08 [previously LG 2-5]: Describe, Explain and Apply Important Architectural Patterns (R1, R3)
+==== LG 03-08 [previously LG 2-5]: Describe, Explain and Apply Important Design Patterns (R1, R3)
 
-Software architects can explain and provide examples for the following architectural patterns (R1):
+Software architects can explain and provide examples for the following design patterns (R1):
 
 * {glossary_url}layer[Layers]
 * {glossary_url}pipes-and-filters[Pipes and Filters]
 * {glossary_url}microservice[Microservices]
 
-Software architects can explain several of the following architectural patterns,
+Software architects can explain several of the following patterns,
 explain their relevance for concrete systems, and provide examples. (R3)
 
+* {glossary_url}combinator[Combinator]
+* Interfacing patterns like {glossary_url}adapter[Adapter], {glossary_url}facade[Facade],
+  and {glossary_url}proxy[Proxy].
+  Architects should know that these patterns can be used
+  independently of a particular programming language or framework.
+* {glossary_url}interpreter[Interpreter]
+* {glossary_url}observer[Observer]
+* {glossary_url}template-method[Template Method] and {glossary_url}strategy[Strategy]
+* {glossary_url}visitor[Visitor]
 * {glossary_url}blackboard[Blackboard]
 * {glossary_url}broker[Broker]
 * {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
@@ -66,12 +83,11 @@ explain their relevance for concrete systems, and provide examples. (R3)
 * {glossary_url}ports-and-adapters[Ports and Adapters] (synonyms: Onion Architecture, Hexagonal Architecture, Clean Architecture)
 * {glossary_url}service-oriented-architecture[SOA] (Service-Oriented Architecture)
 
-Software architects know essential sources for architectural patterns, such as POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems). (R3)
+Software architects know essential sources for patterns, such as <<gof,GOF>>, POSA (e.g. <<buschmanna>>) and PoEAA (<<fowler>>) (for information systems). (R3)
 
 They know:
 
 * that patterns are a way of achieving certain qualities for given problems and requirements within given contexts.
-* that there are different categories of patterns.
 * additional sources of patterns that relate to their specific technical or application domain.
 // end::EN[]
 
