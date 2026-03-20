@@ -12,6 +12,7 @@ Softwarearchitekt:innen
 ** qualitative Auswertung durch Interviews, Umfragen, Penetrationstests etc. (R1)
 ** szenariobasierte Analyse (R1)
 ** Architektur-Metriken für Kopplung wie der Grad eingehender und ausgehender Abhängigkeiten (R1)
+** statische Code-Analyse (R1)
 ** Kosten-Nutzen-Analyse (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
@@ -42,6 +43,7 @@ Software architects
 ** qualitative evaluation via interviews, surveys, penetration tests etc. (R1)
 ** scenario-based analysis (R1)
 ** architecture metrics for coupling such as the degree of inbound and outbound dependencies (R1)
+** static code analysis (R1)
 ** cost-benefit analysis (R3)
 ** Architecture Trade-Off Analysis Method <<bass>> (R3)
 
