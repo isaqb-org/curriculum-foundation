@@ -11,7 +11,7 @@ Softwarearchitekt:innen können folgende Architektursichten anwenden:
 * Laufzeitsicht (dynamische Sicht, Zusammenwirken der Softwarebausteine zur Laufzeit, Zustandsmodelle)
 * Verteilungs-/Deploymentsicht (Hardware und technische Infrastruktur sowie Abbildung von Softwarebausteinen auf diese Infrastruktur)
 
-Zusätzliche Sichten können nach Bedarf verwendet werden, um weitere Anliegen oder Anforderungen von Stakeholden zu berücksichtigen, z. B. Funktionale Sicherheit, Informations-, Betriebs- oder User-Interface Sicht (R3).
+Zusätzliche Sichten können nach Bedarf verwendet werden, um weitere Anliegen oder Anforderungen von Stakeholdern zu berücksichtigen, z. B. Funktionale Sicherheit, Informations-, Betriebs- oder User-Interface Sicht (R3).
 // end::DE[]
 
 // tag::EN[]
