@@ -22,7 +22,7 @@ Vorgehen beim Entwurf;
 Sichten; 
 {glossary_url}interface[Schnittstellen];
 technische Konzepte und Querschnittsthemen; 
-Entwurfsmuster; 
+Muster; 
 Mustersprachen; 
 Entwurfsprinzipien; 
 Abhängigkeiten;
@@ -54,7 +54,7 @@ Design; design approach; {glossary_url}architectural-decision[architecture decis
 {glossary_url}interface[interfaces];  
 technical concepts and
 {glossary_url}cross-cutting-concern[cross-cutting concerns];
-design patterns;
+patterns;
 pattern languages; 
 design principles; 
 dependencies; 
