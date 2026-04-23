@@ -6,7 +6,6 @@
 Softwarearchitekt:innen kennen:
 
 * Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:
-** ISO/IEC/IEEE 42010, 
 ** arc42,
 ** C4, siehe <<brownc4>>
 * Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen
@@ -21,7 +20,6 @@ Softwarearchitekt:innen kennen:
 Software architects know:
 
 * basics of several published frameworks for the description of software architectures, for example:
-** ISO/IEC/IEEE 42010, 
 ** arc42,
 ** C4, see <<brownc4>>
 * ideas and examples of checklists for the creation, documentation, and review of software architectures
