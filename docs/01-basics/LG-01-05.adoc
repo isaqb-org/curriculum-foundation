@@ -1,38 +1,12 @@
 
 // tag::DE[]
 [[LG-01-05]]
-==== LZ 01-05 [ehemaliges LZ 1-9]: Abgrenzung zu anderen Architekturdomänen (R3)
-
-Der Fokus des iSAQB CPSA-Foundation Level liegt auf Strukturen und Konzepten einzelner Softwaresysteme.
-
-Darüber hinaus kennen Softwarearchitekt:innen weitere Architekturdomänen, beispielsweise:
-
-* Unternehmens-IT-Architektur (_Enterprise IT Architecture_): Struktur von Anwendungslandschaften
-* Geschäfts- bzw. Prozessarchitektur (_Business and Process Architecture_): Struktur von u.a. Geschäftsprozessen
-* Informationsarchitektur: systemübergreifende Struktur und Nutzung von Information und Daten
-* Infrastruktur- bzw. Technologiearchitektur: Struktur der technischen Infrastruktur, Hardware, Netze etc.
-* Hardware- oder Prozessorarchitektur (für hardwarenahe Systeme)
-* Systemarchitektur (verschiedene Bedeutungen, abhängig von der Definition des Begriffs "System")
-
-Diese Architekturdomänen sind nicht inhaltlicher Fokus vom CPSA-F.
+==== LZ 01-05 This LG is temporarily vacant
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-05]]
-==== LG 01-05 [previously LG 1-9]: Distinction between Software Architecture and other Architectural Domains (R3)
+==== LG 01-05 Dieses LZ ist vorübergehend leer.
 
-The focus of the iSAQB CPSA Foundation Level is on structures and concepts of individual software systems.
-
-In addition, software architects are familiar with other architectural domains, for example:
-
-* enterprise IT architecture: Structure of application landscapes
-* business and process architecture: Structure of, among other things, business processes
-* information architecture: cross-system structure and use of information and data
-* infrastructure or technology architecture: Structure of the technical infrastructure, hardware,
-  networks, etc.
-* hardware or processor architecture (for hardware-related systems)
-* system architecture (can have various semantics, depending on the definition of "system")
-
-These architectural domains are not the content focus of CPSA-F.
 // end::EN[]
