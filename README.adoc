@@ -376,28 +376,9 @@ See link:license-copyright/LICENSE.adoc[the license] and link:license-copyricht/
 [[build]]
 === How to Build (aka: Generate) the Documents
 
+Two build options are available: <<build-docker,Docker>> (no local Java or Gradle installation required) and <<build-gradle,Gradle>> (requires a local Java 21 installation).
 
-Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
-
-You build the output documents with https://gradle.org[gradle]. 
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. 
-Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
-
-
-`./gradle-tools/gradlew buildDocs`
-
-In case you want to change the configuration, adjust the following part of `build.gradle`:
-
-[source,groovy]
-----
-ext {
-    curriculumFileName = "curriculum-foundation"
-    validity = project.file("./document.validity").text.trim()
-    languages = ["DE", "EN"]
-}
-----
-
-Please note: You need to include the submodules "pdf-theme", "html-theme", "license-copyright", and "gradle-tools" in your checkout, otherwise the build will fail. You can do that with the following commands:
+Please note: Either way, you need to include the submodules "pdf-theme", "html-theme", "license-copyright", and "gradle-tools" in your checkout, otherwise the build will fail. You can do that with the following commands:
 
 . Clone the repository - including the submodule:
 +
@@ -414,6 +395,58 @@ git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
 . Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`. Do this also after you pulled changes that added a new submodule.
 . Cleanup leftover files (make sure to commit your changes first!): `git clean -xdf` -- *Attention:* This will also delete your local IDE settings (VScode, IntelliJ, etc.)
 . Cleanup your local repository from time to time: `git gc --aggressive`
+
+[[build-docker]]
+==== Option 1: Build with Docker (Recommended for Local Builds)
+
+Prerequisite: You need https://docs.docker.com/get-docker/[Docker] installed.
+No Java or Gradle installation is required on your local machine.
+
+[source,shell]
+----
+docker compose run --rm build
+----
+
+This command:
+
+* builds a Docker image containing JDK 21 (first run only, cached afterwards),
+* mounts the current repository directory into the container,
+* runs `./gradle-tools/gradlew buildDocs` inside the container,
+* writes the resulting PDF and HTML files into the `build/` directory of your local checkout.
+
+Gradle downloads and caches are stored in a named Docker volume (`gradle-cache`) so subsequent runs are faster.
+
+If you prefer plain Docker without Compose, you can also run:
+
+[source,shell]
+----
+docker build -t curriculum-foundation-builder .
+docker run --rm -w /project -v "$(pwd):/project" -v gradle-cache:/root/.gradle curriculum-foundation-builder
+----
+
+NOTE: Omitting the `-v gradle-cache:/root/.gradle` volume mount is possible, but Gradle will re-download its dependencies on every run.
+
+[[build-gradle]]
+==== Option 2: Build with Gradle (Requires Java 21)
+
+Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
+
+You build the output documents with https://gradle.org[gradle].
+That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
+
+`./gradle-tools/gradlew buildDocs`
+
+In case you want to change the configuration, adjust the following part of `build.gradle`:
+
+[source,groovy]
+----
+ext {
+    curriculumFileName = "curriculum-foundation"
+    validity = project.file("./document.validity").text.trim()
+    languages = ["DE", "EN"]
+}
+----
 
 === How to Create an Official Version (by tagging in Git)
 
