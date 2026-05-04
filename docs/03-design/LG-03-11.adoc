@@ -2,7 +2,7 @@
 // tag::DE[]
 
 [[LG-03-11]]
-==== LZ 03-11 [ehemaliges LZ 2-10]: Grundlegende Prinzipien von Software-Deployments kennen (R3)
+==== LZ 03-11: Grundlegende Prinzipien von Software-Deployments kennen (R3)
 Softwarearchitekt:innen:
 
 * wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird
@@ -18,7 +18,7 @@ Softwarearchitekt:innen:
 // tag::EN[]
 
 [[LG-03-11]]
-==== LG 03-11 [previously LG 2-10]: Know Fundamental Principles of Software Deployment (R3)
+==== LG 03-11: Know Fundamental Principles of Software Deployment (R3)
 
 Software architects:
 
