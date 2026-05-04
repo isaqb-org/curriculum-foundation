@@ -5,16 +5,15 @@
 
 Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Architektursichten:
 
-* UML-Klassen-, Paket-, Komponenten- (jeweils R2) und Kompositionsstrukturdiagramme (R3)
-* UML-Verteilungsdiagramme (R2)
-* UML-Sequenz- und Aktivitätsdiagramme (R2)
+* UML-Klassen-, Paket- und Komponentendiagramme (R2)
+* UML-Verteilungs, Sequenz- und Aktivitätsdiagramme (R2)
+* Aufzählungen, z. B. nummerierte Listen oder Stichpunkte (R2)
 * UML-Zustandsdiagramme (R3)
 * ArchiMate (R3)
 * SysML (R3)
 * C4, siehe <<brownc4>> (R3)
 * Entity-Relationship Diagramme, siehe <<erd>> (R3)
 * Flussdiagramme (R3)
-* nummerierte Listen (R3)
 * Business-Process-Modelling-Notation (BPMN) (R3).
 
 // end::DE[]
@@ -25,17 +24,16 @@ Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Ar
 
 Software architects know at least the following diagrams to describe architectural views:
 
-* UML class, package, component (all R2) and composite-structure diagrams (R3)
-* UML deployment diagrams (R2)
-* UML sequence and activity diagrams (R2)
+* UML class, package, and component diagrams (R2)
+* UML deployment, sequence, and activity diagrams (R2)
+* enumerations, e.g. numbered lists or bullet points (R2)
 * UML state machine diagrams (R3)
-* Archimate (R3)
+* ArchiMate (R3)
 * SysML (R3)
 * C4, see <<brownc4>> (R3)
 * Entity-relationship diagrams, see <<erd>> (R3)
 * flow charts (R3)
-* numbered lists (R3)
-* business-process-modeling-notation (BPMN)  (R3).
+* business-process-modeling-notation (BPMN) (R3).
 
 // end::EN[]
 
