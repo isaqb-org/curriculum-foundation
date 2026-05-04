@@ -1,7 +1,7 @@
 
 // tag::DE[]
 [[LG-04-03]]
-==== LZ 04-03 [ehemaliges LZ 3-3]: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
+==== LZ 04-03: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
 Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Architektursichten:
 
@@ -20,7 +20,7 @@ Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Ar
 
 // tag::EN[]
 [[LG-04-03]]
-==== LG 04-03 [previously LG 3-3]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
+==== LG 04-03: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
 
 Software architects know at least the following diagrams to describe architectural views:
 
