@@ -6,7 +6,7 @@
 Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Architektursichten:
 
 * UML-Klassen-, Paket- und Komponentendiagramme (R2)
-* UML-Verteilungs, Sequenz- und Aktivitätsdiagramme (R2)
+* UML-Verteilungs-, Sequenz- und Aktivitätsdiagramme (R2)
 * Aufzählungen, z. B. nummerierte Listen oder Stichpunkte (R2)
 * UML-Zustandsdiagramme (R3)
 * ArchiMate (R3)
