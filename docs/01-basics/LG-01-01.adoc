@@ -25,5 +25,5 @@ Software architects know and understand the commonalities of many definitions of
 // end::EN[]
 
 ===== {references}
-<<iso42010>>, <<bass>>, <<kruchten>>, <<starkelorz>>
+<<bass>>, <<kruchten>>, <<starkelorz>>
 
