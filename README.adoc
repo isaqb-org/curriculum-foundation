@@ -284,7 +284,7 @@ image:./documentation/release-process/release-process-2025.drawio.png[graphical 
 | 4, 6 & 7 | Minor corrections, hotfixes | continuously |
 | 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 8 weeks |
 | 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
-EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| RD - 3M, Jan 15th 2027|
+EP need to incorporate this updated version into their examination process and/or toolset until the release date RD.| | RD - 3M, Jan 15th 2027
 | 10 | iSAQB GmbH contracts translation of curriculum and questions to translation office (which is under strict nondisclosure agreements)
      | 4 weeks|
 | 11 | For every target language there need to be an expert group who can handle review of translation
