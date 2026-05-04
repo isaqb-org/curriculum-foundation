@@ -3,20 +3,18 @@
 [[LG-04-03]]
 ==== LZ 04-03 [ehemaliges LZ 3-3]: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
-Softwarearchitekt:innen kennen mindestens folgende UML-Diagramme zur Notation von Architektursichten:
+Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Architektursichten:
 
-* Klassen-, Paket-, Komponenten- (jeweils R2) und Kompositionsstrukturdiagramme (R3)
-* Verteilungsdiagramme (R2)
-* Sequenz- und Aktivitätsdiagramme (R2)
-* Zustandsdiagramme (R3)
-
-Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
-
-* ArchiMate
-* SysML
-* C4, siehe <<brownc4>>
-* Entity-Relationship Diagramme, siehe <<erd>>
-* für Laufzeitsichten beispielsweise Flussdiagramme, nummerierte Listen oder Business-Process-Modelling-Notation (BPMN).
+* UML-Klassen-, Paket- und Komponentendiagramme (R2)
+* UML-Verteilungs-, Sequenz- und Aktivitätsdiagramme (R2)
+* Aufzählungen, z. B. nummerierte Listen oder Stichpunkte (R2)
+* UML-Zustandsdiagramme (R3)
+* ArchiMate (R3)
+* SysML (R3)
+* C4, siehe <<brownc4>> (R3)
+* Entity-Relationship Diagramme, siehe <<erd>> (R3)
+* Flussdiagramme (R3)
+* Business-Process-Modelling-Notation (BPMN) (R3).
 
 // end::DE[]
 
@@ -24,20 +22,18 @@ Softwarearchitekt:innen kennen Alternativen zu UML, beispielsweise (R3)
 [[LG-04-03]]
 ==== LG 04-03 [previously LG 3-3]: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
 
-Software architects know at least the following UML diagrams to describe architectural views:
+Software architects know at least the following diagrams to describe architectural views:
 
-* class, package, component (all R2) and composite-structure diagrams (R3)
-* deployment diagrams (R2)
-* sequence and activity diagrams (R2)
-* state machine diagrams (R3)
-
-Software architects know alternative notations to UML diagrams, for example: (R3)
-
-* Archimate
-* SysML
-* C4, see <<brownc4>>
-* Entity-relationship diagrams, see <<erd>>
-* for runtime views for example flow charts, numbered lists or business-process-modeling-notation (BPMN).
+* UML class, package, and component diagrams (R2)
+* UML deployment, sequence, and activity diagrams (R2)
+* enumerations, e.g. numbered lists or bullet points (R2)
+* UML state machine diagrams (R3)
+* ArchiMate (R3)
+* SysML (R3)
+* C4, see <<brownc4>> (R3)
+* Entity-relationship diagrams, see <<erd>> (R3)
+* flow charts (R3)
+* business-process-modeling-notation (BPMN) (R3).
 
 // end::EN[]
 
