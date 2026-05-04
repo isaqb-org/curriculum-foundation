@@ -22,7 +22,7 @@ Im Mittelpunkt steht der Erwerb folgender Fähigkeiten:
 
 * mit anderen Beteiligten aus den Bereichen Anforderungsmanagement, Projektmanagement, Entwicklung und Test wesentliche Architekturentscheidungen abzustimmen
 * die wesentlichen Schritte beim Entwurf von Softwarearchitekturen zu verstehen sowie für kleine und mittlere Systeme selbstständig durchzuführen
-* Softwarearchitekturen auf Basis von Sichten, Architekturmustern und technischen Konzepten zu dokumentieren und zu kommunizieren.
+* Softwarearchitekturen auf Basis von Sichten, Mustern und technischen Konzepten zu dokumentieren und zu kommunizieren.
 
 Weiterhin behandeln CPSA-F-Schulungen:
 
