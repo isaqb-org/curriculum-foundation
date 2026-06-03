@@ -5,11 +5,17 @@ include::config/setup.adoc[]
 ifeval::["{language}" == "DE"]
 = Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
 :toc-title: Inhaltsverzeichnis
-:toc: left
 endif::[]
-
 ifeval::["{language}" == "EN"]
 = Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+endif::[]
+// TOC placement is backend-specific. These conditionals MUST stay in the document header
+// (no blank line above) so HTML's sidebar TOC setup sees :toc:.
+ifdef::backend-pdf[]
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
 :toc: left
 endif::[]
 
