@@ -11,4 +11,4 @@ on:
 
 jobs:
   call_workflow_build_pr:
-    uses: isaqb-org/github-workflows/.github/workflows/build_releasecandidate.yml@main
+    uses: isaqb-org/github-workflows/.github/workflows/build_releasecandidate.yml@main-ruby

@@ -10,4 +10,4 @@ on:
 
 jobs:
   call_workflow_build_pr:
-    uses: isaqb-org/github-workflows/.github/workflows/build_pr.yml@main
+    uses: isaqb-org/github-workflows/.github/workflows/build_pr.yml@main-ruby

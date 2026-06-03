@@ -7,4 +7,4 @@ on:
 
 jobs:
   call_workflow_build:
-    uses: isaqb-org/github-workflows/.github/workflows/update_pr_with_comment.yml@main
+    uses: isaqb-org/github-workflows/.github/workflows/update_pr_with_comment.yml@main-ruby
