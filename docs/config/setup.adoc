@@ -6,8 +6,6 @@
 :figure-caption!:
 
 
-// table-of-contents placement does not work in pdf, but in html
-:toc: left
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
@@ -29,16 +27,6 @@ ifeval::["{language}" == "EN"]
 :glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
 endif::[]
 
-
-ifeval::["{language}" == "DE;EN"]
-[NOTE]
-====
-Several languages have been configured, but the language-specific headings (like "Table of Contents" will be displayed in a single language only (currently set to EN))
-====
-endif::[]
-
 // ":include_configuration:" always consists of the language,
 // additional markers might be configured here!
 :include_configuration: tags=!*;{language}
-
-
