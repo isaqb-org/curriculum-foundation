@@ -28,10 +28,6 @@ include::../license-copyright/copyright.adoc[{include_configuration}]
 toc::[]
 
 <<<
-// Auto-generated list of learning objectives
-include::learning-objectives.adoc[{include_configuration}]
-
-<<<
 :sectnums!:
 include::00-preamble/00-introduction.adoc[]
 
