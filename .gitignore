@@ -1,10 +1,7 @@
 .DS_Store
 
 .gradle
-gradlew
-gradlew.bat
-gradle/
-
+.gradle-docker
 build
 .idea
 advanced-template.iml
@@ -19,3 +16,8 @@ docs/learning-goals.adoc
 curriculum-foundation.code-workspace
 bin
 *.bkp
+learning-objectives.adoc
+gradle/
+gradlew*
+CLAUDE.md
+.claude/settings.local.json
