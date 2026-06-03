@@ -4,7 +4,7 @@
 
 include::./01-basics-duration-terms.adoc[{include_configuration}]
 
-=== {learning_goals}
+=== {learning-goals}
 
 include::./LG-01-01.adoc[{include_configuration}]
 
