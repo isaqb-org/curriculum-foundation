@@ -1,22 +1,21 @@
 = https://isaqb.org[iSAQB] Foundation Level Curriculum
-:toc:
-:toc-placement!:
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+== Status
+image:https://github.com/isaqb-org/curriculum-foundation/actions/workflows/build_main.yml/badge.svg?branch=main["CI – Releases and Main"]
+image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2023.1-rev0[GitHub commits since tagged version]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2021.1-rev0[GitHub commits since tagged version]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 
-toc::[]
+
 
 == What's CPSA-Foundation?
 
 Education based upon the _Certified Professional for Software Architecture – Foundation Level (CPSA-F)_ shall provide participants with the knowledge and skills required to design, specify and document software architectures adequate to fulfill the respective requirements for small and medium-sized systems.
-
 
 === What does "Foundation Level" cover?
 
@@ -46,12 +45,11 @@ This is <<copyrighted,copyrighted work>>.
 
 === What constitutes a _Curriculum_
 
-
-> A curriculum, in contrast to a _syllabus_, is oriented towards teaching objectives and the course of the teaching and learning process. 
+> A curriculum, in contrast to a _syllabus_, is oriented towards teaching objectives and the course of the teaching and learning process.
 > In addition to the teaching content, the urriculum should include regulations and options for learning processes and the organization of learning.
 >
 > Freely translated from the https://de.wikipedia.org/wiki/Curriculum_(P%C3%A4dagogik)[German Wikipedia],
-> 
+>
 
 
 == Goals and Requirements
@@ -61,34 +59,34 @@ This is <<copyrighted,copyrighted work>>.
 
 The following requirements should be fulfilled by every learning goal, especially for all R1-goals:
 
-Specific and Clear:: 
-  Each learning goal should be clear and specific, avoiding vagueness. 
-This means stating what the learner will know or be able to do in precise terms. 
+Specific and Clear::
+  Each learning goal should be clear and specific, avoiding vagueness.
+This means stating what the learner will know or be able to do in precise terms.
 For software architects, this could involve specifying particular architectural styles, patterns, methods and practices they will need to learn and apply.
 
-Relevant:: 
-  Learning goals should be directly relevant to the roles and responsibilities of software architects. 
-  This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture. 
+Relevant::
+  Learning goals should be directly relevant to the roles and responsibilities of software architects.
+  This means they should focus on skills and knowledge that are directly applicable to designing, evaluating, and managing software architecture.
   Relevance also includes ensuring that the goals are aligned with current industry standards, technologies, and practices to prepare learners for real-world challenges.
 
-Authoritative:: 
-  Learning goals should be <<handling-references, based on established content>> industry best practices, and proven research. 
+Authoritative::
+  Learning goals should be <<handling-references, based on established content>> industry best practices, and proven research.
   This ensures that the curriculum is aligned with recognized standards and that students are learning concepts that are widely accepted and validated in the field of software architecture.
   Where possible and adequate, authorative sources shall be referenced.
 
 Measurable::
-  Goals must be measurable so that both the learner and the educator can assess progress. 
+  Goals must be measurable so that both the learner and the educator can assess progress.
 This involves defining criteria for success, which can be quantified or qualified. For instance, a learning goal might include being able to design a complete software architecture that meets defined performance metrics or adhering to specific architectural principles.
 
 Achievable::
-  While learning goals should be challenging, they must also be attainable within the scope of the course or program. 
-This requires considering the learners' current skill levels and the resources available to support their learning. 
+  While learning goals should be challenging, they must also be attainable within the scope of the course or program.
+This requires considering the learners' current skill levels and the resources available to support their learning.
 Goals that are too ambitious may discourage learners, while those that are too easy may not lead to significant learning or skill development.
 
 
 === Important Terms Defined in Glossary
 
-All _important terms_ from the curriculum shall be defined in the (freely available) glossary. 
+All _important terms_ from the curriculum shall be defined in the (freely available) glossary.
 
 Where useful, the curriculum shall contain hyperlinks from these terms to the online version of this glossary.
 
@@ -100,35 +98,18 @@ Where useful, the curriculum shall contain hyperlinks from these terms to the on
 Maintenance of this content shall be open and transparent, done on a public platform (like GitHub):
 
 Open::
-  We encourage contributions from a broad community. 
+  We encourage contributions from a broad community.
   This can include reporting issues or change-requests, submitting changes, or suggesting new content.
 
 Transparent::
-   The processes, decisions, and discussions surrounding the development of this curriculum are open for public viewing. 
-   These transparen practices ensure that contributors and maintainers are accountable for their actions. 
+   The processes, decisions, and discussions surrounding the development of this curriculum are open for public viewing.
+   These transparen practices ensure that contributors and maintainers are accountable for their actions.
    Readers, consumers and contributors can see who made specific changes, when they were made, and why.
 
 Together, openness and transparency shall ensure that the development of this curriculum is inclusive, collaborative, and accountable.
-That shall lead to a trust and acceptance of the whole content. 
+That shall lead to a trust and acceptance of the whole content.
 
 == Organizational
-
-=== Status
-
-image:https://img.shields.io/github/commit-activity/t/isaqb-org/curriculum-foundation[GitHub commit activity]
-image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-foundation/main.svg["Last commit"]
-
-image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2023.1-rev0[GitHub commits since tagged version]
-image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-foundation/2021.1-rev0[GitHub commits since tagged version]
-
-
-
-image:https://img.shields.io/github/contributors/isaqb-org/curriculum-foundation.svg["Contributors",link="https://github.com/isaqb-org/curriculum-foundation/graphs/contributors"]
-
-image:https://img.shields.io/github/issues/isaqb-org/curriculum-foundation.svg["Issues",link="https://github.com/isaqb-org/curriculum-foundation/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-foundation.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-foundation/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
-
-
 === Official Languages
 
 This curriculum is maintained in both English and German.
@@ -137,23 +118,20 @@ Additional translations are available, which are usually done by professional tr
 Most of these translations are organized and managed by the iSAQB GmbH.
 
 Results of these translations are stored under `/docs-ext` in this repository.
-`
+
 === Repository Organization
 
 
-This section  provides an overview of the repository structure, detailing the contents and purpose of each directory and file.
+This section provides an overview of the repository structure, detailing the contents and purpose of each directory and file.
 
-==== Root 
+==== Root
 
-* `build.gradle`: The build configuration file for Gradle projects.
+* `build.config`
 * `CHANGELOG.md`: Changelog for the most current version of the curriculum (currently: V.2025). Older changelogs under `documentation/changelogs`
-* `document.validity`: Contains the date from which the current version of the curriculum is valid. Accredited trainings have to comply to this version from the date given here.
-* `gradle.properties`: JVM args for the gradle build. Do NOT change, unless you are sure what you are doing.
-* `LICENSE`: The licensing information for the project.
 * `README.adoc`: This main documentation file, providing an introduction and overview of the project.
 
 ==== `/build`
-Contains the files generated by the (gradle) build process. 
+Contains the files generated by the build process.
 
 ==== `/docs`
 This folder contains the learning goals and everything else needed to <<build,build>> (_generate_) the final curriculum.
@@ -165,39 +143,18 @@ Please be advised that intensive quality assurance by the FLWG and other reviewe
 
 ==== `/documentation`
 
-* `/changelogs`: (old) changelogs. 
-The most current changelog is `CHANGELOG.md` under `/` 
+* `/changelogs`: (old) changelogs.
+The most current changelog is `CHANGELOG.md` under `/`
 * /decisions: contains our decision-log (started only September-2024, so not complete)
 * `/release-process`: the documentation of our release process, plus a graphical version.
 
 
-==== `/html-theme`
-
-A git submodule, containing theme the style/layout definitions for rendering the curriculum in html format.
-
 ==== `license-copyright`
+A git submodule, containing the _official_ copyright and license definitions.
 
-A git submodule, containing the _official_ copyright and license definitions. 
-
-==== `/pdf-theme`
-
-A git submodule, containing theme the style/layout definitions for rendering the curriculum in pdf format.
-
-==== `/gradle-tools`
-Another git submodule, containing the build tools and scripts required to build the curriculum.
 
 ==== `/release-docs`
-
 Summaries of changes of previous releases.
-
-
-==== `/scripts`
-
-Contains a small `Groovy` application to collect all learning goals (LGs) and prepare an asciidoc table of these LGs.
-
-==== `/src` 
-
-contains a `Main.java` to build the curriculum pdf and html from the asciidoc sources.
 
 
 === The Foundation-Level Working Group (FLWG)
@@ -206,8 +163,7 @@ image::documentation/FLWG-logo.png[]
 
 The FLWG (Foundation Level Working Group) consists of volunteer members of iSAQB who take up the responsibility of maintaining the curriculum plus the corresponding examination (including questions, question-formats and examination rules).
 
-
-Currently the FLWG consists of >10 <<maintainers,maintainers>> from industry and academia, with a background from many kinds of software systems.
+Currently, the FLWG consists of >10 <<maintainers,maintainers>> from industry and academia, with a background from many kinds of software systems.
 
 
 === Version History
@@ -234,7 +190,7 @@ Version-Identifier::
     In preparation for releases (see below), release-candidates are produced and labelled with RC1, RC2 etc.
 
 Revision::
-  In case of typos or other minor grammatical changes, we will release revisions (aka patches) without increasing the minor version. 
+  In case of typos or other minor grammatical changes, we will release revisions (aka patches) without increasing the minor version.
   They will be tagged as revisions (e.g. `2023.1-rev3`) on GitHub and receive a new timestamp, resulting in a version in a document that looks like this: `2023.1-rev3-EN-20230928` (revision update on Sep 28, 2023).
 We strive to keep learning content and structure stable across such updates, meaning that no training provider needs to adjust training material in case of revision updates.
 
@@ -244,19 +200,19 @@ Update::
     Those updates may affect multiple language versions and will reset the revision number to 0.
 
 Release::
-    Every two years the FLWG releases a new version of the curriculum. 
+    Every two years the FLWG releases a new version of the curriculum.
     Releases usually contain major changes to the content of the curriculum.
     For example, learning goals might be re-formulated, deleted or new content might be added.
-    
+
 >### How to create a new release/version
 >
 > You find a link:https://github.com/isaqb-org/github-readme?tab=readme-ov-file#how-to-create-a-new-release-of-a-curriculum[detailed explanation here]
 
 
-[IMPORTANT] 
+[IMPORTANT]
 .Releases impact training material
-==== 
-_Releases_ will impact structure and content of training material. 
+====
+_Releases_ will impact structure and content of training material.
 Therefore, training providers, translation agencies and the examination commission will be notified about these releases, so they can adjust their trainings, translations or the exam questions, respectively.
 ====
 
@@ -313,12 +269,12 @@ Usage of new version is mandatory in all trainings given in any language.
 All languages (e.g. DE and EN) will be released at the same time.
 
 === Contributing
-You found a bug in one of the published versions, have remarks, comments or proposals? 
+You found a bug in one of the published versions, have remarks, comments or proposals?
 Ideas for improvement?
 
 We use Github issues to collect and discuss such proposals.
 
-1. Please search the existing (open and closed) issues, before creating a new one. 
+1. Please search the existing (open and closed) issues, before creating a new one.
 Maybe your topic has already been discussed.
 2. If you don't find anything: Open an issue here.
 A member of the working-group will contact you!
@@ -327,10 +283,9 @@ A member of the working-group will contact you!
 [[maintainers]]
 === Maintainers
 
-
 image::documentation/FLWG-logo.png[width=200,float="left"]
 The iSAQB members association regularly elects the *Foundation Level Working Group* (FLWG).
-The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions. 
+The FLWG is responsible for maintaining the CPSA-F Curriculum and corresponding examination questions.
 Major version updates are reviewed and discussed with the board and the members association prior to publication.
 
 The current (2024/2025) FLWG members are:
@@ -360,14 +315,14 @@ Wolfgang Fahl, Philip Ghadir, Prof. Dieter Jungmann, Prof. Arne Koschel, Prof. A
 [[copyrighted]]
 === Licensing and Copyright
 
-[IMPORTANT] 
+[IMPORTANT]
 .Copyrighted work
-==== 
+====
 **We would like to emphasise, as a matter of principle, that this curriculum is protected by copyright.**
 ====
 The International Software Architecture Qualification Board e. V. (iSAQB^(R)^ e. V.) has exclusive entitlement to these copyrights.
 
-See link:license-copyright/LICENSE.adoc[the license] and link:license-copyricht/copyright.adoc[copyright] for details.
+See link:license-copyright/LICENSE.adoc[the license] and link:license-copyright/copyright.adoc[copyright] for details.
 
 
 
@@ -376,44 +331,61 @@ See link:license-copyright/LICENSE.adoc[the license] and link:license-copyricht/
 [[build]]
 === How to Build (aka: Generate) the Documents
 
+Prerequisite: https://docs.docker.com/get-docker/[Docker]. Nothing else — no JDK, no Ruby.
 
-Prerequisite: You need an up-to-date Java Runtime(tm) installed. Ubuntu's default Java 11 is not sufficient, Java 21 works.
+Clone the repository (with submodules, for the license text):
 
-You build the output documents with https://gradle.org[gradle]. 
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration. 
-Make sure to use the Gradle Wrapper in this repository to prevent potential build errors.
-
-
-`./gradle-tools/gradlew buildDocs`
-
-In case you want to change the configuration, adjust the following part of `build.gradle`:
-
-[source,groovy]
-----
-ext {
-    curriculumFileName = "curriculum-foundation"
-    validity = project.file("./document.validity").text.trim()
-    languages = ["DE", "EN"]
-}
-----
-
-Please note: You need to include the submodules "pdf-theme", "html-theme", "license-copyright", and "gradle-tools" in your checkout, otherwise the build will fail. You can do that with the following commands:
-
-. Clone the repository - including the submodule:
-+
---
 [source,shell]
 ----
-Via SSH:
-git clone git@github.com:isaqb-org/curriculum-foundation.git --recursive
-
-Via HTTPS:
-git clone https://github.com/isaqb-org/curriculum-foundation.git --recursive
+git clone git@github.com:isaqb-org/REPO-NAME.git --recursive
 ----
---
-. Initialize and update submodules with `git submodule init` and `git submodule update --recursive --remote`. Do this also after you pulled changes that added a new submodule.
-. Cleanup leftover files (make sure to commit your changes first!): `git clean -xdf` -- *Attention:* This will also delete your local IDE settings (VScode, IntelliJ, etc.)
-. Cleanup your local repository from time to time: `git gc --aggressive`
+
+If you already cloned without `--recursive`, run `git submodule update --init --recursive`.
+
+Build all languages and formats:
+
+[source,shell]
+----
+./curriculum-build.sh        # Linux / macOS
+curriculum-build.bat         # Windows
+----
+
+Build a single output — pass the format and language (and optionally a variant):
+
+[source,shell]
+----
+./curriculum-build.sh pdf DE          # Linux / macOS
+./curriculum-build.sh html EN
+./curriculum-build.sh pdf DE REMARKS
+----
+
+[source,bat]
+----
+curriculum-build.bat pdf DE           rem Windows
+curriculum-build.bat html EN
+curriculum-build.bat pdf DE REMARKS
+----
+
+Output is written to `build/`, named `<CURRICULUM_FILE>-<lang>.pdf` / `.html`, together
+with an `index.html` overview page. The launcher pulls the builder image on first run and
+reuses it afterward.
+
+==== Build configuration
+
+`build.config` in the repository root holds the per-curriculum settings:
+
+[cols="1,3a",options="header"]
+|===
+|Key |Meaning
+
+|`CURRICULUM_FILE` |AsciiDoc root in `docs/` (without `.adoc`); also the output file name.
+|`LANGUAGES`       |Space-separated languages to build. Default `DE EN`; drop one for a single-language curriculum.
+|`SUFFIX_TAGS`     |Space-separated extra build variants, exposed as the `{suffix}` attribute. Empty = single build.
+|`PREPRESS`        |PDF print/book layout (recto chapter starts + binding margins). `true` / `false`.
+|===
+
+Any key can be overridden for a single run via an environment variable, e.g.
+`LANGUAGES="DE" ./curriculum-build.sh`.
 
 === How to Create an Official Version (by tagging in Git)
 
@@ -476,7 +448,7 @@ We follow IEEE style for bibliograpy entries:
 * Online Resources: [key] Organization, "Title of webpage." [Online]. Available: https://url.com
 * Journal/Conference Papers: [key] A. Author and B. Author, "Title of paper," _Name of Journal,_ vol. x, no. x, pp. xxx-xxx, Month Year.
 
-See decision 015 and the [IEEE style guide reference](http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) for furher details. 
+See decision 015 and the [IEEE style guide reference](http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf) for furher details.
 
 [[handling-references]]
 === Based on Established Content And References
@@ -485,11 +457,11 @@ We strive to base all content on established content by providing references to 
 In practice, this means that we reference the original source of a learning goal, if it is based on a book, a paper, a standard or similar.
 We use a distinct section for every learning goal:
 
- 
+
 ```
 ===== {references}
 <<starkelorz>>
-``` 
+```
 
 Example (abbreviated)
 ----
