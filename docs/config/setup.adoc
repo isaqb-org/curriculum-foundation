@@ -1,8 +1,8 @@
 :doctype: book
 :icons: font
 :sectnumlevels: 1
+:imagesdir: images
 :!chapter-signifier:
-:imagesdir: ./images
 :figure-caption!:
 
 
@@ -10,6 +10,10 @@
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
+
+// ":include_configuration:" always consists of the language, optionally
+// additional markers might be configured here!
+:include_configuration: tags=**;{language};!*
 
 ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB Curriculum für Foundation Level
@@ -27,6 +31,3 @@ ifeval::["{language}" == "EN"]
 :glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
 endif::[]
 
-// ":include_configuration:" always consists of the language,
-// additional markers might be configured here!
-:include_configuration: tags=!*;{language}
