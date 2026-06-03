@@ -2,9 +2,9 @@
 // tag::DE[]
 === Aktuelle Version sowie öffentliches Repository
 
-Den aktuellen Stand dieses Dokumentes finden Sie auf der offiziellen https://public.isaqb.org/curriculum-foundation/[Download-Seite] unter https://isaqb-org.github.io/.
+Den aktuellen Stand dieses Dokumentes finden Sie auf der offiziellen https://public.isaqb.org/curriculum-foundation/[Download-Seite] unter https://public.isaqb.org/.
 
-Das Dokument wird in einem https://github.com/isaqb-org/curriculum-foundation[öffentlichen Repository] unter https://github.com/isaqb-org/curriculum-foundation gepflegt, alle Änderungen sind dort sichtbar. 
+Das Dokument wird in einem https://github.com/isaqb-org/curriculum-foundation[öffentlichen Repository] unter https://github.com/isaqb-org/curriculum-foundation gepflegt, alle Änderungen sind dort sichtbar.
 
 Bitte melden Sie eventuelle Probleme in unserem https://github.com/isaqb-org/curriculum-foundation/issues[öffentlichen Issue Tracker] bei https://github.com/isaqb-org/curriculum-foundation/issues.
 
@@ -14,9 +14,9 @@ Bitte melden Sie eventuelle Probleme in unserem https://github.com/isaqb-org/cur
 // tag::EN[]
 === Current Version and Public Repository
 
-You find the most current version of this document on the official https://public.isaqb.org/curriculum-foundation/[download page] on https://isaqb-org.github.io/.
+You find the most current version of this document on the official https://public.isaqb.org/curriculum-foundation/[download page] on https://public.isaqb.org/.
 
-The document is maintained in a https://github.com/isaqb-org/curriculum-foundation[public repository] at https://github.com/isaqb-org/curriculum-foundation, all changes and modifications are public. 
+The document is maintained in a https://github.com/isaqb-org/curriculum-foundation[public repository] at https://github.com/isaqb-org/curriculum-foundation, all changes and modifications are public.
 
 Please report any issues in our https://github.com/isaqb-org/curriculum-foundation/issues[public issue tracker] on https://github.com/isaqb-org/curriculum-foundation/issues.
 
