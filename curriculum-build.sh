@@ -5,8 +5,8 @@
 #   ./curriculum-build.sh pdf DE REMARKS
 set -eu
 
-IMAGE="ghcr.io/isaqb-org/curriculum-builder:2026.2-rev2"
-DIGEST="sha256:ae5c4ca1f428824365011ce701a20af8345adb9e85c6bc3b631909ac7dbcd894"
+IMAGE="ghcr.io/isaqb-org/curriculum-builder:2026.2-rev4"
+DIGEST="sha256:0367c56f3b25666594d560c48a4221e42f243aabfb6c32a8f1ae5bff6c6a4b85"
 
 REPO_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 
