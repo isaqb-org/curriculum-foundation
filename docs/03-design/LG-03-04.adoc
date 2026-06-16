@@ -25,7 +25,7 @@ Softwarearchitekt:innen sind in der Lage:
 **Modularisierung** (R1)
 
 * Geheimnisprinzip ({glossary_url}information-hiding[Information Hiding]) und {glossary_url}encapsulation[Kapselung]
-* Trennung von Verantwortlichkeiten ({glossary_url}separation-of-concern[Separation of Concerns] - SoC)
+* Trennung von Belangen ({glossary_url}separation-of-concern[Separation of Concerns] - SoC)
 * Lose, aber funktionell ausreichende Kopplung von Bausteinen, siehe <<LG-03-06>>
 * Hohe {glossary_url}cohesion[Kohäsion]
 * {glossary_url}open-close-principle[Offen/geschlossen-Prinzip]
