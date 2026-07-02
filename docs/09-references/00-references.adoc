@@ -50,7 +50,6 @@
 - [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
 
 // H
-- [[[hofmeister,Hofmeister+1999]]] Christine Hofmeister, Robert Nord, Dilip Soni: _Applied Software Architecture_, Addison-Wesley, 1999
 - [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 - [[[humble,Humble+2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
