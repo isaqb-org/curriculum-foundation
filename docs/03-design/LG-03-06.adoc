@@ -10,7 +10,7 @@ Sie:
 * verstehen, wie Abhängigkeiten die Kopplung vergrößern
 * können mindestens die folgenden Arten von Kopplung unterscheiden:
 ** statische und dynamische Kopplung 
-** efferente und afferente Kopplung 
+** eingehende und ausgehende Abhängigkeiten
 * wissen, dass auf statische Kopplung zu verzichten und stattdessen dynamische Kopplung einzusetzen, die zugrundeliegende Kopplung nicht notwendigerweise reduziert
 * können Kopplung erkennen und ihre Auswirkungen bewerten
 * können begründete Entscheidungen treffen, ob eine Abhängigkeit in Anbetracht der Anforderungen und Randbedingungen angemessen ist oder entfernt werden sollte
@@ -20,7 +20,7 @@ Sie:
 ** Grundlegende Entwurfsprinzipien
 // (siehe <<LZ-2-6, LZ 2-6>>)
 ** Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von
-{glossary_url}dependency-injection[Dependency Injection] (R3) (siehe auch <<LG-03-08>>).
+{glossary_url}dependency-injection[Dependency Injection] (R1) (siehe auch <<LG-03-08>>).
 
 
 // end::DE[]
@@ -35,7 +35,7 @@ Software architects understand dependencies and coupling between building blocks
 * understand how dependencies increase coupling
 * can differentiate between at least the following categories of coupling:
 ** static and dynamic coupling 
-** efferent and afferent coupling 
+** incoming and outgoing dependencies
 * know that forgoing static dependencies in favor of dynamic dependencies does not necessarily reduce the underlying coupling
 * can identify coupling and assess its consequences
 * can make justified decisions whether a dependency is appropriate or should be removed in view of the requirements and constraints
@@ -45,7 +45,7 @@ Software architects understand dependencies and coupling between building blocks
 ** fundamental design principles
 // (refer to <<LG-2-6, LG 2-6>>)
 ** externalization of dependencies, i.e. defining concrete dependencies at installation- or runtime, for example by using
-{glossary_url}dependency-injection[Dependency Injection] (R3) (see also <<LG-03-08>>).
+{glossary_url}dependency-injection[Dependency Injection] (R1) (see also <<LG-03-08>>).
 
 // end::EN[]
 
