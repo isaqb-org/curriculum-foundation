@@ -27,6 +27,8 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 |===
 
+Die Summe der empfohlenen Zeiten (1080 Minuten bzw. 18 Stunden) entspricht bereits der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten) — ein Realitätscheck: Pausen, Diskussionen, Wiederholungen und Pufferzeiten sind darin nicht enthalten und müssen von Schulungsanbietern zusätzlich eingeplant werden.
+
 // end::DE[]
 
 // tag::EN[]
@@ -58,5 +60,8 @@ The types (domains and technologies) of examples and exercises can be determined
 | Total | 1080
 
 |===
+
+The sum of recommended durations (1080 minutes, or 18 hours) already equals the net teaching time of a three-day course (3 days of 4 × 90-minute sessions) — a reality check: breaks, discussion, recap, and buffer time are not included and must be planned for separately by training providers.
+
 // end::EN[]
 
