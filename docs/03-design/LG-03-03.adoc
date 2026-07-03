@@ -9,7 +9,6 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 * Sichtenbasierte Architekturentwicklung, siehe <<rozanskiwoods>>, <<kruchten95>> (R1)
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
-* Globale Analyse, siehe <<hofmeister>> (R3) 
 
 // end::DE[]
 
@@ -22,7 +21,6 @@ Software architects are able to name, explain, and use fundamental approaches of
 * view-based architecture development, see <<rozanskiwoods>>, <<kruchten95>> (R1)
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
-* global analysis, see <<hofmeister>> (R3) 
 
 
 // end::EN[]
