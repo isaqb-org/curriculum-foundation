@@ -121,8 +121,8 @@
   },
   {
     "learning_goal_number": "LZ 03-09",
-    "title": "Wichtige Entwurfsmuster beschreiben, erklären und angemessen anwenden",
-    "short_title": "Entwurfsmuster",
+    "title": "Architektur analysieren",
+    "short_title": "Architekturanalyse",
     "relevance": ["R3"]
   },
   {
@@ -202,18 +202,6 @@
     "title": "Gründe für Architekturanalyse kennen",
     "short_title": "Gründe für Architekturanalyse",
     "relevance": ["R1"]
-  },
-  {
-    "learning_goal_number": "LZ 05-02",
-    "title": "Qualitäten eines Softwaresystems analysieren",
-    "short_title": "Qualitäten analysieren",
-    "relevance": ["R1", "R3"]
-  },
-  {
-    "learning_goal_number": "LZ 05-03",
-    "title": "Konformität mit Architekturentscheidungen bewerten",
-    "short_title": "Konformität bewerten",
-    "relevance": ["R2"]
   },
   {
     "learning_goal_number": "LZ 06-01",

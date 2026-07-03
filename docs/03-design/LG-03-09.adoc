@@ -1,19 +1,28 @@
 
 // tag::DE[]
 [[LG-03-09]]
-==== LZ 03-09
+==== LZ 03-09: Architektur analysieren (R1)
 
-Dieses Lernziel ist vorübergehend vakant.
+Softwarearchitekt:innen verstehen, dass eine Architekturanalyse helfen kann:
+
+* Risiken und mögliche Verbesserungen im Architekturentwurf zu identifizieren
+* festzustellen, ob der Architekturentwurf die Anforderungen erfüllt oder erfüllen wird
+* zu erheben, inwiefern die Implementierung zu Architekturentscheidungen und Architekturentwurf passt
+* zu überprüfen, inwiefern architekturrelevante Anliegen der Stakeholder berücksichtigt sind
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-03-09]]
 
-==== LG 03-09
+==== LG 03-09: Architektur analysieren (R1)
 
-This Learning Goal is temporarily vacant. 
+Software architects understand that an architecture analysis can help to:
 
+* identify risks and possible improvements in the architecture design
+* determine if the architecture design fulfills, or will fulfill, the requirements
+* assess conformance of the implementation to the architecture decisions and design
+* verify that architecturally relevant stakeholder concerns are addressed
 
 // end::EN[]
 

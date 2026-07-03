@@ -49,9 +49,6 @@ include::03-design/00-design.adoc[]
 include::04-documentation/00-documentation.adoc[]
 
 <<<
-include::05-evaluation/00-evaluation.adoc[]
-
-<<<
 include::06-examples/00-examples.adoc[]
 
 <<<
