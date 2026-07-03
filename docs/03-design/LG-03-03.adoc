@@ -3,10 +3,10 @@
 [[LG-03-03]]
 ==== LZ 03-03: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)
 
-Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentwicklung benennen, erklären und anwenden, beispielsweise:
+Softwarearchitekt:innen können Vorgehensweisen, die Architekturentwicklung unterstützen, benennen erklären und anwenden, beispielsweise:
 
-* Top-down- und Bottom-up-Vorgehen beim Entwurf, siehe <<gharbietal>>, <<starke>> (R1)
-* Sichtenbasierte Architekturentwicklung, siehe <<rozanskiwoods>>, <<kruchten95>> (R1)
+* Top-down- und Bottom-up-Vorgehen, siehe <<gharbietal>>, <<starke>> (R1)
+* Architektursichten (R1)
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
 
@@ -15,12 +15,11 @@ Softwarearchitekt:innen können grundlegende Vorgehensweisen der Architekturentw
 // tag::EN[]
 [[LG-03-03]]
 ==== LG 03-03: Select and Use Approaches and Heuristics for Architecture Development (R1,R3)
-Software architects are able to name, explain, and use fundamental approaches of architecture development, for example:
+Software architects are able to name, explain, and use approaches that support architecture development, for example:
 
-* top-down and bottom-up approaches to design, see <<gharbietal>>, <<starke>> (R1)
-* view-based architecture development, see <<rozanskiwoods>>, <<kruchten95>> (R1)
+* top-down and bottom-up approaches, see <<gharbietal>>, <<starke>> (R1)
+* architectural views (R1)
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
-
 
 // end::EN[]
