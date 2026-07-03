@@ -5,7 +5,7 @@
 | Dauer: 90 Min. | Übungszeit: Keine
 |===
 
-Dieser Abschnitt ist nicht prüfungsrelevant.
+Dieser Abschnitt MUSS in der Schulung behandelt werden (z. B. anhand eines konkreten Beispiels), ist jedoch nicht prüfungsrelevant.
 
 
 // end::DE[]
@@ -16,6 +16,6 @@ Dieser Abschnitt ist nicht prüfungsrelevant.
 | Duration: 90 min. | Exercises: none
 |===
 
-This section is not relevant for the exam.
+This section MUST be covered in training (e.g., using a concrete, worked example), although it is not relevant for the exam.
 
 // end::EN[]
