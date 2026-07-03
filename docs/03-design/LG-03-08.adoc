@@ -8,6 +8,7 @@ Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele daf
 * {glossary_url}layer[Schichten (Layers)]
 * {glossary_url}pipes-and-filters[Pipes und Filter]
 * {glossary_url}microservices[Microservices]
+* {glossary_url}dependency-injection[Dependency Injection] (siehe auch <<LG-03-06>>)
 
 Softwarearchitekt:innen können einige der folgenden Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):
 
@@ -24,7 +25,6 @@ Softwarearchitekt:innen können einige der folgenden Muster erklären, ihre Rele
 * {glossary_url}broker[Broker]
 * {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
 * {glossary_url}event-sourcing[Event sourcing]
-* {glossary_url}dependency-injection[Dependency Injection] (siehe auch <<LG-03-06>>)
 * Integrations und Messaging-Patterns (z.B. aus <<hohpe>>)
 * {glossary_url}remote-procedure-call[Remote procedure call]
 * {glossary_url}model-view-controller[MVC] (Model View Controller),
@@ -55,6 +55,7 @@ Software architects can explain and provide examples for the following patterns 
 * {glossary_url}layer[Layers]
 * {glossary_url}pipes-and-filters[Pipes and Filters]
 * {glossary_url}microservice[Microservices]
+* {glossary_url}dependency-injection[Dependency Injection] (see also <<LG-03-06>>)
 
 Software architects can explain several of the following patterns,
 explain their relevance for concrete systems, and provide examples. (R3)
@@ -72,7 +73,6 @@ explain their relevance for concrete systems, and provide examples. (R3)
 * {glossary_url}broker[Broker]
 * {glossary_url}cqrs[CQRS (Command-Query-Responsibility-Segregation)]
 * {glossary_url}event-sourcing[Event sourcing]
-* {glossary_url}dependency-injection[Dependency Injection] (see also <<LG-03-06>>)
 * Integration and messaging patterns (e.g. from <<hohpe>>)
 * {glossary_url}remote-procedure-call[Remote procedure call]
 * {glossary_url}model-view-controller[MVC] (Model View Controller),
