@@ -37,10 +37,10 @@ Softwarearchitekt:innen sind in der Lage:
 * als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (_principle of least surprise_ oder _principle of least astonishment_ (POLA)) (R3)
 * Liskov’sches Substitutionsprinzip als eine Möglichkeit, Konsistenz, konzeptionelle Integrität und Robustheit (im Sinne von Typsicherheit) zu erreichen (R3).
 
-**Reduktion von Komplexität** (R3)
+**Reduktion von Komplexität** (R2-R3)
 
-* als Motiv der Prinzipien KISS, YAGNI und CUPID <<north-cupid>>
-* DRY (Don't Repeat Yourself) als eine Möglichkeit, Wiederholungen zu vermeiden 
+* als Motiv der Prinzipien KISS, YAGNI und CUPID <<north-cupid>> (R3)
+* DRY (Don't Repeat Yourself) als eine Möglichkeit, Wiederholungen zu vermeiden  (R2)
 
 **Erwarte Fehler** (R2-R3)
 
@@ -95,10 +95,10 @@ Software architects are able to:
 * as a means to achieve the principle of least surprise (aka  _principle of least astonishment_, POLA) (R3)
 * Liskov's substitution principle as a way to achieve consistency, conceptual integrity and robustness (in the sense of type safety) (R3).
 
-**Complexity reduction** (R3)
+**Complexity reduction** (R2-R3)
 
-* as the driving factor behind KISS, YAGNI, and CUPID <<north-cupid>>
-* DRY (Don't Repeat Yourself) as one option to avoid repetitions
+* as the driving factor behind KISS, YAGNI, and CUPID <<north-cupid>> (R3)
+* DRY (Don't Repeat Yourself) as one option to avoid repetitions (R2)
 
 **Expect errors** (R2-R3)
 
