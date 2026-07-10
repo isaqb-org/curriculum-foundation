@@ -9,6 +9,7 @@ Softwarearchitekt:innen können Vorgehensweisen, die Architekturentwicklung unte
 * Architektursichten (R1)
 * Domain-Driven Design, siehe <<evans>> (R3)
 * Evolutionäre Architektur, siehe <<ford>> (R3)
+* Quality-Driven Software Architecture, siehe <<starke>>, <<bass>> (R3)
 
 // end::DE[]
 
@@ -21,5 +22,6 @@ Software architects are able to name, explain, and use approaches that support a
 * architectural views (R1)
 * domain-driven design, see <<evans>> (R3)
 * evolutionary architecture, see <<ford>> (R3)
+* quality-driven architecture, see <<starke>>, <<bass>> (R3)
 
 // end::EN[]
