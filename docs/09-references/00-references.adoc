@@ -62,6 +62,9 @@
 - [[[iso25019, ISO 25019]]] ISO/IEC 25019:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en>
 - [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
 
+// I
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA). iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
+
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
 - [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
