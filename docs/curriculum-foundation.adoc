@@ -3,17 +3,13 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Curriculum fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+= Curriculum für Certified Professional for Software Architecture (CPSA)^(R)^{title-break}**Foundation Level**
 :toc-title: Inhaltsverzeichnis
 endif::[]
 ifeval::["{language}" == "EN"]
-= Curriculum forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br><br>]: *Foundation Level*
+= Curriculum for Certified Professional for Software Architecture (CPSA)^(R)^{title-break}**Foundation Level**
 endif::[]
-
-
 // define terms for toc, learning_goals
-// will have strange results if multiple languages
-// have been configured (e.g. "DE;EN")
 include::config/i18n-definitions.adoc[tags={language}]
 
 <<<
@@ -23,7 +19,6 @@ include::config/i18n-definitions.adoc[tags={language}]
 include::../license-copyright/copyright.adoc[{include_configuration}]
 
 <<<
-// put table of contents right behind copyright page
 toc::[]
 
 <<<
