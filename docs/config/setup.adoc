@@ -22,7 +22,7 @@ ifeval::["{language}" == "DE"]
 :curriculum-header-title: iSAQB Curriculum für Foundation Level
 
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
-// on github (https://public.isaqb.org/glossary)
+// on GitHub (https://public.isaqb.org/glossary)
 :glossary_url: https://public.isaqb.org/glossary/glossary-de.html#term-
 endif::[]
 
@@ -30,7 +30,17 @@ ifeval::["{language}" == "EN"]
 :curriculum-header-title: iSAQB Curriculum for Foundation Level
 
 // iSAQB maintains and publishes a "Glossary of Software Architecture Terminology"
-// on github (https://public.isaqb.org/glossary)
+// on GitHub (https://public.isaqb.org/glossary)
 :glossary_url: https://public.isaqb.org/glossary/glossary-en.html#term-
 endif::[]
 
+// title definitions for proper formatting in PDF and HTML – DO NOT TOUCH
+ifdef::backend-pdf[]
+:title-break: :{sp}
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
+:title-break: pass:q[<br>]
+:toc: left
+endif::[]
