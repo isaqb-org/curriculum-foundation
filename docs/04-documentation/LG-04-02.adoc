@@ -11,13 +11,7 @@ Softwarearchitekt:innen können (R1):
 * den Nutzen von Template-basierter Dokumentation erklären
 * beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
-Sie können beispielsweise die folgenden Merkmale von Dokumentation situationsspezifisch anpassen (R3):
-
-* Umfang und Detaillierungsgrad der benötigten Dokumentation
-* das Dokumentationsformat
-* die Zugänglichkeit der Dokumentation
-* Formalitäten der Dokumentation (z.{nbsp}B. Diagramme, die einem Metamodell entsprechen, oder einfache Zeichnungen)
-* formale Überprüfungen und Freigabeprozesse für die Dokumentation
+Beispielsweise können Softwarearchitekt:innen die Dokumentation situationsbezogen in Umfang, Detaillierungsgrad, Format sowie Zugänglichkeit (_accessibility_) anpassen.
 
 
 // end::DE[]
@@ -35,13 +29,7 @@ Software architects are able to (R1):
 * explain the benefits of template-based documentation
 * describe how various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.
 
-For example, software architects can adjust the following documentation characteristics according to the situation (R3):
 
-* the amount and level of detail of documentation needed
-* the documentation format
-* the accessibility of the documentation
-* formality of documentation (e.g. diagrams compliant to a meta model or simple drawings)
-* formal reviews and sign-off processes for documentation
-
+For example, software architects can adapt the scope, detail, format, and accessibility of documentation to the situation.
 
 // end::EN[]
