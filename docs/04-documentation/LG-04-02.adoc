@@ -4,14 +4,10 @@
 
 Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt _Wartung_ oder _Evolution_) von Systemen. (R2)
 
-Softwarearchitekt:innen (R1):
-
-* können Architekturen entsprechend der Anliegen der Stakeholder dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z.{nbsp}B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
-* können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
-* sorgen für Konsistenz zwischen mündlicher und schriftlicher Kommunikation und wägen beide angemessen gegeneinander ab
-
 Softwarearchitekt:innen können (R1):
 
+* Architekturen entsprechend der Anliegen der Stakeholder dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z.{nbsp}B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder
+* Maßnahmen entwickeln und umsetzen, die mündliche und schriftliche Kommunikation in Einklang miteinander halten und miteinander angemessen ausbalancieren
 * den Nutzen von Template-basierter Dokumentation erklären
 * beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
@@ -35,11 +31,7 @@ Software architects use documentation to support the design, implementation and 
 Software architects are able to (R1):
 
 * document and communicate architectures for corresponding stakeholder concerns, thereby addressing different target groups, e.g. management, development teams, QA, other software architects, and possibly additional stakeholders
-* consolidate and harmonise the style and content of contributions from different groups of authors
-* support consistency of written and verbal communication, and balance one against the other appropriately
-
-Software architects can (R1):
-
+* develop and implement measures that keep verbal and written communication aligned with one another and appropriately balanced
 * explain the benefits of template-based documentation
 * describe how various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.
 
