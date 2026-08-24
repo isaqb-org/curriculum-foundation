@@ -10,12 +10,12 @@ Softwarearchitekt:innen (R1):
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
 * sorgen für Konsistenz zwischen mündlicher und schriftlicher Kommunikation und wägen beide angemessen gegeneinander ab
 
-Softwarearchitekt:innen wissen (R1):
+Softwarearchitekt:innen können (R1):
 
-* den Nutzen von Template-basierter Dokumentation
-* dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
+* den Nutzen von Template-basierter Dokumentation erklären
+* beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
-Sie können beispielsweise die folgenden Merkmale von Dokumentation je nach Situation anpassen (R3):
+Sie können beispielsweise die folgenden Merkmale von Dokumentation situationsspezifisch anpassen (R3):
 
 * Umfang und Detaillierungsgrad der benötigten Dokumentation
 * das Dokumentationsformat
@@ -38,10 +38,10 @@ Software architects are able to (R1):
 * consolidate and harmonise the style and content of contributions from different groups of authors
 * support consistency of written and verbal communication, and balance one against the other appropriately
 
-Software architects know (R1):
+Software architects can (R1):
 
-* the benefits of template-based documentation
-* that various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.
+* explain the benefits of template-based documentation
+* describe how various properties of documentation depend on specific properties of the system, its requirements, risks, development process, organization or other factors.
 
 For example, software architects can adjust the following documentation characteristics according to the situation (R3):
 
