@@ -5,7 +5,7 @@
 | Dauer: 90 Min. | Übungszeit: Keine
 |===
 
-Dieser Abschnitt MUSS in der Schulung behandelt werden (z. B. anhand eines konkreten Beispiels), ist jedoch nicht prüfungsrelevant.
+Dieser Abschnitt MUSS in der Schulung behandelt werden (z. B. anhand eines konkreten praktischen Beispiels), ist jedoch nicht prüfungsrelevant.
 
 
 // end::DE[]
