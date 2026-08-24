@@ -62,7 +62,7 @@ The types (domains and technologies) of examples and exercises can be determined
 
 |===
 
-The sum of recommended durations (1080 minutes, or 18 hours) already equals the net teaching time of a three-day course (3 days of 4 × 90-minute sessions) — a reality check: breaks, discussion, recap, and buffer time are not included and must be planned for separately by training providers.
+The sum of recommended durations (1080 minutes, or 18 hours) already equals the net teaching time of a three-day course (3 days of 4 × 90-minute sessions). Breaks, discussions beyond the scope of the curriculum, and buffer time are not included and must be planned for separately by training providers.
 
 // end::EN[]
 
