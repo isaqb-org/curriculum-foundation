@@ -27,7 +27,8 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 |===
 
-Die Summe der empfohlenen Zeiten (1080 Minuten bzw. 18 Stunden) entspricht bereits der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten) — ein Realitätscheck: Pausen, Diskussionen, Wiederholungen und Pufferzeiten sind darin nicht enthalten und müssen von Schulungsanbietern zusätzlich eingeplant werden.
+Die Summe der empfohlenen Zeiten (1080 Minuten bzw. 18 Stunden) entspricht bereits der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten).
+Pausen, über Curriculum-Inhalte hinausgehende Diskussionen und Pufferzeiten sind darin nicht enthalten und müssen von Schulungsanbietern zusätzlich eingeplant werden.
 
 // end::DE[]
 
