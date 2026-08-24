@@ -3,18 +3,25 @@
 [[LG-04-03]]
 ==== LZ 04-03: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)
 
-Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Architektursichten:
+Softwarearchitekt:innen können für gegebene Stakeholder-Anliegen eine angemessene Notation auswählen und ihre Wahl begründen.
+Sie berücksichtigen dabei Zielgruppe, benötigten Detaillierungsgrad und Formalitätsgrad, siehe <<LG-04-01>> und <<LG-04-02>> (R2).
 
-* Klassen-, Paket- und Komponentendiagramme (R2)
-* Verteilungs-, Sequenz- und Aktivitätsdiagramme (R2)
-* Aufzählungen, z. B. nummerierte Listen oder Stichpunkte (R2)
-* Zustandsdiagramme (R3)
-* ArchiMate (R3)
-* SysML (R3)
-* C4, siehe <<brownc4>> (R3)
-* Entity-Relationship Diagramme, siehe <<erd>> (R3)
-* Flussdiagramme (R3)
-* Business-Process-Modelling-Notation (BPMN) (R3).
+Insbesondere können sie begründen, wann eine textuelle oder tabellarische Darstellung (z.{nbsp}B. nummerierte Ablaufschritte, Schnittstellentabelle) einem Diagramm vorzuziehen ist (R2).
+
+Softwarearchitekt:innen können folgende UML-Diagrammtypen _lesen_, also die
+dargestellten Elemente, Beziehungen und deren Semantik erklären, und für
+einfache Systeme _erstellen_  (R2):
+
+* Baustein- und Kontextsicht: Paket-, Komponenten- und Klassendiagramme
+* Laufzeitsicht: Sequenz- und Aktivitätsdiagramme
+* Verteilungssicht: Verteilungsdiagramme
+
+Beim Erstellen achten sie mindestens auf: eindeutige Zweckangabe, Legende bzw. Erklärung nicht-standardkonformer Elemente, passenden Abstraktionsgrad und Konsistenz zum begleitenden Text.
+Beim Lesen erkennen sie Verstöße gegen diese Kriterien.
+(R2)
+
+Softwarearchitekt:innen kennen weitere Notationen und deren primären Einsatzzweck:
+Zustandsdiagramme und Composite-Structure-Diagramme (UML), C4 <<brownc4>>, ArchiMate, SysML, Entity-Relationship-Diagramme <<erd>>, Flussdiagramme, BPMN (R3).
 
 // end::DE[]
 
@@ -22,18 +29,23 @@ Softwarearchitekt:innen kennen mindestens folgende Diagramme zur Notation von Ar
 [[LG-04-03]]
 ==== LG 04-03: Explain and Apply Notations/Models to Describe Software Architecture (R2-R3)
 
-Software architects know at least the following diagrams to describe architectural views:
+Software architects are able to select an appropriate notation for given stakeholder concerns and can justify their choice.
+In doing so, they take the target group, the required level of detail, and the required degree of formality into account - see <<LG-04-01>> and <<LG-04-02>> (R2).
 
-* Class, package, and component diagrams (R2)
-* Deployment, sequence, and activity diagrams (R2)
-* Enumerations, e.g. numbered lists or bullet points (R2)
-* UML state machine diagrams (R3)
-* ArchiMate (R3)
-* SysML (R3)
-* C4, see <<brownc4>> (R3)
-* Entity-relationship diagrams, see <<erd>> (R3)
-* flow charts (R3)
-* business-process-modeling-notation (BPMN) (R3).
+In particular, they are able to justify when a textual or tabular representation (e.g. numbered process steps, interface table) is preferable to a diagram (R2).
+
+Software architects are able to _read_ the following UML diagram types, i.e. to explain the elements and relationships shown and their semantics, and to _create_ them for simple systems (R2):
+
+* building block and context view: package, component, and class diagrams
+* runtime view: sequence and activity diagrams
+* deployment view: deployment diagrams
+
+When creating diagrams, they pay attention to at least the following: an explicit statement of purpose, a legend or an explanation of non-standard elements, an appropriate level of abstraction, and consistency with the accompanying text.
+When reading diagrams, they identify violations of these criteria.
+(R2)
+
+Software architects know further notations at an overview level and are able to relate them to their primary intended use:
+state machine and composite structure diagrams (UML), C4 <<brownc4>>, ArchiMate, SysML, entity-relationship diagrams <<erd>>, flow charts, BPMN (R3).
 
 // end::EN[]
 
