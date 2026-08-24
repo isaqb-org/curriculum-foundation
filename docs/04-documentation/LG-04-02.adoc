@@ -10,10 +10,10 @@ Softwarearchitekt:innen (R1):
 * können die Beiträge unterschiedlicher Autorengruppen stilistisch und inhaltlich konsolidieren und harmonisieren
 * sorgen für Konsistenz zwischen mündlicher und schriftlicher Kommunikation und wägen beide angemessen gegeneinander ab
 
-Softwarearchitekt:innen können (R1):
+Softwarearchitekt:innen wissen (R1):
 
-* den Nutzen von Template-basierter Dokumentation beschreiben und erklären.
-* beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
+* den Nutzen von Template-basierter Dokumentation
+* dass verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
 Sie können beispielsweise die folgenden Merkmale von Dokumentation je nach Situation anpassen (R3):
 

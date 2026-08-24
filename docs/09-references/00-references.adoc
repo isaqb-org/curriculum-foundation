@@ -62,6 +62,9 @@
 - [[[iso25019, ISO 25019]]] ISO/IEC 25019:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en>
 - [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
 
+// I
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA). iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
+
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
 - [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
@@ -104,6 +107,7 @@
 - [[[sperberklaeren, Sperber+2023]]] Michael Sperber, Herber  Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
 - [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
 - [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: https://esabuch.de
+- [[[quality-driven-software-architecture,Starke 2021]]] G. Starke, _Quality Driven Software Architecture - Revised_, 2021. <https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/>
 - [[[starkelorz, Starke+2023a]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haren Publishing, 2nd edition, 2023.
 - [[[starkeetalarc42, Starke+2023b]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example - Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.

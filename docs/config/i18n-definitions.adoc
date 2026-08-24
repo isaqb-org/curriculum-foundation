@@ -1,6 +1,6 @@
 // tag::DE[]
 :introduction: Einleitung
-:lang: DE
+:lang: de
 :basics: Grundlegendes
 :learning-goals: Lernziele
 :references: Referenzen
@@ -15,7 +15,7 @@
 
 // tag::EN[]
 :introduction: Introduction
-:lang: EN
+:lang: en
 :basics: Essentials
 :learning-goals: Learning Goals
 :references: References

@@ -1,7 +1,8 @@
 include::config/setup.adoc[]
 
-= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
+= image:isaqb-logo.png[width=150,role=theme-swap]Certified Professional for Software Architecture^(R)^ (CPSA)
 - Foundation Level Curriculum – Release Candidate -
+:!toc:
 
 :repo-name: curriculum-foundation
 
