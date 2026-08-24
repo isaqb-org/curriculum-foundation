@@ -1,6 +1,6 @@
 // tag::DE[]
 [[LG-04-04]]
-==== LZ 04-04 [new]: Lernziel nicht gefunden (R3)
+==== LZ 04-04: Lernziel nicht gefunden (R3)
 
 Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.
 
@@ -10,7 +10,7 @@ Hinweis: Der Titel dieses Lernziels wurde bewusst gewählt und stellt keinen tec
 
 // tag::EN[]
 [[LG-04-04]]
-==== LG 04-04 [new]: Learning Goal not Found (R3)
+==== LG 04-04: Learning Goal not Found (R3)
 
 Software architects are able to gracefully deal with unexpected situations.
 
