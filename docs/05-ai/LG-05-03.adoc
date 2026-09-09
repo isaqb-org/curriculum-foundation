@@ -1,0 +1,12 @@
+// tag::EN[]
+[[LG-05-03]]
+==== LG 05-03: Understand the impact on quality of AI-generated code and agentic systems (R1) 
+
+* Architects know that AI-generated code tends to be of lower quality than human-written code, carries model-inherent risks (hallucination, sensitivity to prompt structure), and requires critical human review.  
+* Architects understand that the scope and granularity of a unit of work delegated to an AI materially affects the quality of the outcome.
+
+// end::EN[]
+
+===== {references}
+
+<<isaqbagenta>>

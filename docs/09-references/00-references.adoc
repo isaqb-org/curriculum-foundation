@@ -53,17 +53,19 @@
 - [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
 - [[[humble,Humble+2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
 - [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2
+
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
 - [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
 - [[[isaqbglossary,iSAQB Glossary]]] Gernot Starke et. al. iSAQB Glossary of Software Architecture Terminology. Freely available from https://leanpub.com/isaqbglossary or its source repository https://github.com/isaqb-org/glossary/releases
 - [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
+- [[[isaqbagenta, iSAQB AGENTA]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: AGENTA - Architecture for Agentic Software Engineering Contexts. iSAQB e.V., 2026. online: <https://public.isaqb.org/curriculum-agenta/>
+- [[[isaqbfm, iSAQB FM]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods. iSAQB e.V., 2024. online: <https://public.isaqb.org/curriculum-fm/>
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture. iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
+- [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems. iSAQB e.V., 2026. online: <https://public.isaqb.org/curriculum-swarc4ai/>
 - [[[iso25010, ISO 25010]]] ISO/IEC 25010:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en>
 - [[[iso25019, ISO 25019]]] ISO/IEC 25019:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en>
 - [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
-
-// I
-- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA). iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
 
 // K
 - [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
@@ -77,6 +79,7 @@
 - [[[lehmanwiki,Wiki-LehmansLaws]]] Laws of Software Evolution. <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
 - [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
 - [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
+- [[[link2025,Link 2025]]] Johannes Link: To Gen or Not To Gen: The Ethical Use of Generative AI. 2025. <https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/>
 - [[[liskov,Liskov 1994]]] Barbara H. Liskov, Jeannette M. Wing: A behavioral notion of subtyping. ACM Transactions on Programming Languages and Systems, Volume 16, Issue 6, 1994. <doi:10.1145/197320.197383>
 
 
@@ -111,7 +114,6 @@
 - [[[starkelorz, Starke+2023a]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haren Publishing, 2nd edition, 2023.
 - [[[starkeetalarc42, Starke+2023b]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example - Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
 - [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
-
 
 
 // T

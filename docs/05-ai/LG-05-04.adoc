@@ -1,0 +1,14 @@
+// tag::EN[]
+[[LG-05-04]]
+==== LG 05-04: Understand the importance of specification quality and verification in AI-generated code and agentic systems (R1)
+
+* Architects understand that when delegating tasks to AI agents, the consequences of implicit assumptions are amplified: agents interpret specifications literally and may act on ambiguous, incomplete, or contradictory instructions in ways a human would not.   
+* Architects understand that good specifications contain unambiguous, general descriptions of the desired behavior - not merely examples - and the cost of ambiguity is higher in AI-driven development.   
+* Architects can write explicit specifications of constraints, edge cases, forbidden actions, and escalation paths, and treat this as an architectural responsibility (see also LG 04-06)  
+* Architects understand that verification of AI-generated output is a first-class architectural activity, because AI-generated output may be incorrect in ways that are not obvious. Verification methods include using statistical, scenario-based, formal methods, and adversarial approaches.
+
+// end::EN[]
+
+===== {references}
+
+<<isaqbagenta>>, <<isaqbfm>>

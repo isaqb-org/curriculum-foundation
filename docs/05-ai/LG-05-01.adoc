@@ -1,0 +1,14 @@
+// tag::EN[]
+[[LG-05-01]]
+==== LG 05-01: Distinguish symbolic and stochastic AI, the role of LLMs and their architectural implications (R1)
+
+* Architects can explain the difference between symbolic (deterministic, rule-based, explainable) and stochastic (probabilistic, learned, opaque, training-data and bias-sensitive) AI and LLMs.
+* Architects understand the basic mode of operation of an LLM, which processes a prompt together with its context and is stateless across calls.
+  It does not retain memory of previous interactions unless that history is included in the context.
+* Architects can decide when using AI is appropriate for the task at hand, and can decide which kind of AI is appropriate.
+
+// end::EN[]
+
+
+===== {references}
+<<isaqbswarc4ai>>

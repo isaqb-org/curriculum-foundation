@@ -1,0 +1,18 @@
+// tag::EN[]
+== Use and Risks of Artificial Intelligence in Software Architectures
+
+=== Purpose
+
+The purpose of this section is to give training participants a foundational understanding of artificial intelligence as an architectural concern.
+Participants learn to distinguish symbolic from stochastic AI, understand the role of LLMs and AI agents, and are able to decide when and which kind of AI is appropriate for a given task.
+The section covers the impact of AI-generated code and agentic engineering on quality, the importance of specification quality and verification of AI-generated output, the systemic risks of AI, and its ethical and societal externalities.
+The design and control of AI agents themselves are covered by the Advanced Level modules AGENTA and SWARC4AI.
+
+We expect at least some of the content to move to existing learning goals.
+
+=== Relevant Terms
+
+Symbolic AI, Stochastic AI, LLM, AI Agent, AI, Assistant, Agentic Engineering, AI-generated output
+
+// end::EN[]
+
