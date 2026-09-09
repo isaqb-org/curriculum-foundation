@@ -1,0 +1,12 @@
+// tag::EN[]
+[[LG-05-02]]
+==== LG 05-02: Explain what an AI agent is (R2)
+
+* Architects can describe an AI agent as a building block that pursues goal-directed, multi-step work using one or several LLMs, with some autonomy, and can distinguish an agent from an AI assistant, from the underlying LLM, and from a deterministic component.  
+* Architects understand that an AI agent's behavior depends on the model, instructions, context, and tools it is given.
+
+// end::EN[]
+
+===== {references}
+
+<<isaqbagenta>>

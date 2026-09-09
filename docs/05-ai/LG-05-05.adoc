@@ -1,0 +1,8 @@
+// tag::EN[]
+[[LG-05-05]]
+==== LG 05-05: Understand the systemic risks of agentic systems and AI-generated code (R2)
+
+* Architects understand the risks of having an LLM review its own output.  
+* Architects know that AI introduces IP/legal risks and the risk of degrading critical skills and disrupting learning processes through over-reliance, introduces agentic-system security risks that need mitigation, and creates dependencies on a small number of providers.
+
+// end::EN[]

@@ -1,0 +1,12 @@
+// tag::EN[]
+[[LG-05-06]]
+==== LG 05-06: Recognize the ethical and societal externalities of AI (R3)
+
+* Architects understand that choosing AI infrastructure is an architectural decision with societal impact.  
+* Architects understand the externalities of AI infrastructure: energy/CO~2~, labor-market pressure, disruption of open-source and internet ecosystems, model bias in public infrastructure, political destabilization.
+
+// end::EN[]
+
+===== {references}
+
+<<link2025>>
