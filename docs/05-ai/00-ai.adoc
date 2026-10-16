@@ -10,12 +10,6 @@ include::./01-ai-duration-terms.adoc[{include_configuration}]
 
 include::./LG-05-01.adoc[{include_configuration}]
 
-include::./LG-05-02.adoc[{include_configuration}]
-
-include::./LG-05-03.adoc[{include_configuration}]
-
 include::./LG-05-04.adoc[{include_configuration}]
-
-include::./LG-05-05.adoc[{include_configuration}]
 
 include::./LG-05-06.adoc[{include_configuration}]
