@@ -1,0 +1,40 @@
+
+// tag::DE[]
+
+|===
+| Dauer: 60 Min. | Übungszeit: 0 Min.
+|===
+
+=== Purpose
+
+Ziel dieses Abschnitts ist es, den Teilnehmer:innen ein grundlegendes Verständnis der Verwendung künstlicher Intelligenz zur Unterstützung von Architekturarbeit zu vermitteln.
+Der Abschnitt deckt den Einfluss von KI-generierten Artefakten auf die Qualität ab und die Wichtigkeit, KI-generierten Output zu verifizieren, sowie die systemischen Risiken von KI und ihre ethischen und gesellschaftlichen Externalitäten.
+Eine umfangreichere Abdeckung von KI-unterstützter Architektur gibt es im Advanced-Level-Modul AGENTA <<isaqbagenta>>.
+Die Architektur von KI-basierten System wird vom Advanced-Level-Modul SWARC4AI <<isaqbswarc4ai>> abgedeckt.
+
+===	Wesentliche Begriffe
+
+LLM, KI-Agent, KI-generierter Output
+
+// end::DE[]
+
+// tag::EN[]
+== Use and Risks of Artificial Intelligence
+
+|===
+| Duration: 60 min. | Exercises: 0 min.
+|===
+
+=== Purpose
+
+The purpose of this section is to give training participants a foundational understanding of using artificial intelligence to support architecture development.
+The section covers the impact of AI-generated artifacts on quality and the importance of verifying AI-generated output, the systemic risks of AI, and its ethical and societal externalities.
+More extensive coverage of AI-assisted architecture is in Advanced Level module AGENTA <<isaqbagenta>>.
+The architecture of AI-based systems is covered by Advanced Level module SWARC4AI <<isaqbswarc4ai>>.
+
+=== Relevant Terms
+
+LLM, AI agent, AI-generated output
+
+// end::EN[]
+

@@ -1,0 +1,22 @@
+
+// tag::DE[]
+[[LG-05-01]]
+==== LZ 05-01: Eignung von KI-basierten Systemen (R1-R2)
+
+Software-Architekt:innen:
+
+* können entscheiden, wann KI für eine gegebene Aufgabe geeignet ist (R2)
+* verstehen, dass, wenn sie Aufgaben an KI-Agenten delegieren, die Konsequenzen impliziter Annahmen verstärkt werden: Agenten können auf mehrdeutige, unvollständige oder widersprüchliche Anweisungen auf eine Art reagieren, wie es Menschen nicht tun würden (R1)
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-05-01]]
+==== LG 05-01: Appropriateness of AI-based systems (R1-R2)
+
+Software architects:
+
+* can decide when using AI is appropriate for the task at hand (R2)
+* understand that when delegating tasks to AI agents, the consequences of implicit assumptions are amplified: agents may act on ambiguous, incomplete, or contradictory instructions in ways a human would not (R1)
+
+// end::EN[]

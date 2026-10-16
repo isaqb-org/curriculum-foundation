@@ -19,7 +19,7 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 | 4. Beschreibung und Kommunikation | 240
 
-| 5. Analyse und Bewertung | 90
+| 5. Benutzung und Risiken von Künstlicher Intelligenz | 60
 
 | 6. Beispiele | 90
 
@@ -54,7 +54,7 @@ The types (domains and technologies) of examples and exercises can be determined
 
 | 4. Specification and Communication | 240
 
-| 5. Analysis and Assessment | 90
+| 5. Use and Risks of Artificial Intelligence | 60
 
 | 6. Examples | 90
 

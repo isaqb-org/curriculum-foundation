@@ -1,0 +1,26 @@
+// tag::DE[]
+[[LG-05-02]]
+==== LZ 05-02: Verifikation von KI-generierten Artefakten (R1-R3)
+
+Software-Architekt:innen:
+
+* verstehen, dass die Verifikation von KI-generiertem Output eine vorrangige architektonische Aktivität sein sollte, weil KI-generierter Output auf nicht-offensichtliche Weise inkorrekt sein kann (R1)
+* wissen, dass zu den Verifikationsmethoden statistische, szenariobasierte und formale Methoden gehören (R2)
+* verstehen die Risiken, Review and Verifikation an ein LLM zu delegieren (R2)
+// end::DE[]
+
+// tag::EN[]
+[[LG-05-02]]
+==== LG 05-02: Verification of AI-generated artifacts (R1-R3)
+
+Software architects:
+
+* understand that verification of AI-generated output should be a first-class architectural activity, because AI-generated output may be incorrect in ways that are not obvious (R1)
+* know that verification methods include statistical, scenario-based, and formal methods (R2)
+* understand the risks of delegating review and verification to an LLM (R2)
+
+// end::EN[]
+
+===== {references}
+
+<<isaqbfm>>
