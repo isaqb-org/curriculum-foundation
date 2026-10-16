@@ -1,0 +1,119 @@
+// Proposal: learning goals for a new "data" section (data modelling, storage, consistency, distribution).
+// Status: sandbox proposal, EN only. DE translation pending.
+// Numbering: 0x-yy is a placeholder until the section number is decided.
+// The existing LG 01-07 (importance of data and data models) will be moved into this new section
+// and covers the "why" and the products/sums basics; the goals below deepen the "how".
+// Operators follow documentation/didactics/operators-learning-goals.md.
+
+
+// tag::DE[]
+[[LG-0x-01]]
+==== LZ 0x-01: Datenmodelle entwerfen (R1, R2)
+
+// TODO: DE translation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-0x-01]]
+==== LG 0x-01: Design Data Models (R1, R2)
+
+Software architects can design conceptual data models that are independent of their physical representation (see <<LG-01-07>>). They
+
+* can describe entity-relationship models as a widespread notation for conceptual data models and transfer such a model into a relational schema. (R2)
+* can model data as combinations of {glossary_url}product[products] ("and"-data: records, structs, tuples) and {glossary_url}sum[sums] ("or"-data: alternatives, discriminated unions). (R2)
+* can design data models such that invalid states cannot be represented ("make illegal states unrepresentable") and explain why this reduces the need for validation and defensive code. (R2)
+* can describe the difference between validation (checking data against a schema or constraints) and plausibility checks, and decide where in a system these should take place. (R3)
+* can explain that common representations like relational tables and JSON natively support only products, and can describe approaches to represent sums in these formats (e.g. discriminator columns, nullable columns, separate tables). (R3)
+* know about semantic data models (RDF triples of subject, predicate and object; vocabularies and ontologies, e.g. RDFS, OWL, SKOS) and explain in which situations they are useful, e.g. data integration across organizational boundaries, linked data, knowledge graphs. (R3)
+* can describe common formats for data transport and serialization (e.g. CSV, XML, JSON, binary formats like Protocol Buffers or Avro) and compare them with respect to schema support, human readability, size and compatibility. (R3)
+
+// end::EN[]
+
+===== {references}
+<<kleppmann>>, <<sperberwehr>>, <<felleisenetal>>
+
+
+// tag::DE[]
+[[LG-0x-02]]
+==== LZ 0x-02: Speichermodelle und Datenbanksysteme auswählen (R1, R2, R3)
+
+// TODO: DE translation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-0x-02]]
+==== LG 0x-02: Select Storage Models and Database Systems (R1-R3)
+
+Software architects can select appropriate storage models and database systems for a given set of requirements. They
+
+* can describe the fundamental storage models and name typical representatives: (R1)
+** relational (tables and columns, SQL), e.g. PostgreSQL, MySQL, SQLite, and commercial alternatives
+** document, e.g. MongoDB, Couchbase, CouchDB
+** key-value and wide-column, e.g. Redis, Memcached, Cassandra, Amazon DynamoDB
+** graph, e.g. Neo4j
+** files and object storage, e.g. file systems, Amazon S3 and compatible stores
+* know about triple stores with SPARQL as query language (e.g. Apache Jena, GraphDB, Virtuoso) as storage for semantic data models (see <<LG-0x-01>>). (R3)
+* can compare schema-on-write (a schema is defined and enforced before writing) and schema-on-read (structure is interpreted while reading) approaches with respect to data quality, consistency, effort for schema evolution and migration, query complexity, and the time at which errors are detected. (R3)
+* can compare client/server databases (separate process, network access, multi-user, central data management, scalability) and embedded databases (same process as the application, e.g. SQLite, H2, RocksDB, DuckDB) and describe their consequences for deployment, operations, latency and concurrency. (R3)
+* can decide, based on requirements (e.g. consistency, availability, performance, scalability, operability, cost), which storage model and which deployment variant is appropriate, and justify this decision. (R3)
+* can explain that the choice of a storage model influences the data model, and identify situations where several storage models are combined within one system (polyglot persistence). (R3)
+
+// end::EN[]
+
+===== {references}
+<<kleppmann>>
+
+
+// tag::DE[]
+[[LG-0x-03]]
+==== LZ 0x-03: Konsistenz, Transaktionen und Nebenläufigkeit (R1, R2)
+
+// TODO: DE translation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-0x-03]]
+==== LG 0x-03: Consistency, Transactions and Concurrent Access (R3)
+// candidate for transfer to intermediate level
+//
+Software architects can explain how concurrent access to shared data threatens consistency and which mechanisms protect against it. They
+
+* can explain the lost-update problem caused by uncoordinated concurrent writes.
+* can compare pessimistic concurrency control (locking prevents overlapping access) and optimistic concurrency control (parallel work, conflicts are detected at commit time) and decide which is appropriate for a given access pattern.
+* can explain the concept of a transaction (all operations succeed or none, commit and rollback) and describe the ACID properties atomicity, consistency, isolation and durability.
+* can describe typical problems of transactions: deadlocks, performance degradation caused by long-running transactions and held locks, and isolation anomalies (dirty reads, non-repeatable reads, phantom reads).
+* can explain that isolation levels (e.g. read uncommitted, read committed, repeatable read, serializable) are a trade-off between consistency guarantees and concurrency or performance, and justify the choice of an isolation level for a given use case.
+
+// end::EN[]
+
+===== {references}
+<<kleppmann>>
+
+
+// tag::DE[]
+[[LG-0x-04]]
+==== LZ 0x-04: Daten in verteilten Systemen (R2, R3)
+
+// TODO: DE translation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-0x-04]]
+==== LG 0x-04: Data in Distributed Systems (R3)
+// candidate for intermediate level
+//
+Software architects can explain the fundamental trade-offs when data is stored or replicated across several nodes. They
+
+* can describe the properties consistency, availability and partition tolerance as used in the CAP theorem, and explain that in the presence of a network partition a distributed system has to trade consistency against availability.
+* can elaborate that the CAP theorem does not describe a static "two out of three" choice: by explicitly handling partitions, systems can balance consistency and availability depending on the situation.
+* can compare ACID guarantees with the BASE model (basically available, soft state, eventual consistency) and describe the consequences of eventual consistency for the application and its users.
+* can identify data in a system for which strong consistency is required and data for which eventual consistency is acceptable, and justify this classification based on business requirements.
+
+// end::EN[]
+
+===== {references}
+<<kleppmann>>
