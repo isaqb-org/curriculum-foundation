@@ -1,6 +1,6 @@
 // tag::DE[]
-[[LG-05-04]]
-==== LZ 05-04: Verifikation von KI-generierten Artefakten (R1-R3)
+[[LG-05-02]]
+==== LZ 05-02: Verifikation von KI-generierten Artefakten (R1-R3)
 
 Software-Architekt:innen:
 
@@ -10,8 +10,8 @@ Software-Architekt:innen:
 // end::DE[]
 
 // tag::EN[]
-[[LG-05-04]]
-==== LG 05-04: Verification of AI-generated artifacts (R1-R3)
+[[LG-05-02]]
+==== LG 05-02: Verification of AI-generated artifacts (R1-R3)
 
 Software architects:
 

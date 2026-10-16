@@ -1,6 +1,6 @@
 // tag::DE[]
-[[LG-05-06]]
-==== LZ 05-06: Risiken, ethische und gesellschaftliche Externalitäten erkennen (R2, R3)
+[[LG-05-03]]
+==== LZ 05-03: Risiken, ethische und gesellschaftliche Externalitäten erkennen (R2, R3)
 
 Softwarearchitekt:innen:
 
@@ -10,8 +10,8 @@ Softwarearchitekt:innen:
 // end::DE[]
 
 // tag::EN[]
-[[LG-05-06]]
-==== LG 05-06: Recognize the risks, ethical and societal externalities of AI (R2, R3)
+[[LG-05-03]]
+==== LG 05-03: Recognize the risks, ethical and societal externalities of AI (R2, R3)
 
 Software architects:
 
