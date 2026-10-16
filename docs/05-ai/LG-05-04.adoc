@@ -3,9 +3,10 @@
 ==== LG 05-04: Specification quality and verification in AI-generated artifacts (R1-R3)
 
 * Architects understand that good specifications contain unambiguous, general descriptions of the desired behavior - not merely examples. (R1)
-* Architects can write explicit specifications of constraints, edge cases, forbidden actions, and escalation paths, and treat this as an architectural responsibility. (see also LG 04-06) (R2)
-* Architects understand that verification of AI-generated output is a first-class architectural activity, because AI-generated output may be incorrect in ways that are not obvious. Verification methods include statistical, scenario-based, and formal methods. (R1)
-* Architects understand the risks of having an LLM review its own output. (R3)
+* Architects can write explicit specifications of requirements, constraints, edge cases, forbidden actions, and escalation paths, and treat this as an architectural responsibility. (see also LG 04-06) (R2)
+* Architects understand that verification of AI-generated output should be a first-class architectural activity, because AI-generated output may be incorrect in ways that are not obvious. (R1)
+* Architects know that verification methods include statistical, scenario-based, and formal methods. (R2)
+* Architects understand the risks of delegating review and verification to an LLM. (R2)
 
 // end::EN[]
 

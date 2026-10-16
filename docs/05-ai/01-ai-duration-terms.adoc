@@ -12,7 +12,7 @@ We expect at least some of the content to move to existing learning goals.
 
 === Relevant Terms
 
-LLM, AI-generated output
+LLM, AI agent, AI-generated output
 
 // end::EN[]
 

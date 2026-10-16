@@ -2,7 +2,7 @@
 [[LG-05-06]]
 ==== LG 05-06: Recognize the risks, ethical and societal externalities of AI (R2, R3)
 
-* Architects know that AI introduces IP/legal risks and risks of degrading critical skills and disrupting learning processes, security risks, and creates dependencies on a small number of providers. (R2)
+* Architects know that AI introduces IP/legal risks and risks of degrading critical skills and disrupting learning processes, security risks, and creates dependencies on a small number of AI technology providers. (R2)
 * Architects understand the societal externalities of AI infrastructure: energy/CO~2~, labor-market pressure, disruption of open-source and internet ecosystems, model bias in public infrastructure, political destabilization. (R3)
 
 // end::EN[]
