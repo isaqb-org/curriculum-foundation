@@ -51,11 +51,6 @@ Softwarearchitekt:innen sind in der Lage:
 
 * als ein Entwurfsprinzip, um die Robustheit verbessern
 
-**SOLID Prinzipien** (R3)
-
-Softwarearchitekt:innen kennen Nutzen und Grenzen der SOLID Prinzipien: 
-Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
-
 // end::DE[]
 
 // tag::EN[]
@@ -109,10 +104,6 @@ Software architects are able to:
 
 * as a design principle to improve robustness
 
-**SOLID Principles** (R3)
-
-Software architects know the benefits and limitations of the SOLID principles:
-Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle 
 
 
 // end::EN[]
