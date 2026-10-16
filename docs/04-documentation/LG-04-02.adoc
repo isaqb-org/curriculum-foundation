@@ -11,7 +11,7 @@ Softwarearchitekt:innen können (R1):
 * den Nutzen von Template-basierter Dokumentation erklären
 * beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.
 
-Beispielsweise können Softwarearchitekt:innen die Dokumentation situationsbezogen in Umfang, Detaillierungsgrad, Format sowie Zugänglichkeit (_accessibility_) anpassen.
+Beispielsweise können Softwarearchitekt:innen die Dokumentation situationsbezogen in Umfang, Detaillierungsgrad, Format sowie Zugänglichkeit anpassen.
 
 
 // end::DE[]
