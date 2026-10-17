@@ -20,6 +20,7 @@
 
 Software architects can design conceptual data models that are independent of their physical representation (see <<LG-01-07>>). They
 
+* can name the basic elements of conceptual data models: entities (identified by keys), attributes, relationships with cardinalities, and value objects (compared by value, without identity). (R1)
 * can describe entity-relationship models as a widespread notation for conceptual data models and transfer such a model into a relational schema. (R2)
 * can model data as combinations of {glossary_url}product[products] ("and"-data: records, structs, tuples) and {glossary_url}sum[sums] ("or"-data: alternatives, discriminated unions). (R2)
 * can design data models such that invalid states cannot be represented ("make illegal states unrepresentable") and explain why this reduces the need for validation and defensive code. (R2)
@@ -117,3 +118,29 @@ Software architects can explain the fundamental trade-offs when data is stored o
 
 ===== {references}
 <<kleppmann>>
+
+
+// tag::DE[]
+[[LG-0x-05]]
+==== LZ 0x-05: Datenzugriff und Datenevolution (R2, R3)
+
+// TODO: DE translation
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-0x-05]]
+==== LG 0x-05: Data Access and Data Evolution (R2, R3)
+
+Software architects can explain how data is accessed from code and how data models evolve over time. They
+
+* can explain that storage structures should follow the access patterns of the system (e.g. read-heavy vs. write-heavy, query shapes), and describe indexes and denormalized read models as optimizations with a cost on writes. (R2)
+* can describe the mapping between the code model and the stored data model, and explain the impedance mismatch between object-oriented or functional models and relational or document storage. (R2)
+* can describe object-relational mappers (e.g. JPA/Hibernate, Entity Framework) and their typical pitfalls, e.g. lazy loading and N+1 queries. (R3)
+* can explain that data usually outlives code, and describe approaches for schema and data migration: versioned, scripted migrations (e.g. Flyway, Liquibase), backward- and forward-compatible changes, expand/contract (parallel change). (R2)
+* can explain the consequences of model changes on stored data and transport formats, and justify measures to keep them compatible (e.g. schema versioning, optional fields). (R3)
+
+// end::EN[]
+
+===== {references}
+<<kleppmann>>, <<fowler>>
