@@ -81,26 +81,26 @@
 
 
 // M
-- [[[maguire, Maguire 2019]]] Sandy Maguire: Algebra-Driven Design - Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.
+- [[[maguire, Maguire 2023]]] S. Maguire, _Algebra-Driven Design: Elegant Solutions from Simple Building Blocks_, Leanpub, 2023. [Online]. Available: <https://leanpub.com/algebra-driven-design>
 
 // N
-- [[[newman,Newman 2021]]] Sam Newman. Building Microservices - Designing Fine-Grained Systems. O'Reilly 2nd edition 2021.
-- [[[north-cupid,Terhorst-North 2022]]] Daniel Terhorst-North: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
+- [[[newman,Newman 2021]]] S. Newman, _Building Microservices: Designing Fine-Grained Systems_, 2nd ed., O'Reilly, 2021.
+- [[[north-cupid,Terhorst-North 2022]]] D. Terhorst-North, "CUPID: for joyful coding." [Online]. Available: <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>
 
-- [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
+- [[[nygard,Nygard 2011]]] M. Nygard, "Documenting Architecture Decisions." [Online]. Available: <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 
 // P
 - [[[pethuru,Raj+2017]]] P. Raj, A. Raman, and H. Subramanian, _Architectural Patterns: Uncover Essential Patterns in the Most Indispensable Realm of Enterprise Architecture_, Packt Publishing, 2017.
-- [[[pohl,Pohl 2025]]] Klaus Pohl: Requirements Engineering - Fundamentals, Principles and Techniques. Springer 2025
+- [[[pohl,Pohl 2025]]] K. Pohl, _Requirements Engineering: Fundamentals, Principles and Techniques_, 2nd ed., Springer, 2025.
 
 // Q
-- [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
+- [[[q42,Q42]]] "arc42 Quality Model." [Online]. Available: <https://quality.arc42.org>
 
 // R
-- [[[rajlich,Rajlich+2000]]] Václav T. Rajlich, Keith H. Bennett: A Staged Model for the Software Life Cycle. IEEE Computer 33(7): 66-71, 2000.
-- [[[readcommunication,Read 2023]]] Jacqui Read: Communication Patterns - An Engineering Approach. A Guide for Developers and Architects. OReilly 2023.
-- [[[richardsfundamentals,Richards+2020]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
-- [[[rozanskiwoods, Rozanski+2011]]] Nick Rozanski, Eoin Woods: Software Systems Architecture - Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.
+- [[[rajlich,Rajlich+2000]]] V. T. Rajlich and K. H. Bennett, "A Staged Model for the Software Life Cycle," _IEEE Computer_, vol. 33, no. 7, pp. 66–71, 2000.
+- [[[readcommunication,Read 2023]]] J. Read, _Communication Patterns: A Guide for Developers and Architects_, O'Reilly, 2023.
+- [[[richardsfundamentals,Richards+2020]]] M. Richards and N. Ford, _Fundamentals of Software Architecture: An Engineering Approach_, O'Reilly, 2020.
+- [[[rozanskiwoods, Rozanski+2011]]] N. Rozanski and E. Woods, _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, 2nd ed., Addison-Wesley, 2011.
 
 // S
 - [[[solid, SOLID]]] Samuel Oloruntoba and Anish Singh Walia: SOLID: The First 5 Principles of Object Oriented Design, <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>.
