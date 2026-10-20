@@ -103,26 +103,26 @@
 - [[[rozanskiwoods, Rozanski+2011]]] N. Rozanski and E. Woods, _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, 2nd ed., Addison-Wesley, 2011.
 
 // S
-- [[[solid, SOLID]]] Samuel Oloruntoba and Anish Singh Walia: SOLID: The First 5 Principles of Object Oriented Design, <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>.
-- [[[sperberklaeren, Sperber+2023]]] Michael Sperber, Herber  Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
-- [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
-- [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: https://esabuch.de
-- [[[quality-driven-software-architecture,Starke 2021]]] G. Starke, _Quality Driven Software Architecture - Revised_, 2021. <https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/>
-- [[[starkelorz, Starke+2023a]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haren Publishing, 2nd edition, 2023.
-- [[[starkeetalarc42, Starke+2023b]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example - Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
-- [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
+- [[[solid, SOLID]]] S. Oloruntoba and A. S. Walia, "SOLID: The First 5 Principles of Object Oriented Design." [Online]. Available: <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
+- [[[sperberklaeren, Sperber+2023]]] M. Sperber and H. Klaeren, _Schreibe Dein Programm!_ (in German), Tübingen University Press, 2023. [Online]. Available: <https://www.deinprogramm.de/sdp/>
+- [[[sperberwehr, Sperber+2024]]] M. Sperber and S. Wehr, "Datenmodellierung mit Summen und Produkten" (in German), 2024. [Online]. Available: <https://funktionale-programmierung.de/2024/11/25/sums-products.html> (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
+- [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen: Ein praktischer Leitfaden_ (in German), 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <https://esabuch.de>
+- [[[quality-driven-software-architecture,Starke 2021]]] G. Starke, "Quality Driven Software Architecture - Revised," 2021. [Online]. Available: <https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/>
+- [[[starkelorz, Starke+2023a]]] G. Starke and A. Lorz, _Software Architecture Foundation: CPSA Foundation® Exam Preparation_, 2nd ed., Van Haren Publishing, 2023.
+- [[[starkeetalarc42, Starke+2023b]]] G. Starke, M. Simons, S. Zörner, R. D. Müller, and H. Lösch, _arc42-by-Example: Software Architecture Documentation in Practice_, 3rd ed., Leanpub, 2023. [Online]. Available: <https://leanpub.com/arc42byexample>
+- [[[sysml,SysML]]] "What is SysML." [Online]. Available: <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
 
 
 
 // T
 
 // U
-- [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
+- [[[uml,UML]]] "The UML reading room," collection of UML resources. [Online]. Available: <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 
 
 // Y
-- [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
+- [[[yorgey,Yorgey 2012]]] B. A. Yorgey, "Monoids: Theme and Variations," in _Proc. 2012 Haskell Symposium_, Sep. 2012, doi: <https://doi.org/10.1145/2364506.2364520>
 
 // Z
-- [[[zimmermann-api,Zimmermann+2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso: Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges. Addison-Wesley, 2022.
-- [[[zoerner,Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.
+- [[[zimmermann-api,Zimmermann+2022]]] O. Zimmermann, M. Stocker, D. Lübke, U. Zdun, and C. Pautasso, _Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges_, Addison-Wesley, 2022.
+- [[[zoerner,Zörner 2021]]] S. Zörner, _Softwarearchitekturen dokumentieren und kommunizieren_ (in German), 3rd ed., Carl Hanser Verlag, 2021.
