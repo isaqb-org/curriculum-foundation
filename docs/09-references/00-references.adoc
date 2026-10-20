@@ -54,8 +54,8 @@
 - [[[humble,Humble+2010]]] J. Humble and D. Farley, _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_, Pearson International, 2010.
 - [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2
 // I
-- [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
-- [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
+- [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force, "HTTP Semantics," RFC 9110. [Online]. Available: <https://www.rfc-editor.org/rfc/rfc9110.html>
+- [[[isaqbdownloads,iSAQB Downloads]]] "iSAQB public download site." [Online]. Available: <https://public.isaqb.org>. Contains curricula and mock-examination.
 - [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbglossary> or from its source repository, whose releases are considerably more up to date: <https://github.com/isaqb-org/glossary/releases>
 - [[[isaqbreferences,iSAQB References]]] G. Starke, P. Hruschka, C. Lilienthal, A. Rausch, and M. Harrer, _iSAQB References for Software Architecture_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbreferences>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
@@ -63,20 +63,20 @@
 - [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
 
 // I
-- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA). iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA)_, iSAQB e.V., 2023. [Online]. Available: <https://public.isaqb.org/curriculum-funar/>
 
 // K
 - [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
-- [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
-- [[[kruchten95, Kruchten 1995]]] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50
-- [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
+- [[[kleppmann,Kleppmann 2017]]] M. Kleppmann, _Designing Data-Intensive Applications_, O'Reilly, 2017.
+- [[[kruchten95, Kruchten 1995]]] P. Kruchten, "Architectural Blueprints—The ‘4+1’ View Model of Software Architecture," _IEEE Software_, vol. 12, no. 6, pp. 42–50, Nov. 1995.
+- [[[kruchten, Kruchten 2004]]] P. Kruchten, _The Rational Unified Process: An Introduction_, 3rd ed., Addison-Wesley Professional, 2004.
 
 // L
 - [[[lange21,Lange 2021]]] K. Lange, "The Functional Core, Imperative Shell Pattern," Mar. 27, 2021. [Online]. Available: <https://www.kennethlange.com/functional-core-imperative-shell/>
-- [[[lehman,Lehman 1980]]] Meir M. Lehman: Programs, Life Cycles, and Laws of Software Evolution. Proceedings of the IEEE, 68(9), 1060-1076, 1980.
-- [[[lehmanwiki,Wiki-LehmansLaws]]] Laws of Software Evolution. <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
-- [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
-- [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
+- [[[lehman,Lehman 1980]]] M. M. Lehman, "Programs, Life Cycles, and Laws of Software Evolution," _Proceedings of the IEEE_, vol. 68, no. 9, pp. 1060–1076, 1980.
+- [[[lehmanwiki,Wiki-LehmansLaws]]] "Lehman's laws of software evolution," _Wikipedia_. [Online]. Available: <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
+- [[[lilienthal,Lilienthal 2024]]] C. Lilienthal, _Langlebige Softwarearchitekturen_ (in German), 4th ed., dpunkt Verlag, 2024.
+- [[[lilienthal-en,Lilienthal 2019]]] C. Lilienthal, _Sustainable Software Architecture: Analyze and Reduce Technical Debt_, dpunkt Verlag, 2019.
 - [[[liskov,Liskov+1994]]] B. H. Liskov and J. M. Wing, "A behavioral notion of subtyping," _ACM Transactions on Programming Languages and Systems_, vol. 16, no. 6, 1994, doi: 10.1145/197320.197383.
 
 
