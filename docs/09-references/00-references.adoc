@@ -56,8 +56,8 @@
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
 - [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
-- [[[isaqbglossary,iSAQB Glossary]]] Gernot Starke et. al. iSAQB Glossary of Software Architecture Terminology. Freely available from https://leanpub.com/isaqbglossary or its source repository https://github.com/isaqb-org/glossary/releases
-- [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
+- [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbglossary> or from its source repository, whose releases are considerably more up to date: <https://github.com/isaqb-org/glossary/releases>
+- [[[isaqbreferences,iSAQB References]]] G. Starke, P. Hruschka, C. Lilienthal, A. Rausch, and M. Harrer, _iSAQB References for Software Architecture_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbreferences>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
 - [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
 - [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
@@ -66,13 +66,13 @@
 - [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA). iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
 
 // K
-- [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
+- [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
 - [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
 - [[[kruchten95, Kruchten 1995]]] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50
 - [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
 
 // L
-- [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
+- [[[lange21,Lange 2021]]] K. Lange, "The Functional Core, Imperative Shell Pattern," Mar. 27, 2021. [Online]. Available: <https://www.kennethlange.com/functional-core-imperative-shell/>
 - [[[lehman,Lehman 1980]]] Meir M. Lehman: Programs, Life Cycles, and Laws of Software Evolution. Proceedings of the IEEE, 68(9), 1060-1076, 1980.
 - [[[lehmanwiki,Wiki-LehmansLaws]]] Laws of Software Evolution. <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
 - [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
@@ -90,7 +90,7 @@
 - [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 
 // P
-- [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017.
+- [[[pethuru,Raj+2017]]] P. Raj, A. Raman, and H. Subramanian, _Architectural Patterns: Uncover Essential Patterns in the Most Indispensable Realm of Enterprise Architecture_, Packt Publishing, 2017.
 - [[[pohl,Pohl 2025]]] Klaus Pohl: Requirements Engineering - Fundamentals, Principles and Techniques. Springer 2025
 
 // Q
