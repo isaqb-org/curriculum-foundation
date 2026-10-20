@@ -32,26 +32,26 @@
 - [[[evans,Evans 2004]]] E. Evans, _Domain-Driven Design: Tackling Complexity in the Heart of Software_, Addison-Wesley, 2004.
 
 // F
-- [[[felleisenetal, Felleisen+2014]]] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <https://htdp.org/>
+- [[[felleisenetal, Felleisen+2014]]] M. Felleisen, R. B. Findler, M. Flatt, and S. Krishnamurthi, _How to Design Programs_, 2nd ed., MIT Press, 2014. [Online]. Available: <https://htdp.org/>
 
-- [[[ford,Ford+2023]]] Neil Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage: Building Evolutionary Architectures: Automated Software Governance, 2nd Edition, O'Reilly Media, 2023.
+- [[[ford,Ford+2023]]] N. Ford, R. Parsons, P. Kua, and P. Sadalage, _Building Evolutionary Architectures: Automated Software Governance_, 2nd ed., O'Reilly Media, 2023.
 
 - [[[fordhardparts,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
-- [[[fowler,Fowler 2002]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.
+- [[[fowler,Fowler 2002]]] M. Fowler, _Patterns of Enterprise Application Architecture_ (PoEAA), Addison-Wesley, 2002.
 
 // G
 
 - [[[ghandietal,Gandhi+2024]]] R. Gandhi, M. Richards, and N. Ford, _Head-First Software Architecture_, O'Reilly, 2024.
 - [[[gof,Gamma+1994]]] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
-- [[[geewax,Geewax 2021]]] J. Geewax. API Design Patterns. Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs. 
-- [[[geirhos,Geirhos 2015]]] Matthias Geirhos. Entwurfsmuster: Das umfassende Handbuch (in German). Rheinwerk Computing Verlag. 2015
-- [[[gharbietal,Gharbi+2024]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 5. Auflage, dpunkt Verlag, Heidelberg 2024.
-- [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
+- [[[geewax,Geewax 2021]]] J. Geewax, _API Design Patterns_, Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs. 
+- [[[geirhos,Geirhos 2015]]] M. Geirhos, _Entwurfsmuster: Das umfassende Handbuch_ (in German), Rheinwerk Computing Verlag, 2015.
+- [[[gharbietal,Gharbi+2024]]] M. Gharbi, A. Koschel, A. Rausch, and G. Starke, _Basiswissen Softwarearchitektur_ (in German), 5th ed. Heidelberg: dpunkt Verlag, 2024.
+- [[[Goll,Goll 2014]]] J. Goll, _Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java_ (in German), 2nd ed., Springer-Vieweg Verlag, 2014.
 
 // H
-- [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
-- [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
-- [[[humble,Humble+2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
+- [[[hohpe,Hohpe+2004]]] G. Hohpe and B. A. Woolf, _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004.
+- [[[hombergs,Hombergs 2024]]] T. Hombergs, _Get Your Hands Dirty on Clean Architecture_, 2nd ed., Packt, 2024.
+- [[[humble,Humble+2010]]] J. Humble and D. Farley, _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_, Pearson International, 2010.
 - [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
