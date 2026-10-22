@@ -1,6 +1,7 @@
 # 012 - Citation Key Standardization
 
 Modified November 28th 2024.
+Editorial correction October 23rd 2026.
 
 ## Status: Accepted 
 
@@ -27,6 +28,12 @@ This affects readability and synchronization between different iSAQB documents, 
 In a previous version the key for multiple authors plus year was `[Bass+ 2023]`, having a blank between the `+` and the year.
 This additional blank looked like a typo and does not look aesthetically pleasing.
 Therefore we decided to update this decision.
+
+### Editorial correction October 23rd 2026
+The example in section 3 ("Naming Rules") now reads `[Fowler 2003]` instead of `[Fowler 2002]`.
+The cited book, _Patterns of Enterprise Application Architecture_, carries the copyright year 2003, although it was released in November 2002.
+This correction only updates an example key to match the bibliography.
+It does not change the decision, so it does not call for retiring this ADR and replacing it with a new one.
 
 ## Decision
 
@@ -64,7 +71,7 @@ Where:
 
 ### 3. Naming Rules
 1. Author Names:
-   - Use surname only: "Martin Fowler" → [Fowler 2002]
+   - Use surname only: "Martin Fowler" → [Fowler 2003]
    - For multiple authors, use first author: "Gamma, Helm, Johnson, Vlissides" → [Gamma+1994]
    - Alternative known names allowed: "Gang of Four" → [GoF 1994]
    - For multiple works by same author/year, append lowercase letters (a, b, c...)

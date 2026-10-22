@@ -37,7 +37,7 @@
 - [[[ford,Ford+2023]]] N. Ford, R. Parsons, P. Kua, and P. Sadalage, _Building Evolutionary Architectures: Automated Software Governance_, 2nd ed., O'Reilly Media, 2023.
 
 - [[[fordhardparts,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
-- [[[fowler,Fowler 2002]]] M. Fowler, _Patterns of Enterprise Application Architecture_ (PoEAA), Addison-Wesley, 2002.
+- [[[fowler,Fowler 2003]]] M. Fowler, _Patterns of Enterprise Application Architecture_ (PoEAA), Addison-Wesley, 2003.
 
 // G
 
