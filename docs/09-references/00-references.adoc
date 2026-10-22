@@ -10,7 +10,7 @@
 
 // A
 - [[[aosa, AOSA]]] A. Brown and G. Wilson, Eds., _The Architecture of Open Source Applications_. [Online]. Available: https://aosabook.org/en/
-- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: https://arc42.org; Maintained on: https://github.com/arc42
+- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: <https://arc42.org>, maintained on <https://github.com/arc42>.
 - [[[archimate, ArchiMate]]] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: https://www.opengroup.org/archimate-forum/archimate-overview
 
 // B
@@ -52,7 +52,7 @@
 - [[[hohpe,Hohpe+2004]]] G. Hohpe and B. A. Woolf, _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004.
 - [[[hombergs,Hombergs 2024]]] T. Hombergs, _Get Your Hands Dirty on Clean Architecture_, 2nd ed., Packt, 2024.
 - [[[humble,Humble+2010]]] J. Humble and D. Farley, _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_, Pearson International, 2010.
-- [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2
+- [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _arc42 by Example - Volume 2: Architecture Documentation for Embedded Systems and IoT_, Leanpub, 2021. [Online]. Available: <https://leanpub.com/arc42byexample-volume2>
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force, "HTTP Semantics," RFC 9110. [Online]. Available: <https://www.rfc-editor.org/rfc/rfc9110.html>
 - [[[isaqbdownloads,iSAQB Downloads]]] "iSAQB public download site." [Online]. Available: <https://public.isaqb.org>. Contains curricula and mock-examination.
