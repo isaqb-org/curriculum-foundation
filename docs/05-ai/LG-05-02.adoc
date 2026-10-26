@@ -1,0 +1,28 @@
+// tag::DE[]
+[[LG-05-02]]
+==== LZ 05-02: Verifikation von KI-generierten Artefakten (R1, R2)
+
+Softwarearchitekt:innen:
+
+* können erklären, dass die Verantwortung für Entscheidungen und Artefakte bei Menschen verbleibt, auch wenn diese teilweise KI-generiert sind (R1)
+* können erklären, warum die Verifikation von KI-generiertem Output integraler Bestandteil des Entwicklungsprozesses sein muss, da solcher Output auf nicht-offensichtliche Weise inkorrekt sein kann (R1)
+* können Verifikationsansätze benennen, z. B. Code-Reviews, automatisierte Tests und Continuous Integration, statische Analyse und Typsysteme, szenariobasierte und formale Methoden (R2)
+* können die Risiken erklären, Review und Verifikation an ein LLM zu delegieren (R2)
+// end::DE[]
+
+// tag::EN[]
+[[LG-05-02]]
+==== LG 05-02: Verification of AI-generated artifacts (R1, R2)
+
+Software architects:
+
+* can explain that responsibility for decisions and artifacts remains with humans, even when these are partly AI-generated (R1)
+* can explain why verification of AI-generated output must be an integral part of the development process, since such output may be incorrect in non-obvious ways (R1)
+* can name verification approaches, e.g. code review, automated tests and continuous integration, static analysis and type systems, scenario-based and formal methods (R2)
+* can explain the risks of delegating review and verification to an LLM (R2)
+
+// end::EN[]
+
+===== {references}
+
+<<isaqbfm>>

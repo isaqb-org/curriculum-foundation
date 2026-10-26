@@ -1,0 +1,22 @@
+
+// tag::DE[]
+[[LG-05-01]]
+==== LZ 05-01: Über den Einsatz von KI in der Architekturarbeit entscheiden (R1, R2)
+
+Softwarearchitekt:innen:
+
+* können anhand benannter Kriterien entscheiden, ob und wie KI für eine gegebene Aufgabe eingesetzt wird, und dies als Architekturentscheidung begründen (R2)
+* können erklären, warum beim Delegieren von Aufgaben an Software-Agenten die Konsequenzen impliziter Annahmen verstärkt werden: Agenten können auf mehrdeutige, unvollständige oder widersprüchliche Anweisungen auf eine Art reagieren, wie es Menschen nicht tun würden (R1)
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-05-01]]
+==== LG 05-01: Deciding on the Use of AI in Architecture Work (R1, R2)
+
+Software architects:
+
+* can decide, based on stated criteria, whether and how to use AI for a given task, and justify this as an architectural decision (R2)
+* can explain why delegating tasks to AI agents amplifies the consequences of implicit assumptions: agents may act on ambiguous, incomplete, or contradictory instructions in ways a human would not (R1)
+
+// end::EN[]
