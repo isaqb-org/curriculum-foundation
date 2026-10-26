@@ -10,121 +10,121 @@
 
 // A
 - [[[aosa, AOSA]]] A. Brown and G. Wilson, Eds., _The Architecture of Open Source Applications_. [Online]. Available: https://aosabook.org/en/
-- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: https://arc42.org; Maintained on: https://github.com/arc42
+- [[[arc42, arc42]]] "arc42, the open-source template for software architecture communication." [Online]. Available: <https://arc42.org>, maintained on <https://github.com/arc42>.
 - [[[archimate, ArchiMate]]] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: https://www.opengroup.org/archimate-forum/archimate-overview
 
 // B
 - [[[bass,Bass+2021]]]  L. Bass, P. Clements, and R. Kazman, _Software Architecture in Practice_, 4th ed. Boston, MA, USA: Addison Wesley, 2021.
-- [[[brownc4,Brown]]] Simon Brown: The C4 model for visualising software architecture. <https://c4model.com> <https://www.infoq.com/articles/C4-architecture-model>.
-- [[[IREBFoundation, IREB Foundation]]] Stan Bühne, Martin Glinz, Hans van Loen, Stefan Staal: Certified Professional for Requirements Engineering - Foundation Level - Syllabus - Version 3.2.0, IREB, 2024.
-- [[[buschmanna,Buschmann+1996]]] Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal: Pattern-Oriented Software Architecture (POSA): A System of Patterns. Wiley, 1996.
-- [[[buschmannb,Buschmann+2007]]] Frank Buschmann, Kevlin Henney, Douglas C. Schmidt: Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing, Wiley, 2007.
+- [[[brownc4,Brown-C4]]] S. Brown, "The C4 model for visualising software architecture." [Online]. Available: <https://c4model.com>, <https://www.infoq.com/articles/C4-architecture-model>
+- [[[IREBFoundation, IREB Foundation]]] S. Bühne, M. Glinz, H. van Loen, and S. Staal, _Certified Professional for Requirements Engineering - Foundation Level - Syllabus_, Version 3.2.0, IREB, 2024.
+- [[[buschmanna,Buschmann+1996]]] F. Buschmann, R. Meunier, H. Rohnert, P. Sommerlad, and M. Stal, _Pattern-Oriented Software Architecture (POSA): A System of Patterns_, Wiley, 1996.
+- [[[buschmannb,Buschmann+2007]]] F. Buschmann, K. Henney, and D. C. Schmidt, _Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing_, Wiley, 2007.
 
 // C
-- [[[clementseval,Clements+2002]]] Paul Clements, Rick Kazman, Mark Klein: Evaluating Software Architectures. Methods and Case Studies. Addison Wesley, 2002.
-- [[[clementsdoc,Clements+2010]]] Paul Clements,  Felix Bachmann, Len Bass, David Garlan, David, James Ivers, Reed Little, Paulo Merson and Robert Nord: _Documenting Software Architectures: Views and Beyond_, 2nd edition, Addison Wesley, 2010
-- [[[cncf, CloudNative]]] The Cloud Native Computing Foundation, online: https://www.cncf.io/
+- [[[clementseval,Clements+2002]]] P. Clements, R. Kazman, and M. Klein, _Evaluating Software Architectures: Methods and Case Studies_, Addison Wesley, 2002.
+- [[[clementsdoc,Clements+2010]]] P. Clements et al., _Documenting Software Architectures: Views and Beyond_, 2nd ed., Addison Wesley, 2010.
+- [[[cncf, CNCF]]] The Cloud Native Computing Foundation. [Online]. Available: <https://www.cncf.io/>
 
 // E
-- [[[eilebrecht,Eilebrecht+2024]]] Karl Eilebrecht, Gernot Starke: Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung (in German). 6th Edition Springer Verlag 2024.
+- [[[eilebrecht,Eilebrecht+2024]]] K. Eilebrecht and G. Starke, _Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung_ (in German), 6th ed., Springer Verlag, 2024.
 
-- [[[erd,Chen 1976]]]  Chen, Peter (March 1976): _The Entity-Relationship Model - Toward a Unified View of Data_. ACM Transactions on Database Systems. 1 (1): 9–36..
-- [[[evans,Evans 2004]]] Eric Evans: _Domain-Driven Design: Tackling Complexity in the Heart of Software,_ Addison-Wesley, 2004.
+- [[[erd,Chen 1976]]]  P. Chen, "The Entity-Relationship Model: Toward a Unified View of Data," _ACM Transactions on Database Systems_, vol. 1, no. 1, pp. 9–36, Mar. 1976.
+- [[[evans,Evans 2004]]] E. Evans, _Domain-Driven Design: Tackling Complexity in the Heart of Software_, Addison-Wesley, 2004.
 
 // F
-- [[[felleisenetal, Felleisen+2014]]] Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi: How to Design Programs.  Second Edition.  MIT Press, 2014. <https://htdp.org/>
+- [[[felleisenetal, Felleisen+2014]]] M. Felleisen, R. B. Findler, M. Flatt, and S. Krishnamurthi, _How to Design Programs_, 2nd ed., MIT Press, 2014. [Online]. Available: <https://htdp.org/>
 
-- [[[ford,Ford+2023]]] Neil Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage: Building Evolutionary Architectures: Automated Software Governance, 2nd Edition, O'Reilly Media, 2023.
+- [[[ford,Ford+2023]]] N. Ford, R. Parsons, P. Kua, and P. Sadalage, _Building Evolutionary Architectures: Automated Software Governance_, 2nd ed., O'Reilly Media, 2023.
 
 - [[[fordhardparts,Ford+2021]]] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, _Software Architecture: The Hard Parts_. Sebastopol, CA, USA: O'Reilly Media, 2021.
-- [[[fowler,Fowler 2002]]] Martin Fowler: Patterns of Enterprise Application Architecture. (PoEAA) Addison-Wesley, 2002.
+- [[[fowler,Fowler 2003]]] M. Fowler, _Patterns of Enterprise Application Architecture_ (PoEAA), Addison-Wesley, 2003.
 
 // G
 
-- [[[ghandietal,Ghandi+2024]]] Raju Gandhi, Mark Richards and Neal Ford. Head-First Software Architecture. OReilly 2024.
-- [[[gof,Gamma+ 1994]]] Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides. Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley. 1994.
-- [[[geewax,Geewax 2021]]] J. Geewax. API Design Patterns. Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs. 
-- [[[geirhos,Geirhos 2015]]] Matthias Geirhos. Entwurfsmuster: Das umfassende Handbuch (in German). Rheinwerk Computing Verlag. 2015
-- [[[gharbietal,Gharbi+2024]]] Mahbouba Gharbi, Arne Koschel, Andreas Rausch, Gernot Starke: Basiswissen Softwarearchitektur. 5. Auflage, dpunkt Verlag, Heidelberg 2024.
-- [[[Goll,Goll 2014]]] Joachim Goll: Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java (in German). Springer-Vieweg Verlag, 2. Auflage 2014.
+- [[[ghandietal,Gandhi+2024]]] R. Gandhi, M. Richards, and N. Ford, _Head-First Software Architecture_, O'Reilly, 2024.
+- [[[gof,Gamma+1994]]] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison-Wesley, 1994.
+- [[[geewax,Geewax 2021]]] J. Geewax, _API Design Patterns_, Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs. 
+- [[[geirhos,Geirhos 2015]]] M. Geirhos, _Entwurfsmuster: Das umfassende Handbuch_ (in German), Rheinwerk Computing Verlag, 2015.
+- [[[gharbietal,Gharbi+2024]]] M. Gharbi, A. Koschel, A. Rausch, and G. Starke, _Basiswissen Softwarearchitektur_ (in German), 5th ed. Heidelberg: dpunkt Verlag, 2024.
+- [[[Goll,Goll 2014]]] J. Goll, _Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java_ (in German), 2nd ed., Springer-Vieweg Verlag, 2014.
 
 // H
-- [[[hohpe,Hohpe+2004]]] Hohpe, G. and WOOLF, B.A.: _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004
-- [[[hombergs,Hombergs 2024]]] Hombergs, Tom: Get Your Hands Dirty on Clean Architecture, Packt, 2nd edition 2024.
-- [[[humble,Humble+2010]]] Jez Humble, David Farley. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Pearson International, 2010
-- [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _Arc42 by Example Volume 2: Architecture Documentation for Embedded Systems and IoT_. Victoria, BC, Canada: Leanpub, 2021. [Online]. Available: https://leanpub.com/arc42byexample-volume2
-
+- [[[hohpe,Hohpe+2004]]] G. Hohpe and B. A. Woolf, _Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions_, Addison-Wesley Professional, 2004.
+- [[[hombergs,Hombergs 2024]]] T. Hombergs, _Get Your Hands Dirty on Clean Architecture_, 2nd ed., Packt, 2024.
+- [[[humble,Humble+2010]]] J. Humble and D. Farley, _Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation_, Pearson International, 2010.
+- [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _arc42 by Example - Volume 2: Architecture Documentation for Embedded Systems and IoT_, Leanpub, 2021. [Online]. Available: <https://leanpub.com/arc42byexample-volume2>
 // I
-- [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force: RFC 9110, HTTP Semantics. Online: https://www.rfc-editor.org/rfc/rfc9110.html
-- [[[isaqbdownloads,iSAQB Downloads]]] iSAQB public download site.  https://public.isaqb.org. Contains curricula and mock-examination.
-- [[[isaqbglossary,iSAQB Glossary]]] Gernot Starke et. al. iSAQB Glossary of Software Architecture Terminology. Freely available from https://leanpub.com/isaqbglossary or its source repository https://github.com/isaqb-org/glossary/releases
-- [[[isaqbreferences,iSAQB References]]] Gernot Starke et. al. Annotated collection of Software Architecture References, for Foundation and Advanced Level Curricula. Freely available https://leanpub.com/isaqbreferences.
-- [[[isaqbagenta, iSAQB AGENTA]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: AGENTA - Architecture for Agentic Software Engineering Contexts. iSAQB e.V., 2026. online: <https://public.isaqb.org/curriculum-agenta/>
-- [[[isaqbfm, iSAQB FM]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods. iSAQB e.V., 2024. online: <https://public.isaqb.org/curriculum-fm/>
-- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture. iSAQB e.V., 2023. online: <https://public.isaqb.org/curriculum-funar/>
-- [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V. Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems. iSAQB e.V., 2026. online: <https://public.isaqb.org/curriculum-swarc4ai/>
-- [[[iso25010, ISO 25010]]] ISO/IEC 25010:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en>
-- [[[iso25019, ISO 25019]]] ISO/IEC 25019:2023(en) Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model. Terms and definitions online: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en>
-- [[[iso42010,ISO 42010]]] ISO/IEC/IEEE 42010:2022, Software, systems and enterprise Architecture description, online: <https://www.iso.org/standard/74393.html>
+- [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force, "HTTP Semantics," RFC 9110. [Online]. Available: <https://www.rfc-editor.org/rfc/rfc9110.html>
+- [[[isaqbagenta, iSAQB AGENTA]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: AGENTA - Architecture for Agentic Software Engineering Contexts_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-agenta/>
+- [[[isaqbdownloads,iSAQB Downloads]]] "iSAQB public download site." [Online]. Available: <https://public.isaqb.org>. Contains curricula and mock-examination.
+- [[[isaqbfm, iSAQB FM]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods_, iSAQB e.V., 2024. [Online]. Available: <https://public.isaqb.org/curriculum-fm/>
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture_, iSAQB e.V., 2023. [Online]. Available: <https://public.isaqb.org/curriculum-funar/>
+- [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbglossary> or from its source repository, whose releases are considerably more up to date: <https://github.com/isaqb-org/glossary/releases>
+- [[[isaqbreferences,iSAQB References]]] G. Starke, P. Hruschka, C. Lilienthal, A. Rausch, and M. Harrer, _iSAQB References for Software Architecture_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbreferences>
+- [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-swarc4ai/>
+- [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
+- [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
+- [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
 
 // K
-- [[[keeling,Keeling 2017]]] Michael Keeling. Design It!: From Programmer to Software Architect. Pragmatic Programmer.
-- [[[kleppmann,Kleppmann 2017]]] Martin Kleppmann: Designing Data-Intensive Applications. O'Reilly 2017.
-- [[[kruchten95, Kruchten 1995]]] Philippe Kruchten: Architectural Blueprints—The “4+1” View Model of Software Architecture, IEEE Software 12 (6), November 1995, pp. 42-50
-- [[[kruchten, Kruchten 2004]]] Philippe Kruchten: The Rational Unified Process: An Introduction. 3rd edition.  Addison-Wesley Professional 2004.
+- [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
+- [[[kleppmann,Kleppmann 2017]]] M. Kleppmann, _Designing Data-Intensive Applications_, O'Reilly, 2017.
+- [[[kruchten95, Kruchten 1995]]] P. Kruchten, "Architectural Blueprints—The ‘4+1’ View Model of Software Architecture," _IEEE Software_, vol. 12, no. 6, pp. 42–50, Nov. 1995.
+- [[[kruchten, Kruchten 2004]]] P. Kruchten, _The Rational Unified Process: An Introduction_, 3rd ed., Addison-Wesley Professional, 2004.
 
 // L
-- [[[lange21,Lange 2021]]] Kenneth Lange: The Functional Core, Imperative Shell Pattern, online: <https://www.kennethlange.com/functional-core-imperative-shell/>
-- [[[lehman,Lehman 1980]]] Meir M. Lehman: Programs, Life Cycles, and Laws of Software Evolution. Proceedings of the IEEE, 68(9), 1060-1076, 1980.
-- [[[lehmanwiki,Wiki-LehmansLaws]]] Laws of Software Evolution. <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
-- [[[lilienthal,Lilienthal 2024]]] Carola Lilienthal: Langlebige Softwarearchitekuren. 4. Auflage, dpunkt Verlag 2024.
-- [[[lilienthal-en,Lilienthal 2019]]] Carola Lilienthal: Sustainable Software Architecture: Analyze and Reduce Technical Debt. dpunkt Verlag 2019.
-- [[[link2025,Link 2025]]] Johannes Link: To Gen or Not To Gen: The Ethical Use of Generative AI. 2025. <https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/>
-- [[[liskov,Liskov 1994]]] Barbara H. Liskov, Jeannette M. Wing: A behavioral notion of subtyping. ACM Transactions on Programming Languages and Systems, Volume 16, Issue 6, 1994. <doi:10.1145/197320.197383>
+- [[[lange21,Lange 2021]]] K. Lange, "The Functional Core, Imperative Shell Pattern," Mar. 27, 2021. [Online]. Available: <https://www.kennethlange.com/functional-core-imperative-shell/>
+- [[[lehman,Lehman 1980]]] M. M. Lehman, "Programs, Life Cycles, and Laws of Software Evolution," _Proceedings of the IEEE_, vol. 68, no. 9, pp. 1060–1076, 1980.
+- [[[lehmanwiki,Wiki-LehmansLaws]]] "Lehman's laws of software evolution," _Wikipedia_. [Online]. Available: <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
+- [[[lilienthal,Lilienthal 2024]]] C. Lilienthal, _Langlebige Softwarearchitekturen_ (in German), 4th ed., dpunkt Verlag, 2024.
+- [[[lilienthal-en,Lilienthal 2019]]] C. Lilienthal, _Sustainable Software Architecture: Analyze and Reduce Technical Debt_, dpunkt Verlag, 2019.
+- [[[link2025,Link 2025]]] J. Link, "To Gen or Not To Gen: The Ethical Use of Generative AI," Nov. 4, 2025. [Online]. Available: <https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/>
+- [[[liskov,Liskov+1994]]] B. H. Liskov and J. M. Wing, "A behavioral notion of subtyping," _ACM Transactions on Programming Languages and Systems_, vol. 16, no. 6, 1994, doi: 10.1145/197320.197383.
 
 
 // M
-- [[[maguire, Maguire 2019]]] Sandy Maguire: Algebra-Driven Design - Elegant Solutions from Simple Building Blocks.  Leanpub, 2019.
+- [[[maguire, Maguire 2023]]] S. Maguire, _Algebra-Driven Design: Elegant Solutions from Simple Building Blocks_, Leanpub, 2023. [Online]. Available: <https://leanpub.com/algebra-driven-design>
 
 // N
-- [[[newman,Newman 2021]]] Sam Newman. Building Microservices - Designing Fine-Grained Systems. O'Reilly 2nd edition 2021.
-- [[[north-cupid,Terhorst-North 2022]]] Daniel Terhorst-North: CUPID - for joyful coding. See <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>.
+- [[[newman,Newman 2021]]] S. Newman, _Building Microservices: Designing Fine-Grained Systems_, 2nd ed., O'Reilly, 2021.
+- [[[north-cupid,Terhorst-North 2022]]] D. Terhorst-North, "CUPID: for joyful coding." [Online]. Available: <https://dannorth.net/2022/02/10/cupid-for-joyful-coding/>
 
-- [[[nygard,Nygard 2011]]] Michael Nygard: Documenting Architecture Decision. <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
+- [[[nygard,Nygard 2011]]] M. Nygard, "Documenting Architecture Decisions." [Online]. Available: <https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions>. See also <https://adr.github.io/>
 
 // P
-- [[[pethuru,Pethuru 2017]]] Raj Pethuru et. al: Architectural Patterns. Packt 2017.
-- [[[pohl,Pohl 2025]]] Klaus Pohl: Requirements Engineering - Fundamentals, Principles and Techniques. Springer 2025
+- [[[pethuru,Raj+2017]]] P. Raj, A. Raman, and H. Subramanian, _Architectural Patterns: Uncover Essential Patterns in the Most Indispensable Realm of Enterprise Architecture_, Packt Publishing, 2017.
+- [[[pohl,Pohl 2025]]] K. Pohl, _Requirements Engineering: Fundamentals, Principles and Techniques_, 2nd ed., Springer, 2025.
 
 // Q
-- [[[q42,Q42]]] arc42 Quality Model, online: <https://quality.arc42.org>.
+- [[[q42,Q42]]] "arc42 Quality Model." [Online]. Available: <https://quality.arc42.org>
 
 // R
-- [[[rajlich,Rajlich+2000]]] Václav T. Rajlich, Keith H. Bennett: A Staged Model for the Software Life Cycle. IEEE Computer 33(7): 66-71, 2000.
-- [[[readcommunication,Read 2023]]] Jacqui Read: Communication Patterns - An Engineering Approach. A Guide for Developers and Architects. OReilly 2023.
-- [[[richardsfundamentals,Richards+2020]]] Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. OReilly 2020.
-- [[[rozanskiwoods, Rozanski+2011]]] Nick Rozanski, Eoin Woods: Software Systems Architecture - Working With Stakeholders Using Viewpoints and Perspectives. Addison-Wesley, 2nd edition 2011.
+- [[[rajlich,Rajlich+2000]]] V. T. Rajlich and K. H. Bennett, "A Staged Model for the Software Life Cycle," _IEEE Computer_, vol. 33, no. 7, pp. 66–71, 2000.
+- [[[readcommunication,Read 2023]]] J. Read, _Communication Patterns: A Guide for Developers and Architects_, O'Reilly, 2023.
+- [[[richardsfundamentals,Richards+2020]]] M. Richards and N. Ford, _Fundamentals of Software Architecture: An Engineering Approach_, O'Reilly, 2020.
+- [[[rozanskiwoods, Rozanski+2011]]] N. Rozanski and E. Woods, _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, 2nd ed., Addison-Wesley, 2011.
 
 // S
-- [[[solid, SOLID]]] Samuel Oloruntoba and Anish Singh Walia: SOLID: The First 5 Principles of Object Oriented Design, <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>.
-- [[[sperberklaeren, Sperber+2023]]] Michael Sperber, Herber  Klaeren: Schreibe Dein Programm!  Tübingen University Press, 2023.  <https://www.deinprogramm.de/sdp/>.
-- [[[sperberwehr, Sperber+2024]]] Michael Sperber, Stefan Wehr: Datenmodellierung mit Summen und Produkten, 2024.  <https://funktionale-programmierung.de/2024/11/25/sums-products.html>. (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
-- [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen - Ein praktischer Leitfaden_, 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: https://esabuch.de
-- [[[quality-driven-software-architecture,Starke 2021]]] G. Starke, _Quality Driven Software Architecture - Revised_, 2021. <https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/>
-- [[[starkelorz, Starke+2023a]]] Gernot Starke, Alexander Lorz: Software Architecture Foundation, CPSA Foundation® Exam Preparation. Van Haren Publishing, 2nd edition, 2023.
-- [[[starkeetalarc42, Starke+2023b]]] Gernot Starke, Michael Simons, Stefan Zörner, Ralf D. Müller, and Hendrik Lösch: arc42-by-Example - Software Architecture Documentation in Practice. Leanpub, 3rd edition 2023. https://leanpub.com/arc42byexample
-- [[[sysml,SysML]]] What is SysML <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
+- [[[solid, SOLID]]] S. Oloruntoba and A. S. Walia, "SOLID: The First 5 Principles of Object Oriented Design." [Online]. Available: <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
+- [[[sperberklaeren, Sperber+2023]]] M. Sperber and H. Klaeren, _Schreibe Dein Programm!_ (in German), Tübingen University Press, 2023. [Online]. Available: <https://www.deinprogramm.de/sdp/>
+- [[[sperberwehr, Sperber+2024]]] M. Sperber and S. Wehr, "Datenmodellierung mit Summen und Produkten" (in German), 2024. [Online]. Available: <https://funktionale-programmierung.de/2024/11/25/sums-products.html> (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
+- [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen: Ein praktischer Leitfaden_ (in German), 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <https://esabuch.de>
+- [[[quality-driven-software-architecture,Starke 2021]]] G. Starke, "Quality Driven Software Architecture - Revised," 2021. [Online]. Available: <https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/>
+- [[[starkelorz, Starke+2023a]]] G. Starke and A. Lorz, _Software Architecture Foundation: CPSA Foundation® Exam Preparation_, 2nd ed., Van Haren Publishing, 2023.
+- [[[starkeetalarc42, Starke+2023b]]] G. Starke, M. Simons, S. Zörner, R. D. Müller, and H. Lösch, _arc42-by-Example: Software Architecture Documentation in Practice_, 3rd ed., Leanpub, 2023. [Online]. Available: <https://leanpub.com/arc42byexample>
+- [[[sysml,SysML]]] "What is SysML." [Online]. Available: <https://sysml.org/>. For diagrams, see also <https://sysml.org/tutorials/sysml-diagram-tutorial/>.
+
 
 
 // T
 
 // U
-- [[[uml,UML]]] The UML reading room, collection of UML resources <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
+- [[[uml,UML]]] "The UML reading room," collection of UML resources. [Online]. Available: <https://www.omg.org/technology/readingroom/UML.htm>. See also <https://www.uml-diagrams.org/>.
 
 
 // Y
-- [[[yorgey,Yorgey 2012]]] Brent A. Yorgey, Monoids: Theme and Variations. Proceedings of the 2012 Haskell Symposium, September 2012 <https://doi.org/10.1145/2364506.2364520>
+- [[[yorgey,Yorgey 2012]]] B. A. Yorgey, "Monoids: Theme and Variations," in _Proc. 2012 Haskell Symposium_, Sep. 2012, doi: <https://doi.org/10.1145/2364506.2364520>
 
 // Z
-- [[[zimmermann-api,Zimmermann+2022]]] Olaf Zimmermann, Mirko Stocker, Daniel Lübke, Uwe Zdun, Cesare Pautasso: Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges. Addison-Wesley, 2022.
-- [[[zoerner,Zörner 2021]]] Stefan Zörner: Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag, 2021.
+- [[[zimmermann-api,Zimmermann+2022]]] O. Zimmermann, M. Stocker, D. Lübke, U. Zdun, and C. Pautasso, _Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges_, Addison-Wesley, 2022.
+- [[[zoerner,Zörner 2021]]] S. Zörner, _Softwarearchitekturen dokumentieren und kommunizieren_ (in German), 3rd ed., Carl Hanser Verlag, 2021.
