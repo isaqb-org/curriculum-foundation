@@ -14,7 +14,7 @@ Die Architektur von KI-basierten System wird vom Advanced-Level-Modul SWARC4AI <
 
 ===	Wesentliche Begriffe
 
-LLM, KI-Agent, KI-generierter Output
+LLM, Software-Agent (z. B. Coding-Agent), KI-generierter Output
 
 // end::DE[]
 
@@ -34,7 +34,7 @@ The architecture of AI-based systems is covered by Advanced Level module SWARC4A
 
 === Relevant Terms
 
-LLM, AI agent, AI-generated output
+LLM, AI agent (e.g. coding agent), AI-generated output
 
 // end::EN[]
 

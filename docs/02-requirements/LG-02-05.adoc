@@ -8,7 +8,7 @@ Softwarearchitekt:innen:
 * können Annahmen oder Voraussetzungen explizit darstellen und dadurch implizite Annahmen vermeiden (R1)
 * wissen, dass implizite Annahmen potenzielle Missverständnisse zwischen beteiligten Stakeholdern bewirken (R1)
 * können explizite Spezifikationen von Anforderungen, Randbedingungen, Grenzfällen, unzulässigen Aktionen und Eskalationspfaden schreiben, und behandeln dies als architektonische Verantwortlichkeit (R2) 
-* verstehen, dass gute Spezifikationen eindeutige, allgemeine Beschreibungen gewünschten Verhaltens enthalten - nicht nur Beispiele (R1)
+* können erklären, warum gute Spezifikationen eindeutige, allgemeine Beschreibungen gewünschten Verhaltens enthalten - nicht nur Beispiele (R1)
 
 // end::DE[]
 
@@ -21,6 +21,6 @@ Software architects:
 * can make assumptions explicit and thus avoid implicit assumptions (R1)
 * know that implicit assumptions can lead to misunderstandings between stakeholders (R1)
 * can write explicit specifications of requirements, constraints, edge cases, forbidden actions, and escalation paths, and treat this as an architectural responsibility (R2)
-* understand that good specifications contain unambiguous, general descriptions of the desired behavior - not merely examples (R1)
+* can explain why good specifications contain unambiguous, general descriptions of the desired behavior - not merely examples (R1)
 
 // end::EN[]
