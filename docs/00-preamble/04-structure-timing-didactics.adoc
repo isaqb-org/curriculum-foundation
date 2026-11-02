@@ -19,15 +19,15 @@ Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übun
 
 | 4. Beschreibung und Kommunikation | 240
 
-| 5. Analyse und Bewertung | 90
+| 5. Einsatz und Risiken von Künstlicher Intelligenz | 60
 
 | 6. Beispiele | 90
 
-| Summe | 1080
+| Summe | 1050
 
 |===
 
-Die Summe der empfohlenen Zeiten (1080 Minuten bzw. 18 Stunden) entspricht bereits der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten).
+Die Summe der empfohlenen Zeiten (1050 Minuten bzw. 17,5 Stunden) entspricht nahezu der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten = 1080 Minuten).
 Pausen, über Curriculum-Inhalte hinausgehende Diskussionen und Pufferzeiten sind darin nicht enthalten und müssen von Schulungsanbietern zusätzlich eingeplant werden.
 
 // end::DE[]
@@ -54,15 +54,15 @@ The types (domains and technologies) of examples and exercises can be determined
 
 | 4. Specification and Communication | 240
 
-| 5. Analysis and Assessment | 90
+| 5. Use and Risks of Artificial Intelligence | 60
 
 | 6. Examples | 90
 
-| Total | 1080
+| Total | 1050
 
 |===
 
-The sum of recommended durations (1080 minutes, or 18 hours) already equals the net teaching time of a three-day course (3 days of 4 × 90-minute sessions). Breaks, discussions beyond the scope of the curriculum, and buffer time are not included and must be planned for separately by training providers.
+The sum of recommended durations (1050 minutes, or 17.5 hours) almost equals the net teaching time of a three-day course (3 days of 4 × 90-minute sessions = 1080 minutes). Breaks, discussions beyond the scope of the curriculum, and buffer time are not included and must be planned for separately by training providers.
 
 // end::EN[]
 

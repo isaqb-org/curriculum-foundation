@@ -1,0 +1,25 @@
+// tag::DE[]
+[[LG-05-03]]
+==== LZ 05-03: Risiken, ethische und gesellschaftliche Externalitäten erkennen (R2, R3)
+
+Softwarearchitekt:innen:
+
+* können Risiken des KI-Einsatzes benennen: rechtliche Risiken bezüglich des geistigen Eigentums, Offenlegung von Quellcode, Dokumentation oder Daten gegenüber externen Modellanbietern, Sicherheitsrisiken wie Prompt Injection, Abbau kritischer Fähigkeiten und Störung von Lernprozessen sowie Abhängigkeiten von einer kleinen Gruppe von Anbietern und von bestimmten Modellen, die verändert oder abgekündigt werden können (R2)
+* können die gesellschaftlichen Externalitäten von KI-Infrastruktur beschreiben: Energie/CO~2~, Druck auf den Arbeitsmarkt, Disruption von Open-Source- und Internet-Ökosystemen, Modell-Bias in öffentlicher Infrastruktur, politische Destabilisierung (R3)
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-05-03]]
+==== LG 05-03: Recognize the risks, ethical and societal externalities of AI (R2, R3)
+
+Software architects:
+
+* can name risks of AI use: IP/legal risks, disclosure of source code, documentation, or data to third-party model providers, security risks such as prompt injection, degradation of critical skills and disruption of learning processes, and dependencies on a small number of providers and on specific models that may be changed or withdrawn (R2)
+* can describe the societal externalities of AI infrastructure: energy/CO~2~, labor-market pressure, disruption of open-source and internet ecosystems, model bias in public infrastructure, political destabilization (R3)
+
+// end::EN[]
+
+===== {references}
+
+<<link2025>>

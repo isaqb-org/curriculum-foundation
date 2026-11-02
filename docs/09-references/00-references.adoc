@@ -55,15 +55,16 @@
 - [[[hruschkaetalarc42, Hruschka+2021]]] P. Hruschka, I. Kostov, and W. Reimesch, _arc42 by Example - Volume 2: Architecture Documentation for Embedded Systems and IoT_, Leanpub, 2021. [Online]. Available: <https://leanpub.com/arc42byexample-volume2>
 // I
 - [[[ietf-http,IETF HTTP]]] Internet Engineering Task Force, "HTTP Semantics," RFC 9110. [Online]. Available: <https://www.rfc-editor.org/rfc/rfc9110.html>
+- [[[isaqbagenta, iSAQB AGENTA]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: AGENTA - Architecture for Agentic Software Engineering Contexts_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-agenta/>
 - [[[isaqbdownloads,iSAQB Downloads]]] "iSAQB public download site." [Online]. Available: <https://public.isaqb.org>. Contains curricula and mock-examination.
+- [[[isaqbfm, iSAQB FM]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods_, iSAQB e.V., 2024. [Online]. Available: <https://public.isaqb.org/curriculum-fm/>
+- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture_, iSAQB e.V., 2023. [Online]. Available: <https://public.isaqb.org/curriculum-funar/>
 - [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbglossary> or from its source repository, whose releases are considerably more up to date: <https://github.com/isaqb-org/glossary/releases>
 - [[[isaqbreferences,iSAQB References]]] G. Starke, P. Hruschka, C. Lilienthal, A. Rausch, and M. Harrer, _iSAQB References for Software Architecture_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbreferences>
+- [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-swarc4ai/>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
 - [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
 - [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
-
-// I
-- [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA)_, iSAQB e.V., 2023. [Online]. Available: <https://public.isaqb.org/curriculum-funar/>
 
 // K
 - [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
@@ -77,6 +78,7 @@
 - [[[lehmanwiki,Wiki-LehmansLaws]]] "Lehman's laws of software evolution," _Wikipedia_. [Online]. Available: <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
 - [[[lilienthal,Lilienthal 2024]]] C. Lilienthal, _Langlebige Softwarearchitekturen_ (in German), 4th ed., dpunkt Verlag, 2024.
 - [[[lilienthal-en,Lilienthal 2019]]] C. Lilienthal, _Sustainable Software Architecture: Analyze and Reduce Technical Debt_, dpunkt Verlag, 2019.
+- [[[link2025,Link 2025]]] J. Link, "To Gen or Not To Gen: The Ethical Use of Generative AI," Nov. 4, 2025. [Online]. Available: <https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/>
 - [[[liskov,Liskov+1994]]] B. H. Liskov and J. M. Wing, "A behavioral notion of subtyping," _ACM Transactions on Programming Languages and Systems_, vol. 16, no. 6, 1994, doi: 10.1145/197320.197383.
 
 
