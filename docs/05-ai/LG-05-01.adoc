@@ -6,7 +6,7 @@
 Softwarearchitekt:innen:
 
 * können anhand benannter Kriterien entscheiden, ob und wie KI für eine gegebene Aufgabe eingesetzt wird, und dies als Architekturentscheidung begründen (R2)
-* können erklären, warum beim Delegieren von Aufgaben an Software-Agenten die Konsequenzen impliziter Annahmen verstärkt werden: Agenten können auf mehrdeutige, unvollständige oder widersprüchliche Anweisungen auf eine Art reagieren, wie es Menschen nicht tun würden (R1)
+* können erklären, warum beim Delegieren von Aufgaben an KI-Agenten die Konsequenzen impliziter Annahmen verstärkt werden: Agenten können auf mehrdeutige, unvollständige oder widersprüchliche Anweisungen auf eine Art reagieren, wie es Menschen nicht tun würden (R1)
 
 // end::DE[]
 

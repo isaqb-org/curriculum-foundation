@@ -1,11 +1,12 @@
 
 // tag::DE[]
+== Einsatz und Risiken von Künstlicher Intelligenz
 
 |===
 | Dauer: 60 Min. | Übungszeit: 0 Min.
 |===
 
-=== Purpose
+=== Zielsetzung
 
 Ziel dieses Abschnitts ist es, den Teilnehmer:innen ein grundlegendes Verständnis der Verwendung künstlicher Intelligenz zur Unterstützung von Architekturarbeit zu vermitteln.
 Der Abschnitt deckt den Einfluss von KI-generierten Artefakten auf die Qualität ab und die Wichtigkeit, KI-generierten Output zu verifizieren, sowie die systemischen Risiken von KI und ihre ethischen und gesellschaftlichen Externalitäten.
@@ -14,7 +15,7 @@ Die Architektur von KI-basierten System wird vom Advanced-Level-Modul SWARC4AI <
 
 ===	Wesentliche Begriffe
 
-LLM, Software-Agent (z. B. Coding-Agent), KI-generierter Output
+LLM, KI-Agent (z. B. Coding-Agent), KI-generierter Output
 
 // end::DE[]
 

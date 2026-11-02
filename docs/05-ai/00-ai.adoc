@@ -1,5 +1,5 @@
 // header file for curriculum section 5:
-// Documentation and Communication
+// Use and Risks of Artificial Intelligence
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 

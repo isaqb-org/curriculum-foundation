@@ -12,7 +12,7 @@ Softwarearchitekt:innen:
 
 // tag::EN[]
 [[LG-05-02]]
-==== LG 05-02: Verification of AI-generated artifacts (R1, R2)
+==== LG 05-02: Verification of AI-generated Artifacts (R1, R2)
 
 Software architects:
 
