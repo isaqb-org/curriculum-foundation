@@ -235,8 +235,8 @@ image:./documentation/release-process/release-process-2025.drawio.png[graphical 
     | 8 weeks | RD - 7M, Sept 1st 2026
 | 7 | When all changes are included and finalized, a new version of the curriculum is generated (in both EN and DE language) - but not yet made mandatory! All training providers and trainers shall be notified of this update.
 
-**This new version is published as _draft_ on the isaqb-org.github.io website.**
-    | 4 weeks | RD - 6M, Oct 1st 2026
+**This new version is published as _draft_ (RC-1) on the isaqb-org.github.io website.**
+    | 4 weeks | RD - 6M, Nov 10th 2026
 | 4, 6 & 7 | Minor corrections, hotfixes | continuously |
 | 8 | FLWG determines which exam questions are affected by the changes in curriculum and updates the exam questions accordingly. Changes to questions are reviewed internally. This will need at least three Independent reviewers| 8 weeks |
 | 9 | Finalized questions are transformed into pdf/xml and/or other formats, appropriately labelled and securely transmitted to both EP and iSAQB GmbH (to allow translation to languages other than DE and EN)
