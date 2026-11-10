@@ -59,8 +59,7 @@
 - [[[isaqbdownloads,iSAQB Downloads]]] "iSAQB public download site." [Online]. Available: <https://public.isaqb.org>. Contains curricula and mock-examination.
 - [[[isaqbfm, iSAQB FM]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods_, iSAQB e.V., 2024. [Online]. Available: <https://public.isaqb.org/curriculum-fm/>
 - [[[isaqbfunar, iSAQB FUNAR]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture_, iSAQB e.V., 2023. [Online]. Available: <https://public.isaqb.org/curriculum-funar/>
-- [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbglossary> or from its source repository, whose releases are considerably more up to date: <https://github.com/isaqb-org/glossary/releases>
-- [[[isaqbreferences,iSAQB References]]] G. Starke, P. Hruschka, C. Lilienthal, A. Rausch, and M. Harrer, _iSAQB References for Software Architecture_, Leanpub, 2020. [Online]. Available: <https://leanpub.com/isaqbreferences>
+- [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020-2026. [Online]. <https://github.com/isaqb-org/glossary/releases>
 - [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-swarc4ai/>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
 - [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
@@ -96,7 +95,7 @@
 - [[[pohl,Pohl 2025]]] K. Pohl, _Requirements Engineering: Fundamentals, Principles and Techniques_, 2nd ed., Springer, 2025.
 
 // Q
-- [[[q42,Q42]]] "arc42 Quality Model." [Online]. Available: <https://quality.arc42.org>
+- [[[q42,Q42]]] "arc42 Quality Model." [Online]. Available: <https://quality.arc42.org>. Pragmatic (and open-source) alternative to <<iso25010>>.
 
 // R
 - [[[rajlich,Rajlich+2000]]] V. T. Rajlich and K. H. Bennett, "A Staged Model for the Software Life Cycle," _IEEE Computer_, vol. 33, no. 7, pp. 66–71, 2000.
