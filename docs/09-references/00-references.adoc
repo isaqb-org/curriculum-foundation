@@ -63,7 +63,6 @@
 - [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-swarc4ai/>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
 - [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
-- [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
 
 // K
 - [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
@@ -104,7 +103,6 @@
 - [[[rozanskiwoods, Rozanski+2011]]] N. Rozanski and E. Woods, _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, 2nd ed., Addison-Wesley, 2011.
 
 // S
-- [[[solid, SOLID]]] S. Oloruntoba and A. S. Walia, "SOLID: The First 5 Principles of Object Oriented Design." [Online]. Available: <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
 - [[[sperberklaeren, Sperber+2023]]] M. Sperber and H. Klaeren, _Schreibe Dein Programm!_ (in German), Tübingen University Press, 2023. [Online]. Available: <https://www.deinprogramm.de/sdp/>
 - [[[sperberwehr, Sperber+2024]]] M. Sperber and S. Wehr, "Datenmodellierung mit Summen und Produkten" (in German), 2024. [Online]. Available: <https://funktionale-programmierung.de/2024/11/25/sums-products.html> (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
 - [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen: Ein praktischer Leitfaden_ (in German), 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <https://esabuch.de>
