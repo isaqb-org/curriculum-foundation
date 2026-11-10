@@ -1,12 +1,12 @@
 
 // tag::DE[]
 [[LG-01-05]]
-==== LZ 01-05 This LG is temporarily vacant
+==== LZ 01-05: Dieses LZ ist vorübergehend leer
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-01-05]]
-==== LG 01-05 Dieses LZ ist vorübergehend leer.
+==== LG 01-05: This LG is temporarily vacant
 
 // end::EN[]
