@@ -41,6 +41,10 @@ For all details, see the [full diff](https://github.com/isaqb-org/curriculum-fou
 * **Section 6 (Examples) MUST now be covered in training** ([#790](https://github.com/isaqb-org/curriculum-foundation/issues/790)). It is still not relevant for the exam.
 * The "[previously LG x-y]" and "[new]" markers have been removed from all LG titles.
 
+Overview of all LGs, old vs. new ([SVG version](./documentation/Mapping-2025-2027.svg)):
+
+![Mapping V2025 to V2027](./documentation/Mapping-2025-2027.png)
+
 ## Structure and Timing
 
 | Section | 2025.1 | 2027.1-RC1 |
