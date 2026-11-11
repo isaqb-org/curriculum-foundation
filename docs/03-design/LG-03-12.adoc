@@ -1,0 +1,36 @@
+
+// tag::DE[]
+
+[[LG-03-12]]
+==== LZ 03-12: Technische und geschäftliche Sichten verwenden können (R3)
+Softwarearchitekt:innen:
+
+
+
+// end::DE[]
+
+// tag::EN[]
+
+[[LG-03-12]]
+==== LG 03-12: Business and technical views (R3)
+
+Software architects know that the distinction between business (aka _domain_) and technical aspects or perspectives is a useful prerequisites for designing systems.
+
+* **Business perspectives** are often created or clarified first, as they help to identify missing requirements and clarify scope.
+
+** External actors: users, partner organizations, regulatory bodies, adjacent business systems
+** Relationships expressed in domain/business terms: data flows, service dependencies, business events
+
+** The target audience are product owners, business stakeholders, domain experts.
+
+
+* **Technical perspectives** contain structural or crosscutting decisions on, for example:
+
+** Technology stacks, specific frameworks, libraries or other products used in development or operation of systems
+** Technical channels/protocols used for communication
+** Protocols (REST, AMQP, JDBC), message formats, authentication mechanisms
+** Techncial infrastructure
+** Target audience: developers, architects, infrastructure teams
+
+
+// end::EN[]
