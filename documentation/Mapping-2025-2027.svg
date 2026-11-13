@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1204" height="1420" viewBox="0 0 1204 1420" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="ah" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#3b6fd8"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-size="20" font-weight="700" fill="#24292f">CPSA-F Curriculum: 2025.1 → 2027.1-RC1</text>
+<text x="24" y="58" font-size="12.5" fill="#55595f">Mapping of learning goals (LG), with the changes relevant for trainings</text>
+<text x="24" y="86" font-size="13" font-weight="700" fill="#24292f">2025.1 (rev2) · 1080 min</text>
+<text x="494" y="86" font-size="13" font-weight="700" fill="#24292f">2027.1-RC1 · 1050 min</text>
+<text x="858" y="86" font-size="13" font-weight="700" fill="#24292f">What changed</text>
+<rect x="24" y="96" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="32" y="112.5" font-size="12.5" font-weight="700" fill="#24292f">1 Basic Concepts · 120 min</text>
+<rect x="494" y="96" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="502" y="112.5" font-size="12.5" font-weight="700" fill="#24292f">1 Basic Concepts · 120 min</text>
+<rect x="24" y="126" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="141.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-01</tspan><tspan dx="8">Definitions of Software Architecture</tspan></text>
+<text x="366" y="141.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="126" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="141.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-01</tspan><tspan dx="8">Definitions of Software Architecture</tspan></text>
+<text x="836" y="141.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="153" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="168.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-02</tspan><tspan dx="8">Goals and Benefits of SW Architecture</tspan></text>
+<text x="366" y="168.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="153" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="168.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-02</tspan><tspan dx="8">Goals and Benefits of SW Architecture</tspan></text>
+<text x="836" y="168.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="180" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="195.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-03</tspan><tspan dx="8">Long-term Impact of SW Architecture</tspan></text>
+<text x="366" y="195.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="180" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="195.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-03</tspan><tspan dx="8">Long-term Impact of SW Architecture</tspan></text>
+<text x="836" y="195.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="24" y="207" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="222.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-04</tspan><tspan dx="8">Tasks and Responsibilities of Architects</tspan></text>
+<text x="366" y="222.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="207" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="222.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-04</tspan><tspan dx="8">Tasks and Responsibilities of Architects</tspan></text>
+<text x="836" y="222.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="234" width="350" height="22" rx="4" fill="#fbe1e3" stroke="#cc3344" stroke-width="1.6"/>
+<text x="32" y="249.5" font-size="12" fill="#7a1622"><tspan font-weight="700">01-05</tspan><tspan dx="8" text-decoration="line-through">Distinction from other Architectural Domains</tspan></text>
+<text x="366" y="249.5" font-size="11" text-anchor="end" fill="#7a1622" opacity="0.8">R3</text>
+<rect x="494" y="234" width="350" height="22" rx="4" fill="#ffffff" stroke="#c4c8cf" stroke-width="1.6"/>
+<text x="502" y="249.5" font-size="12" fill="#9aa0a6"><tspan font-weight="700">01-05</tspan><tspan dx="8">— vacant —</tspan></text>
+<text x="382" y="249.5" font-size="11" fill="#cc3344" font-weight="600">✕ removed</text>
+<rect x="24" y="261" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="276.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-06</tspan><tspan dx="8">Role of Architects vs. Other Stakeholders</tspan></text>
+<text x="366" y="276.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="261" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="276.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-06</tspan><tspan dx="8">Role of Architects vs. Other Stakeholders</tspan></text>
+<text x="836" y="276.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="288" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="303.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-07</tspan><tspan dx="8">Importance of Data and Data Models</tspan></text>
+<text x="366" y="303.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R2</text>
+<rect x="494" y="288" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="303.5" font-size="12" fill="#55595f"><tspan font-weight="700">01-07</tspan><tspan dx="8">Importance of Data and Data Models</tspan></text>
+<text x="836" y="303.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R2</text>
+<rect x="24" y="323" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="32" y="339.5" font-size="12.5" font-weight="700" fill="#24292f">2 Requirements and Constraints · 180 min</text>
+<rect x="494" y="323" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="502" y="339.5" font-size="12.5" font-weight="700" fill="#24292f">2 Requirements and Constraints · 180 min</text>
+<rect x="24" y="353" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="368.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-01</tspan><tspan dx="8">Understand Stakeholder Concerns</tspan></text>
+<text x="366" y="368.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R3</text>
+<rect x="494" y="353" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="368.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-01</tspan><tspan dx="8">Understand Stakeholder Concerns</tspan></text>
+<text x="836" y="368.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R3</text>
+<rect x="24" y="380" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="395.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-02</tspan><tspan dx="8">Clarify Requirements and Constraints</tspan></text>
+<text x="366" y="395.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="494" y="380" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="395.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-02</tspan><tspan dx="8">Clarify Requirements and Constraints</tspan></text>
+<text x="836" y="395.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="24" y="407" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="422.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-03</tspan><tspan dx="8">Qualities of a Software System</tspan></text>
+<text x="366" y="422.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="407" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="422.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-03</tspan><tspan dx="8">Qualities of a Software System</tspan></text>
+<text x="836" y="422.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="434" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="449.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-04</tspan><tspan dx="8">Formulate Requirements on Qualities</tspan></text>
+<text x="366" y="449.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="494" y="434" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="449.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-04</tspan><tspan dx="8">Formulate Requirements on Qualities</tspan></text>
+<text x="836" y="449.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="24" y="461" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="476.5" font-size="12" fill="#55595f"><tspan font-weight="700">02-05</tspan><tspan dx="8">Prefer Explicit Statements over Assumptions</tspan></text>
+<text x="366" y="476.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="461" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="476.5" font-size="12" fill="#3d3000"><tspan font-weight="700">02-05</tspan><tspan dx="8">Prefer Explicit Statements over Assumptions</tspan></text>
+<text x="836" y="476.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1,R2</text>
+<text x="858" y="476.5" font-size="11" fill="#3d3000" font-style="italic">+ write explicit specifications (R2)</text>
+<rect x="24" y="496" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="32" y="512.5" font-size="12.5" font-weight="700" fill="#24292f">3 Design and Development · 360 min</text>
+<rect x="494" y="496" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="502" y="512.5" font-size="12.5" font-weight="700" fill="#24292f">3 Design and Development · 360 min</text>
+<rect x="24" y="526" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="541.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-01</tspan><tspan dx="8">Fulfilling Requirements through Architecture</tspan></text>
+<text x="366" y="541.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="526" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="541.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-01</tspan><tspan dx="8">Fulfilling Requirements through Architecture</tspan></text>
+<text x="836" y="541.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="553" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="568.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-02</tspan><tspan dx="8">Design Software Architectures</tspan></text>
+<text x="366" y="568.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="553" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="568.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-02</tspan><tspan dx="8">Design Software Architectures</tspan></text>
+<text x="836" y="568.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="580" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="595.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-03</tspan><tspan dx="8">Approaches and Heuristics</tspan></text>
+<text x="366" y="595.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R3</text>
+<rect x="494" y="580" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="595.5" font-size="12" fill="#3d3000"><tspan font-weight="700">03-03</tspan><tspan dx="8">Approaches and Heuristics</tspan></text>
+<text x="836" y="595.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1,R3</text>
+<text x="858" y="595.5" font-size="11" fill="#3d3000" font-style="italic">views ≠ method; −global analysis, −MDA; +2 approaches (R3)</text>
+<rect x="24" y="607" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="622.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-04</tspan><tspan dx="8">Design Principles</tspan></text>
+<text x="366" y="622.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="494" y="607" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="622.5" font-size="12" fill="#3d3000"><tspan font-weight="700">03-04</tspan><tspan dx="8">Design Principles</tspan></text>
+<text x="836" y="622.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1-R3</text>
+<text x="858" y="622.5" font-size="11" fill="#3d3000" font-style="italic">DRY ↑R2; + illegal states unrepresentable (R2); −SOLID</text>
+<rect x="24" y="634" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="649.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-05</tspan><tspan dx="8">Feedback Loops and Risks</tspan></text>
+<text x="366" y="649.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R2</text>
+<rect x="494" y="634" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="649.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-05</tspan><tspan dx="8">Feedback Loops and Risks</tspan></text>
+<text x="836" y="649.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R2</text>
+<rect x="24" y="661" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="676.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-06</tspan><tspan dx="8">Manage Dependencies</tspan></text>
+<text x="366" y="676.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="661" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="676.5" font-size="12" fill="#3d3000"><tspan font-weight="700">03-06</tspan><tspan dx="8">Manage Dependencies</tspan></text>
+<text x="836" y="676.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1</text>
+<text x="858" y="676.5" font-size="11" fill="#3d3000" font-style="italic">Dependency Injection ↑R1; incoming/outgoing deps</text>
+<rect x="24" y="688" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="703.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-07</tspan><tspan dx="8">Design and Define Interfaces</tspan></text>
+<text x="366" y="703.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="494" y="688" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="703.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-07</tspan><tspan dx="8">Design and Define Interfaces</tspan></text>
+<text x="836" y="703.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="24" y="715" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="730.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-08</tspan><tspan dx="8">Important Architectural Patterns</tspan></text>
+<text x="366" y="730.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1,R3</text>
+<rect x="494" y="715" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="730.5" font-size="12" fill="#3d3000"><tspan font-weight="700">03-08</tspan><tspan dx="8">Important Patterns</tspan></text>
+<text x="836" y="730.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1,R3</text>
+<text x="858" y="730.5" font-size="11" fill="#3d3000" font-style="italic">DI now R1; design patterns merged in (R3)</text>
+<rect x="24" y="742" width="350" height="22" rx="4" fill="#e3ecfd" stroke="#3b6fd8" stroke-width="1.6"/>
+<text x="32" y="757.5" font-size="12" fill="#173a80"><tspan font-weight="700">03-09</tspan><tspan dx="8">Important Design Patterns</tspan></text>
+<text x="366" y="757.5" font-size="11" text-anchor="end" fill="#173a80" opacity="0.8">R3</text>
+<rect x="494" y="742" width="350" height="22" rx="4" fill="#dcf3e1" stroke="#2e9e4f" stroke-width="1.6"/>
+<text x="502" y="757.5" font-size="12" fill="#123d1f"><tspan font-weight="700">03-09</tspan><tspan dx="8">Analyze Architecture</tspan></text>
+<text x="836" y="757.5" font-size="11" text-anchor="end" fill="#123d1f" opacity="0.8">R1</text>
+<text x="858" y="757.5" font-size="11" fill="#3d3000" font-style="italic">from former 05-01</text>
+<rect x="24" y="769" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="784.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-10</tspan><tspan dx="8">Cross-Cutting Concerns</tspan></text>
+<text x="366" y="784.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="769" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="784.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-10</tspan><tspan dx="8">Cross-Cutting Concerns</tspan></text>
+<text x="836" y="784.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="796" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="811.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-11</tspan><tspan dx="8">Principles of Software Deployment</tspan></text>
+<text x="366" y="811.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="796" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="811.5" font-size="12" fill="#55595f"><tspan font-weight="700">03-11</tspan><tspan dx="8">Principles of Software Deployment</tspan></text>
+<text x="836" y="811.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="24" y="823" width="350" height="22" rx="4" fill="#fbe1e3" stroke="#cc3344" stroke-width="1.6"/>
+<text x="32" y="838.5" font-size="12" fill="#7a1622"><tspan font-weight="700">03-12</tspan><tspan dx="8" text-decoration="line-through">Challenges of Distributed Systems</tspan></text>
+<text x="366" y="838.5" font-size="11" text-anchor="end" fill="#7a1622" opacity="0.8">R3</text>
+<text x="858" y="838.5" font-size="11" fill="#7a1622" font-style="italic">03-12 removed, moved to "FL II" by FLWG decision</text>
+<text x="382" y="838.5" font-size="11" fill="#cc3344" font-weight="600">✕ removed</text>
+<rect x="24" y="858" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="32" y="874.5" font-size="12.5" font-weight="700" fill="#24292f">4 Specification and Communication · 240 min</text>
+<rect x="494" y="858" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="502" y="874.5" font-size="12.5" font-weight="700" fill="#24292f">4 Specification and Communication · 240 min</text>
+<rect x="24" y="888" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="903.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-01</tspan><tspan dx="8">Requirements of Technical Documentation</tspan></text>
+<text x="366" y="903.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="888" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="903.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-01</tspan><tspan dx="8">Requirements of Technical Documentation</tspan></text>
+<text x="836" y="903.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="915" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="930.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-02</tspan><tspan dx="8">Describe and Communicate Architectures</tspan></text>
+<text x="366" y="930.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R3</text>
+<rect x="494" y="915" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="930.5" font-size="12" fill="#3d3000"><tspan font-weight="700">04-02</tspan><tspan dx="8">Describe and Communicate Architectures</tspan></text>
+<text x="836" y="930.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1-R3</text>
+<text x="858" y="930.5" font-size="11" fill="#3d3000" font-style="italic">reworded; −harmonise contributions (R1)</text>
+<rect x="24" y="942" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="957.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-03</tspan><tspan dx="8">Notations/Models</tspan></text>
+<text x="366" y="957.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R2-R3</text>
+<rect x="494" y="942" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="957.5" font-size="12" fill="#3d3000"><tspan font-weight="700">04-03</tspan><tspan dx="8">Notations/Models</tspan></text>
+<text x="836" y="957.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R2-R3</text>
+<text x="858" y="957.5" font-size="11" fill="#3d3000" font-style="italic">read + create UML, choose notation (R2)</text>
+<rect x="24" y="969" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="984.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-04</tspan><tspan dx="8">Learning Goal not Found</tspan></text>
+<text x="366" y="984.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="969" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="984.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-04</tspan><tspan dx="8">Learning Goal not Found</tspan></text>
+<text x="836" y="984.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="24" y="996" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1011.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-05</tspan><tspan dx="8">Architectural Views</tspan></text>
+<text x="366" y="1011.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="996" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="1011.5" font-size="12" fill="#3d3000"><tspan font-weight="700">04-05</tspan><tspan dx="8">Architectural Views</tspan></text>
+<text x="836" y="1011.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R1</text>
+<text x="858" y="1011.5" font-size="11" fill="#3d3000" font-style="italic">example extra views removed (R3)</text>
+<rect x="24" y="1023" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1038.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-06</tspan><tspan dx="8">Document Interfaces</tspan></text>
+<text x="366" y="1038.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="494" y="1023" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="1038.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-06</tspan><tspan dx="8">Document Interfaces</tspan></text>
+<text x="836" y="1038.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1</text>
+<rect x="24" y="1050" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1065.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-07</tspan><tspan dx="8">Document Cross-Cutting Concerns</tspan></text>
+<text x="366" y="1065.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R2</text>
+<rect x="494" y="1050" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="1065.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-07</tspan><tspan dx="8">Document Cross-Cutting Concerns</tspan></text>
+<text x="836" y="1065.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R2</text>
+<rect x="24" y="1077" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1092.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-08</tspan><tspan dx="8">Architectural Decisions</tspan></text>
+<text x="366" y="1092.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R2</text>
+<rect x="494" y="1077" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="1092.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-08</tspan><tspan dx="8">Architectural Decisions</tspan></text>
+<text x="836" y="1092.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R1-R2</text>
+<rect x="24" y="1104" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1119.5" font-size="12" fill="#55595f"><tspan font-weight="700">04-09</tspan><tspan dx="8">Additional Resources and Tools</tspan></text>
+<text x="366" y="1119.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="1104" width="350" height="22" rx="4" fill="#fff4d6" stroke="#d9a200" stroke-width="1.6"/>
+<text x="502" y="1119.5" font-size="12" fill="#3d3000"><tspan font-weight="700">04-09</tspan><tspan dx="8">Additional Resources and Tools</tspan></text>
+<text x="836" y="1119.5" font-size="11" text-anchor="end" fill="#3d3000" opacity="0.8">R2</text>
+<text x="858" y="1119.5" font-size="11" fill="#3d3000" font-style="italic">↑R2 (arc42, C4); −ISO 42010</text>
+<rect x="24" y="1139" width="350" height="24" rx="4" fill="#f3c6cb"/>
+<text x="32" y="1155.5" font-size="12.5" font-weight="700" fill="#24292f">5 Analysis and Assessment · 90 min</text>
+<rect x="494" y="1139" width="350" height="24" rx="4" fill="#bfe6c9"/>
+<text x="502" y="1155.5" font-size="12.5" font-weight="700" fill="#24292f">5 Use and Risks of AI · 60 min</text>
+<rect x="24" y="1169" width="350" height="22" rx="4" fill="#e3ecfd" stroke="#3b6fd8" stroke-width="1.6"/>
+<text x="32" y="1184.5" font-size="12" fill="#173a80"><tspan font-weight="700">05-01</tspan><tspan dx="8">Reasons for Architecture Analysis</tspan></text>
+<text x="366" y="1184.5" font-size="11" text-anchor="end" fill="#173a80" opacity="0.8">R1</text>
+<rect x="494" y="1169" width="350" height="22" rx="4" fill="#dcf3e1" stroke="#2e9e4f" stroke-width="1.6"/>
+<text x="502" y="1184.5" font-size="12" fill="#123d1f"><tspan font-weight="700">05-01</tspan><tspan dx="8">Deciding on the Use of AI</tspan></text>
+<text x="836" y="1184.5" font-size="11" text-anchor="end" fill="#123d1f" opacity="0.8">R1,R2</text>
+<text x="858" y="1184.5" font-size="11" fill="#123d1f" font-style="italic">new</text>
+<rect x="24" y="1196" width="350" height="22" rx="4" fill="#fbe1e3" stroke="#cc3344" stroke-width="1.6"/>
+<text x="32" y="1211.5" font-size="12" fill="#7a1622"><tspan font-weight="700">05-02</tspan><tspan dx="8" text-decoration="line-through">Analyze the Qualities of a System</tspan></text>
+<text x="366" y="1211.5" font-size="11" text-anchor="end" fill="#7a1622" opacity="0.8">R1,R3</text>
+<rect x="494" y="1196" width="350" height="22" rx="4" fill="#dcf3e1" stroke="#2e9e4f" stroke-width="1.6"/>
+<text x="502" y="1211.5" font-size="12" fill="#123d1f"><tspan font-weight="700">05-02</tspan><tspan dx="8">Verification of AI-generated Artifacts</tspan></text>
+<text x="836" y="1211.5" font-size="11" text-anchor="end" fill="#123d1f" opacity="0.8">R1,R2</text>
+<text x="382" y="1211.5" font-size="11" fill="#cc3344" font-weight="600">✕ removed</text>
+<text x="858" y="1211.5" font-size="11" fill="#123d1f" font-style="italic">new</text>
+<rect x="24" y="1223" width="350" height="22" rx="4" fill="#fbe1e3" stroke="#cc3344" stroke-width="1.6"/>
+<text x="32" y="1238.5" font-size="12" fill="#7a1622"><tspan font-weight="700">05-03</tspan><tspan dx="8" text-decoration="line-through">Conformance to Architectural Decisions</tspan></text>
+<text x="366" y="1238.5" font-size="11" text-anchor="end" fill="#7a1622" opacity="0.8">R2</text>
+<rect x="494" y="1223" width="350" height="22" rx="4" fill="#dcf3e1" stroke="#2e9e4f" stroke-width="1.6"/>
+<text x="502" y="1238.5" font-size="12" fill="#123d1f"><tspan font-weight="700">05-03</tspan><tspan dx="8">Risks and Externalities of AI</tspan></text>
+<text x="836" y="1238.5" font-size="11" text-anchor="end" fill="#123d1f" opacity="0.8">R2,R3</text>
+<text x="382" y="1238.5" font-size="11" fill="#cc3344" font-weight="600">✕ removed</text>
+<text x="858" y="1238.5" font-size="11" fill="#123d1f" font-style="italic">new</text>
+<rect x="24" y="1258" width="350" height="24" rx="4" fill="#d9dce1"/>
+<text x="32" y="1274.5" font-size="12.5" font-weight="700" fill="#24292f">6 Examples · 90 min</text>
+<rect x="494" y="1258" width="350" height="24" rx="4" fill="#ffe7a3"/>
+<text x="502" y="1274.5" font-size="12.5" font-weight="700" fill="#24292f">6 Examples · 90 min  ·  MUST be covered in training</text>
+<rect x="24" y="1288" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1303.5" font-size="12" fill="#55595f"><tspan font-weight="700">06-01</tspan><tspan dx="8">Requirements, Constraints, Solutions</tspan></text>
+<text x="366" y="1303.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="1288" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="1303.5" font-size="12" fill="#55595f"><tspan font-weight="700">06-01</tspan><tspan dx="8">Requirements, Constraints, Solutions</tspan></text>
+<text x="836" y="1303.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="24" y="1315" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="32" y="1330.5" font-size="12" fill="#55595f"><tspan font-weight="700">06-02</tspan><tspan dx="8">Technical Implementation of a Solution</tspan></text>
+<text x="366" y="1330.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<rect x="494" y="1315" width="350" height="22" rx="4" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1"/>
+<text x="502" y="1330.5" font-size="12" fill="#55595f"><tspan font-weight="700">06-02</tspan><tspan dx="8">Technical Implementation of a Solution</tspan></text>
+<text x="836" y="1330.5" font-size="11" text-anchor="end" fill="#55595f" opacity="0.8">R3</text>
+<path d="M376,753 C446,753 420,726 490,726" fill="none" stroke="#3b6fd8" stroke-width="2" marker-end="url(#ah)"/>
+<text x="404" y="772" font-size="10.5" fill="#173a80" font-weight="600" text-anchor="middle">merged</text>
+<path d="M376,1180 C446,1180 420,753 490,753" fill="none" stroke="#3b6fd8" stroke-width="2" marker-end="url(#ah)"/>
+<text x="402" y="973.5" font-size="10.5" fill="#173a80" font-weight="600" text-anchor="middle">moved</text>
+<rect x="24" y="1374" width="22" height="14" rx="3" fill="#f4f5f7" stroke="#c4c8cf" stroke-width="1.4"/>
+<text x="52" y="1385.5" font-size="11.5" fill="#24292f">unchanged (editorial only)</text>
+<rect x="247.79999999999998" y="1374" width="22" height="14" rx="3" fill="#fff4d6" stroke="#d9a200" stroke-width="1.4"/>
+<text x="275.79999999999995" y="1385.5" font-size="11.5" fill="#24292f">content or R-level changed</text>
+<rect x="471.59999999999997" y="1374" width="22" height="14" rx="3" fill="#dcf3e1" stroke="#2e9e4f" stroke-width="1.4"/>
+<text x="499.59999999999997" y="1385.5" font-size="11.5" fill="#24292f">new</text>
+<rect x="550.5" y="1374" width="22" height="14" rx="3" fill="#fbe1e3" stroke="#cc3344" stroke-width="1.4"/>
+<text x="578.5" y="1385.5" font-size="11.5" fill="#24292f">removed</text>
+<rect x="654.6" y="1374" width="22" height="14" rx="3" fill="#e3ecfd" stroke="#3b6fd8" stroke-width="1.4"/>
+<text x="682.6" y="1385.5" font-size="11.5" fill="#24292f">moved / merged</text>
+<text x="24" y="1408" font-size="10.5" fill="#6a737d">Titles shortened. R-levels as in the LG titles. Details: CHANGELOG.md, "Trainer Notes". Source: 2025.1-rev2 vs. 2027.1-RC1 (+ RC-2 cleanup).</text>
+</svg>

@@ -21,7 +21,6 @@
 - [[[buschmannb,Buschmann+2007]]] F. Buschmann, K. Henney, and D. C. Schmidt, _Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing_, Wiley, 2007.
 
 // C
-- [[[clementseval,Clements+2002]]] P. Clements, R. Kazman, and M. Klein, _Evaluating Software Architectures: Methods and Case Studies_, Addison Wesley, 2002.
 - [[[clementsdoc,Clements+2010]]] P. Clements et al., _Documenting Software Architectures: Views and Beyond_, 2nd ed., Addison Wesley, 2010.
 - [[[cncf, CNCF]]] The Cloud Native Computing Foundation. [Online]. Available: <https://www.cncf.io/>
 
@@ -62,8 +61,6 @@
 - [[[isaqbglossary,iSAQB Glossary]]] G. Starke et al., _iSAQB Glossary of Software Architecture Terminology_, Leanpub, 2020-2026. [Online]. <https://github.com/isaqb-org/glossary/releases>
 - [[[isaqbswarc4ai, iSAQB SWARC4AI]]] iSAQB e.V., _Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems_, iSAQB e.V., 2026. [Online]. Available: <https://public.isaqb.org/curriculum-swarc4ai/>
 - [[[iso25010, ISO 25010:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model_, ISO/IEC 25010:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en> (terms and definitions)
-- [[[iso25019, ISO 25019:2023]]] _Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model_, ISO/IEC 25019:2023, 2023. [Online]. Available: <https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en> (terms and definitions)
-- [[[iso42010,ISO 42010:2022]]] _Software, systems and enterprise Architecture description_, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <https://www.iso.org/standard/74393.html>
 
 // K
 - [[[keeling,Keeling 2017]]] M. Keeling, _Design It!: From Programmer to Software Architect_, Pragmatic Bookshelf, 2017.
@@ -76,7 +73,6 @@
 - [[[lehman,Lehman 1980]]] M. M. Lehman, "Programs, Life Cycles, and Laws of Software Evolution," _Proceedings of the IEEE_, vol. 68, no. 9, pp. 1060–1076, 1980.
 - [[[lehmanwiki,Wiki-LehmansLaws]]] "Lehman's laws of software evolution," _Wikipedia_. [Online]. Available: <https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution>
 - [[[lilienthal,Lilienthal 2024]]] C. Lilienthal, _Langlebige Softwarearchitekturen_ (in German), 4th ed., dpunkt Verlag, 2024.
-- [[[lilienthal-en,Lilienthal 2019]]] C. Lilienthal, _Sustainable Software Architecture: Analyze and Reduce Technical Debt_, dpunkt Verlag, 2019.
 - [[[link2025,Link 2025]]] J. Link, "To Gen or Not To Gen: The Ethical Use of Generative AI," Nov. 4, 2025. [Online]. Available: <https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/>
 - [[[liskov,Liskov+1994]]] B. H. Liskov and J. M. Wing, "A behavioral notion of subtyping," _ACM Transactions on Programming Languages and Systems_, vol. 16, no. 6, 1994, doi: 10.1145/197320.197383.
 
@@ -104,7 +100,6 @@
 - [[[rozanskiwoods, Rozanski+2011]]] N. Rozanski and E. Woods, _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, 2nd ed., Addison-Wesley, 2011.
 
 // S
-- [[[solid, SOLID]]] S. Oloruntoba and A. S. Walia, "SOLID: The First 5 Principles of Object Oriented Design." [Online]. Available: <https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design>
 - [[[sperberklaeren, Sperber+2023]]] M. Sperber and H. Klaeren, _Schreibe Dein Programm!_ (in German), Tübingen University Press, 2023. [Online]. Available: <https://www.deinprogramm.de/sdp/>
 - [[[sperberwehr, Sperber+2024]]] M. Sperber and S. Wehr, "Datenmodellierung mit Summen und Produkten" (in German), 2024. [Online]. Available: <https://funktionale-programmierung.de/2024/11/25/sums-products.html> (English translation: Data Modeling with Sums and Products, 2024. <https://funktionale-programmierung.de/2024/11/25/sums-products-english.html>)
 - [[[starke,Starke 2024]]] G. Starke, _Effektive Software-Architekturen: Ein praktischer Leitfaden_ (in German), 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <https://esabuch.de>

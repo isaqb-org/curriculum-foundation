@@ -15,7 +15,7 @@ Softwarearchitekt:innen verstehen, dass eine Architekturanalyse helfen kann:
 // tag::EN[]
 [[LG-03-09]]
 
-==== LG 03-09: Analyse architecture (R1)
+==== LG 03-09: Analyze Architecture (R1)
 
 Software architects understand that an architecture analysis can help to:
 

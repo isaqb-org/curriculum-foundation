@@ -109,4 +109,4 @@ Software architects are able to:
 // end::EN[]
 
 ===== {references}
-<<liskov>>, <<solid>>
+<<liskov>>
