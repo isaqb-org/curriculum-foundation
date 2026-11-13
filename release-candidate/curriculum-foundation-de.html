@@ -1,0 +1,2554 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.26">
+<link rel="icon" type="image/png" href="html-theme/favicon.png">
+<title>Curriculum für Certified Professional for Software Architecture (CPSA)&#174;Foundation Level</title>
+<link rel="stylesheet" href="html-theme/isaqb-theme.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="book toc2 toc-left">
+<div id="header">
+<h1>Curriculum für Certified Professional for Software Architecture (CPSA)<sup>&#174;</sup><br><strong>Foundation Level</strong></h1>
+<div class="details">
+<span id="revnumber"> 2027.1-RC1-DE,</span>
+<span id="revdate">20261113</span>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Inhaltsverzeichnis</div>
+<ul class="sectlevel1">
+<li><a href="#copyright">Lizenz und Copyright</a></li>
+<li><a href="#learning-goals-overview">Lernziele im Überblick</a></li>
+<li><a href="#_einleitung">Einleitung</a>
+<ul class="sectlevel2">
+<li><a href="#_was_dieser_lehrplan_enthält">Was dieser Lehrplan enthält</a></li>
+<li><a href="#_was_vermittelt_eine_foundation_level_schulung">Was vermittelt eine Foundation-Level-Schulung?</a></li>
+<li><a href="#_abgrenzung">Abgrenzung</a></li>
+<li><a href="#_voraussetzungen">Voraussetzungen</a></li>
+<li><a href="#_struktur_dauer_didaktik">Struktur, Dauer, Didaktik</a></li>
+<li><a href="#_lernziele_und_prüfungsrelevanz">Lernziele und Prüfungsrelevanz</a></li>
+<li><a href="#_aktuelle_version_sowie_öffentliches_repository">Aktuelle Version sowie öffentliches Repository</a></li>
+</ul>
+</li>
+<li><a href="#_grundbegriffe_von_softwarearchitektur">1. Grundbegriffe von Softwarearchitektur</a>
+<ul class="sectlevel2">
+<li><a href="#_zielsetzung">Zielsetzung</a></li>
+<li><a href="#_wesentliche_begriffe">Wesentliche Begriffe</a></li>
+<li><a href="#_lernziele">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_anforderungen_und_randbedingungen">2. Anforderungen und Randbedingungen</a>
+<ul class="sectlevel2">
+<li><a href="#_zielsetzung_2">Zielsetzung</a></li>
+<li><a href="#_wesentliche_begriffe_2">Wesentliche Begriffe</a></li>
+<li><a href="#_lernziele_2">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_entwurf_und_entwicklung_von_softwarearchitekturen">3. Entwurf und Entwicklung von Softwarearchitekturen</a>
+<ul class="sectlevel2">
+<li><a href="#_zielsetzung_3">Zielsetzung</a></li>
+<li><a href="#_wesentliche_begriffe_3">Wesentliche Begriffe</a></li>
+<li><a href="#_lernziele_3">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_beschreibung_und_kommunikation_von_softwarearchitekturen">4. Beschreibung und Kommunikation von Softwarearchitekturen</a>
+<ul class="sectlevel2">
+<li><a href="#_zielsetzung_4">Zielsetzung</a></li>
+<li><a href="#_wesentliche_begriffe_4">Wesentliche Begriffe</a></li>
+<li><a href="#_lernziele_4">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_einsatz_und_risiken_von_künstlicher_intelligenz">5. Einsatz und Risiken von Künstlicher Intelligenz</a>
+<ul class="sectlevel2">
+<li><a href="#_zielsetzung_5">Zielsetzung</a></li>
+<li><a href="#_wesentliche_begriffe_5">Wesentliche Begriffe</a></li>
+<li><a href="#_lernziele_5">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_beispiele_für_softwarearchitekturen">6. Beispiele für Softwarearchitekturen</a>
+<ul class="sectlevel2">
+<li><a href="#_lernziele_6">Lernziele</a></li>
+</ul>
+</li>
+<li><a href="#_referenzen_25">Referenzen</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="copyright">Lizenz und Copyright</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>&#169; (Copyright), International Software Architecture Qualification Board e. V.
+(iSAQB<sup>&#174;</sup> e. V.) 2026</strong></p>
+</div>
+<div class="paragraph">
+<p>Die Nutzung des Lehrplans ist nur unter den nachfolgenden Voraussetzungen erlaubt:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Sie möchten das Zertifikat zum CPSA Certified Professional for Software Architecture Foundation Level<sup>&#174;</sup> oder CPSA Certified Professional for Software Architecture Advanced Level<sup>&#174;</sup> erwerben.
+Für den Erwerb des Zertifikats ist es gestattet, die Text-Dokumente und/oder Lehrpläne zu nutzen, indem eine Arbeitskopie für den eigenen Rechner erstellt wird. Soll eine darüber hinausgehende Nutzung der Dokumente und/oder Lehrpläne erfolgen, zum Beispiel zur Weiterverbreitung an Dritte, Werbung etc., bitte unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> nachfragen.
+Es müsste dann ein eigener Lizenzvertrag geschlossen werden.</p>
+</li>
+<li>
+<p>Sind Sie Trainer oder Trainingsprovider, ist die Nutzung der Dokumente und/oder Lehrpläne nach Erwerb einer Nutzungslizenz möglich. Hierzu bitte unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> nachfragen.
+Lizenzverträge, die alles umfassend regeln, sind vorhanden.</p>
+</li>
+<li>
+<p>Falls Sie weder unter die Kategorie 1. noch unter die Kategorie 2. fallen, aber dennoch die Dokumente und/oder Lehrpläne nutzen möchten, nehmen Sie bitte ebenfalls Kontakt unter <a href="mailto:info@isaqb.org">info@isaqb.org</a> zum iSAQB e. V. auf.
+Sie werden dort über die Möglichkeit des Erwerbs entsprechender Lizenzen im Rahmen der vorhandenen Lizenzverträge informiert und können die gewünschten Nutzungsgenehmigungen erhalten.</p>
+</li>
+</ol>
+</div>
+<div class="sidebarblock">
+<div class="content">
+<div class="title">Wichtiger Hinweis</div>
+<div class="paragraph">
+<p><strong>Grundsätzlich weisen wir darauf hin, dass dieser Lehrplan urheberrechtlich geschützt ist.
+Alle Rechte an diesen Copyrights stehen ausschließlich dem International Software Architecture Qualification Board e. V. (iSAQB<sup>&#174;</sup> e. V.) zu.</strong></p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Die Abkürzung "e. V." ist Teil des offiziellen Namens des iSAQB und steht für "eingetragener Verein", der seinen Status als juristische Person nach deutschem Recht beschreibt.
+Der Einfachheit halber wird iSAQB e. V. im Folgenden ohne die Verwendung dieser Abkürzung als iSAQB bezeichnet.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<!-- toc disabled -->
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="learning-goals-overview">Lernziele im Überblick</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="#LG-01-01">LZ 01-01: Definitionen von Softwarearchitektur verstehen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-02">LZ 01-02: Ziele und Nutzen von Softwarearchitektur verstehen und erläutern (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-03">LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur kennen (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-04">LZ 01-04: Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-05">LZ 01-05 This LG is temporarily vacant</a></p>
+</li>
+<li>
+<p><a href="#LG-01-06">LZ 01-06: Rolle von Softwarearchitekt:innen mit anderen Stakeholdern in Beziehung setzen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-01-07">LZ 01-07: Bedeutung von Daten und Datenmodellen (R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1, R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-02">LZ 02-02: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-03">LZ 02-03: Qualitäten eines Softwaresystems verstehen und erklären (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-04">LZ 02-04: Anforderungen an Qualitäten formulieren (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-02-05">LZ 02-05: Explizite Aussagen vor impliziten Annahmen bevorzugen (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-01">LZ 03-01: Anforderungen durch Architektur erreichen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-02">LZ 03-02: Softwarearchitekturen entwerfen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-03">LZ 03-03: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-04">LZ 03-04: Entwurfsprinzipien erläutern und anwenden (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-05">LZ 03-05: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-06">LZ 03-06: Abhängigkeiten von Bausteinen managen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-07">LZ 03-07: Schnittstellen entwerfen und spezifizieren (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-08">LZ 03-08: Wichtige Muster beschreiben, erklären und angemessen anwenden (R1, R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-09">LZ 03-09: Architektur analysieren (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-10">LZ 03-10: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-11">LZ 03-11: Grundlegende Prinzipien von Software-Deployments kennen (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-03-12">LZ 03-12: Technische und geschäftliche Sichten verwenden können (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-01">LZ 04-01: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-02">LZ 04-02: Softwarearchitekturen beschreiben und kommunizieren (R1-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-03">LZ 04-03: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-04">LZ 04-04: Lernziel nicht gefunden (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-05">LZ 04-05: Architektursichten erläutern und anwenden (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-06">LZ 04-06: Schnittstellen dokumentieren (R1)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-07">LZ 04-07: Querschnittsthemen dokumentieren und kommunizieren (R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-08">LZ 04-08: Architekturentscheidungen erläutern und dokumentieren (R1-R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-04-09">LZ 04-09: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-05-01">LZ 05-01: Über den Einsatz von KI in der Architekturarbeit entscheiden (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-05-02">LZ 05-02: Verifikation von KI-generierten Artefakten (R1, R2)</a></p>
+</li>
+<li>
+<p><a href="#LG-05-03">LZ 05-03: Risiken, ethische und gesellschaftliche Externalitäten erkennen (R2, R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-06-01">LZ 06-01: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</a></p>
+</li>
+<li>
+<p><a href="#LG-06-02">LZ 06-02: Technische Umsetzung einer Lösung nachvollziehen (R3)</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1 arabic-start">
+<h2 id="_einleitung">Einleitung</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_was_dieser_lehrplan_enthält">Was dieser Lehrplan enthält</h3>
+<div class="paragraph">
+<p>Dieser Lehrplan für den <em>Certified Professional for Software Architecture - Foundation Level</em> (CPSA-F) beinhaltet die  Lernziele, die man beherrschen sollte, um die Rolle Softwarearchitekt:in zu übernehmen.</p>
+</div>
+<div class="paragraph">
+<p>Seine Struktur orientiert sich an den grundlegenden Aktivitäten und Verantwortlichkeiten der Softwarearchitektur als Rolle:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Anforderungen und Randbedingungen klären</p>
+</li>
+<li>
+<p>Entwurf und Entwicklung von Softwarearchitekturen, dabei strukturelle und konzeptionelle Entscheidungen treffen</p>
+</li>
+<li>
+<p>Beschreiben und Kommunizieren von Softwarearchitekturen für verschiedene Stakeholder</p>
+</li>
+<li>
+<p>Analysieren und Bewerten von Softwarearchitekturen</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_was_vermittelt_eine_foundation_level_schulung">Was vermittelt eine Foundation-Level-Schulung?</h3>
+<div class="paragraph">
+<p>Lizenzierte Schulungen zum <em>Certified Professional for Software Architecture – Foundation Level</em> (CPSA-F) vermitteln grundlegende Kenntnisse und Fertigkeiten für den Entwurf einer angemessenen Softwarearchitektur für kleine und mittlere IT-Systeme.
+Die Teilnehmenden erweitern und vertiefen ihre bestehenden Erfahrungen und Fähigkeiten in der Softwareentwicklung, um relevante Vorgehensweisen, Methoden und Prinzipien für die Entwicklung von Softwarearchitekturen.
+Durch das Gelernte können sie auf Grundlage angemessen detaillierter Anforderungen und Randbedingungen eine adäquate Softwarearchitektur entwerfen, kommunizieren, analysieren, bewerten und weiterentwickeln.
+Schulungen zum CPSA-F vermitteln Grundlagenwissen unabhängig von spezifischen Entwurfsmethoden, Vorgehensmodellen, Programmiersprachen oder Werkzeugen.
+Dadurch können die Teilnehmenden ihre erworbene Fertigkeiten auf ein breites Spektrum von Einsatzfällen anwenden.</p>
+</div>
+<div class="paragraph">
+<p>Im Mittelpunkt steht der Erwerb folgender Fähigkeiten:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>mit anderen Beteiligten aus den Bereichen Anforderungsmanagement, Projektmanagement, Entwicklung und Test wesentliche Architekturentscheidungen abzustimmen</p>
+</li>
+<li>
+<p>die wesentlichen Schritte beim Entwurf von Softwarearchitekturen zu verstehen sowie für kleine und mittlere Systeme selbstständig durchzuführen</p>
+</li>
+<li>
+<p>Softwarearchitekturen auf Basis von Sichten, Mustern und technischen Konzepten zu dokumentieren und zu kommunizieren.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Weiterhin behandeln CPSA-F-Schulungen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>den Begriff und die Bedeutung von Softwarearchitektur</p>
+</li>
+<li>
+<p>die Aufgaben und Verantwortung von Softwarearchitekten</p>
+</li>
+<li>
+<p>die Rolle von Softwarearchitekt:innen in Entwicklungsvorhaben</p>
+</li>
+<li>
+<p>State-of-the-Art-Methoden und -Praktiken zur Entwicklung von Softwarearchitekturen.</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_abgrenzung">Abgrenzung</h3>
+<div class="paragraph">
+<p>Dieser Lehrplan reflektiert den aus heutiger Sicht des iSAQB e.V. notwendigen und sinnvollen Inhalt zur Erreichung der Lernziele des CPSA-F. Er stellt keine vollständige Beschreibung des Wissensgebiets „Softwarearchitektur“ dar.</p>
+</div>
+<div class="paragraph">
+<p>Folgende Themen oder Konzepte sind <strong>nicht Bestandteil des CPSA-F</strong>:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>konkrete Implementierungstechnologien, -frameworks oder -bibliotheken</p>
+</li>
+<li>
+<p>Programmierung oder Programmiersprachen</p>
+</li>
+<li>
+<p>Spezifische Vorgehensmodelle</p>
+</li>
+<li>
+<p>Grundlagen oder Notationen der Modellierung (wie etwa UML)</p>
+</li>
+<li>
+<p>Systemanalyse und Requirements Engineering (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des IREB e. V., <a href="https://ireb.org" class="bare">https://ireb.org</a>, International Requirements Engineering Board)</p>
+</li>
+<li>
+<p>Test (siehe dazu das Ausbildungs- und Zertifizierungsprogramm des ISTQB e. V., <a href="https://istqb.org" class="bare">https://istqb.org</a>, International Software Testing Qualification Board)</p>
+</li>
+<li>
+<p>Projekt- oder Produktmanagement</p>
+</li>
+<li>
+<p>Einführung in spezifische Werkzeuge.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Ziel des Trainings ist es, die Grundlagen für den Erwerb der für den jeweiligen Einsatzfall notwendigen weiterführenden Kenntnisse und Fertigkeiten zu vermitteln.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_voraussetzungen">Voraussetzungen</h3>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>Der iSAQB e. V. kann in Zertifizierungsprüfungen die hier genannten Voraussetzungen durch entsprechende Fragen prüfen.</p>
+</div>
+</div>
+</div>
+<div class="paragraph">
+<p>Teilnehmende sollten die im Nachfolgenden genannten Kenntnisse und/oder Erfahrung mitbringen. Insbesondere bilden substanzielle praktischen Erfahrungen aus der Softwareentwicklung im Team eine wichtige Voraussetzung zum Verständnis des vermittelten Lernstoffes und für eine erfolgreiche Zertifizierung.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>mehr als 18 Monate praktische Erfahrung in arbeitsteiliger Softwareentwicklung (d.h. in Teams), erworben durch Programmierung unterschiedlicher Systeme außerhalb der Ausbildung</p>
+</li>
+<li>
+<p>Kenntnisse und praktische Erfahrung in mindestens einer höheren Programmiersprache, insbesondere:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Konzepte der</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Modularisierung (Pakete, Namensräume)</p>
+</li>
+<li>
+<p>Parameterübergabe (<em>Call-by-Value, Call-by-Reference</em>)</p>
+</li>
+<li>
+<p>Gültigkeit (<em>scope</em>), beispielsweise von Typ- oder Variablendeklaration und -definition</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Grundlagen von Typsystemen (statische und dynamische Typisierung, generische Datentypen)</p>
+</li>
+<li>
+<p>Fehler- und Ausnahmebehandlung in Software</p>
+</li>
+<li>
+<p>Mögliche Probleme von globalem Zustand und globalen Variablen</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Grundlegende Kenntnisse von:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Modellierung und Abstraktion</p>
+</li>
+<li>
+<p>Algorithmen und Datenstrukturen (etwa Listen, Bäume, HashTable, Dictionary/Map)</p>
+</li>
+<li>
+<p>UML (Klassen-, Paket-, Komponenten- und Sequenzdiagramme) und deren Bezug zum Quellcode</p>
+</li>
+<li>
+<p>Vorgehen beim Testen von Software (z.&#160;B. Unit- und Akzeptanztests)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Hilfreich für das Verständnis einiger Konzepte sind darüber hinaus:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Grundbegriffe bzw. Unterschiede von imperativer, deklarativer, objektorientierter und funktionaler Programmierung</p>
+</li>
+<li>
+<p>praktische Erfahrung in</p>
+<div class="ulist">
+<ul>
+<li>
+<p>einer höheren Programmiersprache</p>
+</li>
+<li>
+<p>Konzeption und Implementierung verteilt ablaufender Anwendungen, wie etwa Client/Server-Systeme oder Web-Anwendungen</p>
+</li>
+<li>
+<p>technischer Dokumentation, insbesondere in der Dokumentation von Quellcode, Systementwürfen oder technischen Konzepten</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_struktur_dauer_didaktik">Struktur, Dauer, Didaktik</h3>
+<div class="paragraph">
+<p>Die in den nachfolgenden Kapiteln des Lehrplans genannten Zeiten sind lediglich Empfehlungen.
+Die Dauer einer Schulung sollte mindestens 3 Tage betragen, kann aber durchaus länger sein.
+Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
+Insbesondere die Art (fachliche und technische Domänen) der Beispiele und Übungen können die jeweiligen Schulungsanbieter individuell festlegen.</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Inhalt</th>
+<th class="tableblock halign-right valign-top">Empfohlene Dauer (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1. Grundlagen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2. Anforderungen und Randbedingungen</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">180</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">3. Entwurf und Entwicklung</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">360</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">4. Beschreibung und Kommunikation</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">240</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">5. Einsatz und Risiken von Künstlicher Intelligenz</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">6. Beispiele</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90</p></td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Summe</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1050</p></td>
+</tr>
+</tfoot>
+</table>
+<div class="paragraph">
+<p>Die Summe der empfohlenen Zeiten (1050 Minuten bzw. 17,5 Stunden) entspricht nahezu der Netto-Lehrzeit einer dreitägigen Schulung (3 Tage à 4 × 90 Minuten = 1080 Minuten).
+Pausen, über Curriculum-Inhalte hinausgehende Diskussionen und Pufferzeiten sind darin nicht enthalten und müssen von Schulungsanbietern zusätzlich eingeplant werden.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_und_prüfungsrelevanz">Lernziele und Prüfungsrelevanz</h3>
+<div class="paragraph">
+<p>Die Kapitel des Lehrplans sind anhand von priorisierten Lernzielen gegliedert.
+Die Prüfungsrelevanz dieser Lernziele beziehungsweise deren Unterpunkte ist beim jeweiligen Lernziel ausdrücklich gekennzeichnet (durch Angabe der Kennzeichen R1, R2 oder R3, siehe nachstehende Tabelle).</p>
+</div>
+<div class="paragraph">
+<p>Jedes Lernziel beschreibt die zu vermittelnden Inhalte inklusive ihrer Kernbegriffe und -konzepte. Bezüglich der Prüfungsrelevanz verwendet der Lehrplan folgende Kategorien:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 9.0909%;">
+<col style="width: 18.1818%;">
+<col style="width: 54.5454%;">
+<col style="width: 18.1819%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">ID</th>
+<th class="tableblock halign-left valign-top">Lernziel-Kategorie</th>
+<th class="tableblock halign-left valign-top">Bedeutung</th>
+<th class="tableblock halign-left valign-top">Relevanz für Prüfung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Können</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Diese Inhalte sollen die Teilnehmenden nach der Schulung selbstständig anwenden können. Innerhalb der Schulung sollten diese Inhalte durch Übungen und Diskussionen abgedeckt werden.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Inhalte <strong>werden</strong> geprüft.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Verstehen</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Diese Inhalte sollen die Teilnehmenden grundsätzlich verstehen. Sie werden in Schulungen i. d. R. nicht durch Übungen vertieft.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Inhalte <strong>können</strong> geprüft werden.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">R3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Kennen</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Diese Inhalte (Begriffe, Konzepte, Methoden, Praktiken oder Ähnliches) können das Verständnis unterstützen oder das Thema motivieren. Sie werden in Schulungen bei Bedarf thematisiert.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Inhalte <strong>werden nicht</strong> geprüft.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Bei Bedarf enthalten die Lernziele Verweise auf weiterführende Literatur, Standards oder andere Quellen.
+Die Abschnitte "Begriffe und Konzepte" zu Beginn jedes Kapitels zeigen Worte, die mit dem Inhalt des Kapitels in Verbindung stehen und z. T. auch in den Lernzielen verwendet werden.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_aktuelle_version_sowie_öffentliches_repository">Aktuelle Version sowie öffentliches Repository</h3>
+<div class="paragraph">
+<p>Den aktuellen Stand dieses Dokumentes finden Sie auf der offiziellen <a href="https://public.isaqb.org/curriculum-foundation/">Download-Seite</a> unter <a href="https://public.isaqb.org/" class="bare">https://public.isaqb.org/</a>.</p>
+</div>
+<div class="paragraph">
+<p>Das Dokument wird in einem <a href="https://github.com/isaqb-org/curriculum-foundation">öffentlichen Repository</a> unter <a href="https://github.com/isaqb-org/curriculum-foundation" class="bare">https://github.com/isaqb-org/curriculum-foundation</a> gepflegt, alle Änderungen sind dort sichtbar.</p>
+</div>
+<div class="paragraph">
+<p>Bitte melden Sie eventuelle Probleme in unserem <a href="https://github.com/isaqb-org/curriculum-foundation/issues">öffentlichen Issue Tracker</a> bei <a href="https://github.com/isaqb-org/curriculum-foundation/issues" class="bare">https://github.com/isaqb-org/curriculum-foundation/issues</a>.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_grundbegriffe_von_softwarearchitektur">1. Grundbegriffe von Softwarearchitektur</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 120 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: Keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_zielsetzung">Zielsetzung</h3>
+<div class="paragraph">
+<p>Ziel dieses Abschnitts ist es, den Teilnehmenden ein grundlegendes Verständnis der wichtigsten Begriffe und Konzepte von Softwarearchitektur zu vermitteln.
+Sie lernen verschiedene Definitionen und deren Gemeinsamkeiten kennen, verstehen die wesentlichen Ziele und Vorteile von Softwarearchitektur und können diese anderen Stakeholdern vermitteln.
+Weiterhin können sie die wichtigsten Aufgaben und Verantwortlichkeiten von Softwarearchitektinnen und Softwarearchitekten benennen und erklären.
+Außerdem wird deren Rolle im organisatorischen Kontext und ihre Interaktion mit anderen Stakeholdern thematisiert, um es den Teilnehmenden zu ermöglichen, einen effektiven Beitrag zu verschiedenartigen Softwareentwicklungsprojekten zu leisten.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wesentliche_begriffe">Wesentliche Begriffe</h3>
+<div class="paragraph">
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-software-architecture">Softwarearchitektur</a>;
+Architekturdomänen;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-structure">Struktur</a>;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-building-block">Bausteine</a>;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-component">Komponenten</a>;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-interface">Schnittstellen</a>;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-relationship">Beziehungen</a>;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-cross-cutting-concern">Querschnittsthemen</a>;
+Nutzen von Softwarearchitektur;
+Softwarearchitekt:innen und deren Verantwortlichkeiten;
+Rolle;
+Aufgaben und benötigte Fähigkeiten;
+Stakeholder und deren Anliegen;
+Anforderungen;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-constraint">Randbedingungen</a>;
+Einflussfaktoren</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-01-01">LZ 01-01: Definitionen von Softwarearchitektur verstehen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen und verstehen die Gemeinsamkeiten vieler Definitionen von Softwarearchitektur:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-building-block">Komponenten/Bausteine</a> mit Schnittstellen und Beziehungen</p>
+</li>
+<li>
+<p>Bausteine als allgemeiner Begriff, Komponenten als eine spezielle Ausprägung davon</p>
+</li>
+<li>
+<p>Strukturen, <a href="https://public.isaqb.org/glossary/glossary-de.html#term-cross-cutting-concern">Querschnittsthemen</a>, Prinzipien</p>
+</li>
+<li>
+<p>Architekturentscheidungen und ihre Auswirkungen auf das gesamte System und seinen Lebenszyklus</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#bass">[Bass+2021]</a>, <a href="#kruchten">[Kruchten 2004]</a>, <a href="#starkelorz">[Starke+2023a]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-02">LZ 01-02: Ziele und Nutzen von Softwarearchitektur verstehen und erläutern (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können die folgenden wesentlichen Ziele und Nutzen der Softwarearchitektur begründen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Entwurf, Implementierung, Pflege und Betrieb von Systemen zu unterstützen</p>
+</li>
+<li>
+<p>funktionale Anforderungen zu erreichen bzw. deren Erfüllbarkeit sicherzustellen</p>
+</li>
+<li>
+<p>Anforderungen wie Zuverlässigkeit, Wartbarkeit, Änderbarkeit, Sicherheit, Energieeffizienz zu erreichen</p>
+</li>
+<li>
+<p>Verständnis für Strukturen und Konzepte des Systems bei allen relevanten <a href="https://public.isaqb.org/glossary/glossary-de.html#term-stakeholder">Stakeholdern</a> sicherstellen</p>
+</li>
+<li>
+<p>Komplexität systematisch zu reduzieren</p>
+</li>
+<li>
+<p>architekturrelevante Richtlinien für Implementierung und Betrieb zu spezifizieren</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-03">LZ 01-03: Langfristige Auswirkungen von Softwarearchitektur kennen (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>den Zusammenhang zwischen Architekturentscheidungen und der zukünftigen Anpassbarkeit und Wartbarkeit des Systems</p>
+</li>
+<li>
+<p>die Auswirkungen durch Änderungen von Anforderungen, Technologien oder Systemumgebung auf bestehende Architekturentscheidungen</p>
+</li>
+<li>
+<p>die langfristigen Konsequenzen von Architekturentscheidungen auf verschiedene Qualitätsmerkmale des Systems</p>
+</li>
+<li>
+<p>die Wechselwirkungen zwischen IT-Systemen und den unterstützten Geschäfts- und Betriebsprozessen</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Sie wissen, wie sie die Auswirkungen von Architekturentscheidungen auf die langfristige Entwicklung eines Systems analysieren können.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_2">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#bass">[Bass+2021]</a>, <a href="#lehman">[Lehman 1980]</a>, <a href="#lehmanwiki">[Wiki-LehmansLaws]</a>, <a href="#lilienthal">[Lilienthal 2024]</a>, <a href="#ford">[Ford+2023]</a>, <a href="#rajlich">[Rajlich+2000]</a>, <a href="#richardsfundamentals">[Richards+2020]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-04">LZ 01-04: Aufgaben und Verantwortung von Softwarearchitekt:innen verstehen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen tragen die Verantwortung für die Erreichung der Anforderungen und die Entwicklung der Architektur der Lösung.
+Sie müssen diese Verantwortung, abhängig vom jeweiligen Prozess- oder Vorgehensmodell, mit der Gesamtverantwortung der Projektleitung oder anderen Rollen koordinieren.</p>
+</div>
+<div class="paragraph">
+<p>Aufgaben und Verantwortung von Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Anforderungen und Randbedingungen klären und hinterfragen.
+Notwendige Verfeinerungen mit den entsprechenden Stakeholdern koordinieren und abstimmen.</p>
+</li>
+<li>
+<p>Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen</p>
+</li>
+<li>
+<p>Querschnittsthemen entscheiden (beispielsweise Persistenz, Kommunikation, GUI)</p>
+</li>
+<li>
+<p>Softwarearchitektur auf Basis von Sichten, Mustern sowie technischen und Querschnittsthemen kommunizieren und dokumentieren</p>
+</li>
+<li>
+<p>Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Softwarearchitektur prüfen und sicherstellen</p>
+</li>
+<li>
+<p>Softwarearchitektur analysieren und bewerten, insbesondere hinsichtlich Risiken bezüglich der Erreichung von Anforderungen.</p>
+</li>
+<li>
+<p>Die Konsequenzen von Architekturentscheidungen erkennen, aufzeigen und gegenüber anderen Stakeholdern argumentieren</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Sie sollen selbstständig die Notwendigkeit von Iterationen bei allen Aufgaben erkennen und Möglichkeiten für entsprechende Rückmeldung aufzeigen.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-05">LZ 01-05 This LG is temporarily vacant</h4>
+
+</div>
+<div class="sect3">
+<h4 id="LG-01-06">LZ 01-06: Rolle von Softwarearchitekt:innen mit anderen Stakeholdern in Beziehung setzen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können ihre Rolle erklären.
+Sie sollten ihren Beitrag zur Systementwicklung in Verbindung mit anderen Stakeholdern und Organisationseinheiten kontextspezifisch ausgestalten, insbesondere zu:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Produktmanagement, Product-Owner</p>
+</li>
+<li>
+<p>Projektleitung und -management</p>
+</li>
+<li>
+<p>Anforderungsanalytiker:innen (System-/Businessanalyse, Anforderungsmanagement, Fachbereich)</p>
+</li>
+<li>
+<p>Entwicklung</p>
+</li>
+<li>
+<p>Qualitätssicherung und Test</p>
+</li>
+<li>
+<p>IT-Betrieb (Produktion, Rechenzentren), zutreffend primär für Informationssysteme</p>
+</li>
+<li>
+<p>Hardwareentwicklung und Systemarchitektur, zutreffend primär für eingebettete und hardwarenahe Systeme</p>
+</li>
+<li>
+<p>Unternehmensarchitektur, Architekturboard.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-01-07">LZ 01-07: Bedeutung von Daten und Datenmodellen (R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen die Bedeutung von Daten und Datenmodellen (unabhängig von ihrer physischen Repräsentation) für die Architektur.
+Sie</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können Datenmodelle identifizieren, die maßgeblichen Einfluss auf die Architektur haben.</p>
+</li>
+<li>
+<p>können solche Datenmodelle systematisch entwerfen.</p>
+</li>
+<li>
+<p>verstehen den Unterschied zwischen <a href="https://public.isaqb.org/glossary/glossary-de.html#term-product">Produkten</a> und <a href="https://public.isaqb.org/glossary/glossary-de.html#term-sum">Summen</a> in der Datenmodellierung.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>verstehen die Bedeutung der Entkopplung von Datenmodellen und ihrer Repräsentation in Datenbanken, Dateien und Übertragungsprotokollen.</p>
+</li>
+<li>
+<p>können die Auswirkungen von Daten auf Architekturentscheidungen z.B. in Bezug auf Speicherung, Sicherheit, Skalierbarkeit, Zuverlässigkeit, Performance usw. erläutern.</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_3">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#felleisenetal">[Felleisen+2014]</a>, <a href="#sperberklaeren">[Sperber+2023]</a>, <a href="#sperberwehr">[Sperber+2024]</a>, <a href="#kleppmann">[Kleppmann 2017]</a>, <a href="#fordhardparts">[Ford+2021]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_anforderungen_und_randbedingungen">2. Anforderungen und Randbedingungen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 90 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 90 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_zielsetzung_2">Zielsetzung</h3>
+<div class="paragraph">
+<p>Dieser Abschnitt vertieft das Verständnis der Teilnehmenden für Stakeholder-Anliegen, Anforderungen und Qualitäten von Softwaresystemen.
+Sie lernen, den Einfluss von Stakeholdern auf Architekturentscheidungen zu erkennen sowie Konflikte und Synergien im Kontext von Entwicklungsprojekten einzuschätzen.
+Durch die Auseinandersetzung mit verschiedenen Anforderungen und Einschränkungen erhalten sie einen Einblick in die effektive Berücksichtigung der Bedürfnisse der Stakeholder und der Projektvorgaben.
+Weiterhin erkennen sie die Bedeutung von Qualitäten eines Softwaresystems als entscheidende Faktoren für den Architekturentwurf.
+Sie können solche Anforderungen mit Hilfe von Szenarien formulieren.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wesentliche_begriffe_2">Wesentliche Begriffe</h3>
+<div class="paragraph">
+<p>Qualität; Qualitätsmerkmale; DIN/ISO 25010; Q42; Qualitätsszenarien; Kompromisse/Wechselwirkungen von Qualitätseigenschaften; Anforderungen; Randbedingungen; Stakeholder-Anliegen</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_2">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-02-01">LZ 02-01: Stakeholder-Anliegen verstehen (R1, R3)</h4>
+<div class="paragraph">
+<p>Architekten können Stakeholder und deren Anliegen sowie deren Auswirkungen auf die Softwarearchitektur oder den Entwurfs- und Entwicklungsprozess identifizieren. (R1)</p>
+</div>
+<div class="paragraph">
+<p>Beispiele für Stakeholder und ihre Anliegen (R3):</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Interessengruppe</th>
+<th class="tableblock halign-left valign-top">Anliegen der Interessengruppe</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Produktmanagement</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z.&#160;B. benötigte Zeit für die Umsetzung der Anforderungen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Entwicklungsteam</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z. B. zu implementierende Komponenten und Schnittstellen, Protokolle, technische Anforderungen und Randbedingungen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Requirements Engineering, Product-Owner, Business-Analyse, Fachbereiche</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z. B. Erfüllung der Anforderungen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Projektmanagement</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z. B. benötigte Zeit und Budget für die Umsetzung, verbundene Risiken des
+gewählten architekturellen Ansatzes</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Qualitätssicherung und Test</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z. B. isoliertes Testen von Komponenten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Betrieb</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">z.&#160;B. Infrastrukturanforderungen im Zusammenhang mit dem Betrieb des Systems</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können potenzielle Konflikte zwischen kurz- und langfristigen Zielen identifizieren (z.B. Geschäfts- und Projektziele vs. Architektur- und Wartbarkeitsziele).
+Sie verstehen, dass sie die relevanten Stakeholder einbeziehen müssen, um diese Konflikte zu lösen. (R1)</p>
+</div>
+<div class="paragraph">
+<p>Architekt:innen verstehen, dass nicht alle Anliegen der Stakeholder in Anforderungen umgesetzt werden können oder werden, aber dennoch berücksichtigt werden müssen. (R3)</p>
+</div>
+<div class="paragraph">
+<p>Architekt:innen können die Anliegen der Stakeholder nutzen, um fehlende oder widersprüchliche Anforderungen zu entdecken und/oder Anforderungen und Einschränkungen an der Architektur zu validieren, z.B. in Stakeholder-Interviews. (R3)</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-02">LZ 02-02: Anforderungen und Randbedingungen klären und berücksichtigen können (R1-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen, dass sowohl Anforderungen als auch Randbedingungen Auswirkungen auf die Architektur und die Architekturarbeit haben können (R2).
+Sie sind in der Lage, Anforderungen und Randbedingungen zu klären und beim Architekturentwurf und im Entwicklungsprozess zu berücksichtigen.
+Sie verstehen, dass ihre Entscheidungen zu zusätzlichen Anforderungen führen oder Änderungen an bestehenden Anforderungen erforderlich machen können.</p>
+</div>
+<div class="paragraph">
+<p>Sie erkennen und berücksichtigen den Einfluss von:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>produktbezogenen Anforderungen wie (R1)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>funktionale Anforderungen</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-quality-requirement">Qualitätsanforderungen</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Technologische Randbedingungen wie</p>
+<div class="ulist">
+<ul>
+<li>
+<p>bestehende oder geplante Hardware- und Software-Infrastruktur (R1)</p>
+</li>
+<li>
+<p>technologische Beschränkungen für Datenstrukturen und Schnittstellen (R2)</p>
+</li>
+<li>
+<p>Referenzarchitekturen, Bibliotheken, Komponenten und Frameworks (R1)</p>
+</li>
+<li>
+<p>Programmiersprachen (R2)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Organisatorischen Randbedingungen wie</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Organisationsstruktur von Entwicklungsteams und Auftraggebenden (R1), insbesondere das Gesetz von Conway (R2)</p>
+</li>
+<li>
+<p>Unternehmens- und Teamkultur (R3)</p>
+</li>
+<li>
+<p>Partnerschaften und Kooperationen (R2)</p>
+</li>
+<li>
+<p>Normen, Richtlinien und Prozessmodelle (z.&#160;B. Genehmigungs- und Freigabeprozesse) (R2)</p>
+</li>
+<li>
+<p>Verfügbarkeit von Ressourcen wie Budget, Zeit und Personal (R1)</p>
+</li>
+<li>
+<p>Verfügbarkeit, Qualifikation und Engagement von Mitarbeitenden (R1)</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Regulatorischen Randbedingungen wie (R2)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>lokale und internationale rechtliche Einschränkungen</p>
+</li>
+<li>
+<p>Vertrags- und Haftungsfragen</p>
+</li>
+<li>
+<p>Datenschutzgesetze und Gesetze zum Schutz der Privatsphäre</p>
+</li>
+<li>
+<p>Fragen der Einhaltung oder Verpflichtungen zur Beweislast</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Trends wie (R3)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Markttrends</p>
+</li>
+<li>
+<p>Technologietrends (z.&#160;B. Cloud, Microservices, Container, generative KI oder LLMs)</p>
+</li>
+<li>
+<p>Methodik-Trends (z.&#160;B. Agilität)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können beschreiben, wie diese Einflüsse auf Architekturentscheidungen wirken, und sie können die Konsequenzen einer Änderung der Einflussfaktoren anhand von Beispielen erläutern (R2).</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_4">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#IREBFoundation">[IREB Foundation]</a>, <a href="#bass">[Bass+2021]</a>, <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#starke">[Starke 2024]</a>, <a href="#richardsfundamentals">[Richards+2020]</a>, <a href="#pohl">[Pohl 2025]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-03">LZ 02-03: Qualitäten eines Softwaresystems verstehen und erklären (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen wissen dass der Begriff "Qualität" in verschiedenen Kontexten unterschiedlich benutzt wird:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>im Kontext von Qualitätsmanagement im Sinne von "Güte" und</p>
+</li>
+<li>
+<p>im Sinne spezifischer Eigenschaften (eines Softwaresystems).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>In diesem Lernziel geht es um letzteres.</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können erklären dass:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>es unterschiedliche Taxonomien gibt, die Qualitäten von Softwaresystemen kategorisieren</p>
+</li>
+<li>
+<p>manche Kategorisierungen zwischen Funktionalität und Qualität unterscheiden, wie zum Beispiel IREB <a href="#IREBFoundation">[IREB Foundation]</a></p>
+</li>
+<li>
+<p>Softwarearchitekt:innen die Qualitäten eines Softwaresystems beeinflussen können</p>
+</li>
+<li>
+<p>die Veränderung einer Qualität andere so beeinflussen kann, dass Abwägungen notwendig werden, wie z.&#160;B.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Konfigurierbarkeit versus Zuverlässigkeit</p>
+</li>
+<li>
+<p>Speicherbedarf versus Leistungseffizienz</p>
+</li>
+<li>
+<p>Sicherheit versus Benutzbarkeit</p>
+</li>
+<li>
+<p>Laufzeitflexibilität versus Wartbarkeit.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Sie verstehen, dass sich eine einzelne Anforderung auf mehrere Qualitäten beziehen kann.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_5">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#IREBFoundation">[IREB Foundation]</a>, <a href="#iso25010">[ISO 25010:2023]</a>, <a href="#bass">[Bass+2021]</a>, <a href="#q42">[Q42]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-04">LZ 02-04: Anforderungen an Qualitäten formulieren (R1-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können Szenarien für gegebene Qualitäten mit Kontext, Stimulus, Reaktion und Messung für verschiedene Zwecke formulieren, z. B. um Anforderungen zu klären, Input für Architekturbewertungen zu liefern usw. (R1)</p>
+</li>
+<li>
+<p>verstehen, dass eine Anforderung für eine gegebene Qualität
+eine Analysemethode spezifizieren sollte (R1)</p>
+</li>
+<li>
+<p>wissen, dass die Verwendung einer Metrik als Ziel diese invalidieren kann (R2), wie z.&#160;B. in Goodhart&#8217;s Law (R3) beschrieben</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_6">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#bass">[Bass+2021]</a>, <a href="#q42">[Q42]</a>, <a href="#iso25010">[ISO 25010:2023]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-02-05">LZ 02-05: Explizite Aussagen vor impliziten Annahmen bevorzugen (R1, R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können Annahmen oder Voraussetzungen explizit darstellen und dadurch implizite Annahmen vermeiden (R1)</p>
+</li>
+<li>
+<p>können erklären, warum implizite Annahmen zu Missverständnissen zwischen beteiligten Stakeholdern führen können (R1)</p>
+</li>
+<li>
+<p>können explizite Spezifikationen von Anforderungen, Randbedingungen, Grenzfällen, unzulässigen Aktionen und Eskalationspfaden schreiben, und behandeln dies als architektonische Verantwortlichkeit (R2)</p>
+</li>
+<li>
+<p>können erklären, warum gute Spezifikationen eindeutige, allgemeine Beschreibungen gewünschten Verhaltens enthalten - nicht nur Beispiele (R1)</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_entwurf_und_entwicklung_von_softwarearchitekturen">3. Entwurf und Entwicklung von Softwarearchitekturen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 270 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 90 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_zielsetzung_3">Zielsetzung</h3>
+<div class="paragraph">
+<p>Dieser Abschnitt zielt darauf ab, die Teilnehmenden in die Lage zu versetzen, Architekturentscheidungen so zu treffen, dass Anforderungen der Stakeholder unter Berücksichtigung der Randbedingungen erfüllt werden können.
+Sie lernen, Architekturentwürfe zu entwickeln, fundierte Entscheidungen zur Systemzerlegung zu treffen und Abhängigkeiten zwischen Bausteinen zu gestalten.
+Zu diesem Zweck lernen sie, grundlegende Ansätze und Heuristiken bei der Architekturentwicklung anzuwenden.
+Sie erkennen die Bedeutung von Entwurfsprinzipien und Lösungsmustern und können diese anwenden.
+Darüber hinaus werden in diesem Abschnitt der Umgang mit Querschnittsthemen, die Prinzipien des Software-Deployments und die Herausforderungen verteilter Systeme thematisiert.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wesentliche_begriffe_3">Wesentliche Begriffe</h3>
+<div class="paragraph">
+<p>Entwurf;
+Vorgehen beim Entwurf;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-architectural-decision">Architekturentscheidung</a>;
+Sichten;
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-interface">Schnittstellen</a>;
+technische Konzepte und Querschnittsthemen;
+Muster;
+Mustersprachen;
+Entwurfsprinzipien;
+Abhängigkeiten;
+Kopplung;
+Kohäsion;
+Top-down- und Bottom-up-Vorgehen;
+modellbasierter Entwurf;
+iterativer Entwurf;
+Domain-Driven Design</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_3">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-03-01">LZ 03-01: Anforderungen durch Architektur erreichen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>verstehen, dass architektonische Aktivitäten davon geleitet werden sollten, spezifische Qualitäten zu erreichen oder zu verbessern</p>
+</li>
+<li>
+<p>können einen Architekturentwurf vorschlagen, der geeignet ist, Anforderungen zu erfüllen</p>
+</li>
+<li>
+<p>können einschätzen, welche Qualitäten sie durch bestimmte Aktivitäten oder Entscheidungen verbessern</p>
+</li>
+<li>
+<p>können mögliche Abwägungen zwischen Entwürfen sowie den entsprechenden Risiken identifizieren und kommunizieren</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-02">LZ 03-02: Softwarearchitekturen entwerfen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Softwarearchitekturen auf Basis bekannter funktionaler und Qualitätsanforderungen für nicht sicherheits- oder unternehmenskritische Softwaresysteme entwerfen und angemessen kommunizieren und dokumentieren</p>
+</li>
+<li>
+<p>Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten zwischen Bausteinen festlegen (siehe <a href="#LG-03-06">LZ 03-06: Abhängigkeiten von Bausteinen managen (R1)</a>)</p>
+</li>
+<li>
+<p>gegenseitige Abhängigkeiten und Abwägungen bezüglich <a href="https://public.isaqb.org/glossary/glossary-de.html#term-architectural-decision">Architekturentscheidungen</a> erkennen und begründen</p>
+</li>
+<li>
+<p>Begriffe <a href="https://public.isaqb.org/glossary/glossary-de.html#term-blackbox">Blackbox</a> und <a href="https://public.isaqb.org/glossary/glossary-de.html#term-whitebox">Whitebox</a> erklären und zielgerichtet anwenden</p>
+</li>
+<li>
+<p>schrittweise Verfeinerung und Spezifikation von Bausteinen durchführen</p>
+</li>
+<li>
+<p>Architektursichten entwerfen, insbesondere Baustein-, Laufzeit- und Verteilungssicht (siehe <a href="#LG-04-05">LZ 04-05: Architektursichten erläutern und anwenden (R1)</a>)</p>
+</li>
+<li>
+<p>die aus Entscheidungen resultierenden Konsequenzen auf den Quellcode erklären</p>
+</li>
+<li>
+<p>domänenspezifische und technische Bestandteile in Architekturen trennen und diese Trennung begründen</p>
+</li>
+<li>
+<p>Risiken von Architekturentscheidungen identifizieren.</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_7">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#kruchten95">[Kruchten 1995]</a>, <a href="#rozanskiwoods">[Rozanski+2011]</a>, <a href="#starkelorz">[Starke+2023a]</a>, <a href="#arc42">[arc42]</a>, <a href="#brownc4">[Brown-C4]</a>, <a href="#starke">[Starke 2024]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-03">LZ 03-03: Vorgehen und Heuristiken zur Architekturentwicklung auswählen und anwenden können (R1,R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können Vorgehensweisen, die Architekturentwicklung unterstützen, benennen erklären und anwenden, beispielsweise:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Top-down- und Bottom-up-Vorgehen, siehe <a href="#gharbietal">[Gharbi+2024]</a>, <a href="#starke">[Starke 2024]</a> (R1)</p>
+</li>
+<li>
+<p>Architektursichten (R1)</p>
+</li>
+<li>
+<p>Domain-Driven Design, siehe <a href="#evans">[Evans 2004]</a> (R3)</p>
+</li>
+<li>
+<p>Evolutionäre Architektur, siehe <a href="#ford">[Ford+2023]</a> (R3)</p>
+</li>
+<li>
+<p>Quality-Driven Software Architecture, siehe <a href="#quality-driven-software-architecture">[Starke 2021]</a>, <a href="#bass">[Bass+2021]</a> (R3)</p>
+</li>
+<li>
+<p>Funktionale Softwarearchitektur, siehe <a href="#isaqbfunar">[iSAQB FUNAR]</a> (R3)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-04">LZ 03-04: Entwurfsprinzipien erläutern und anwenden (R1-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen sind in der Lage zu erklären, was Entwurfsprinzipien sind.
+Sie können deren grundlegende Ziele und deren Anwendung im Hinblick auf Softwarearchitektur skizzieren. (R2)</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen sind in der Lage:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>die unten aufgeführten Gestaltungsprinzipien zu erläutern und mit Beispielen zu illustrieren</p>
+</li>
+<li>
+<p>zu erklären, wie diese Prinzipien angewendet werden sollen</p>
+</li>
+<li>
+<p>darzulegen, wie Anforderungen die Anwendung dieser Prinzipien beeinflussen</p>
+</li>
+<li>
+<p>die Auswirkungen der Entwurfsprinzipien auf die Implementierung zu erläutern</p>
+</li>
+<li>
+<p>Quellcode und Architektur zu analysieren, um zu beurteilen, ob diese Entwurfsprinzipien angewendet wurden oder angewendet werden sollten</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Abstraktion</strong> (R2)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>im Sinne eines Vorgehens zur Erarbeitung zweckmäßiger Generalisierungen</p>
+</li>
+<li>
+<p>als eine Entwurfstechnik, bei dem die Bausteine von Abstraktionen und nicht von Implementierungen abhängen</p>
+</li>
+<li>
+<p>Schnittstellen als Abstraktionen</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Modularisierung</strong> (R1)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Geheimnisprinzip (<a href="https://public.isaqb.org/glossary/glossary-de.html#term-information-hiding">Information Hiding</a>) und <a href="https://public.isaqb.org/glossary/glossary-de.html#term-encapsulation">Kapselung</a></p>
+</li>
+<li>
+<p>Trennung von Belangen (<a href="https://public.isaqb.org/glossary/glossary-de.html#term-separation-of-concern">Separation of Concerns</a> - SoC)</p>
+</li>
+<li>
+<p>Lose, aber funktionell ausreichende Kopplung von Bausteinen, siehe <a href="#LG-03-06">LZ 03-06: Abhängigkeiten von Bausteinen managen (R1)</a></p>
+</li>
+<li>
+<p>Hohe <a href="https://public.isaqb.org/glossary/glossary-de.html#term-cohesion">Kohäsion</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-open-close-principle">Offen/geschlossen-Prinzip</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-dependency-inversion">Dependency-Inversion-Prinzip</a> - Umkehrung von Abhängigkeiten durch Schnittstellen oder ähnliche Abstraktionen</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Konzeptionelle Integrität</strong> (R2-R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>bedeutet Einheitlichkeit (Homogenität, Konsistenz) von Lösungen für ähnliche Probleme zu erreichen (R2)</p>
+</li>
+<li>
+<p>als ein Mittel, um das Prinzip der geringsten Überraschung zu erreichen (<em>principle of least surprise</em> oder <em>principle of least astonishment</em> (POLA)) (R3)</p>
+</li>
+<li>
+<p>Liskov’sches Substitutionsprinzip als eine Möglichkeit, Konsistenz, konzeptionelle Integrität und Robustheit (im Sinne von Typsicherheit) zu erreichen (R3).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Reduktion von Komplexität</strong> (R2-R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>als Motiv der Prinzipien KISS, YAGNI und CUPID <a href="#north-cupid">[Terhorst-North 2022]</a> (R3)</p>
+</li>
+<li>
+<p>DRY (Don&#8217;t Repeat Yourself) als eine Möglichkeit, Wiederholungen zu vermeiden  (R2)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong>Erwarte Fehler</strong> (R2-R3)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>als Mittel für den Entwurf robuster und widerstandsfähiger Systeme (R3)</p>
+</li>
+<li>
+<p>als eine Verallgemeinerung des Robustheitsgrundsatzes (<em>Postel&#8217;s law</em>) (R2)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><strong><a href="https://public.isaqb.org/glossary/glossary-de.html#term-make-illegal-states-unrepresentable">Make illegal states unrepresentable</a></strong> (R2)</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>als ein Entwurfsprinzip, um die Robustheit verbessern</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_8">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#liskov">[Liskov+1994]</a>, <a href="#solid">[SOLID]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-05">LZ 03-05: Zusammenhang zwischen Feedback-Schleifen und Risiko (R1, R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen die Notwendigkeit von Iterationen, insbesondere bei unter Unsicherheit getroffenen Entscheidungen.
+Sie</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können den Einfluss von iterativem Vorgehen auf Architekturentscheidungen erläutern (hinsichtlich Risiken und Prognostizierbarkeit)  (R1)</p>
+</li>
+<li>
+<p>können iterativ arbeiten und entscheiden (R1)</p>
+</li>
+<li>
+<p>verstehen die Notwendigkeit von Rückmeldungen zu Architekturentscheidungen (R1)</p>
+</li>
+<li>
+<p>können von anderen Stakeholdern systematisch Rückmeldung einholen. (R2)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-06">LZ 03-06: Abhängigkeiten von Bausteinen managen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen Abhängigkeiten und Kopplung zwischen Bausteinen und können diese gezielt einsetzen.
+Sie:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>kennen und verstehen unterschiedliche Arten der Kopplung von Bausteinen (beispielsweise  Kopplung über Benutzung/Delegation, Nachrichten/Ereignisse, Komposition, Erzeugung, Vererbung, zeitliche Kopplung, Kopplung über Daten, Datentypen oder Hardware)</p>
+</li>
+<li>
+<p>verstehen, wie Abhängigkeiten die Kopplung vergrößern</p>
+</li>
+<li>
+<p>können mindestens die folgenden Arten von Kopplung unterscheiden:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>statische und dynamische Kopplung</p>
+</li>
+<li>
+<p>eingehende und ausgehende Abhängigkeiten</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>wissen, dass auf statische Kopplung zu verzichten und stattdessen dynamische Kopplung einzusetzen, die zugrundeliegende Kopplung nicht notwendigerweise reduziert</p>
+</li>
+<li>
+<p>können Kopplung erkennen und ihre Auswirkungen bewerten</p>
+</li>
+<li>
+<p>können begründete Entscheidungen treffen, ob eine Abhängigkeit in Anbetracht der Anforderungen und Randbedingungen angemessen ist oder entfernt werden sollte</p>
+</li>
+<li>
+<p>kennen Möglichkeiten zur Auflösung bzw. Reduktion von Kopplung und können diese anwenden, beispielsweise:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Muster</p>
+</li>
+<li>
+<p>Grundlegende Entwurfsprinzipien</p>
+</li>
+<li>
+<p>Externalisierung von Abhängigkeiten, d.h. konkrete Abhängigkeiten erst zur Installations- oder Laufzeit festlegen, etwa durch Anwendung von
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-dependency-injection">Dependency Injection</a> (R1) (siehe auch <a href="#LG-03-08">LZ 03-08: Wichtige Muster beschreiben, erklären und angemessen anwenden (R1, R3)</a>).</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_9">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#fordhardparts">[Ford+2021]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-07">LZ 03-07: Schnittstellen entwerfen und spezifizieren (R1-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen die kritische Bedeutung von Schnittstellen für die Interaktion zwischen Architekturbausteinen oder zwischen dem System und externen Elementen.
+Sie können solche Schnittstellen entwerfen und spezifizieren.</p>
+</div>
+<div class="paragraph">
+<p>Sie kennen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>wünschenswerte Eigenschaften von Schnittstellen und können diese beim Entwurf erreichen (R1):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>einfach zu erlernen, einfach zu benutzen, einfach zu erweitern</p>
+</li>
+<li>
+<p>schwer zu missbrauchen</p>
+</li>
+<li>
+<p>funktional vollständig aus Sicht der Nutzer:innen oder nutzender Bausteine.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>die Notwendigkeit unterschiedlicher Behandlung interner und externer Schnittstellen (R2)</p>
+</li>
+<li>
+<p>die Trennung zwischen Schnittstelle und Implementierung (R1):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Implementierungen können bei Bedarf ausgetauscht werden.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>unterschiedliche Charakteristika von Schnittstellen, beispielsweise (R3):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Transportkanäle (etwa: TCP/IP als Teil des OSI 7-Schichten Modells)</p>
+</li>
+<li>
+<p>intern oder extern</p>
+</li>
+<li>
+<p>lokal oder remote</p>
+</li>
+<li>
+<p>synchron oder asynchron</p>
+</li>
+<li>
+<p>binär (nur maschinenlesbar) oder textuell (auch menschenlesbar)</p>
+</li>
+<li>
+<p>zustandslos oder zustandsbehaftet</p>
+</li>
+<li>
+<p>Punkt-zu-Punkt oder Multipunkt (broadcast oder multicast)</p>
+</li>
+<li>
+<p>Funktionsaufruf (etwa: Remote Procedure Call) oder Nachrichtenaustausch</p>
+</li>
+<li>
+<p>Batch, Request/Response oder Streaming</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Implementierungsansätze für synchrone <a href="https://public.isaqb.org/glossary/glossary-de.html#term-service">Remote-Service-Schnittstellen</a>, etwa (R3):</p>
+<div class="ulist">
+<ul>
+<li>
+<p>prozedurorientiert (etwa: GraphQL, WS-*/SOAP-basierte Webservices)</p>
+</li>
+<li>
+<p>ressourcenorientiert (REST, REpresentational State Transfer)</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Siehe auch <a href="#LG-04-06">LZ 04-06: Schnittstellen dokumentieren (R1)</a>.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_10">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#zimmermann-api">[Zimmermann+2022]</a>, <a href="#geewax">[Geewax 2021]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-08">LZ 03-08: Wichtige Muster beschreiben, erklären und angemessen anwenden (R1, R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können die folgenden Muster erklären und Beispiele dafür liefern (R1):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-layer">Schichten (Layers)</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-pipes-and-filters">Pipes und Filter</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-microservices">Microservices</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-dependency-injection">Dependency Injection</a> (siehe auch <a href="#LG-03-06">LZ 03-06: Abhängigkeiten von Bausteinen managen (R1)</a>)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können einige der folgenden Muster erklären, ihre Relevanz für konkrete Systeme erläutern und Beispiele dafür liefern (R3):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-combinator">Combinator</a></p>
+</li>
+<li>
+<p>Schnittstellenmuster wie <a href="https://public.isaqb.org/glossary/glossary-de.html#term-adapter">Adapter</a>, <a href="https://public.isaqb.org/glossary/glossary-de.html#term-facade">Facade</a>,
+und <a href="https://public.isaqb.org/glossary/glossary-de.html#term-proxy">Proxy</a>.
+Architekt:innen sollten wissen, dass diese Muster unabhängig von bestimmten
+Programmiersprachen oder Frameworks verwendet werden können.</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-interpreter">Interpreter</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-observer">Observer</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-template-method">Template Method</a> und <a href="https://public.isaqb.org/glossary/glossary-de.html#term-strategy">Strategy</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-visitor">Visitor</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-blackboard">Blackboard</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-broker">Broker</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-cqrs">CQRS (Command-Query-Responsibility-Segregation)</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-event-sourcing">Event sourcing</a></p>
+</li>
+<li>
+<p>Integrations und Messaging-Patterns (z.B. aus <a href="#hohpe">[Hohpe+2004]</a>)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-remote-procedure-call">Remote procedure call</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-model-view-controller">MVC</a> (Model View Controller),
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-model-view-viewmodel">MVVM</a> (Model View ViewModel),
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-model-view-update">MVU</a> (Model View Update),
+<a href="https://public.isaqb.org/glossary/glossary-de.html#term-presentation-abstraction-control">PAC</a> (Presentation Abstraction Control)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-plugin">Plugin</a></p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-ports-and-adapters">Ports and Adapters</a> (Synonyme: Onion Architektur, Hexagonal Architektur, Clean Architektur)</p>
+</li>
+<li>
+<p><a href="https://public.isaqb.org/glossary/glossary-de.html#term-service-oriented-architecture">SOA</a> (Service-Oriented Architektur)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen wesentliche Quellen für Muster, beispielsweise <a href="#gof">GOF</a> die POSA-Literatur (z.&#160;B. <a href="#buschmanna">[Buschmann+1996]</a>) und PoEAA (<a href="#fowler">[Fowler 2003]</a>) (für Informationssysteme). (R3)</p>
+</div>
+<div class="paragraph">
+<p>Sie wissen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>dass Muster ein Weg sind, bestimmte Qualitäten für gegebene Probleme und Anforderungen innerhalb gegebener Kontexte zu erreichen.</p>
+</li>
+<li>
+<p>zusätzliche Quellen für Muster, die sich auf ihre spezifische technische oder Anwendungsdomäne beziehen.</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_11">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#buschmanna">[Buschmann+1996]</a>, <a href="#buschmannb">[Buschmann+2007]</a>, <a href="#eilebrecht">[Eilebrecht+2024]</a>, <a href="#fowler">[Fowler 2003]</a>, <a href="#gof">[Gamma+1994]</a>, <a href="#hohpe">[Hohpe+2004]</a>, <a href="#pethuru">[Raj+2017]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-09">LZ 03-09: Architektur analysieren (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen verstehen, dass eine Architekturanalyse helfen kann:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Risiken und mögliche Verbesserungen im Architekturentwurf zu identifizieren</p>
+</li>
+<li>
+<p>festzustellen, ob der Architekturentwurf die Anforderungen erfüllt oder erfüllen wird</p>
+</li>
+<li>
+<p>zu erheben, inwiefern die Implementierung zu Architekturentscheidungen und Architekturentwurf passt</p>
+</li>
+<li>
+<p>zu überprüfen, inwiefern architekturrelevante Anliegen der Stakeholder berücksichtigt sind</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_12">Referenzen</h5>
+
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-10">LZ 03-10: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>die Bedeutung von <a href="https://public.isaqb.org/glossary/glossary-de.html#term-cross-cutting-concern">Querschnittsthemen</a> erklären</p>
+</li>
+<li>
+<p>solche Querschnittsthemen identifizieren</p>
+</li>
+<li>
+<p>Querschnittskonzepte entwerfen, unter anderem Persistenz, Kommunikation, GUI, Fehlerbehandlung, Nebenläufigkeit, Energieeffizienz</p>
+</li>
+<li>
+<p>mögliche wechselseitige Abhängigkeiten erkennen und beurteilen.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen wissen, dass solche Querschnittskonzepte systemübergreifend wiederverwendbar sein können.</p>
+</div>
+<div class="paragraph">
+<p>Siehe auch <a href="#LG-04-07">LZ 04-07: Querschnittsthemen dokumentieren und kommunizieren (R2)</a>.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_13">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#starke">[Starke 2024]</a>, <a href="#starkelorz">[Starke+2023a]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-11">LZ 03-11: Grundlegende Prinzipien von Software-Deployments kennen (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>wissen, dass Software-Deployment der Prozess ist, durch den neue oder aktualisierte Software zur Benutzung bereitgestellt wird</p>
+</li>
+<li>
+<p>können grundlegende Konzepte des Deployments von Software benennen und erklären:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Automatisierung von Deployments</p>
+</li>
+<li>
+<p>Wiederholbare Builds</p>
+</li>
+<li>
+<p>Konsistente Umgebungen (z.&#160;B. durch Nutzung von unveränderlicher (<em>immutable</em>) Infrastruktur)</p>
+</li>
+<li>
+<p>Alles liegt unter Versionskontrolle</p>
+</li>
+<li>
+<p>Releases sind einfach zurückzunehmen</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_14">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#humble">[Humble+2010]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-03-12">LZ 03-12: Technische und geschäftliche Sichten verwenden können (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_beschreibung_und_kommunikation_von_softwarearchitekturen">4. Beschreibung und Kommunikation von Softwarearchitekturen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 180 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 60 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_zielsetzung_4">Zielsetzung</h3>
+<div class="paragraph">
+<p>Ziel dieses Abschnitts ist es, die Teilnehmer:innen in die Lage zu versetzen, Softwarearchitekturen so zu dokumentieren und zu kommunizieren, dass sie den Bedürfnissen wichtiger Stakeholder gerecht werden und den Entwicklungsprozess unterstützen.
+Der Schwerpunkt liegt auf dem Verständnis der grundlegenden Anforderungen an technische Dokumentationen, der Verwendung geeigneter Modelle und Notationen zur Beschreibung von Architekturen und der Anwendung wichtiger Architekturansichten.
+Außerdem lernen die Teilnehmer:innen, wichtige Architekturentscheidungen, Schnittstellen und Querschnittskonzepte zu dokumentieren, um eine klare, korrekte und für die Stakeholder relevante Dokumentation zu gewährleisten.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wesentliche_begriffe_4">Wesentliche Begriffe</h3>
+<div class="paragraph">
+<p>(Architektur-)Sichten; Strukturen; (technische) Konzepte; Dokumentation; Kommunikation; Beschreibung; Ausrichtung an Zielgruppen und Stakeholder-Anliegen; Meta-Strukturen und Templates zur Beschreibung und Kommunikation; Kontextabgrenzung; Bausteine; Bausteinsicht; Laufzeitsicht; Verteilungssicht; Knoten; Kanal; Verteilungsartefakte; Mapping von Bausteinen auf Verteilungsartefakte; Mapping von Verteilungsartefakten auf Knoten; Beschreibung von Schnittstellen und Architekturentscheidungen; UML; Werkzeuge zur Dokumentation</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_4">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-04-01">LZ 04-01: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen die wesentlichen Anforderungen an technische Dokumentation und können diese bei der Dokumentation von Systemen berücksichtigen bzw. erfüllen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Verständlichkeit, Korrektheit, Effizienz, Angemessenheit, Wartbarkeit</p>
+</li>
+<li>
+<p>Orientierung von Form, Inhalt und Detailgrad an Zielgruppe der Dokumentation</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Sie wissen, dass Verständlichkeit technischer Dokumentation nur von deren Zielgruppen beurteilt werden kann.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_15">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#starkelorz">[Starke+2023a]</a>, <a href="#zoerner">[Zörner 2021]</a>, <a href="#clementsdoc">[Clements+2010]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-02">LZ 04-02: Softwarearchitekturen beschreiben und kommunizieren (R1-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen nutzen Dokumentation zur Unterstützung bei Entwurf, Implementierung und Weiterentwicklung (auch genannt <em>Wartung</em> oder <em>Evolution</em>) von Systemen. (R2)</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können (R1):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Architekturen entsprechend der Anliegen der Stakeholder dokumentieren und kommunizieren und dadurch unterschiedliche Zielgruppen adressieren, z.&#160;B. Management, Entwicklungsteams, QS, andere Softwarearchitekt:innen sowie möglicherweise zusätzliche Stakeholder</p>
+</li>
+<li>
+<p>Maßnahmen entwickeln und umsetzen, die mündliche und schriftliche Kommunikation in Einklang miteinander halten und miteinander angemessen ausbalancieren</p>
+</li>
+<li>
+<p>den Nutzen von Template-basierter Dokumentation erklären</p>
+</li>
+<li>
+<p>beschreiben, wie verschiedene Eigenschaften der Dokumentation von Spezifika des Systems, seinen Anforderungen, Risiken, dem Entwicklungsvorgehen, der Organisation oder anderen Faktoren abhängen.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Beispielsweise können Softwarearchitekt:innen die Dokumentation situationsbezogen in Umfang, Detaillierungsgrad, Format sowie Zugänglichkeit anpassen.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-03">LZ 04-03: Notations-/Modellierungsmittel für Beschreibung von Softwarearchitektur erläutern und anwenden (R2-R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können für gegebene Stakeholder-Anliegen eine angemessene Notation auswählen und ihre Wahl begründen.
+Sie berücksichtigen dabei Zielgruppe, benötigten Detaillierungsgrad und Formalitätsgrad, siehe <a href="#LG-04-01">LZ 04-01: Anforderungen an technische Dokumentation erläutern und berücksichtigen (R1)</a> und <a href="#LG-04-02">LZ 04-02: Softwarearchitekturen beschreiben und kommunizieren (R1-R3)</a> (R2).</p>
+</div>
+<div class="paragraph">
+<p>Insbesondere können sie begründen, wann eine textuelle oder tabellarische Darstellung (z.&#160;B. nummerierte Ablaufschritte, Schnittstellentabelle) einem Diagramm vorzuziehen ist (R2).</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können folgende UML-Diagrammtypen <em>lesen</em>, also die
+dargestellten Elemente, Beziehungen und deren Semantik erklären, und für
+einfache Systeme <em>erstellen</em>  (R2):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Baustein- und Kontextsicht: Paket-, Komponenten- und Klassendiagramme</p>
+</li>
+<li>
+<p>Laufzeitsicht: Sequenz- und Aktivitätsdiagramme</p>
+</li>
+<li>
+<p>Verteilungssicht: Verteilungsdiagramme</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Beim Erstellen achten sie mindestens auf: eindeutige Zweckangabe, Legende bzw. Erklärung nicht-standardkonformer Elemente, passenden Abstraktionsgrad und Konsistenz zum begleitenden Text.
+Beim Lesen erkennen sie Verstöße gegen diese Kriterien.
+(R2)</p>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen weitere Notationen und deren primären Einsatzzweck:
+Zustandsdiagramme und Composite-Structure-Diagramme (UML), C4 <a href="#brownc4">[Brown-C4]</a>, ArchiMate, SysML, Entity-Relationship-Diagramme <a href="#erd">[Chen 1976]</a>, Flussdiagramme, BPMN (R3).</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_16">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#uml">[UML]</a>, <a href="#archimate">[ArchiMate]</a>, <a href="#sysml">[SysML]</a>, <a href="#brownc4">[Brown-C4]</a>, <a href="#erd">[Chen 1976]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-04">LZ 04-04: Lernziel nicht gefunden (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können unerwartete Situationen geschickt bewältigen.</p>
+</div>
+<div class="paragraph">
+<p>Hinweis: Der Titel dieses Lernziels wurde bewusst gewählt und stellt keinen technischen Fehler dar.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_17">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#ietf-http">[IETF HTTP]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-05">LZ 04-05: Architektursichten erläutern und anwenden (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können folgende Architektursichten anwenden:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Kontextsicht (auch genannt Kontextabgrenzung)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>enthält die externen Schnittstellen von Systemen</p>
+</li>
+<li>
+<p>bei Bedarf differenziert nach fachlichem und technischem Kontext</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Baustein- oder Komponentensicht (Aufbau des Systems aus Softwarebausteinen)</p>
+</li>
+<li>
+<p>Laufzeitsicht (dynamische Sicht, Zusammenwirken der Softwarebausteine zur Laufzeit, Zustandsmodelle)</p>
+</li>
+<li>
+<p>Verteilungs-/Deploymentsicht (Hardware und technische Infrastruktur sowie Abbildung von Softwarebausteinen auf diese Infrastruktur)</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Zusätzliche Sichten können nach Bedarf verwendet werden, um weitere Anliegen oder Anforderungen von Stakeholdern zu berücksichtigen.  (R3)</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_18">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#kruchten95">[Kruchten 1995]</a>, <a href="#rozanskiwoods">[Rozanski+2011]</a>, <a href="#starkelorz">[Starke+2023a]</a>, <a href="#arc42">[arc42]</a>, <a href="#brownc4">[Brown-C4]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-06">LZ 04-06: Schnittstellen dokumentieren (R1)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können sowohl interne als auch externe Schnittstellen dokumentieren.</p>
+</div>
+<div class="paragraph">
+<p>Siehe auch <a href="#LG-03-07">LZ 03-07: Schnittstellen entwerfen und spezifizieren (R1-R3)</a>.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-07">LZ 04-07: Querschnittsthemen dokumentieren und kommunizieren (R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können typische Querschnittsthemen und die dazugehörigen Lösungskonzepte (Querschnittskonzepte) adäquat dokumentieren und kommunizieren, z.&#160;B. Persistenz, Ablaufsteuerung, UI, Verteilung/Integration, Protokollierung.</p>
+</div>
+<div class="paragraph">
+<p>Siehe auch <a href="#LG-03-10">LZ 03-10: Querschnittsthemen identifizieren und Querschnittskonzepte entwerfen und umsetzen (R1)</a>.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-08">LZ 04-08: Architekturentscheidungen erläutern und dokumentieren (R1-R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Architekturentscheidungen systematisch herbeiführen, begründen, kommunizieren und dokumentieren</p>
+</li>
+<li>
+<p>gegenseitige Abhängigkeiten solcher Entscheidungen erkennen, kommunizieren und dokumentieren</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen Architecture-Decision-Records (ADR, siehe <a href="#nygard">[Nygard 2011]</a>) und können diese zur Dokumentation von Entscheidungen einsetzen (R2).</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_19">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#nygard">[Nygard 2011]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-04-09">LZ 04-09: Weitere Hilfsmittel und Werkzeuge zur Dokumentation kennen (R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen kennen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Grundlagen mehrerer publizierter Frameworks zur Beschreibung von Softwarearchitekturen, beispielsweise:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>arc42,</p>
+</li>
+<li>
+<p>C4, siehe <a href="#brownc4">[Brown-C4]</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Ideen und Beispiele von Checklisten für die Erstellung, Dokumentation und Prüfung von Softwarearchitekturen</p>
+</li>
+<li>
+<p>mögliche Werkzeuge zur Erstellung und Pflege von Architekturdokumentation</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_20">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#iso42010">[ISO 42010:2022]</a>, <a href="#arc42">[arc42]</a>, <a href="#brownc4">[Brown-C4]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_einsatz_und_risiken_von_künstlicher_intelligenz">5. Einsatz und Risiken von Künstlicher Intelligenz</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 60 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: 0 Min.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="sect2">
+<h3 id="_zielsetzung_5">Zielsetzung</h3>
+<div class="paragraph">
+<p>Ziel dieses Abschnitts ist es, den Teilnehmer:innen ein grundlegendes Verständnis der Verwendung künstlicher Intelligenz zur Unterstützung von Architekturarbeit zu vermitteln.
+Der Abschnitt deckt den Einfluss von KI-generierten Artefakten auf die Qualität ab und die Wichtigkeit, KI-generierten Output zu verifizieren, sowie die systemischen Risiken von KI und ihre ethischen und gesellschaftlichen Externalitäten.
+Eine umfangreichere Abdeckung von KI-unterstützter Architektur gibt es im Advanced-Level-Modul AGENTA <a href="#isaqbagenta">[iSAQB AGENTA]</a>.
+Die Architektur von KI-basierten System wird vom Advanced-Level-Modul SWARC4AI <a href="#isaqbswarc4ai">[iSAQB SWARC4AI]</a> abgedeckt.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wesentliche_begriffe_5">Wesentliche Begriffe</h3>
+<div class="paragraph">
+<p>LLM, KI-Agent (z. B. Coding-Agent), KI-generierter Output</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_5">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-05-01">LZ 05-01: Über den Einsatz von KI in der Architekturarbeit entscheiden (R1, R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können anhand benannter Kriterien entscheiden, ob und wie KI für eine gegebene Aufgabe eingesetzt wird, und dies als Architekturentscheidung begründen (R2)</p>
+</li>
+<li>
+<p>können erklären, warum beim Delegieren von Aufgaben an KI-Agenten die Konsequenzen impliziter Annahmen verstärkt werden: Agenten können auf mehrdeutige, unvollständige oder widersprüchliche Anweisungen auf eine Art reagieren, wie es Menschen nicht tun würden (R1)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-05-02">LZ 05-02: Verifikation von KI-generierten Artefakten (R1, R2)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können erklären, dass die Verantwortung für Entscheidungen und Artefakte bei Menschen verbleibt, auch wenn diese teilweise KI-generiert sind (R1)</p>
+</li>
+<li>
+<p>können erklären, warum die Verifikation von KI-generiertem Output integraler Bestandteil des Entwicklungsprozesses sein muss, da solcher Output auf nicht-offensichtliche Weise inkorrekt sein kann (R1)</p>
+</li>
+<li>
+<p>können Verifikationsansätze benennen, z. B. Code-Reviews, automatisierte Tests und Continuous Integration, statische Analyse und Typsysteme, szenariobasierte und formale Methoden (R2)</p>
+</li>
+<li>
+<p>können die Risiken erklären, Review und Verifikation an ein LLM zu delegieren (R2)</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_21">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#isaqbfm">[iSAQB FM]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-05-03">LZ 05-03: Risiken, ethische und gesellschaftliche Externalitäten erkennen (R2, R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>können Risiken des KI-Einsatzes benennen: rechtliche Risiken bezüglich des geistigen Eigentums, Offenlegung von Quellcode, Dokumentation oder Daten gegenüber externen Modellanbietern, Sicherheitsrisiken wie Prompt Injection, Abbau kritischer Fähigkeiten und Störung von Lernprozessen sowie Abhängigkeiten von einer kleinen Gruppe von Anbietern und von bestimmten Modellen, die verändert oder abgekündigt werden können (R2)</p>
+</li>
+<li>
+<p>können die gesellschaftlichen Externalitäten von KI-Infrastruktur beschreiben: Energie/CO<sub>2</sub>, Druck auf den Arbeitsmarkt, Disruption von Open-Source- und Internet-Ökosystemen, Modell-Bias in öffentlicher Infrastruktur, politische Destabilisierung (R3)</p>
+</li>
+</ul>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_22">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#link2025">[Link 2025]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_beispiele_für_softwarearchitekturen">6. Beispiele für Softwarearchitekturen</h2>
+<div class="sectionbody">
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Dauer: 90 Min.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Übungszeit: Keine</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Dieser Abschnitt MUSS in der Schulung behandelt werden (z. B. anhand eines konkreten praktischen Beispiels), ist jedoch nicht prüfungsrelevant.</p>
+</div>
+<div class="sect2">
+<h3 id="_lernziele_6">Lernziele</h3>
+<div class="sect3">
+<h4 id="LG-06-01">LZ 06-01: Bezug von Anforderungen und Randbedingungen zur Lösung erfassen (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen haben an mindestens einem Beispiel den Bezug von Anforderungen und Randbedingungen zu Lösungsentscheidungen erkannt und nachvollzogen.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_23">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#arc42">[arc42]</a>, <a href="#starkeetalarc42">[Starke+2023b]</a>, <a href="#hruschkaetalarc42">[Hruschka+2021]</a>, <a href="#zoerner">[Zörner 2021]</a>, <a href="#aosa">[AOSA]</a></p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="LG-06-02">LZ 06-02: Technische Umsetzung einer Lösung nachvollziehen (R3)</h4>
+<div class="paragraph">
+<p>Softwarearchitekt:innen können anhand mindestens eines Beispiels die technische Umsetzung (Implementierung, technische Konzepte, eingesetzte Produkte, Lösungsstrategien) einer Lösung nachvollziehen.</p>
+</div>
+<div class="sect4">
+<h5 id="_referenzen_24">Referenzen</h5>
+<div class="paragraph">
+<p><a href="#arc42">[arc42]</a>, <a href="#starkeetalarc42">[Starke+2023b]</a>, <a href="#hruschkaetalarc42">[Hruschka+2021]</a>, <a href="#zoerner">[Zörner 2021]</a>, <a href="#aosa">[AOSA]</a></p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_referenzen_25">Referenzen</h2>
+<div class="sectionbody">
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="aosa"></a>[AOSA] A. Brown and G. Wilson, Eds., <em>The Architecture of Open Source Applications</em>. [Online]. Available: <a href="https://aosabook.org/en/" class="bare">https://aosabook.org/en/</a></p>
+</li>
+<li>
+<p><a id="arc42"></a>[arc42] "arc42, the open-source template for software architecture communication." [Online]. Available: <a href="https://arc42.org" class="bare">https://arc42.org</a>, maintained on <a href="https://github.com/arc42" class="bare">https://github.com/arc42</a>.</p>
+</li>
+<li>
+<p><a id="archimate"></a>[ArchiMate] "The ArchiMate® Enterprise Architecture Modeling Language." [Online]. Available: <a href="https://www.opengroup.org/archimate-forum/archimate-overview" class="bare">https://www.opengroup.org/archimate-forum/archimate-overview</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="bass"></a>[Bass+2021]  L. Bass, P. Clements, and R. Kazman, <em>Software Architecture in Practice</em>, 4th ed. Boston, MA, USA: Addison Wesley, 2021.</p>
+</li>
+<li>
+<p><a id="brownc4"></a>[Brown-C4] S. Brown, "The C4 model for visualising software architecture." [Online]. Available: <a href="https://c4model.com" class="bare">https://c4model.com</a>, <a href="https://www.infoq.com/articles/C4-architecture-model" class="bare">https://www.infoq.com/articles/C4-architecture-model</a></p>
+</li>
+<li>
+<p><a id="IREBFoundation"></a>[IREB Foundation] S. Bühne, M. Glinz, H. van Loen, and S. Staal, <em>Certified Professional for Requirements Engineering - Foundation Level - Syllabus</em>, Version 3.2.0, IREB, 2024.</p>
+</li>
+<li>
+<p><a id="buschmanna"></a>[Buschmann+1996] F. Buschmann, R. Meunier, H. Rohnert, P. Sommerlad, and M. Stal, <em>Pattern-Oriented Software Architecture (POSA): A System of Patterns</em>, Wiley, 1996.</p>
+</li>
+<li>
+<p><a id="buschmannb"></a>[Buschmann+2007] F. Buschmann, K. Henney, and D. C. Schmidt, <em>Pattern-Oriented Software Architecture (POSA): A Pattern Language for Distributed Computing</em>, Wiley, 2007.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="clementseval"></a>[Clements+2002] P. Clements, R. Kazman, and M. Klein, <em>Evaluating Software Architectures: Methods and Case Studies</em>, Addison Wesley, 2002.</p>
+</li>
+<li>
+<p><a id="clementsdoc"></a>[Clements+2010] P. Clements et al., <em>Documenting Software Architectures: Views and Beyond</em>, 2nd ed., Addison Wesley, 2010.</p>
+</li>
+<li>
+<p><a id="cncf"></a>[CNCF] The Cloud Native Computing Foundation. [Online]. Available: <a href="https://www.cncf.io/" class="bare">https://www.cncf.io/</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="eilebrecht"></a>[Eilebrecht+2024] K. Eilebrecht and G. Starke, <em>Patterns kompakt: Entwurfsmuster für effektive Software-Entwicklung</em> (in German), 6th ed., Springer Verlag, 2024.</p>
+</li>
+<li>
+<p><a id="erd"></a>[Chen 1976]  P. Chen, "The Entity-Relationship Model: Toward a Unified View of Data," <em>ACM Transactions on Database Systems</em>, vol. 1, no. 1, pp. 9–36, Mar. 1976.</p>
+</li>
+<li>
+<p><a id="evans"></a>[Evans 2004] E. Evans, <em>Domain-Driven Design: Tackling Complexity in the Heart of Software</em>, Addison-Wesley, 2004.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="felleisenetal"></a>[Felleisen+2014] M. Felleisen, R. B. Findler, M. Flatt, and S. Krishnamurthi, <em>How to Design Programs</em>, 2nd ed., MIT Press, 2014. [Online]. Available: <a href="https://htdp.org/" class="bare">https://htdp.org/</a></p>
+</li>
+<li>
+<p><a id="ford"></a>[Ford+2023] N. Ford, R. Parsons, P. Kua, and P. Sadalage, <em>Building Evolutionary Architectures: Automated Software Governance</em>, 2nd ed., O&#8217;Reilly Media, 2023.</p>
+</li>
+<li>
+<p><a id="fordhardparts"></a>[Ford+2021] N. Ford, M. Richards, P. Sadalage, and Z. Dehghani, <em>Software Architecture: The Hard Parts</em>. Sebastopol, CA, USA: O&#8217;Reilly Media, 2021.</p>
+</li>
+<li>
+<p><a id="fowler"></a>[Fowler 2003] M. Fowler, <em>Patterns of Enterprise Application Architecture</em> (PoEAA), Addison-Wesley, 2003.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="ghandietal"></a>[Gandhi+2024] R. Gandhi, M. Richards, and N. Ford, <em>Head-First Software Architecture</em>, O&#8217;Reilly, 2024.</p>
+</li>
+<li>
+<p><a id="gof"></a>[Gamma+1994] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, <em>Design Patterns: Elements of Reusable Object-Oriented Software</em>, Addison-Wesley, 1994.</p>
+</li>
+<li>
+<p><a id="geewax"></a>[Geewax 2021] J. Geewax, <em>API Design Patterns</em>, Manning, 2021. This book lays out a set of design principles for building internal and public-facing APIs.</p>
+</li>
+<li>
+<p><a id="geirhos"></a>[Geirhos 2015] M. Geirhos, <em>Entwurfsmuster: Das umfassende Handbuch</em> (in German), Rheinwerk Computing Verlag, 2015.</p>
+</li>
+<li>
+<p><a id="gharbietal"></a>[Gharbi+2024] M. Gharbi, A. Koschel, A. Rausch, and G. Starke, <em>Basiswissen Softwarearchitektur</em> (in German), 5th ed. Heidelberg: dpunkt Verlag, 2024.</p>
+</li>
+<li>
+<p><a id="Goll"></a>[Goll 2014] J. Goll, <em>Architektur- und Entwurfsmuster der Softwaretechnik: Mit lauffähigen Beispielen in Java</em> (in German), 2nd ed., Springer-Vieweg Verlag, 2014.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="hohpe"></a>[Hohpe+2004] G. Hohpe and B. A. Woolf, <em>Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions</em>, Addison-Wesley Professional, 2004.</p>
+</li>
+<li>
+<p><a id="hombergs"></a>[Hombergs 2024] T. Hombergs, <em>Get Your Hands Dirty on Clean Architecture</em>, 2nd ed., Packt, 2024.</p>
+</li>
+<li>
+<p><a id="humble"></a>[Humble+2010] J. Humble and D. Farley, <em>Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation</em>, Pearson International, 2010.</p>
+</li>
+<li>
+<p><a id="hruschkaetalarc42"></a>[Hruschka+2021] P. Hruschka, I. Kostov, and W. Reimesch, <em>arc42 by Example - Volume 2: Architecture Documentation for Embedded Systems and IoT</em>, Leanpub, 2021. [Online]. Available: <a href="https://leanpub.com/arc42byexample-volume2" class="bare">https://leanpub.com/arc42byexample-volume2</a></p>
+</li>
+<li>
+<p><a id="ietf-http"></a>[IETF HTTP] Internet Engineering Task Force, "HTTP Semantics," RFC 9110. [Online]. Available: <a href="https://www.rfc-editor.org/rfc/rfc9110.html" class="bare">https://www.rfc-editor.org/rfc/rfc9110.html</a></p>
+</li>
+<li>
+<p><a id="isaqbagenta"></a>[iSAQB AGENTA] iSAQB e.V., <em>Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: AGENTA - Architecture for Agentic Software Engineering Contexts</em>, iSAQB e.V., 2026. [Online]. Available: <a href="https://public.isaqb.org/curriculum-agenta/" class="bare">https://public.isaqb.org/curriculum-agenta/</a></p>
+</li>
+<li>
+<p><a id="isaqbdownloads"></a>[iSAQB Downloads] "iSAQB public download site." [Online]. Available: <a href="https://public.isaqb.org" class="bare">https://public.isaqb.org</a>. Contains curricula and mock-examination.</p>
+</li>
+<li>
+<p><a id="isaqbfm"></a>[iSAQB FM] iSAQB e.V., <em>Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FM - Formal Methods</em>, iSAQB e.V., 2024. [Online]. Available: <a href="https://public.isaqb.org/curriculum-fm/" class="bare">https://public.isaqb.org/curriculum-fm/</a></p>
+</li>
+<li>
+<p><a id="isaqbfunar"></a>[iSAQB FUNAR] iSAQB e.V., <em>Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: FUNAR - Functional Software Architecture</em>, iSAQB e.V., 2023. [Online]. Available: <a href="https://public.isaqb.org/curriculum-funar/" class="bare">https://public.isaqb.org/curriculum-funar/</a></p>
+</li>
+<li>
+<p><a id="isaqbglossary"></a>[iSAQB Glossary] G. Starke et al., <em>iSAQB Glossary of Software Architecture Terminology</em>, Leanpub, 2020-2026. [Online]. <a href="https://github.com/isaqb-org/glossary/releases" class="bare">https://github.com/isaqb-org/glossary/releases</a></p>
+</li>
+<li>
+<p><a id="isaqbswarc4ai"></a>[iSAQB SWARC4AI] iSAQB e.V., <em>Curriculum for Certified Professional for Software Architecture (CPSA) Advanced Level: SWARC4AI - Software Architecture for AI Systems</em>, iSAQB e.V., 2026. [Online]. Available: <a href="https://public.isaqb.org/curriculum-swarc4ai/" class="bare">https://public.isaqb.org/curriculum-swarc4ai/</a></p>
+</li>
+<li>
+<p><a id="iso25010"></a>[ISO 25010:2023] <em>Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Product quality model</em>, ISO/IEC 25010:2023, 2023. [Online]. Available: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en" class="bare">https://www.iso.org/obp/ui/#iso:std:iso-iec:25010:ed-2:v1:en</a> (terms and definitions)</p>
+</li>
+<li>
+<p><a id="iso25019"></a>[ISO 25019:2023] <em>Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality-in-use model</em>, ISO/IEC 25019:2023, 2023. [Online]. Available: <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en" class="bare">https://www.iso.org/obp/ui/#iso:std:iso-iec:25019:ed-1:v1:en</a> (terms and definitions)</p>
+</li>
+<li>
+<p><a id="iso42010"></a>[ISO 42010:2022] <em>Software, systems and enterprise Architecture description</em>, ISO/IEC/IEEE 42010:2022, 2022. [Online]. Available: <a href="https://www.iso.org/standard/74393.html" class="bare">https://www.iso.org/standard/74393.html</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="keeling"></a>[Keeling 2017] M. Keeling, <em>Design It!: From Programmer to Software Architect</em>, Pragmatic Bookshelf, 2017.</p>
+</li>
+<li>
+<p><a id="kleppmann"></a>[Kleppmann 2017] M. Kleppmann, <em>Designing Data-Intensive Applications</em>, O&#8217;Reilly, 2017.</p>
+</li>
+<li>
+<p><a id="kruchten95"></a>[Kruchten 1995] P. Kruchten, "Architectural Blueprints—The ‘4+1’ View Model of Software Architecture," <em>IEEE Software</em>, vol. 12, no. 6, pp. 42–50, Nov. 1995.</p>
+</li>
+<li>
+<p><a id="kruchten"></a>[Kruchten 2004] P. Kruchten, <em>The Rational Unified Process: An Introduction</em>, 3rd ed., Addison-Wesley Professional, 2004.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="lange21"></a>[Lange 2021] K. Lange, "The Functional Core, Imperative Shell Pattern," Mar. 27, 2021. [Online]. Available: <a href="https://www.kennethlange.com/functional-core-imperative-shell/" class="bare">https://www.kennethlange.com/functional-core-imperative-shell/</a></p>
+</li>
+<li>
+<p><a id="lehman"></a>[Lehman 1980] M. M. Lehman, "Programs, Life Cycles, and Laws of Software Evolution," <em>Proceedings of the IEEE</em>, vol. 68, no. 9, pp. 1060–1076, 1980.</p>
+</li>
+<li>
+<p><a id="lehmanwiki"></a>[Wiki-LehmansLaws] "Lehman&#8217;s laws of software evolution," <em>Wikipedia</em>. [Online]. Available: <a href="https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution" class="bare">https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution</a></p>
+</li>
+<li>
+<p><a id="lilienthal"></a>[Lilienthal 2024] C. Lilienthal, <em>Langlebige Softwarearchitekturen</em> (in German), 4th ed., dpunkt Verlag, 2024.</p>
+</li>
+<li>
+<p><a id="lilienthal-en"></a>[Lilienthal 2019] C. Lilienthal, <em>Sustainable Software Architecture: Analyze and Reduce Technical Debt</em>, dpunkt Verlag, 2019.</p>
+</li>
+<li>
+<p><a id="link2025"></a>[Link 2025] J. Link, "To Gen or Not To Gen: The Ethical Use of Generative AI," Nov. 4, 2025. [Online]. Available: <a href="https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/" class="bare">https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/</a></p>
+</li>
+<li>
+<p><a id="liskov"></a>[Liskov+1994] B. H. Liskov and J. M. Wing, "A behavioral notion of subtyping," <em>ACM Transactions on Programming Languages and Systems</em>, vol. 16, no. 6, 1994, doi: 10.1145/197320.197383.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="maguire"></a>[Maguire 2023] S. Maguire, <em>Algebra-Driven Design: Elegant Solutions from Simple Building Blocks</em>, Leanpub, 2023. [Online]. Available: <a href="https://leanpub.com/algebra-driven-design" class="bare">https://leanpub.com/algebra-driven-design</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="newman"></a>[Newman 2021] S. Newman, <em>Building Microservices: Designing Fine-Grained Systems</em>, 2nd ed., O&#8217;Reilly, 2021.</p>
+</li>
+<li>
+<p><a id="north-cupid"></a>[Terhorst-North 2022] D. Terhorst-North, "CUPID: for joyful coding." [Online]. Available: <a href="https://dannorth.net/2022/02/10/cupid-for-joyful-coding/" class="bare">https://dannorth.net/2022/02/10/cupid-for-joyful-coding/</a></p>
+</li>
+<li>
+<p><a id="nygard"></a>[Nygard 2011] M. Nygard, "Documenting Architecture Decisions." [Online]. Available: <a href="https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions" class="bare">https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions</a>. See also <a href="https://adr.github.io/" class="bare">https://adr.github.io/</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="pethuru"></a>[Raj+2017] P. Raj, A. Raman, and H. Subramanian, <em>Architectural Patterns: Uncover Essential Patterns in the Most Indispensable Realm of Enterprise Architecture</em>, Packt Publishing, 2017.</p>
+</li>
+<li>
+<p><a id="pohl"></a>[Pohl 2025] K. Pohl, <em>Requirements Engineering: Fundamentals, Principles and Techniques</em>, 2nd ed., Springer, 2025.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="q42"></a>[Q42] "arc42 Quality Model." [Online]. Available: <a href="https://quality.arc42.org" class="bare">https://quality.arc42.org</a>. Pragmatic (and open-source) alternative to <a href="#iso25010">[ISO 25010:2023]</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="rajlich"></a>[Rajlich+2000] V. T. Rajlich and K. H. Bennett, "A Staged Model for the Software Life Cycle," <em>IEEE Computer</em>, vol. 33, no. 7, pp. 66–71, 2000.</p>
+</li>
+<li>
+<p><a id="readcommunication"></a>[Read 2023] J. Read, <em>Communication Patterns: A Guide for Developers and Architects</em>, O&#8217;Reilly, 2023.</p>
+</li>
+<li>
+<p><a id="richardsfundamentals"></a>[Richards+2020] M. Richards and N. Ford, <em>Fundamentals of Software Architecture: An Engineering Approach</em>, O&#8217;Reilly, 2020.</p>
+</li>
+<li>
+<p><a id="rozanskiwoods"></a>[Rozanski+2011] N. Rozanski and E. Woods, <em>Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives</em>, 2nd ed., Addison-Wesley, 2011.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="solid"></a>[SOLID] S. Oloruntoba and A. S. Walia, "SOLID: The First 5 Principles of Object Oriented Design." [Online]. Available: <a href="https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design" class="bare">https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design</a></p>
+</li>
+<li>
+<p><a id="sperberklaeren"></a>[Sperber+2023] M. Sperber and H. Klaeren, <em>Schreibe Dein Programm!</em> (in German), Tübingen University Press, 2023. [Online]. Available: <a href="https://www.deinprogramm.de/sdp/" class="bare">https://www.deinprogramm.de/sdp/</a></p>
+</li>
+<li>
+<p><a id="sperberwehr"></a>[Sperber+2024] M. Sperber and S. Wehr, "Datenmodellierung mit Summen und Produkten" (in German), 2024. [Online]. Available: <a href="https://funktionale-programmierung.de/2024/11/25/sums-products.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products.html</a> (English translation: Data Modeling with Sums and Products, 2024. <a href="https://funktionale-programmierung.de/2024/11/25/sums-products-english.html" class="bare">https://funktionale-programmierung.de/2024/11/25/sums-products-english.html</a>)</p>
+</li>
+<li>
+<p><a id="starke"></a>[Starke 2024] G. Starke, <em>Effektive Software-Architekturen: Ein praktischer Leitfaden</em> (in German), 10th ed. Munich, Germany: Carl Hanser Verlag, 2024. Website: <a href="https://esabuch.de" class="bare">https://esabuch.de</a></p>
+</li>
+<li>
+<p><a id="quality-driven-software-architecture"></a>[Starke 2021] G. Starke, "Quality Driven Software Architecture - Revised," 2021. [Online]. Available: <a href="https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/" class="bare">https://www.innoq.com/en/blog/2021/08/quality-driven-software-architecture-revised/</a></p>
+</li>
+<li>
+<p><a id="starkelorz"></a>[Starke+2023a] G. Starke and A. Lorz, <em>Software Architecture Foundation: CPSA Foundation® Exam Preparation</em>, 2nd ed., Van Haren Publishing, 2023.</p>
+</li>
+<li>
+<p><a id="starkeetalarc42"></a>[Starke+2023b] G. Starke, M. Simons, S. Zörner, R. D. Müller, and H. Lösch, <em>arc42-by-Example: Software Architecture Documentation in Practice</em>, 3rd ed., Leanpub, 2023. [Online]. Available: <a href="https://leanpub.com/arc42byexample" class="bare">https://leanpub.com/arc42byexample</a></p>
+</li>
+<li>
+<p><a id="sysml"></a>[SysML] "What is SysML." [Online]. Available: <a href="https://sysml.org/" class="bare">https://sysml.org/</a>. For diagrams, see also <a href="https://sysml.org/tutorials/sysml-diagram-tutorial/" class="bare">https://sysml.org/tutorials/sysml-diagram-tutorial/</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="uml"></a>[UML] "The UML reading room," collection of UML resources. [Online]. Available: <a href="https://www.omg.org/technology/readingroom/UML.htm" class="bare">https://www.omg.org/technology/readingroom/UML.htm</a>. See also <a href="https://www.uml-diagrams.org/" class="bare">https://www.uml-diagrams.org/</a>.</p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="yorgey"></a>[Yorgey 2012] B. A. Yorgey, "Monoids: Theme and Variations," in <em>Proc. 2012 Haskell Symposium</em>, Sep. 2012, doi: <a href="https://doi.org/10.1145/2364506.2364520" class="bare">https://doi.org/10.1145/2364506.2364520</a></p>
+</li>
+</ul>
+</div>
+<div class="ulist bibliography">
+<ul class="bibliography">
+<li>
+<p><a id="zimmermann-api"></a>[Zimmermann+2022] O. Zimmermann, M. Stocker, D. Lübke, U. Zdun, and C. Pautasso, <em>Patterns for API Design: Simplifying Integration with Loosely Coupled Message Exchanges</em>, Addison-Wesley, 2022.</p>
+</li>
+<li>
+<p><a id="zoerner"></a>[Zörner 2021] S. Zörner, <em>Softwarearchitekturen dokumentieren und kommunizieren</em> (in German), 3rd ed., Carl Hanser Verlag, 2021.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+ 2027.1-RC1-DE<br>
+Last updated 2026-11-13 08:11:50 UTC
+</div>
+</div>
+<script src="html-theme/isaqb-theme.js" defer></script>
+</body>
+</html>
