@@ -2,35 +2,48 @@
 // tag::DE[]
 
 [[LG-03-12]]
-==== LZ 03-12: Technische und geschäftliche Sichten verwenden können (R3)
-Softwarearchitekt:innen:
+==== LZ 03-12: Geschäftliche und technische Perspektiven verwenden können (R3)
+Softwarearchitekt:innen wissen, dass die Unterscheidung zwischen geschäftlichen (auch als Domäne bezeichnet) und technischen Perspektiven für die Systemgestaltung von Nutzen ist.
 
+* **Geschäftliche Perspektiven** werden häufig zuerst erstellt oder geklärt, weil sie dabei helfen, geschäftliche Anforderungen und den Umfang zu identifizieren und zu klären. Die Zielgruppe sind geschäftliche Stakeholder wie Führungskräfte, Product-Owner, Prozessmanager und Fachexperten. Die geschäftliche Perspektive dokumentiert die folgenden Aspekte:
 
+** Geschäftliche Ziele und SLAs: Geschäftsziele, Kennzahlen, Qualitätsziele
+** Externe Akteure: Nutzer, Partnerorganisationen, Aufsichtsbehörden, angrenzende Geschäftssysteme
+** Geschäftskomponenten: Geschäftsdomänen, -fähigkeiten und/oder -funktionen; Prozesse oder Prozessschritte; Geschäftsobjekte; Geschäftsregeln und -richtlinien; Geschäftsrollen und Personas; Organisationseinheiten
+** In Domänen-/Geschäftsbegriffen ausgedrückte Beziehungen: Datenflüsse, Serviceabhängigkeiten, Datenhoheit
+** Geschäftsereignisse und Ereignisabläufe, Transaktionsgrenzen
+
+* **Technische Perspektiven** umfassen strukturelle oder bereichsübergreifende Entscheidungen zu den folgenden Aspekten. Die Zielgruppe sind Entwickler, Architekten und Infrastrukturteams.
+
+** Softwaremodule und -komponenten sowie deren strukturelle Hierarchie oder Zerlegung
+** Technologie-Stacks, spezifische Frameworks, Bibliotheken oder andere Produkte, die bei der Entwicklung oder dem Betrieb von Systemen zum Einsatz kommen
+** Interne und externe Schnittstellen, einschließlich technischer Kanäle/Protokolle für die Kommunikation (REST, AMQP, JDBC) sowie Nachrichtenformate
+** Authentifizierungsmechanismen
+** Technische Infrastruktur: Netzwerke, Hardware-Server, Load Balancer, Container, Datenspeicher usw.
 
 // end::DE[]
 
 // tag::EN[]
 
 [[LG-03-12]]
-==== LG 03-12: Business and technical views (R3)
+==== LG 03-12: Use of business and technical perspectives (R3)
 
-Software architects know that the distinction between business (aka _domain_) and technical aspects or perspectives is a useful prerequisites for designing systems.
+Software architects know that distinguishing between business (aka domain) and technical perspectives is useful for designing systems.
 
-* **Business perspectives** are often created or clarified first, as they help to identify missing requirements and clarify scope.
+* **Business perspectives** are often created or clarified first, as they help to identify and clarify business requirements and scope. The target audience are business stakeholders such as managers, product owners process managers, and domain experts. The business perspective documents the following aspects:
 
+** Business Objectives and SLAs: business goals, metrics, quality objectives
 ** External actors: users, partner organizations, regulatory bodies, adjacent business systems
-** Relationships expressed in domain/business terms: data flows, service dependencies, business events
+** Business components: business domains, capabilities, and/or functions; processes or process steps; business objects; business rules and policies; business roles and personas; organizational units
+** Relationships expressed in domain/business terms: data flows, service dependencies, information ownership
+** Business events and event flows, transaction boundaries
 
-** The target audience are product owners, business stakeholders, domain experts.
+* **Technical perspectives** contain structural or crosscutting decisions regarding the following aspects. The target audience are developers, architects, and infrastructure teams.
 
-
-* **Technical perspectives** contain structural or crosscutting decisions on, for example:
-
+** Software modules and components and their structural hierarchy or decomposition
 ** Technology stacks, specific frameworks, libraries or other products used in development or operation of systems
-** Technical channels/protocols used for communication
-** Protocols (REST, AMQP, JDBC), message formats, authentication mechanisms
-** Techncial infrastructure
-** Target audience: developers, architects, infrastructure teams
-
+** Internal and external interfaces, including technical channels/protocols used for communication  (REST, AMQP, JDBC), and message formats
+** Authentication mechanisms
+** Techncial infrastructure: networks, hardware servers, load balancers, containers, data stores, etc.
 
 // end::EN[]
